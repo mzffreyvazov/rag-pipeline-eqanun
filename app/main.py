@@ -8,6 +8,7 @@ import shutil
 
 import chromadb
 from chromadb.config import Settings
+from chromadb.utils import embedding_functions
 from fastapi import FastAPI, File, UploadFile, HTTPException, Form, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
@@ -34,6 +35,15 @@ PROJECT_ID = os.environ.get("PROJECT_ID")
 REGION = os.environ.get("REGION")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 
+# Embedding configuration (can be overridden via environment)
+# Per request: use Vertex AI with gemini-embedding-001 at 1024 dims by default
+EMBEDDING_PROVIDER = os.environ.get("EMBEDDING_PROVIDER", "vertexai").strip().lower()
+EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "gemini-embedding-001")
+try:
+    EMBEDDING_DIM = int(os.environ.get("EMBEDDING_DIM", "1024"))
+except ValueError:
+    EMBEDDING_DIM = 1024
+
 if PROJECT_ID and REGION:
     vertexai.init(project=PROJECT_ID, location=REGION)
 
@@ -45,6 +55,59 @@ vector_store = None
 graph = None
 collection_name = "legal_documents"
 
+def _build_embedding_function():
+    """Build and return an embedding function compatible with Chroma.
+
+    Supports providers:
+      - google-genai (default): uses Chroma's GoogleGenerativeAiEmbeddingFunction
+      - vertexai: wraps VertexAIEmbeddings from langchain
+    """
+    provider = EMBEDDING_PROVIDER
+    model = EMBEDDING_MODEL
+
+    if provider == "google-genai":
+        # Default to Google's latest text-embedding model if not provided
+        model_name = model or "gemini-embedding-001"
+        ef = embedding_functions.GoogleGenerativeAiEmbeddingFunction(
+            api_key=GOOGLE_API_KEY,
+            model_name=model_name,
+        )
+        return ef, provider, model_name, None
+
+    elif provider == "vertexai":
+        # Use Vertex AI embeddings via Vertex SDK to control dimensionality
+        v_model = model or "gemini-embedding-001"
+
+        class _VertexEmbeddingWrapper:
+            def __init__(self, model_name: str):
+                # Lazy import to avoid heavy deps unless needed
+                # Prefer direct Vertex AI SDK to control output dimensionality
+                from vertexai.language_models import TextEmbeddingModel
+                self._model = TextEmbeddingModel.from_pretrained(model_name)
+                self._dim = EMBEDDING_DIM
+                # Provide a public name attribute for Chroma compatibility
+                self.name = f"vertexai::{model_name}::{self._dim}d"
+
+            def __call__(self, input):
+                # Chroma calls the embedding function with a list[str] named 'input'
+                # Ensure list input
+                if isinstance(input, str):
+                    texts = [input]
+                else:
+                    texts = list(input)
+
+                # Call Vertex AI with desired dimensionality
+                embeddings = self._model.get_embeddings(texts, output_dimensionality=self._dim)
+                # Each item has `.values`
+                return [e.values for e in embeddings]
+
+        return _VertexEmbeddingWrapper(v_model), provider, v_model, EMBEDDING_DIM
+
+    else:
+        raise ValueError(
+            f"Unsupported EMBEDDING_PROVIDER '{provider}'. Use 'google-genai' or 'vertexai'."
+        )
+
 def initialize_components():
     """Initialize all AI components"""
     global chroma_client, embedding_function, llm, vector_store
@@ -55,19 +118,34 @@ def initialize_components():
             path="./chroma_data",
             settings=Settings(allow_reset=True)
         )
-        
-        # Initialize embedding function
-        embedding_function = VertexAIEmbeddings(model_name="gemini-embedding-001")
-        
+        # Build embedding function per configuration
+        embedding_function, provider, model_name, model_dim = _build_embedding_function()
+
         # Initialize LLM
         llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
-        
-        print("✅ All components initialized successfully")
+
+        print(
+            f"✅ Components initialized | Embeddings: provider='{provider}', model='{model_name}', dim='{model_dim or 'n/a'}'"
+        )
         return True
-        
+    
     except Exception as e:
         print(f"❌ Error initializing components: {str(e)}")
         return False
+
+def embed_texts(texts: List[str]) -> List[List[float]]:
+    """Helper to embed a list of texts using the configured embedding function.
+
+    Returns a list of vector lists (one per input text).
+    """
+    global embedding_function
+    if embedding_function is None:
+        raise RuntimeError("Embedding function is not initialized")
+    # Ensure list of strings
+    inputs = [str(t) for t in texts]
+    vectors = embedding_function(inputs)
+    # Some EF implementations may return numpy arrays; coerce to plain lists
+    return [list(v) for v in vectors]
 
 def create_rag_graph():
     """Create the RAG conversation graph"""
@@ -77,25 +155,76 @@ def create_rag_graph():
     def retrieve(query: str):
         """Retrieve information related to a query."""
         try:
-            collection = get_or_create_collection()
+            collection = get_existing_collection()
             
-            # Use ChromaDB's query method directly
+            # Compute embeddings ourselves to avoid relying on collection EF
+            q_emb = embed_texts([query])
+            # Use ChromaDB's query method with precomputed embeddings
             results = collection.query(
-                query_texts=[query],
-                n_results=5
+                query_embeddings=q_emb,
+                n_results=10,  # Increased to get more diverse results
+                include=["metadatas", "documents", "distances"],
             )
             
             retrieved_docs = []
             if results['documents'] and results['documents'][0]:
                 for i, doc in enumerate(results['documents'][0]):
-                    metadata = results['metadatas'][0][i] if results['metadatas'] and results['metadatas'][0] else {}
+                    metadata = (
+                        results['metadatas'][0][i]
+                        if results.get('metadatas') and results['metadatas'] and results['metadatas'][0]
+                        else {}
+                    )
                     retrieved_docs.append({
                         'content': doc,
                         'metadata': metadata
                     })
             
+            # Debug: Print what documents are being retrieved
+            print(f"\n================ RETRIEVAL DEBUG ================")
+            print(f"🔎 Query: {query}")
+            print(f"🔢 Retrieved: {len(retrieved_docs)} results")
+
+            # Try to print embedding config if available
+            try:
+                provider = os.environ.get("EMBEDDING_PROVIDER", "vertexai")
+                model = os.environ.get("EMBEDDING_MODEL") or "gemini-embedding-001"
+                dim = int(os.environ.get("EMBEDDING_DIM", "1024"))
+                print(f"🔧 Embedding config -> provider='{provider}', model='{model}', dim='{dim}'")
+            except Exception:
+                pass
+
+            # Print ranked results with distance, id, source, and preview
+            ids = results.get('ids', [[]])[0] if results.get('ids') else []
+            dists = results.get('distances', [[]])[0] if results.get('distances') else []
+            metas = results.get('metadatas', [[]])[0] if results.get('metadatas') else []
+            docs = results.get('documents', [[]])[0] if results.get('documents') else []
+
+            for rank, (rid, dist, meta, doc) in enumerate(zip(ids, dists, metas, docs), start=1):
+                source = meta.get('source_document', 'Unknown') if isinstance(meta, dict) else 'Unknown'
+                preview = (doc or '')[:200].replace('\n', ' ')
+                try:
+                    dist_str = f"{float(dist):.4f}"
+                except Exception:
+                    dist_str = str(dist)
+                print(f"{rank:02d}. id={rid} | dist={dist_str} | source={source}\n    {preview}...")
+            
+            if retrieved_docs:
+                sources = set(doc['metadata'].get('source_document', 'Unknown') for doc in retrieved_docs)
+                print(f"📄 Sources found: {', '.join(sources)}")
+                # Print per-source counts
+                counts = {}
+                for m in metas:
+                    s = (m or {}).get('source_document', 'Unknown')
+                    counts[s] = counts.get(s, 0) + 1
+                print("📊 Per-source counts:")
+                for s, c in counts.items():
+                    print(f"   - {s}: {c}")
+            else:
+                print("❌ No documents retrieved")
+            print("================ END RETRIEVAL DEBUG ================\n")
+            
             serialized = "\n\n".join(
-                (f"Source: {doc['metadata']}\nContent: {doc['content']}")
+                (f"[Source: {doc['metadata'].get('source_document', 'Unknown')}]\n{doc['content']}")
                 for doc in retrieved_docs
             )
             return serialized, retrieved_docs
@@ -103,16 +232,26 @@ def create_rag_graph():
             return f"Error retrieving documents: {str(e)}", []
 
     def query_or_respond(state: MessagesState):
-        """Generate tool call for retrieval or respond."""
-        llm_with_tools = llm.bind_tools([retrieve])
-        system = SystemMessage(
-            "You are a helpful Azerbaijani legal assistant with access to a 'retrieve' tool that searches the indexed PDFs. "
-            "Call the 'retrieve' tool when the user's question likely requires grounding in the documents (facts, definitions, citations, articles). "
-            "If the request is a greeting or meta-chat that doesn't need grounding, answer directly. "
-            "If you are uncertain or the question appears document-specific, prefer calling the tool."
+        """Always retrieve documents for every query."""
+        # Get the user's last message
+        last_message = state["messages"][-1]
+        user_query = last_message.content if hasattr(last_message, 'content') else str(last_message)
+        
+        # Always call retrieve tool for every query
+        from langchain_core.messages import ToolMessage, AIMessage
+        
+        # Create a tool call message
+        tool_call_id = str(uuid.uuid4())
+        ai_message = AIMessage(
+            content="I'll search the legal documents to answer your question.",
+            tool_calls=[{
+                "name": "retrieve",
+                "args": {"query": user_query},
+                "id": tool_call_id
+            }]
         )
-        response = llm_with_tools.invoke([system] + state["messages"])
-        return {"messages": [response]}
+        
+        return {"messages": [ai_message]}
 
     def generate(state: MessagesState):
         """Generate answer."""
@@ -127,12 +266,23 @@ def create_rag_graph():
 
         # Format into prompt
         docs_content = "\n\n".join(doc.content for doc in tool_messages)
+        
+        # Debug: Print what content is being sent to LLM
+        print(f"\n🤖 CONTENT BEING SENT TO LLM:")
+        print(f"Content length: {len(docs_content)} characters")
+        if docs_content:
+            print(f"Content preview: {docs_content[:500]}...")
+        else:
+            print("❌ NO CONTENT RETRIEVED!")
+        
         system_message_content = (
-            "You are an assistant for question-answering tasks. "
-            "Use the following pieces of retrieved context to answer "
-            "the question. If you don't know the answer, say that you "
-            "don't know. Use three sentences maximum and keep the "
-            "answer concise."
+            "You are an assistant for Azerbaijani legal question-answering tasks. "
+            "Use the following pieces of retrieved context from legal documents to answer "
+            "the question. The context may come from multiple legal documents. "
+            "If you find relevant information, cite the source document name. "
+            "If you don't know the answer or can't find relevant information in the provided context, "
+            "say that you don't have sufficient information in the uploaded documents. "
+            "Provide a comprehensive but concise answer."
             "\n\n"
             f"{docs_content}"
         )
@@ -242,145 +392,86 @@ class StatusResponse(BaseModel):
     message: str
 
 def get_or_create_collection():
-    """Get or create the ChromaDB collection"""
-    global chroma_client, collection_name
-    
+    """Get or create the ChromaDB collection with Gemini embeddings"""
+    global chroma_client, collection_name, embedding_function
+
     try:
-        collection = chroma_client.get_or_create_collection(
-            name=collection_name,
-            metadata={"description": "Azerbaijani legal documents collection"}
+        # Try to get existing collection
+        provider = EMBEDDING_PROVIDER
+        # Reflect the currently configured model (fall back to defaults used in _build_embedding_function)
+        model = EMBEDDING_MODEL or "gemini-embedding-001"
+        dim = EMBEDDING_DIM
+
+        try:
+            # Fetch existing collection without binding embedding function
+            existing = chroma_client.get_collection(
+                name=collection_name,
+            )
+            meta = existing.metadata or {}
+            cur_provider = meta.get("embedding_provider")
+            cur_model = meta.get("embedding_model")
+            cur_dim = meta.get("embedding_dim")
+
+            if (
+                cur_provider == provider
+                and (not cur_model or cur_model == model)
+                and (not cur_dim or int(cur_dim) == int(dim))
+            ):
+                print(
+                    f"✅ Using existing collection '{collection_name}' | provider='{cur_provider}', model='{cur_model or 'unknown'}', dim='{cur_dim or 'unknown'}'"
+                )
+                return existing
+            else:
+                print(
+                    f"🔄 Recreating collection '{collection_name}' to align embeddings |"
+                    f" current(provider='{cur_provider}', model='{cur_model}', dim='{cur_dim}'),"
+                    f" desired(provider='{provider}', model='{model}', dim='{dim}')"
+                )
+                chroma_client.delete_collection(name=collection_name)
+        except Exception:
+            # Not found or unable to get — proceed to create
+            pass
+
+        # Create new collection with embedding metadata
+        try:
+            collection = chroma_client.create_collection(
+                name=collection_name,
+                metadata={
+                    "description": "Azerbaijani legal documents collection with embeddings",
+                    "embedding_provider": provider,
+                    "embedding_model": model,
+                    "embedding_dim": dim,
+                },
+            )
+        except Exception as ce:
+            # If it already exists (race or concurrent call), return the existing collection
+            if "already exists" in str(ce).lower():
+                return chroma_client.get_collection(name=collection_name)
+            raise
+        print(
+            f"✅ Created collection '{collection_name}' | provider='{provider}', model='{model}', dim='{dim}'"
         )
         return collection
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error accessing collection: {str(e)}")
 
-def initialize_components():
-    """Initialize all AI components"""
-    global chroma_client, embedding_function, llm, vector_store
+def get_existing_collection():
+    """Get existing collection for queries (assumes it already exists with correct embedding function)"""
+    global chroma_client, collection_name, embedding_function
     
     try:
-        # Initialize ChromaDB with persistent storage
-        chroma_client = chromadb.PersistentClient(
-            path="./chroma_data",
-            settings=Settings(allow_reset=True)
+        collection = chroma_client.get_collection(
+            name=collection_name,
         )
-        
-        # Initialize embedding function
-        embedding_function = VertexAIEmbeddings(model_name="gemini-embedding-001")
-        
-        # Initialize LLM
-        llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
-        
-        print("✅ All components initialized successfully")
-        return True
-        
+        return collection
     except Exception as e:
-        print(f"❌ Error initializing components: {str(e)}")
-        return False
-
-def create_rag_graph():
-    """Create the RAG conversation graph"""
-    global llm
-    
-    @tool(response_format="content_and_artifact")
-    def retrieve(query: str):
-        """Retrieve information related to a query."""
-        try:
-            collection = get_or_create_collection()
-            
-            # Use ChromaDB's query method directly
-            results = collection.query(
-                query_texts=[query],
-                n_results=5
-            )
-            
-            retrieved_docs = []
-            if results['documents'] and results['documents'][0]:
-                for i, doc in enumerate(results['documents'][0]):
-                    metadata = results['metadatas'][0][i] if results['metadatas'] and results['metadatas'][0] else {}
-                    retrieved_docs.append({
-                        'content': doc,
-                        'metadata': metadata
-                    })
-            
-            serialized = "\n\n".join(
-                (f"Source: {doc['metadata']}\nContent: {doc['content']}")
-                for doc in retrieved_docs
-            )
-            return serialized, retrieved_docs
-        except Exception as e:
-            return f"Error retrieving documents: {str(e)}", []
-
-    def query_or_respond(state: MessagesState):
-        """Generate tool call for retrieval or respond."""
-        llm_with_tools = llm.bind_tools([retrieve])
-        system = SystemMessage(
-            "You are a helpful Azerbaijani legal assistant with access to a 'retrieve' tool that searches the indexed PDFs. "
-            "Call the 'retrieve' tool when the user's question likely requires grounding in the documents (facts, definitions, citations, articles). "
-            "If the request is a greeting or meta-chat that doesn't need grounding, answer directly. "
-            "If you are uncertain or the question appears document-specific, prefer calling the tool."
-        )
-        response = llm_with_tools.invoke([system] + state["messages"])
-        return {"messages": [response]}
-
-    def generate(state: MessagesState):
-        """Generate answer."""
-        # Get generated ToolMessages
-        recent_tool_messages = []
-        for message in reversed(state["messages"]):
-            if message.type == "tool":
-                recent_tool_messages.append(message)
-            else:
-                break
-        tool_messages = recent_tool_messages[::-1]
-
-        # Format into prompt
-        docs_content = "\n\n".join(doc.content for doc in tool_messages)
-        system_message_content = (
-            "You are an assistant for question-answering tasks. "
-            "Use the following pieces of retrieved context to answer "
-            "the question. If you don't know the answer, say that you "
-            "don't know. Use three sentences maximum and keep the "
-            "answer concise."
-            "\n\n"
-            f"{docs_content}"
-        )
-        conversation_messages = [
-            message
-            for message in state["messages"]
-            if message.type in ("human", "system")
-            or (message.type == "ai" and not message.tool_calls)
-        ]
-        prompt = [SystemMessage(system_message_content)] + conversation_messages
-
-        # Run
-        response = llm.invoke(prompt)
-        return {"messages": [response]}
-
-    # Create the graph
-    graph_builder = StateGraph(MessagesState)
-    tools = ToolNode([retrieve])
-
-    graph_builder.add_node("query_or_respond", query_or_respond)
-    graph_builder.add_node("tools", tools)
-    graph_builder.add_node("generate", generate)
-
-    graph_builder.set_entry_point("query_or_respond")
-
-    graph_builder.add_conditional_edges(
-        "query_or_respond",
-        tools_condition,
-    )
-
-    graph_builder.add_edge("tools", "generate")
-    graph_builder.add_edge("generate", END)
-
-    memory = MemorySaver()
-    return graph_builder.compile(checkpointer=memory)
+        # If collection doesn't exist or has wrong embedding function, create it
+        return get_or_create_collection()
 
 async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
     """Process uploaded PDF files and add to vector store"""
-    collection = get_or_create_collection()
+    collection = get_existing_collection()
     document_infos = []
     
     text_splitter = RecursiveCharacterTextSplitter(
@@ -411,6 +502,7 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
             
             # Split documents
             all_splits = text_splitter.split_documents(docs)
+            print(f"📄 Split {file.filename} into {len(all_splits)} chunks")
             
             # Prepare data for ChromaDB
             if all_splits:
@@ -418,19 +510,35 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
                 batch_size = 100
                 total_added = 0
                 
+                print(f"🔄 Adding {len(all_splits)} chunks to collection in batches of {batch_size}")
+                
                 for i in range(0, len(all_splits), batch_size):
                     batch = all_splits[i:i + batch_size]
                     batch_ids = [f"{file.filename}_{j}" for j in range(i, i + len(batch))]
                     batch_documents = [doc.page_content for doc in batch]
                     batch_metadatas = [doc.metadata for doc in batch]
                     
-                    # Add to collection
+                    print(f"🔄 Adding batch {i//batch_size + 1}: {len(batch)} documents")
+                    
+                    # Precompute embeddings to avoid relying on collection EF
+                    try:
+                        batch_embeddings = embed_texts(batch_documents)
+                    except Exception as ee:
+                        raise RuntimeError(f"Embedding batch failed: {str(ee)}")
+
+                    # Add to collection with explicit embeddings
                     collection.add(
                         ids=batch_ids,
+                        embeddings=batch_embeddings,
                         documents=batch_documents,
-                        metadatas=batch_metadatas
+                        metadatas=batch_metadatas,
                     )
                     total_added += len(batch)
+                    print(f"✅ Added batch {i//batch_size + 1}: {len(batch)} documents (total: {total_added})")
+                
+                print(f"✅ Successfully added {total_added} chunks from {file.filename}")
+            else:
+                print(f"❌ No chunks created from {file.filename}")
             
             document_infos.append(DocumentInfo(
                 filename=file.filename,
@@ -454,7 +562,7 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
 async def root():
     """Get API status"""
     try:
-        collection = get_or_create_collection()
+        collection = get_existing_collection()
         doc_count = collection.count()
         
         return StatusResponse(
@@ -488,8 +596,12 @@ async def upload_documents(
     try:
         document_infos = await process_uploaded_files(pdf_files)
         
-        collection = get_or_create_collection()
+        collection = get_existing_collection()
         total_docs = collection.count()
+        
+        print(f"📊 Collection count after processing: {total_docs}")
+        print(f"📋 Processed files: {[info.filename for info in document_infos]}")
+        print(f"📋 Chunks per file: {[info.chunks_created for info in document_infos]}")
         
         return UploadResponse(
             message=f"Successfully processed {len(document_infos)} files",
@@ -537,7 +649,7 @@ async def chat(request: ChatRequest):
 async def get_status():
     """Get detailed system status"""
     try:
-        collection = get_or_create_collection()
+        collection = get_existing_collection()
         doc_count = collection.count()
         
         return StatusResponse(
@@ -558,12 +670,35 @@ async def get_status():
 async def clear_documents():
     """Clear all documents from the vector store"""
     try:
-        collection = get_or_create_collection()
+        # Fetch collection directly to avoid any recreate logic during deletion
+        try:
+            collection = chroma_client.get_collection(name=collection_name)
+        except Exception:
+            # If collection doesn't exist, nothing to delete
+            return {
+                "message": "No collection found; nothing to delete",
+                "status": "success",
+                "deleted_count": 0,
+            }
         
-        # Delete all documents
-        collection.delete()
+        # Get all document IDs first
+        all_docs = collection.get()
         
-        return {"message": "All documents cleared successfully", "status": "success"}
+        if all_docs['ids']:
+            # Delete all documents by their IDs
+            collection.delete(ids=all_docs['ids'])
+            deleted_count = len(all_docs['ids'])
+            return {
+                "message": f"Successfully cleared {deleted_count} documents", 
+                "status": "success",
+                "deleted_count": deleted_count
+            }
+        else:
+            return {
+                "message": "No documents found to delete", 
+                "status": "success",
+                "deleted_count": 0
+            }
         
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error clearing documents: {str(e)}")
@@ -573,7 +708,7 @@ async def health_check():
     """Health check endpoint"""
     try:
         # Check ChromaDB connection
-        collection = get_or_create_collection()
+        collection = get_existing_collection()
         doc_count = collection.count()
         
         # Check if components are initialized
