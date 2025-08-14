@@ -374,6 +374,7 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     response: str
     session_id: str
+    sources: Optional[List[Dict[str, Any]]] = None
 
 class UploadResponse(BaseModel):
     message: str
@@ -627,6 +628,7 @@ async def chat(request: ChatRequest):
     try:
         # Run the conversation graph
         response_content = ""
+        top_sources: List[Dict[str, Any]] = []
         for step in graph.stream(
             {"messages": [{"role": "user", "content": request.message}]},
             stream_mode="values",
@@ -636,10 +638,37 @@ async def chat(request: ChatRequest):
                 last_message = step["messages"][-1]
                 if hasattr(last_message, 'content'):
                     response_content = last_message.content
-        
+        # Additionally, query the vector store for top-3 sources to return
+        try:
+            collection = get_existing_collection()
+            q_emb = embed_texts([request.message])
+            results = collection.query(
+                query_embeddings=q_emb,
+                n_results=3,
+                include=["metadatas", "documents", "distances"],
+            )
+            docs = results.get('documents', [[]])[0]
+            metas = results.get('metadatas', [[]])[0]
+            ids = results.get('ids', [[]])[0]
+
+            for i, doc in enumerate(docs):
+                meta = metas[i] if i < len(metas) else {}
+                doc_id = ids[i] if i < len(ids) else None
+                # Try to extract page number if available in metadata
+                page_number = meta.get('page', None) or meta.get('page_number', None) or meta.get('source_page', None)
+                top_sources.append({
+                    "document_name": meta.get('source_document', str(doc_id) if doc_id else 'unknown'),
+                    "retrieved_content": doc,
+                    "page_number": page_number,
+                })
+        except Exception as e:
+            # If retrieval fails, just return empty sources
+            print(f"Warning: failed to fetch top sources: {e}")
+
         return ChatResponse(
             response=response_content or "Sorry, I couldn't generate a response.",
-            session_id=session_id
+            session_id=session_id,
+            sources=top_sources
         )
         
     except Exception as e:
