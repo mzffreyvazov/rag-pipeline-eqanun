@@ -3,6 +3,7 @@ import tempfile
 import uuid
 from pathlib import Path
 from typing import List, Optional, Dict, Any
+import threading
 from contextlib import asynccontextmanager
 import shutil
 
@@ -54,6 +55,10 @@ llm = None
 vector_store = None
 graph = None
 collection_name = "legal_documents"
+
+# In-memory job tracking for upload progress (consider Redis for production)
+jobs_lock = threading.Lock()
+jobs_store: Dict[str, Dict[str, Any]] = {}
 
 def _build_embedding_function():
     """Build and return an embedding function compatible with Chroma.
@@ -392,6 +397,27 @@ class StatusResponse(BaseModel):
     total_documents: int
     message: str
 
+# Upload job progress models
+class FileProgress(BaseModel):
+    filename: str
+    pages_total: Optional[int] = None
+    chunks_total: Optional[int] = None
+    chunks_done: int = 0
+    percent: float = 0.0
+    status: str = "pending"  # pending|running|completed|failed
+    error: Optional[str] = None
+
+class UploadStartResponse(BaseModel):
+    job_id: str
+    files: List[str]
+
+class JobStatusResponse(BaseModel):
+    job_id: str
+    status: str  # pending|running|completed|failed
+    files: Dict[str, FileProgress]
+    overall: Dict[str, Any]
+    error: Optional[str] = None
+
 def get_or_create_collection():
     """Get or create the ChromaDB collection with Gemini embeddings"""
     global chroma_client, collection_name, embedding_function
@@ -559,6 +585,118 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
     
     return document_infos
 
+def _init_job(job_id: str, filenames: List[str]):
+    with jobs_lock:
+        jobs_store[job_id] = {
+            "status": "running",
+            "error": None,
+            "files": {name: FileProgress(filename=name).model_dump() for name in filenames},
+        }
+
+def _update_file_progress(job_id: str, filename: str, **kwargs):
+    with jobs_lock:
+        job = jobs_store.get(job_id)
+        if not job:
+            return
+        fp = job["files"].get(filename)
+        if not fp:
+            fp = FileProgress(filename=filename).model_dump()
+            job["files"][filename] = fp
+        fp.update(kwargs)
+
+def _finish_job(job_id: str, status: str = "completed", error: Optional[str] = None):
+    with jobs_lock:
+        job = jobs_store.get(job_id)
+        if not job:
+            return
+        job["status"] = status
+        job["error"] = error
+
+def _compute_overall(job_id: str) -> Dict[str, Any]:
+    with jobs_lock:
+        job = jobs_store.get(job_id)
+        if not job:
+            return {"percent": 0.0, "chunks_total": 0, "chunks_done": 0}
+        files = job["files"].values()
+        total = sum((f.get("chunks_total") or 0) for f in files)
+        done = sum(f.get("chunks_done") or 0 for f in files)
+        percent = (done / total * 100.0) if total else 0.0
+        return {"percent": percent, "chunks_total": total, "chunks_done": done}
+
+def _process_uploaded_file_paths(file_entries: List[Dict[str, str]], job_id: str):
+    """Background processor: takes temp-saved files and updates job progress while indexing."""
+    try:
+        collection = get_existing_collection()
+        text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=1536,
+            chunk_overlap=305,
+        )
+
+        for entry in file_entries:
+            original_name = entry["filename"]
+            tmp_path = entry["path"]
+            _update_file_progress(job_id, original_name, status="running")
+            try:
+                loader = PyPDFLoader(tmp_path)
+                docs = loader.load()
+
+                # Update pages_total early
+                _update_file_progress(job_id, original_name, pages_total=len(docs))
+
+                # Attach base metadata to each page
+                for doc in docs:
+                    doc.metadata["source_document"] = original_name
+                    doc.metadata["document_type"] = Path(original_name).stem
+                    doc.metadata["job_id"] = job_id
+
+                # Split documents
+                all_splits = text_splitter.split_documents(docs)
+                chunks_total = len(all_splits)
+                _update_file_progress(job_id, original_name, chunks_total=chunks_total, chunks_done=0, percent=0.0)
+
+                if all_splits:
+                    batch_size = 100
+                    for i in range(0, chunks_total, batch_size):
+                        batch = all_splits[i:i + batch_size]
+                        batch_ids = [f"{original_name}_{j}" for j in range(i, i + len(batch))]
+                        batch_documents = [d.page_content for d in batch]
+                        batch_metadatas = [d.metadata for d in batch]
+
+                        # Precompute embeddings
+                        batch_embeddings = embed_texts(batch_documents)
+
+                        # Add to Chroma
+                        collection.add(
+                            ids=batch_ids,
+                            embeddings=batch_embeddings,
+                            documents=batch_documents,
+                            metadatas=batch_metadatas,
+                        )
+
+                        # Progress update
+                        with jobs_lock:
+                            job = jobs_store.get(job_id)
+                            if job and original_name in job["files"]:
+                                fp = job["files"][original_name]
+                                fp["chunks_done"] = (fp.get("chunks_done") or 0) + len(batch)
+                                total = fp.get("chunks_total") or 0
+                                fp["percent"] = (fp["chunks_done"] / total * 100.0) if total else 0.0
+
+                _update_file_progress(job_id, original_name, status="completed")
+
+            except Exception as fe:
+                _update_file_progress(job_id, original_name, status="failed", error=str(fe))
+            finally:
+                try:
+                    os.unlink(tmp_path)
+                except Exception:
+                    pass
+
+        _finish_job(job_id, status="completed")
+
+    except Exception as e:
+        _finish_job(job_id, status="failed", error=str(e))
+
 @app.get("/", response_model=StatusResponse)
 async def root():
     """Get API status"""
@@ -612,6 +750,51 @@ async def upload_documents(
         
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing files: {str(e)}")
+
+@app.post("/upload/start", response_model=UploadStartResponse)
+async def upload_start(background_tasks: BackgroundTasks, files: List[UploadFile] = File(...)):
+    """Start an async upload/index job and return a job_id for frontend polling."""
+    if not files:
+        raise HTTPException(status_code=400, detail="No files provided")
+
+    pdf_files = [f for f in files if f.filename.lower().endswith('.pdf')]
+    if not pdf_files:
+        raise HTTPException(status_code=400, detail="Only PDF files are supported")
+
+    # Save files to temp paths to allow background processing after response returns
+    temp_entries: List[Dict[str, str]] = []
+    filenames: List[str] = []
+    for f in pdf_files:
+        with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp:
+            content = await f.read()
+            tmp.write(content)
+            temp_entries.append({"filename": f.filename, "path": tmp.name})
+            filenames.append(f.filename)
+
+    # Initialize job and dispatch background task
+    job_id = str(uuid.uuid4())
+    _init_job(job_id, filenames)
+    background_tasks.add_task(_process_uploaded_file_paths, temp_entries, job_id)
+
+    return UploadStartResponse(job_id=job_id, files=filenames)
+
+@app.get("/upload/status/{job_id}", response_model=JobStatusResponse)
+async def upload_status(job_id: str):
+    with jobs_lock:
+        job = jobs_store.get(job_id)
+        if not job:
+            raise HTTPException(status_code=404, detail="Job not found")
+        # Compute overall on the fly for freshness
+    overall = _compute_overall(job_id)
+    with jobs_lock:
+        job = jobs_store.get(job_id)
+        return JobStatusResponse(
+            job_id=job_id,
+            status=job.get("status", "pending"),
+            files={k: FileProgress(**v) for k, v in job.get("files", {}).items()},
+            overall=overall,
+            error=job.get("error"),
+        )
 
 @app.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):
