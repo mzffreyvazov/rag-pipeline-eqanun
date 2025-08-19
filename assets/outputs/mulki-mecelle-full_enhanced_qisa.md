@@ -1,4 +1,4 @@
-# Azərbaycan	Respublikasının	Mülki	Məcəlləsi
+# Azərbaycan Respublikasının Mülki Məcəlləsi
 
 ## Birinci bölmə
 
@@ -133,14 +133,6 @@ Sahibkarlıq  fəaliyyəti  şəxsin  müstəqil  surətdə  həyata  keçirdiyi
 
 17.1. Bütün dövlət hakimiyyəti orqanları, yerli özünüidarə orqanları, siyasi partiyalar, ictimai birliklər, həmkarlar ittifaqı təşkilatları, fiziki və hüquqi şəxslər mülki hüquqlara hörmət bəsləməyə və onların müdafiəsinə kömək göstərməyə borcludurlar.
 
-```
-17.2. 17.3.
-```
-
-Çıxarılmışdır. [10]
-
-Çıxarılmışdır. [11]
-
 ###### Maddə 18. Mülki hüquqların müdafiəsi üsulları
 
 Mülki hüquqların müdafiəsi qanunvericilikdə nəzərdə tutulmuş qaydada və qanuna, ictimai qaydaya və əxlaqa zidd olmayan üsullarla həyata keçirilir.
@@ -157,7 +149,8 @@ Maddə 20. Mülki hüquqların özümüdafiəsi -çıxarılmışdır. [12]
 - 21.2. Zərər dedikdə, hüququ pozulmuş şəxsin pozulmuş hüququnu bərpa etmək üçün çəkdiyi və  ya  çəkməli  olduğu  xərclər,  əmlakından  məhrum  olması  və  ya  əmlakının  zədələnməsi  (real zərər),  habelə  hüququ  pozulmasaydı,  həmin  şəxsin  adi  mülki  dövriyyə  şəraitində  əldə  edəcəyi gəlirlər (əldən çıxmış fayda) başa düşülür.
 - 21.3.  Zərərin  əvəzinin  ödənilməsi  ilə  bağlı  tələbin  həcminin  müəyyənləşdirilməsi  zamanı zərərçəkənin,  onun  işçisinin  və  qanunvericiliklə  nəzərdə  tutulmuş  hallarda  üçüncü  şəxslərin davranışının zərərin yaranmasına və artmasına hansı həcmdə  şərait yaratması nəzərə alınmalıdır. [14]
 
-Maddə 22. Dövlət hakimiyyəti orqanlarının və yerli özünüidarə orqanlarının vurduqları zərərin əvəzinin ödənilməsi -çıxarılmışdır. [15]
+###### Maddə 22. Dövlət hakimiyyəti orqanlarının və yerli özünüidarə orqanlarının vurduqları zərərin əvəzinin ödənilməsi 
+
 
 ###### Maddə 23. Şərəfin, ləyaqətin və işgüzar nüfuzun müdafiəsi
 
@@ -210,17 +203,15 @@ Maddə 22. Dövlət hakimiyyəti orqanlarının və yerli özünüidarə orqanla
 - 28.1. Fiziki şəxsin mülki hüquq fəaliyyət qabiliyyəti şəxsin öz hərəkətləri ilə mülki hüquqlar əldə etmək və həyata keçirmək, özü üçün mülki vəzifələr yaratmaq və icra etmək qabiliyyətidir.
 - 28.2. Fiziki şəxsin mülki hüquq fəaliyyət qabiliyyəti, o, yetkinlik yaşına, yəni on səkkiz yaşına çatdıqda tam həcmdə əmələ gəlir.
 - 28.3. 7 yaşınadək olan yetkinlik yaşına çatmayanların (azyaşlılar) fəaliyyət qabiliyyəti yoxdur. 7 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanların məhdud fəaliyyət qabiliyyəti vardır.
-- 28.4. On altı yaşı tamam olmuş yetkinlik yaşına çatmayan əmək müqaviləsi üzrə işləyirsə və ya  valideynlərinin,  övladlığa  götürənlərin  və  ya  himayəçinin  razılığı  ilə  sahibkarlıq  fəaliyyəti  ilə məşğul olursa, tam fəaliyyət qabiliyyətli sayıla bilər. Hər iki valideynin, övladlığa götürənlərin və ya himayəçinin  razılığına  əsasən  qəyyumluq  və  himayəçilik  orqanının  qərarı  ilə,  belə  razılıq
+- 28.4. On altı yaşı tamam olmuş yetkinlik yaşına çatmayan əmək müqaviləsi üzrə işləyirsə və ya  valideynlərinin,  övladlığa  götürənlərin  və  ya  himayəçinin  razılığı  ilə  sahibkarlıq  fəaliyyəti  ilə məşğul olursa, tam fəaliyyət qabiliyyətli sayıla bilər. Hər iki valideynin, övladlığa götürənlərin və ya himayəçinin  razılığına  əsasən  qəyyumluq  və  himayəçilik  orqanının  qərarı  ilə,  belə  razılıq olmadıqda isə məhkəmənin qərarı ilə yetkinlik yaşına çatmayan tam fəaliyyət qabiliyyətli sayılır (emansipasiya). [18]
 
-olmadıqda isə məhkəmənin qərarı ilə yetkinlik yaşına çatmayan tam fəaliyyət qabiliyyətli sayılır (emansipasiya). [18]
-
-28.5. Valideynlər, övladlığa götürənlər və himayəçi tam fəaliyyət qabiliyyətli sayılmış yetkinlik yaşına çatmayanın öhdəlikləri üçün, o cümlədən onun ziyan vurması nəticəsində əmələ gəlmiş öhdəliklər üçün məsuliyyət daşımırlar.
+- 28.5. Valideynlər, övladlığa götürənlər və himayəçi tam fəaliyyət qabiliyyətli sayılmış yetkinlik yaşına çatmayanın öhdəlikləri üçün, o cümlədən onun ziyan vurması nəticəsində əmələ gəlmiş öhdəliklər üçün məsuliyyət daşımırlar.
 
 - 28.6.  On  səkkiz  yaşına  çatanadək  nikaha  girməyə  qanunun  yol  verdiyi  halda,  on  səkkiz yaşına çatmamış fiziki şəxs nikaha girdiyi vaxtdan tam həcmdə fəaliyyət qabiliyyəti əldə edir. Nikah bağlanması  nəticəsində  əldə  edilmiş  fəaliyyət  qabiliyyəti  nikahın  on  səkkiz  yaşına  çatanadək pozulduğu halda da tam həcmdə saxlanılır.
 - 28.7.  Nikah  etibarsız  sayıldıqda  məhkəmə  yetkinlik  yaşına  çatmayan  ərin  (arvadın)  tam fəaliyyət qabiliyyətini məhkəmə tərəfindən müəyyənləşdirilən andan itirməsi barədə qərar qəbul edə bilər.
 - 28.8. Ağıl zəifliyi və ya ruhi xəstəlik nəticəsində öz hərəkətlərinin mənasını başa düşməyən və ya öz hərəkətlərinə rəhbərlik edə bilməyən şəxslər də məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan sayıla bilər. Onlar üzərində qəyyumluq müəyyənləşdirilir. Fəaliyyət qabiliyyəti olmayan sayılmış  fiziki  şəxsin  adından  əqdləri  onun  qəyyumu  bağlayır.  Fəaliyyət  qabiliyyəti  olmayan sayılmış şəxsin bağladığı əqd sonradan qəyyumun razılığı ilə etibarlı hesab edilə bilər. [19]
 
-28.9. Fəaliyyət qabiliyyəti olmayan sayılmış şəxsin sağaldığı və ya sağlamlıq vəziyyətinin xeyli yaxşılaşdığı halda məhkəmə onu fəaliyyət qabiliyyətli sayır. Onun üzərində müəyyənləşdirilmiş qəyyumluq məhkəmə qərarına əsasən ləğv edilir.
+- 28.9. Fəaliyyət qabiliyyəti olmayan sayılmış şəxsin sağaldığı və ya sağlamlıq vəziyyətinin xeyli yaxşılaşdığı halda məhkəmə onu fəaliyyət qabiliyyətli sayır. Onun üzərində müəyyənləşdirilmiş qəyyumluq məhkəmə qərarına əsasən ləğv edilir.
 
 ###### Maddə 29. 14 yaşınadək olan yetkinlik yaşına çatmayanların fəaliyyət qabiliyyəti
 
@@ -229,9 +220,7 @@ olmadıqda isə məhkəmənin qərarı ilə yetkinlik yaşına çatmayan tam fə
 - 29.2.1. xırda məişət əqdləri;
 - 29.2.2.  əvəzsiz  olaraq  fayda  götürməyə  yönəldilmiş  elə  əqdlər  ki,  onlardan  əmələ  gələn hüquqların notariat qaydasında təsdiqlənməsi və ya dövlət qeydiyyatına alınması tələb olunmur;
 - 29.2.3.  qanuni  nümayəndənin  özünün  və  ya  onun  razılığı  ilə  üçüncü  şəxsin  müəyyən məqsəd üçün və ya sərbəst istifadə üçün verdiyi vəsait barəsində sərəncam üzrə əqdlər.
-- 29.3.  14  yaşı  tamam  olmamış  yetkinlik  yaşına  çatmayanın  əqdləri,  o  cümlədən  müstəqil bağladığı əqdlər üzrə əmlak məsuliyyətini onun valideynləri, övladlığa götürənlər və ya qəyyum daşıyır,  bu  şərtlə  ki,  həmin  şəxslər  öhdəliyin  onların  təqsiri  üzündən  pozulmadığını  sübuta
-
-yetirməsinlər. Qanuna uyğun olaraq bu şəxslər azyaşlıların vurduqları ziyan üçün də cavabdehdirlər.
+- 29.3. 14 yaşı tamam olmamış yetkinlik yaşına çatmayanın  əqdləri,  o  cümlədən müstəqil bağladığı əqdlər üzrə əmlak məsuliyyətini onun valideynləri, övladlığa götürənlər və ya qəyyum daşıyır, bu şərtlə ki, həmin  şəxslər  öhdəliyin onların təqsiri üzündən pozulmadığını sübuta yetirməsinlər. Qanuna uyğun olaraq bu şəxslər azyaşlıların vurduqları ziyan üçün də cavabdehdirlər.
 
 ###### Maddə 30.  14  yaşından  18  yaşınadək  olan  yetkinlik  yaşına  çatmayanların  fəaliyyət qabiliyyəti
 
