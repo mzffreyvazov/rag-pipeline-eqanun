@@ -1,0 +1,530 @@
+STRIKETHROUGH DETECTION REPORT
+==================================================
+
+Files processed: 1
+Total strikethrough instances: 103
+==================================================
+
+File: -Azərbaycan Respublikasının Torpaq Məcəlləsi.docx
+Path: D:\Downloads\code\code\Extra-Projects\rag-pipeline-eqanun\assets\-Azərbaycan Respublikasının Torpaq Məcəlləsi.docx
+Strikethrough instances: 103
+
+Strikethrough text found:
+------------------------------
+1. Location: Paragraph 78, Run 2
+   Text: ', istifadəsinə'
+   Type: single strikethrough
+   Full paragraph: 'hüquqi və fiziki şəxslərin mülkiyyətinə, istifadəsinə və icarəsinə verilən (satılan) torpaq sahələrinin minimum həddinin müəyyən edilməsi;'
+
+2. Location: Paragraph 107, Run 2
+   Text: 'torpaq üzərində hüquqları təsdiq edən dövlət aktlarında, şəhadətnamələrdə,'
+   Type: single strikethrough
+   Full paragraph: '5. Torpağın kateqoriyaları torpağın verilməsi barədə müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarında, torpaq üzərində hüquqları təsdiq edən dövlət aktlarında, şəhadətnamələrdə, dövlət torpaq kadastrı sənədlərində, torpaq qeydiyyatı kitablarında və bu Məcəllədə göstərilən digər sənədlərdə əks olunur.'
+
+3. Location: Paragraph 123, Run 2
+   Text: '(uqodiyaları)'
+   Type: single strikethrough
+   Full paragraph: '2. Kənd təsərrüfatı təyinatlı torpaqların tərkibinə kənd təsərrüfatı yerləri (uqodiyaları), meşə zolaqlarının, təsərrüfatdaxili yolların, kommunikasiyaların, bataqlıqların, sututarların, kənd təsərrüfatının aparılması üçün vacib olan tikili və qurğuların altında olan torpaqlar daxildir.'
+
+4. Location: Paragraph 125, Run 2
+   Text: '(uqodiyaları)'
+   Type: single strikethrough
+   Full paragraph: '4. Kənd təsərrüfatı yerləri (uqodiyaları) xüsusi olaraq qorunur. Bu torpaqların qeyri-kənd təsərrüfatı məqsədilə digər kateqoriyalara keçirilməsinə müstəsna hallarda bu Məcəllədə və digər qanunvericilik aktlarında müəyyən edilmiş qaydada, müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı ilə yol verilir.'
+
+5. Location: Paragraph 125, Run 4
+   Text: 'və ya bələdiyyənin'
+   Type: single strikethrough
+   Full paragraph: '4. Kənd təsərrüfatı yerləri (uqodiyaları) xüsusi olaraq qorunur. Bu torpaqların qeyri-kənd təsərrüfatı məqsədilə digər kateqoriyalara keçirilməsinə müstəsna hallarda bu Məcəllədə və digər qanunvericilik aktlarında müəyyən edilmiş qaydada, müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı ilə yol verilir.'
+
+6. Location: Paragraph 187, Run 4
+   Text: ', istirahət (rekreasiya)'
+   Type: single strikethrough
+   Full paragraph: 'təbiət abidələri, təbii parklar, milli dendroloji parklar, nəbatat bağları, meşə yerləşən, turizm və rekreasiya, habelə əhalinin kütləvi istirahəti üçün istifadə olunan xüsusi qorunan ərazilərin, təbiəti mühafizə, təbii qoruq, sağlamlaşdırma, istirahət (rekreasiya) və tarix-mədəniyyət təyinatlı obyektlərin torpaqları, habelə təbii müalicəvi xassəyə malik olan mənbələr yerləşən və tarix-mədəniyyət abidələri, muzey-qoruqlar və xatirə parkları, qəbiristanlıqlar, məzarlar, arxeoloji abidələr və digər obyektlər yerləşdiyi torpaq sahələri;'
+
+7. Location: Paragraph 234, Run 2
+   Text: 'və yerli özünüidarə'
+   Type: single strikethrough
+   Full paragraph: '6. Müdafiə və təhlükəsizlik ehtiyacları üçün verilmiş torpaqların istifadə edilməyən və kənd təsərrüfatına yararlı sahələri bu maddənin 1-ci bəndində göstərilən istifadəçinin razılığına əsasən, müvafiq icra hakimiyyəti və yerli özünüidarə orqanlarının qərarı ilə kənd təsərrüfatı istehsalı üçün Azərbaycan Respublikasının hüquqi və fiziki şəxslərinin müvəqqəti istifadəsinə və icarəsinə verilə bilər.'
+
+8. Location: Paragraph 322, Run 3
+   Text: 'və ya'
+   Type: single strikethrough
+   Full paragraph: '2. Su fondu torpaqları əhalinin içməli suya tələbatını, məişət, sağlamlaşdırma və digər ehtiyaclarını təmin edən qurğuların tikintisi və istismarı üçün, eləcə də su təsərrüfatı, kənd təsərrüfatı, balıqçılıq təsərrüfatı sənaye, energetika, nəqliyyat və digər dövlət ehtiyaclarının və ya ictimai ehtiyacların təmin edilməsi üçün istifadə edilir.'
+
+9. Location: Paragraph 322, Run 4
+   Text: 'ictimai ehtiyacların'
+   Type: single strikethrough
+   Full paragraph: '2. Su fondu torpaqları əhalinin içməli suya tələbatını, məişət, sağlamlaşdırma və digər ehtiyaclarını təmin edən qurğuların tikintisi və istismarı üçün, eləcə də su təsərrüfatı, kənd təsərrüfatı, balıqçılıq təsərrüfatı sənaye, energetika, nəqliyyat və digər dövlət ehtiyaclarının və ya ictimai ehtiyacların təmin edilməsi üçün istifadə edilir.'
+
+10. Location: Paragraph 323, Run 2
+   Text: 'istifadəsinə və'
+   Type: single strikethrough
+   Full paragraph: '3. Su fondu torpaqları bu Məcəllə, Azərbaycan Respublikasının Su Məcəlləsi və digər qanunvericiliyi ilə nəzərdə tutulmuş qaydada bələdiyyə mülkiyyətinə, hüquqi və fiziki şəxslərin istifadəsinə və icarəsinə, dövlət orqanlarının (qurumlarının) istifadəsinə verilə bilər.'
+
+11. Location: Paragraph 383, Run 3
+   Text: 'və ictimai ehtiyaclar'
+   Type: single strikethrough
+   Full paragraph: 'qanunla nəzərdə tutulmuş qaydada dövlət ehtiyacları və ictimai ehtiyaclar üçün torpaqların geri alınması və verilməsi, torpaqların əsas məqsədli təyinatının dəyişdirilməsi və digər yerquruluşu məsələlərinin həlli ilə bağlı sənədlərin rəsmiləşdirilməsi, onların müvafiq icra hakimiyyəti orqanlarının təsdiqinə təqdim edilməsi;'
+
+12. Location: Paragraph 383, Run 5
+   Text: 'geri'
+   Type: single strikethrough
+   Full paragraph: 'qanunla nəzərdə tutulmuş qaydada dövlət ehtiyacları və ictimai ehtiyaclar üçün torpaqların geri alınması və verilməsi, torpaqların əsas məqsədli təyinatının dəyişdirilməsi və digər yerquruluşu məsələlərinin həlli ilə bağlı sənədlərin rəsmiləşdirilməsi, onların müvafiq icra hakimiyyəti orqanlarının təsdiqinə təqdim edilməsi;'
+
+13. Location: Paragraph 480, Run 4
+   Text: 'dövlət məqsədləri üçün'
+   Type: single strikethrough
+   Full paragraph: '2-1. Xəzər dənizinin, (gölünün) Azərbaycan Respublikasına mənsub olan bölməsinin sahilboyu 20-50 metrlik zolağının altında olan torpaq sahələri dövlətin mülkiyyətində qalmaqla özgəninkiləşdirilə bilməz və yalnız dövlət məqsədləri üçün müvafiq icra hakimiyyəti orqanının qərarı ilə istifadəyə və icarəyə verilə bilər. Bu maddənin birinci cümləsinə uyğun olaraq istifadəyə və ya icarəyə verilməsi barədə qərar qəbul edilmiş Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsinin sahilboyu 20-50 metrlik zolağının altında olan torpaq sahəsi müvafiq icra hakimiyyəti orqanının icazəsi əsasında dənizin sahilinə gediş-gəlişi məhdudlaşdırmamaq şərti ilə hasara alınma yolu ilə və ya digər üsullarla bağlanıla bilər. Yalnız dövlətin iqtisadi və ya təhlükəsizlik mənafelərinin təmin edilməsi ilə əlaqədar müvafiq icra hakimiyyəti orqanının qərarı ilə həmin torpaq sahələrinə gediş-gəliş məhdudlaşdırıla bilər. Göstərilən sahilboyu zolağın qrafiki təsviri müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir. Sahilboyu zolaq Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsinin su səthinin quru ilə bu qanun qüvvəyə mindikdən sonra mövcud olan təmas xəttindən hesablanır. Sahilboyu zolağın qrafiki təsvirində həmçinin zolağın 20 metrdən 50 metrədək müəyyənləşdirilməsinə əsas olan su səthinin quru ilə təmas xəttinin mövcud və təbii təsirlərlə əlaqədar dəyişən vəziyyəti öz əksini tapmalıdır. İctimai çimərliklərdə (müvafiq icra hakimiyyəti orqanı və ya bələdiyyələr tərəfindən yaradılan və ya bu məqsədlər üçün hüquqi və fiziki şəxslərə icarəyə verilən, gediş-gəlişi məhdudlaşdırılmayan çimərlik) sahilboyu 20-50 metrlik zolağın altında olan torpaq sahəsinin dənizin sahilinə gediş-gəlişi məhdudlaşdırmamaq şərti ilə hasara alınma yolu ilə və ya digər üsullarla bağlanmasına o halda yol verilir ki, hasar və ya bağlanma üçün istifadə edilən tikinti konstruksiyaları qəfəsəli olmaqla, sahil tərəfdən dənizin və onun sahilində su ilə qurunun təmas xəttinin görünməsini məhdudlaşdırmasın və həmin hasarın və ya tikinti konstruksiyasının sahilboyu uzunluğunun hər 200 metrindən bir dövlət sərhədinin mühafizəsinin təmin olunması məqsədi ilə nəqliyyat vasitələrinin hərəkəti üçün yetərli olan eni 6 metrdən az olmayaraq sahilə birbaşa keçid təmin olunsun.'
+
+14. Location: Paragraph 610, Run 3
+   Text: ', hüquqi və fiziki şəxslərin istifadəsinə və icarəsinə verilmiş kənd təsərrüfatına azyararlı və yararsız torpaqların öz vəsaiti hesabına yararlı hala salınmış kənd təsərrüfatı təyinatlı torpaqları, qeyri-kənd təsərrüfatı məqsədləri üçün istifadəyə və icarəyə verilmiş torpaq sahələri'
+   Type: single strikethrough
+   Full paragraph: '2. Bələdiyyələrin ehtiyat fondunun özəlləşdirilə bilən torpaqları xüsusi mülkiyyətə satıla bilər. Bələdiyyələrin ehtiyat fondunun yaşayış məntəqələrinin perspektiv inkişafı üçün cəlb olunan torpaq sahələri, habelə kənd təsərrüfatına azyararlı və yararsız torpaqları, hüquqi və fiziki şəxslərin istifadəsinə və icarəsinə verilmiş kənd təsərrüfatına azyararlı və yararsız torpaqların öz vəsaiti hesabına yararlı hala salınmış kənd təsərrüfatı təyinatlı torpaqları, qeyri-kənd təsərrüfatı məqsədləri üçün istifadəyə və icarəyə verilmiş torpaq sahələri özəlləşdirilə bilər. Özəlləşdirilməsi barədə qərar qəbul edilənədək bu torpaqlar ərazinin perspektiv inkişaf proqramına xələl gətirməmək şərtilə hüquqi və fiziki şəxslərin müvəqqəti istifadəsinə və icarəsinə verilə bilər. Bələdiyyənin ərazisində daimi yaşayan və eyni zamanda ən azı beş il müddətində yaşayış yeri üzrə qeydiyyatda olan Azərbaycan Respublikası vətəndaşlarının mülkiyyətinə Bələdiyyə torpaqlarının idarə edilməsi haqqında” Azərbaycan Respublikası Qanununun 9.8-ci maddəsi ilə müəyyən edilmiş məhdudiyyət nəzərə alınmaqla fərdi yaşayış evinin tikintisi üçün torpağın ayrılması, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən irəli gələn öhdəlikləri yerinə yetirmək məqsədi ilə torpağın dövlət mülkiyyətinə və ya icarəsinə verilməsi, “Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq bərpa olunan enerji mənbələri ərazisinin əhatə etdiyi torpaq sahəsinin dövlət mülkiyyətinə və ya icarəsinə, elektrik enerjisi istehsalçısının icarəsinə verilməsi istisna olmaqla, digər hallarda bələdiyyə torpaqları üzərində mülkiyyət və icarə hüquqları yalnız açıq torpaq hərracları və ya müsabiqələri vasitəsilə əldə edilə bilər.'
+
+15. Location: Paragraph 610, Run 7
+   Text: 'müvəqqəti istifadəsinə və'
+   Type: single strikethrough
+   Full paragraph: '2. Bələdiyyələrin ehtiyat fondunun özəlləşdirilə bilən torpaqları xüsusi mülkiyyətə satıla bilər. Bələdiyyələrin ehtiyat fondunun yaşayış məntəqələrinin perspektiv inkişafı üçün cəlb olunan torpaq sahələri, habelə kənd təsərrüfatına azyararlı və yararsız torpaqları, hüquqi və fiziki şəxslərin istifadəsinə və icarəsinə verilmiş kənd təsərrüfatına azyararlı və yararsız torpaqların öz vəsaiti hesabına yararlı hala salınmış kənd təsərrüfatı təyinatlı torpaqları, qeyri-kənd təsərrüfatı məqsədləri üçün istifadəyə və icarəyə verilmiş torpaq sahələri özəlləşdirilə bilər. Özəlləşdirilməsi barədə qərar qəbul edilənədək bu torpaqlar ərazinin perspektiv inkişaf proqramına xələl gətirməmək şərtilə hüquqi və fiziki şəxslərin müvəqqəti istifadəsinə və icarəsinə verilə bilər. Bələdiyyənin ərazisində daimi yaşayan və eyni zamanda ən azı beş il müddətində yaşayış yeri üzrə qeydiyyatda olan Azərbaycan Respublikası vətəndaşlarının mülkiyyətinə Bələdiyyə torpaqlarının idarə edilməsi haqqında” Azərbaycan Respublikası Qanununun 9.8-ci maddəsi ilə müəyyən edilmiş məhdudiyyət nəzərə alınmaqla fərdi yaşayış evinin tikintisi üçün torpağın ayrılması, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən irəli gələn öhdəlikləri yerinə yetirmək məqsədi ilə torpağın dövlət mülkiyyətinə və ya icarəsinə verilməsi, “Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq bərpa olunan enerji mənbələri ərazisinin əhatə etdiyi torpaq sahəsinin dövlət mülkiyyətinə və ya icarəsinə, elektrik enerjisi istehsalçısının icarəsinə verilməsi istisna olmaqla, digər hallarda bələdiyyə torpaqları üzərində mülkiyyət və icarə hüquqları yalnız açıq torpaq hərracları və ya müsabiqələri vasitəsilə əldə edilə bilər.'
+
+16. Location: Paragraph 611, Run 2
+   Text: 'istifadəyə və'
+   Type: single strikethrough
+   Full paragraph: '3. Bələdiyyələrin ehtiyat fondunun kənd təsərrüfatı təyinatlı torpaqları yalnız kənd təsərrüfatı istehsalı üçün istifadəyə və icarəyə verilə bilər.'
+
+17. Location: Paragraph 624, Run 3
+   Text: ', istifadəyə'
+   Type: single strikethrough
+   Full paragraph: '8. Müvafiq icra hakimiyyəti orqanları və bələdiyyələr mülkiyyətə, istifadəyə və icarəyə verilməsi nəzərdə tutulan sərbəst torpaq sahələri və yeni torpaqların mülki dövriyyəyə cəlb edilməsi proqramları barədə əhaliyə məlumat verməli və mediada hər il hesabat dərc etdirməlidirlər.'
+
+18. Location: Paragraph 653, Run 2
+   Text: 'və ya icarəsinə'
+   Type: single strikethrough
+   Full paragraph: 'kooperativlərinin mülkiyyətinə və ya icarəsinə;'
+
+19. Location: Paragraph 665, Run 1
+   Text: 'Maddə 61.'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 61. Çoxmənzilli yaşayış evlərinə aid torpaq sahələri'
+
+20. Location: Paragraph 665, Run 2
+   Text: 'Çoxmənzilli yaşayış evlərinə aid torpaq sahələri'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 61. Çoxmənzilli yaşayış evlərinə aid torpaq sahələri'
+
+21. Location: Paragraph 667, Run 1
+   Text: '1. Dövlət və bələdiyyə mülkiyyətində olan (yaxud qismən özəlləşdirilmiş) çoxmənzilli yaşayış evlərinə aid torpaq sahələri dövlət və ya bələdiyyə mülkiyyətində qalmaqla, həmin evləri idarə edən müvafiq təşkilatların daimi istifadəsinə verilir.'
+   Type: single strikethrough
+   Full paragraph: '1. Dövlət və bələdiyyə mülkiyyətində olan (yaxud qismən özəlləşdirilmiş) çoxmənzilli yaşayış evlərinə aid torpaq sahələri dövlət və ya bələdiyyə mülkiyyətində qalmaqla, həmin evləri idarə edən müvafiq təşkilatların daimi istifadəsinə verilir.'
+
+22. Location: Paragraph 668, Run 1
+   Text: '2. Tam olaraq özəlləşdirilmiş çoxmənzilli yaşayış evlərinin, habelə onlara aid olan qeyri-yaşayış binalarının torpaq sahələri həmin evlərin idarə edilməsi üçün onların sakinləri tərəfindən təsis edilmiş özünüidarəetmə təşkilatlarının daimi istifadəsinə verilir.'
+   Type: single strikethrough
+   Full paragraph: '2. Tam olaraq özəlləşdirilmiş çoxmənzilli yaşayış evlərinin, habelə onlara aid olan qeyri-yaşayış binalarının torpaq sahələri həmin evlərin idarə edilməsi üçün onların sakinləri tərəfindən təsis edilmiş özünüidarəetmə təşkilatlarının daimi istifadəsinə verilir.'
+
+23. Location: Paragraph 669, Run 1
+   Text: '3. Çoxmənzilli yaşayış evlərinə aid torpaq sahələrinin təyinatından kənar məqsədlər üçün istifadəsinə, habelə xüsusi mülkiyyətə və icarəyə verilməsinə yol verilmir.'
+   Type: single strikethrough
+   Full paragraph: '3. Çoxmənzilli yaşayış evlərinə aid torpaq sahələrinin təyinatından kənar məqsədlər üçün istifadəsinə, habelə xüsusi mülkiyyətə və icarəyə verilməsinə yol verilmir.'
+
+24. Location: Paragraph 692, Run 2
+   Text: 'Torpaq sahəsinin istifadəyə və ya icarəyə verilməsi (satılması) barədə müvafiq qərar qəbul edildikdən sonra həmin sahənin sərhədləri yerdə (naturada) müəyyən edilir.'
+   Type: single strikethrough
+   Full paragraph: '3. Torpaq sahəsinin istifadəyə və ya icarəyə verilməsi (satılması) barədə müvafiq qərar qəbul edildikdən sonra həmin sahənin sərhədləri yerdə (naturada) müəyyən edilir.'
+
+25. Location: Paragraph 706, Run 1
+   Text: '3. Torpaqdan (o cümlədən, icarə şərtləri ilə verilmiş torpaqdan) müvəqqəti istifadə hüququ müvafiq icra hakimiyyəti orqanı tərəfindən verilən şəhadətnamə və tərəflər arasında bağlanılan icarə müqaviləsi ilə rəsmiləşdirilir.'
+   Type: single strikethrough
+   Full paragraph: '3. Torpaqdan (o cümlədən, icarə şərtləri ilə verilmiş torpaqdan) müvəqqəti istifadə hüququ müvafiq icra hakimiyyəti orqanı tərəfindən verilən şəhadətnamə və tərəflər arasında bağlanılan icarə müqaviləsi ilə rəsmiləşdirilir.'
+
+26. Location: Paragraph 707, Run 2
+   Text: 'Dövlət aktının, şəhadətnamənin,'
+   Type: single strikethrough
+   Full paragraph: '4. Dövlət aktının, şəhadətnamənin, alqı-satqı, ipoteka, istifadə və icarə müqavilələrinin nümunəvi formaları qanunvericiliklə müəyyən olunmuş qaydada təsdiq edilir.'
+
+27. Location: Paragraph 707, Run 4
+   Text: 'ipoteka,'
+   Type: single strikethrough
+   Full paragraph: '4. Dövlət aktının, şəhadətnamənin, alqı-satqı, ipoteka, istifadə və icarə müqavilələrinin nümunəvi formaları qanunvericiliklə müəyyən olunmuş qaydada təsdiq edilir.'
+
+28. Location: Paragraph 708, Run 1
+   Text: '5. Torpaq üzərində hüquq daşınmaz əmlakın dövlət reyestrində qanunvericiliklə müəyyən edilmiş qaydada qeydə alınır'
+   Type: single strikethrough
+   Full paragraph: '5. Torpaq üzərində hüquq daşınmaz əmlakın dövlət reyestrində qanunvericiliklə müəyyən edilmiş qaydada qeydə alınır.'
+
+29. Location: Paragraph 708, Run 2
+   Text: '.'
+   Type: single strikethrough
+   Full paragraph: '5. Torpaq üzərində hüquq daşınmaz əmlakın dövlət reyestrində qanunvericiliklə müəyyən edilmiş qaydada qeydə alınır.'
+
+30. Location: Paragraph 714, Run 1
+   Text: '2. Dövlət torpaq kadastrında və dövlət torpaq reyestrində'
+   Type: single strikethrough
+   Full paragraph: '2. Dövlət torpaq kadastrında və dövlət torpaq reyestrində habelə qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində torpaq sahələri üzərində mülkiyyətçilərin, istifadəçilərin və icarəçilərin hüquqları və vəzifələri barədə qeydlər əsas təsdiqedici və hüquq müəyyənedici sənəddir.'
+
+31. Location: Paragraph 714, Run 2
+   Text: 'habelə qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində'
+   Type: single strikethrough
+   Full paragraph: '2. Dövlət torpaq kadastrında və dövlət torpaq reyestrində habelə qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində torpaq sahələri üzərində mülkiyyətçilərin, istifadəçilərin və icarəçilərin hüquqları və vəzifələri barədə qeydlər əsas təsdiqedici və hüquq müəyyənedici sənəddir.'
+
+32. Location: Paragraph 714, Run 3
+   Text: 'torpaq sahələri üzərində mülkiyyətçilərin, istifadəçilərin və icarəçilərin hüquqları və vəzifələri barədə qeydlər əsas təsdiqedici və hüquq müəyyənedici sənəddir.'
+   Type: single strikethrough
+   Full paragraph: '2. Dövlət torpaq kadastrında və dövlət torpaq reyestrində habelə qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində torpaq sahələri üzərində mülkiyyətçilərin, istifadəçilərin və icarəçilərin hüquqları və vəzifələri barədə qeydlər əsas təsdiqedici və hüquq müəyyənedici sənəddir.'
+
+33. Location: Paragraph 735, Run 1
+   Text: 'Maddə 71.'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 71. Torpaq sahələrinin tikinti altına verilməsi üçün geri alınması şərtləri'
+
+34. Location: Paragraph 735, Run 2
+   Text: 'Torpaq sahələrinin tikinti altına verilməsi üçün geri alınması şərtləri'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 71. Torpaq sahələrinin tikinti altına verilməsi üçün geri alınması şərtləri'
+
+35. Location: Paragraph 737, Run 1
+   Text: '1. Müvafiq icra hakimiyyəti orqanı və ya bələdiyyə xüsusi mülkiyyətdə, istifadədə və ya icarədə olan torpaq sahəsini tikinti altına vermək üçün onu bu Məcəllədə və digər normativ-hüquqi aktlarda müəyyən edilmiş qaydada geri ala bilər. Bu zaman aşağıdakı şərtlərə əməl olunmalıdır:'
+   Type: single strikethrough
+   Full paragraph: '1. Müvafiq icra hakimiyyəti orqanı və ya bələdiyyə xüsusi mülkiyyətdə, istifadədə və ya icarədə olan torpaq sahəsini tikinti altına vermək üçün onu bu Məcəllədə və digər normativ-hüquqi aktlarda müəyyən edilmiş qaydada geri ala bilər. Bu zaman aşağıdakı şərtlərə əməl olunmalıdır:'
+
+36. Location: Paragraph 738, Run 1
+   Text: 'geri alınması nəzərdə tutulan torpaq sahəsi üçün özgəninkiləşdirilmə zonasının müəyyən edilməsi və həmin zonanın dövlət torpaq kadastrında və digər müvafiq qeydiyyat sənədlərində əks etdirilməsi;'
+   Type: single strikethrough
+   Full paragraph: 'geri alınması nəzərdə tutulan torpaq sahəsi üçün özgəninkiləşdirilmə zonasının müəyyən edilməsi və həmin zonanın dövlət torpaq kadastrında və digər müvafiq qeydiyyat sənədlərində əks etdirilməsi;'
+
+37. Location: Paragraph 739, Run 1
+   Text: 'geri alınması nəzərdə tutulan torpaq sahəsi üzərindəki daşınmaz əmlakın, o cümlədən xüsusi mülkiyyətdə olan torpaq sahəsinin satılmasından, yaxud həmin torpaq sahəsini geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən'
+   Type: single strikethrough
+   Full paragraph: 'geri alınması nəzərdə tutulan torpaq sahəsi üzərindəki daşınmaz əmlakın, o cümlədən xüsusi mülkiyyətdə olan torpaq sahəsinin satılmasından, yaxud həmin torpaq sahəsini geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən geri alınmasından sonra onların tikinti altına verilməsi üçün qanunvericilikdə müəyyən edilmiş qaydada müsabiqənin (tenderin, hərracın) elan edilməsi.'
+
+38. Location: Paragraph 739, Run 2
+   Text: 'geri'
+   Type: single strikethrough
+   Full paragraph: 'geri alınması nəzərdə tutulan torpaq sahəsi üzərindəki daşınmaz əmlakın, o cümlədən xüsusi mülkiyyətdə olan torpaq sahəsinin satılmasından, yaxud həmin torpaq sahəsini geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən geri alınmasından sonra onların tikinti altına verilməsi üçün qanunvericilikdə müəyyən edilmiş qaydada müsabiqənin (tenderin, hərracın) elan edilməsi.'
+
+39. Location: Paragraph 739, Run 3
+   Text: 'alınmasından sonra onların tikinti altına verilməsi üçün qanunvericilikdə müəyyən edilmiş qaydada müsabiqənin (tenderin, hərracın) elan edilməsi.'
+   Type: single strikethrough
+   Full paragraph: 'geri alınması nəzərdə tutulan torpaq sahəsi üzərindəki daşınmaz əmlakın, o cümlədən xüsusi mülkiyyətdə olan torpaq sahəsinin satılmasından, yaxud həmin torpaq sahəsini geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən geri alınmasından sonra onların tikinti altına verilməsi üçün qanunvericilikdə müəyyən edilmiş qaydada müsabiqənin (tenderin, hərracın) elan edilməsi.'
+
+40. Location: Paragraph 740, Run 1
+   Text: '2. Torpaq sahələrinin özgəninkiləşdirmə zonasına aid edilməsi yalnız dövlət'
+   Type: single strikethrough
+   Full paragraph: '2. Torpaq sahələrinin özgəninkiləşdirmə zonasına aid edilməsi yalnız dövlət ehtiyaclarının və ya ictimai ehtiyacların ödənilməsi məqsədilə aparılır və ərazinin planlaşdırılmasına və yaşayış məntəqələrinin baş planına uyğun olaraq, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən həyata keçirilir.'
+
+41. Location: Paragraph 740, Run 2
+   Text: 'ehtiyaclarının və ya'
+   Type: single strikethrough
+   Full paragraph: '2. Torpaq sahələrinin özgəninkiləşdirmə zonasına aid edilməsi yalnız dövlət ehtiyaclarının və ya ictimai ehtiyacların ödənilməsi məqsədilə aparılır və ərazinin planlaşdırılmasına və yaşayış məntəqələrinin baş planına uyğun olaraq, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən həyata keçirilir.'
+
+42. Location: Paragraph 740, Run 3
+   Text: 'ictimai ehtiyacların ödənilməsi məqsədilə aparılır və ərazinin planlaşdırılmasına və yaşayış məntəqələrinin baş planına uyğun olaraq, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən həyata keçirilir.'
+   Type: single strikethrough
+   Full paragraph: '2. Torpaq sahələrinin özgəninkiləşdirmə zonasına aid edilməsi yalnız dövlət ehtiyaclarının və ya ictimai ehtiyacların ödənilməsi məqsədilə aparılır və ərazinin planlaşdırılmasına və yaşayış məntəqələrinin baş planına uyğun olaraq, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən həyata keçirilir.'
+
+43. Location: Paragraph 741, Run 1
+   Text: '3. Torpaq sahəsinin geri alınması haqqında qərardan iddia bu barədə yazılı bildiriş həmin sahənin mülkiyyətçisinə göndərildiyi gündən bir il ərzində verilə bilər.'
+   Type: single strikethrough
+   Full paragraph: '3. Torpaq sahəsinin geri alınması haqqında qərardan iddia bu barədə yazılı bildiriş həmin sahənin mülkiyyətçisinə göndərildiyi gündən bir il ərzində verilə bilər.'
+
+44. Location: Paragraph 743, Run 1
+   Text: 'Maddə 72.'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 72. Torpaq sahələrinin geri alınması ilə əlaqədar məsələlərin baxışı zamanı hüquqi və fiziki şəxslərin iştirakı'
+
+45. Location: Paragraph 743, Run 2
+   Text: 'Torpaq sahələrinin geri alınması ilə əlaqədar məsələlərin baxışı zamanı hüquqi və fiziki şəxslərin iştirakı'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 72. Torpaq sahələrinin geri alınması ilə əlaqədar məsələlərin baxışı zamanı hüquqi və fiziki şəxslərin iştirakı'
+
+46. Location: Paragraph 745, Run 1
+   Text: '1. Torpaq sahələrinin geri alınmasına dair baxılan məsələ hər hansı hüquqi və ya fiziki şəxsin mənafelərinə toxunarsa, həmin şəxsin (onun müvəkkilinin) bu məsələnin baxılmasında iştirak etmək hüququ vardır.'
+   Type: single strikethrough
+   Full paragraph: '1. Torpaq sahələrinin geri alınmasına dair baxılan məsələ hər hansı hüquqi və ya fiziki şəxsin mənafelərinə toxunarsa, həmin şəxsin (onun müvəkkilinin) bu məsələnin baxılmasında iştirak etmək hüququ vardır.'
+
+47. Location: Paragraph 746, Run 1
+   Text: '2. Torpaq sahələrinin geri alınması barədə müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı hüquqi və fiziki şəxslərin mənafeyinə toxunarsa, həmin qərar yalnız bu şəxslərin rəyi nəzərə alınmaqla qəbul edilə bilər.'
+   Type: single strikethrough
+   Full paragraph: '2. Torpaq sahələrinin geri alınması barədə müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı hüquqi və fiziki şəxslərin mənafeyinə toxunarsa, həmin qərar yalnız bu şəxslərin rəyi nəzərə alınmaqla qəbul edilə bilər.'
+
+48. Location: Paragraph 785, Run 2
+   Text: 'mülkiyyət'
+   Type: single strikethrough
+   Full paragraph: '3. Bu Məcəllənin 73-cü maddəsinin 1-ci bəndinin 5-ci, 7-ci, 10-cu abzaslarında nəzərdə tutulan hallarda torpaq sahələri üzərində mülkiyyət, istifadə və icarə hüquqlarına xitam verilməsi haqqında qərar, buraxılmış nöqsanların (pozuntuların) müəyyən edilmiş vaxtda aradan qaldırılması barədə xəbərdarlıqdan sonra tədbirlər görülmədikdə qəbul edilir.'
+
+49. Location: Paragraph 798, Run 1
+   Text: 'XVI fəsil'
+   Type: single strikethrough
+   Full paragraph: 'XVI fəsil'
+
+50. Location: Paragraph 800, Run 1
+   Text: 'TORPAQ SAHƏLƏRİ ÜZƏRİNDƏ HÜQUQLARIN DÖVLƏT QEYDİYYATI'
+   Type: single strikethrough
+   Full paragraph: 'TORPAQ SAHƏLƏRİ ÜZƏRİNDƏ HÜQUQLARIN DÖVLƏT QEYDİYYATI'
+
+51. Location: Paragraph 802, Run 1
+   Text: 'Maddə 78.'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 78. Torpaq sahələrinin və onların üzərində hüquqların dövlət qeydiyyatının ümumi qaydaları'
+
+52. Location: Paragraph 802, Run 2
+   Text: ''
+   Type: single strikethrough
+   Full paragraph: 'Maddə 78. Torpaq sahələrinin və onların üzərində hüquqların dövlət qeydiyyatının ümumi qaydaları'
+
+53. Location: Paragraph 802, Run 3
+   Text: 'Torpaq sahələrinin və onların üzərində hüquqların dövlət qeydiyyatının ümumi qaydaları'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 78. Torpaq sahələrinin və onların üzərində hüquqların dövlət qeydiyyatının ümumi qaydaları'
+
+54. Location: Paragraph 804, Run 1
+   Text: '1. Torpaq sahəsinin dövlət qeydiyyatı dövlət torpaq kadastrında aparılır.'
+   Type: single strikethrough
+   Full paragraph: '1. Torpaq sahəsinin dövlət qeydiyyatı dövlət torpaq kadastrında aparılır.'
+
+55. Location: Paragraph 805, Run 1
+   Text: '2. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatı torpaq sahəsinin yerləşdiyi ərazi üzrə dövlət reyestrinə aşağıdakı məlumatların daxil edilməsi ilə aparılır:'
+   Type: single strikethrough
+   Full paragraph: '2. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatı torpaq sahəsinin yerləşdiyi ərazi üzrə dövlət reyestrinə aşağıdakı məlumatların daxil edilməsi ilə aparılır:'
+
+56. Location: Paragraph 806, Run 1
+   Text: 'torpaq sahəsi üzərində hüququ əldə edən şəxs barədə məlumat;'
+   Type: single strikethrough
+   Full paragraph: 'torpaq sahəsi üzərində hüququ əldə edən şəxs barədə məlumat;'
+
+57. Location: Paragraph 807, Run 1
+   Text: 'torpaq sahəsinin təsviri (torpağın kateqoriyası, istifadə məqsədi, torpaq uqodiyasının növü, torpaq sahəsinin ölçüsü, sərhədləri, kadastr nömrəsi və digər səciyyəvi xüsusiyyətləri göstərilməklə);'
+   Type: single strikethrough
+   Full paragraph: 'torpaq sahəsinin təsviri (torpağın kateqoriyası, istifadə məqsədi, torpaq uqodiyasının növü, torpaq sahəsinin ölçüsü, sərhədləri, kadastr nömrəsi və digər səciyyəvi xüsusiyyətləri göstərilməklə);'
+
+58. Location: Paragraph 808, Run 1
+   Text: 'torpaq sahəsinin mülkiyyətə, istifadəyə və icarəyə verilməsi haqqında müqavilənin şərtləri, sahənin istifadəsində müəyyən edilmiş servitutlar, öhdəliklər və məhdudiyyətlər haqqında məlumatlar;'
+   Type: single strikethrough
+   Full paragraph: 'torpaq sahəsinin mülkiyyətə, istifadəyə və icarəyə verilməsi haqqında müqavilənin şərtləri, sahənin istifadəsində müəyyən edilmiş servitutlar, öhdəliklər və məhdudiyyətlər haqqında məlumatlar;'
+
+59. Location: Paragraph 809, Run 1
+   Text: 'torpaq sahəsi barədə sərəncam verilməsinə dair əqdlərin bağlanması və digər fəaliyyət barədə məlumatlar;'
+   Type: single strikethrough
+   Full paragraph: 'torpaq sahəsi barədə sərəncam verilməsinə dair əqdlərin bağlanması və digər fəaliyyət barədə məlumatlar;'
+
+60. Location: Paragraph 810, Run 1
+   Text: 'torpaq sahəsinə dair əqdlərin bağlanmasına qadağanlar müəyyən edilməsinə dair məlumatlar;'
+   Type: single strikethrough
+   Full paragraph: 'torpaq sahəsinə dair əqdlərin bağlanmasına qadağanlar müəyyən edilməsinə dair məlumatlar;'
+
+61. Location: Paragraph 811, Run 1
+   Text: 'torpaq sahəsinin dövlət və bələdiyyə ehtiyacları üçün özgəninkiləşdirilməsi barədə qərarların tarixi və nömrəsi;'
+   Type: single strikethrough
+   Full paragraph: 'torpaq sahəsinin dövlət və bələdiyyə ehtiyacları üçün özgəninkiləşdirilməsi barədə qərarların tarixi və nömrəsi;'
+
+62. Location: Paragraph 812, Run 1
+   Text: 'qanunvericiliklə müəyyən edilmiş digər məlumatlar.'
+   Type: single strikethrough
+   Full paragraph: 'qanunvericiliklə müəyyən edilmiş digər məlumatlar.'
+
+63. Location: Paragraph 813, Run 1
+   Text: '3. Torpaq sahəsinə dair əqdlərin dövlət qeydiyyatı həmin əqdlərin predmeti sayılan torpaq sahəsinin planı olduqda həyata keçirilir.'
+   Type: single strikethrough
+   Full paragraph: '3. Torpaq sahəsinə dair əqdlərin dövlət qeydiyyatı həmin əqdlərin predmeti sayılan torpaq sahəsinin planı olduqda həyata keçirilir.'
+
+64. Location: Paragraph 814, Run 1
+   Text: '4. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatı onu aparan orqana torpaq sahəsi üzərində hüquqlar barədə lazım olan bütün sənədlər daxil olduğu vaxtdan on gün müddətində aparılır.'
+   Type: single strikethrough
+   Full paragraph: '4. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatı onu aparan orqana torpaq sahəsi üzərində hüquqlar barədə lazım olan bütün sənədlər daxil olduğu vaxtdan on gün müddətində aparılır.'
+
+65. Location: Paragraph 815, Run 1
+   Text: '5. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatının aparılması barədə qeydiyyatın tarixi və nömrəsi, habelə qeydiyyatı aparan orqan haqqında məlumatlar göstərilməklə torpaq mülkiyyətçilərinə, istifadəçilərinə və ya icarəçilərinə bu Məcəllədə və digər normativ-hüquqi aktlarda müəyyən olunmuş hüquqi sənədlər verilir.'
+   Type: single strikethrough
+   Full paragraph: '5. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatının aparılması barədə qeydiyyatın tarixi və nömrəsi, habelə qeydiyyatı aparan orqan haqqında məlumatlar göstərilməklə torpaq mülkiyyətçilərinə, istifadəçilərinə və ya icarəçilərinə bu Məcəllədə və digər normativ-hüquqi aktlarda müəyyən olunmuş hüquqi sənədlər verilir.'
+
+66. Location: Paragraph 816, Run 1
+   Text: '6. Torpaq sahəsinə dair əqdlər onun özgəninkiləşdirilməsi ilə nəticələnirsə, dövlət reyestrində həmin əqdlər barədə qeydlər aparılır və torpaq verənin (satıcının) torpaq sahəsi üzərində hüquqları barədə sənədləri dövlət qeydiyyatını aparan orqana təqdim edilir.'
+   Type: single strikethrough
+   Full paragraph: '6. Torpaq sahəsinə dair əqdlər onun özgəninkiləşdirilməsi ilə nəticələnirsə, dövlət reyestrində həmin əqdlər barədə qeydlər aparılır və torpaq verənin (satıcının) torpaq sahəsi üzərində hüquqları barədə sənədləri dövlət qeydiyyatını aparan orqana təqdim edilir.'
+
+67. Location: Paragraph 817, Run 1
+   Text: '7. Torpaq sahəsi və onunla bağlı daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatının aparılması qaydaları dövlət torpaq kadastrı, habelə daşınmaz əmlak və onunla bağlı əqdlərin dövlət qeydiyyatı haqqında normativ-hüquqi aktlarla müəyyən edilir.'
+   Type: single strikethrough
+   Full paragraph: '7. Torpaq sahəsi və onunla bağlı daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatının aparılması qaydaları dövlət torpaq kadastrı, habelə daşınmaz əmlak və onunla bağlı əqdlərin dövlət qeydiyyatı haqqında normativ-hüquqi aktlarla müəyyən edilir.'
+
+68. Location: Paragraph 818, Run 1
+   Text: '8. Torpaq sahəsi üzərində hüquqlar qanunvericiliklə müəyyən edilmiş qaydada həmçinin daşınmaz əmlakın dövlət reyestrində qeydiyyata alınmalıdır'
+   Type: single strikethrough
+   Full paragraph: '8. Torpaq sahəsi üzərində hüquqlar qanunvericiliklə müəyyən edilmiş qaydada həmçinin daşınmaz əmlakın dövlət reyestrində qeydiyyata alınmalıdır.'
+
+69. Location: Paragraph 818, Run 2
+   Text: '.'
+   Type: single strikethrough
+   Full paragraph: '8. Torpaq sahəsi üzərində hüquqlar qanunvericiliklə müəyyən edilmiş qaydada həmçinin daşınmaz əmlakın dövlət reyestrində qeydiyyata alınmalıdır.'
+
+70. Location: Paragraph 820, Run 1
+   Text: 'Maddə 79.'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 79. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatından imtina edilməsinin əsasları'
+
+71. Location: Paragraph 820, Run 2
+   Text: 'Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatından imtina edilməsinin əsasları'
+   Type: single strikethrough
+   Full paragraph: 'Maddə 79. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatından imtina edilməsinin əsasları'
+
+72. Location: Paragraph 822, Run 1
+   Text: '1. Torpaq sahəsi üzərində hüquqların və onunla bağlı əqdlərin dövlət qeydiyyatından imtina edilməsinin əsasları aşağıdakılardır:'
+   Type: single strikethrough
+   Full paragraph: '1. Torpaq sahəsi üzərində hüquqların və onunla bağlı əqdlərin dövlət qeydiyyatından imtina edilməsinin əsasları aşağıdakılardır:'
+
+73. Location: Paragraph 823, Run 1
+   Text: 'dövlət və ya bələdiyyə mülkiyyətində olan torpaq sahəsinin mülkiyyətə, istifadəyə və icarəyə verilməsi barədə müvafiq icra hakimiyyəti orqanı və ya bələdiyyənin qərarının, müvafiq müqavilənin, torpaq sahəsi üzərində hüququ təsdiq edən sənədin, torpaq sahəsinin satılması halında isə, eləcə də torpağın dəyərinin ödənilməsi barədə sənədin, habelə digər müvafiq normativ hüquqi aktlarda nəzərdə tutulmuş başqa sənədlərin təqdim edilməməsi;'
+   Type: single strikethrough
+   Full paragraph: 'dövlət və ya bələdiyyə mülkiyyətində olan torpaq sahəsinin mülkiyyətə, istifadəyə və icarəyə verilməsi barədə müvafiq icra hakimiyyəti orqanı və ya bələdiyyənin qərarının, müvafiq müqavilənin, torpaq sahəsi üzərində hüququ təsdiq edən sənədin, torpaq sahəsinin satılması halında isə, eləcə də torpağın dəyərinin ödənilməsi barədə sənədin, habelə digər müvafiq normativ hüquqi aktlarda nəzərdə tutulmuş başqa sənədlərin təqdim edilməməsi;'
+
+74. Location: Paragraph 824, Run 1
+   Text: 'təqdim edilmiş sənədlərdə zəruri məlumatların, o cümlədən bu Məcəllənin 84-cü maddəsində nəzərdə tutulmuş məlumatların olmaması;'
+   Type: single strikethrough
+   Full paragraph: 'təqdim edilmiş sənədlərdə zəruri məlumatların, o cümlədən bu Məcəllənin 84-cü maddəsində nəzərdə tutulmuş məlumatların olmaması;'
+
+75. Location: Paragraph 825, Run 1
+   Text: 'mülki dövriyyədən çıxarılmış və ya dövriyyəsi məhdudlaşdırılmış torpaq sahəsinin verilməsinə dair birbaşa qadağanın müəyyən edilməsi;'
+   Type: single strikethrough
+   Full paragraph: 'mülki dövriyyədən çıxarılmış və ya dövriyyəsi məhdudlaşdırılmış torpaq sahəsinin verilməsinə dair birbaşa qadağanın müəyyən edilməsi;'
+
+76. Location: Paragraph 826, Run 1
+   Text: 'torpaq sahəsi üzərində hüquqların dövlət qeydiyyatını aparan orqanda, həmin torpaq sahəsi barədə mübahisələrin mövcudluğunu təsdiq edən sənədlərin olması;'
+   Type: single strikethrough
+   Full paragraph: 'torpaq sahəsi üzərində hüquqların dövlət qeydiyyatını aparan orqanda, həmin torpaq sahəsi barədə mübahisələrin mövcudluğunu təsdiq edən sənədlərin olması;'
+
+77. Location: Paragraph 827, Run 1
+   Text: 'torpaq sahəsi üzərində hüquqların dövlət qeydiyyatını aparan orqana torpaq sahəsinin həbsi və digər məhdudiyyətlər haqqında qərarın (hökmün) daxil olması.'
+   Type: single strikethrough
+   Full paragraph: 'torpaq sahəsi üzərində hüquqların dövlət qeydiyyatını aparan orqana torpaq sahəsinin həbsi və digər məhdudiyyətlər haqqında qərarın (hökmün) daxil olması.'
+
+78. Location: Paragraph 828, Run 1
+   Text: '2. Torpaq sahəsinin sərhədləri və ya bu sahəyə dair müəyyən edilmiş məhdudiyyətlər (öhdəliklər) barədə mübahisənin mövcudluğu (əgər həmin mübahisənin mövcudluğu barədə məlumatlar müqavilədə əks olunmuşdursa) əqdlərin dövlət qeydiyyatına mane ola bilməz.'
+   Type: single strikethrough
+   Full paragraph: '2. Torpaq sahəsinin sərhədləri və ya bu sahəyə dair müəyyən edilmiş məhdudiyyətlər (öhdəliklər) barədə mübahisənin mövcudluğu (əgər həmin mübahisənin mövcudluğu barədə məlumatlar müqavilədə əks olunmuşdursa) əqdlərin dövlət qeydiyyatına mane ola bilməz.'
+
+79. Location: Paragraph 828, Run 2
+   Text: ''
+   Type: single strikethrough
+   Full paragraph: '2. Torpaq sahəsinin sərhədləri və ya bu sahəyə dair müəyyən edilmiş məhdudiyyətlər (öhdəliklər) barədə mübahisənin mövcudluğu (əgər həmin mübahisənin mövcudluğu barədə məlumatlar müqavilədə əks olunmuşdursa) əqdlərin dövlət qeydiyyatına mane ola bilməz.'
+
+80. Location: Paragraph 839, Run 2
+   Text: '(dincə qoyulan)'
+   Type: single strikethrough
+   Full paragraph: 'torpağın itirilmiş təbii münbitliyinin bərpası və digər səbəblərlə əlaqədar müvafiq icra hakimiyyəti orqanı tərəfindən əkin dövriyyəsindən müvəqqəti çıxarılan (dincə qoyulan) torpaq sahələrinə görə əvəz almaq;'
+
+81. Location: Paragraph 883, Run 1
+   Text: '5. Hüquqi və ya fiziki şəxsə'
+   Type: single strikethrough
+   Full paragraph: '5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir'
+
+82. Location: Paragraph 883, Run 2
+   Text: 'istifadəyə'
+   Type: single strikethrough
+   Full paragraph: '5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir'
+
+83. Location: Paragraph 883, Run 3
+   Text: 'verilmiş torpaq sahəsi dövlət'
+   Type: single strikethrough
+   Full paragraph: '5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir'
+
+84. Location: Paragraph 883, Run 4
+   Text: 'ehtiyacları və ya'
+   Type: single strikethrough
+   Full paragraph: '5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir'
+
+85. Location: Paragraph 883, Run 5
+   Text: 'ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin.'
+   Type: single strikethrough
+   Full paragraph: '5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir'
+
+86. Location: Paragraph 883, Run 6
+   Text: 'Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir'
+   Type: single strikethrough
+   Full paragraph: '5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir'
+
+87. Location: Paragraph 901, Run 2
+   Text: ', bələdiyyə'
+   Type: single strikethrough
+   Full paragraph: 'dövlət, bələdiyyə və xüsusi mülkiyyətdə olan torpaqlar üzərində istifadə və icarə hüquqları.'
+
+88. Location: Paragraph 905, Run 2
+   Text: 'haqqı ödənilməklə istifadə və'
+   Type: single strikethrough
+   Full paragraph: '4. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə, xarici hüquqi şəxslərə, beynəlxalq birliklərə və təşkilatlara, habelə xarici dövlətlərə torpaqlar yalnız haqqı ödənilməklə istifadə və icarə hüququnda verilə bilər.'
+
+89. Location: Paragraph 926, Run 1
+   Text: 'Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləşən fərdi yaşayış evinə mülkiyyət hüququ keçərkən tərəflərin razılaşması ilə başqa hal nəzərdə tutulmayıbsa, müəyyənləşdirilən torpaq sahəsinə hüquqlar həmin evi əldə edənə keçir. Əgər yaşayış evinin özgəninkiləşdirilməsi haqqında müqavilədə ayrı qayda nəzərdə tutulmayıbsa, torpaq sahəsinin ev yerləşən və ondan istifadə üçün zəruri olan hissəsinə mülkiyyət hüququ əldə edənə keçir.'
+   Type: single strikethrough
+   Full paragraph: 'Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləşən fərdi yaşayış evinə mülkiyyət hüququ keçərkən tərəflərin razılaşması ilə başqa hal nəzərdə tutulmayıbsa, müəyyənləşdirilən torpaq sahəsinə hüquqlar həmin evi əldə edənə keçir. Əgər yaşayış evinin özgəninkiləşdirilməsi haqqında müqavilədə ayrı qayda nəzərdə tutulmayıbsa, torpaq sahəsinin ev yerləşən və ondan istifadə üçün zəruri olan hissəsinə mülkiyyət hüququ əldə edənə keçir.'
+
+90. Location: Paragraph 957, Run 5
+   Text: ', o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar'
+   Type: single strikethrough
+   Full paragraph: '2. Əgər nə qanun üzrə, nə də vəsiyyət üzrə vərəsə yoxdursa və ya bütün vərəsələr mirasdan imtina etmişsə, yaxud bütün vərəsələr vərəsəlik hüququndan məhrum edilmişdirsə, vərəsələri olmayan torpaq dövlətə keçir; əgər miras qoyan şəxs ahıllar və əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar üçün sosial xidmət müəssisələrinin, müalicə, tərbiyə və sosial təminat müəssisələrinin təminatında olmuşdursa, həmin müəssisənin mülkiyyətinə keçir.'
+
+91. Location: Paragraph 1000, Run 1
+   Text: '4. Bələdiyyələrin kənd təsərrüfatına az yararlı və yararsız torpaqları'
+   Type: single strikethrough
+   Full paragraph: '4. Bələdiyyələrin kənd təsərrüfatına az yararlı və yararsız torpaqları öz vəsaitləri hesabına yararlı hala salaraq kənd təsərrüfatı məhsulları istehsal edən Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə satıldıqda bu torpaqlarda torpaq qanunvericiliyi ilə müəyyən edilmiş qiymət güzəştləri tətbiq olunur.'
+
+92. Location: Paragraph 1000, Run 2
+   Text: 'öz vəsaitləri hesabına yararlı hala salaraq kənd təsərrüfatı məhsulları istehsal edən Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə satıldıqda bu torpaqlarda torpaq qanunvericiliyi ilə müəyyən edilmiş qiymət güzəştləri tətbiq olunur'
+   Type: single strikethrough
+   Full paragraph: '4. Bələdiyyələrin kənd təsərrüfatına az yararlı və yararsız torpaqları öz vəsaitləri hesabına yararlı hala salaraq kənd təsərrüfatı məhsulları istehsal edən Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə satıldıqda bu torpaqlarda torpaq qanunvericiliyi ilə müəyyən edilmiş qiymət güzəştləri tətbiq olunur.'
+
+93. Location: Paragraph 1000, Run 3
+   Text: '.'
+   Type: single strikethrough
+   Full paragraph: '4. Bələdiyyələrin kənd təsərrüfatına az yararlı və yararsız torpaqları öz vəsaitləri hesabına yararlı hala salaraq kənd təsərrüfatı məhsulları istehsal edən Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə satıldıqda bu torpaqlarda torpaq qanunvericiliyi ilə müəyyən edilmiş qiymət güzəştləri tətbiq olunur.'
+
+94. Location: Paragraph 1002, Run 1
+   Text: '6. Torpaq sahələri dövlət'
+   Type: single strikethrough
+   Full paragraph: '6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur.'
+
+95. Location: Paragraph 1002, Run 2
+   Text: 'ehtiyaclarını'
+   Type: single strikethrough
+   Full paragraph: '6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur.'
+
+96. Location: Paragraph 1002, Run 3
+   Text: 'ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların'
+   Type: single strikethrough
+   Full paragraph: '6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur.'
+
+97. Location: Paragraph 1002, Run 4
+   Text: 'satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq'
+   Type: single strikethrough
+   Full paragraph: '6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur.'
+
+98. Location: Paragraph 1002, Run 5
+   Text: ', tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur.'
+   Type: single strikethrough
+   Full paragraph: '6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur.'
+
+99. Location: Paragraph 1004, Run 1
+   Text: '8. Torpaq sahələri (xüsusi mülkiyyətdə olan torpaqlar istisna olmaqla) bağışlanıldıqda, dəyişdirildikdə və vərəsəliyə verildikdə onlar müvafiq icra hakimiyyəti orqanı və ya bələdiyyələr tərəfindən müəyyən edilən qaydada normativ qiymətlərdən az olmamaq şərti ilə qiymətləndirilir.'
+   Type: single strikethrough
+   Full paragraph: '8. Torpaq sahələri (xüsusi mülkiyyətdə olan torpaqlar istisna olmaqla) bağışlanıldıqda, dəyişdirildikdə və vərəsəliyə verildikdə onlar müvafiq icra hakimiyyəti orqanı və ya bələdiyyələr tərəfindən müəyyən edilən qaydada normativ qiymətlərdən az olmamaq şərti ilə qiymətləndirilir.'
+
+100. Location: Paragraph 1006, Run 2
+   Text: 'ilkin'
+   Type: single strikethrough
+   Full paragraph: '10. İpoteka predmeti olan torpaq sahəsinə tutma yönəldilərkən onun ilkin satış qiyməti normativ hüquqi aktlara uyğun olaraq bazar qiyməti nəzərə alınmaqla müəyyən edilir.'
+
+101. Location: Paragraph 1023, Run 2
+   Text: 'və bələdiyyə'
+   Type: single strikethrough
+   Full paragraph: '4. Dövlət və bələdiyyə mülkiyyətində olan torpaqların icarə haqqının aşağı həddi və hərraca (müsabiqəyə) çıxarılan dövlət və ya bələdiyyə mülkiyyətində olan torpaqların icarə haqqının ilkin qiyməti (qiyməti)onların təyinatından, sahəsindən, coğrafi yerləşməsindən və keyfiyyətindən asılı olaraq, müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş normativlər əsasında müəyyənləşdirilir. Həmin sənədlərdə torpağın normativ qiyməti, torpaq vergisi, habelə tələb və təklif nəzərə alınmalıdır.'
+
+102. Location: Paragraph 1025, Run 1
+   Text: '6. Kənd təsərrüfatına az yararlı və yararsız torpaqlar kənd təsərrüfatı ehtiyacları üçün icarəyə verildikdə, torpaq qanunvericiliyində nəzərdə tutulmuş imtiyazlar tətbiq olunur.'
+   Type: single strikethrough
+   Full paragraph: '6. Kənd təsərrüfatına az yararlı və yararsız torpaqlar kənd təsərrüfatı ehtiyacları üçün icarəyə verildikdə, torpaq qanunvericiliyində nəzərdə tutulmuş imtiyazlar tətbiq olunur.'
+
+103. Location: Paragraph 1108, Run 2
+   Text: 'Özbaşına tutulmuş (zəbt edilmiş) torpaqlar qanunvericiliklə müəyyən edilmiş qaydada geri qaytarılmadıqda, həmin torpaq sahəsinin kadastr dəyəri torpağı zəbt etmiş şəxs tərəfindən onun qanuni mülkiyyətçisinə ödənilməklə geri alınır.'
+   Type: single strikethrough
+   Full paragraph: '3. Torpaqların əvvəlki vəziyyətinə gətirilməsi (orada olan binaların, tikililər və qurğuların sökülməsi də daxil olmaqla) torpaqları zəbt etmiş hüquqi və fiziki şəxslər tərəfindən və ya onların hesabına həyata keçirilir. Özbaşına tutulmuş (zəbt edilmiş) torpaqlar qanunvericiliklə müəyyən edilmiş qaydada geri qaytarılmadıqda, həmin torpaq sahəsinin kadastr dəyəri torpağı zəbt etmiş şəxs tərəfindən onun qanuni mülkiyyətçisinə ödənilməklə geri alınır.'
+
+--------------------------------------------------
+
