@@ -1,7 +1,7 @@
 from docling.document_converter import DocumentConverter
 from pathlib import Path
 
-source = "assets/mulki-mecelle-full.pdf"  # document per local path or URL
+source = "assets/-Azərbaycan Respublikasının Torpaq Məcəlləsi.doc"  # document per local path or URL
 converter = DocumentConverter()
 result = converter.convert(source)
 
