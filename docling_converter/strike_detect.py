@@ -219,6 +219,9 @@ def main():
     # Specify the file path directly in the code
     FILE_PATH = r"D:\Downloads\code\code\Extra-Projects\rag-pipeline-eqanun\assets\-Azərbaycan Respublikasının Torpaq Məcəlləsi.docx"
     
+    # Extract filename for output file naming
+    filename = os.path.basename(FILE_PATH).replace('.docx', '').replace(' ', '_').replace('-', '_')
+    
     detector = StrikethroughDetector()
     
     try:
@@ -231,8 +234,12 @@ def main():
         print("=" * 60)
         print(json_output)
         
-        # Save JSON to file
-        output_file = "strikethrough_report.json"
+        # Save JSON to strikes_json folder in parent directory
+        parent_dir = Path(__file__).parent
+        strikes_json_dir = parent_dir / "strikes_json"
+        strikes_json_dir.mkdir(exist_ok=True)
+        
+        output_file = strikes_json_dir / f"{filename}_strikethrough_report.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(json_output)
         print(f"\nResults saved to: {output_file}")
@@ -250,8 +257,12 @@ def main():
         json_output = detector.get_results_as_json([error_result])
         print(f"Error occurred: {json_output}")
         
-        # Save error JSON to file
-        output_file = "strikethrough_report.json"
+        # Save error JSON to strikes_json folder in parent directory
+        parent_dir = Path(__file__).parent
+        strikes_json_dir = parent_dir / "strikes_json"
+        strikes_json_dir.mkdir(exist_ok=True)
+        
+        output_file = strikes_json_dir / f"{filename}_strikethrough_report.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(json_output)
         print(f"\nError results saved to: {output_file}")

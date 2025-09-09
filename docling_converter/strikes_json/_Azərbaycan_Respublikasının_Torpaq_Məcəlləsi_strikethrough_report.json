@@ -1,0 +1,730 @@
+[
+    {
+        "file_path": "D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\assets\\-Azərbaycan Respublikasının Torpaq Məcəlləsi.docx",
+        "filename": "-Azərbaycan Respublikasının Torpaq Məcəlləsi.docx",
+        "strikethrough_count": 103,
+        "strikethrough_items": [
+            {
+                "type": "paragraph",
+                "location": "Paragraph 78, Run 2",
+                "text": ", istifadəsinə",
+                "strike_type": "single",
+                "paragraph_text": "hüquqi və fiziki şəxslərin mülkiyyətinə, istifadəsinə və icarəsinə verilən (satılan) torpaq sahələrinin minimum həddinin müəyyən edilməsi;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 107, Run 2",
+                "text": "torpaq üzərində hüquqları təsdiq edən dövlət aktlarında, şəhadətnamələrdə,",
+                "strike_type": "single",
+                "paragraph_text": "5. Torpağın kateqoriyaları torpağın verilməsi barədə müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarında, torpaq üzərində hüquqları təsdiq edən dövlət aktlarında, şəhadətnamələrdə, dövlət torpaq kadastrı sənədlərində, torpaq qeydiyyatı kitablarında və bu Məcəllədə göstərilən digər sənədlərdə əks olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 123, Run 2",
+                "text": "(uqodiyaları)",
+                "strike_type": "single",
+                "paragraph_text": "2. Kənd təsərrüfatı təyinatlı torpaqların tərkibinə kənd təsərrüfatı yerləri (uqodiyaları), meşə zolaqlarının, təsərrüfatdaxili yolların, kommunikasiyaların, bataqlıqların, sututarların, kənd təsərrüfatının aparılması üçün vacib olan tikili və qurğuların altında olan torpaqlar daxildir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 125, Run 2",
+                "text": "(uqodiyaları)",
+                "strike_type": "single",
+                "paragraph_text": "4. Kənd təsərrüfatı yerləri (uqodiyaları) xüsusi olaraq qorunur. Bu torpaqların qeyri-kənd təsərrüfatı məqsədilə digər kateqoriyalara keçirilməsinə müstəsna hallarda bu Məcəllədə və digər qanunvericilik aktlarında müəyyən edilmiş qaydada, müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı ilə yol verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 125, Run 4",
+                "text": "və ya bələdiyyənin",
+                "strike_type": "single",
+                "paragraph_text": "4. Kənd təsərrüfatı yerləri (uqodiyaları) xüsusi olaraq qorunur. Bu torpaqların qeyri-kənd təsərrüfatı məqsədilə digər kateqoriyalara keçirilməsinə müstəsna hallarda bu Məcəllədə və digər qanunvericilik aktlarında müəyyən edilmiş qaydada, müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı ilə yol verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 187, Run 4",
+                "text": ", istirahət (rekreasiya)",
+                "strike_type": "single",
+                "paragraph_text": "təbiət abidələri, təbii parklar, milli dendroloji parklar, nəbatat bağları, meşə yerləşən, turizm və rekreasiya, habelə əhalinin kütləvi istirahəti üçün istifadə olunan xüsusi qorunan ərazilərin, təbiəti mühafizə, təbii qoruq, sağlamlaşdırma, istirahət (rekreasiya) və tarix-mədəniyyət təyinatlı obyektlərin torpaqları, habelə təbii müalicəvi xassəyə malik olan mənbələr yerləşən və tarix-mədəniyyət abidələri, muzey-qoruqlar və xatirə parkları, qəbiristanlıqlar, məzarlar, arxeoloji abidələr və digər obyektlər yerləşdiyi torpaq sahələri;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 234, Run 2",
+                "text": "və yerli özünüidarə",
+                "strike_type": "single",
+                "paragraph_text": "6. Müdafiə və təhlükəsizlik ehtiyacları üçün verilmiş torpaqların istifadə edilməyən və kənd təsərrüfatına yararlı sahələri bu maddənin 1-ci bəndində göstərilən istifadəçinin razılığına əsasən, müvafiq icra hakimiyyəti və yerli özünüidarə orqanlarının qərarı ilə kənd təsərrüfatı istehsalı üçün Azərbaycan Respublikasının hüquqi və fiziki şəxslərinin müvəqqəti istifadəsinə və icarəsinə verilə bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 322, Run 3",
+                "text": "və ya",
+                "strike_type": "single",
+                "paragraph_text": "2. Su fondu torpaqları əhalinin içməli suya tələbatını, məişət, sağlamlaşdırma və digər ehtiyaclarını təmin edən qurğuların tikintisi və istismarı üçün, eləcə də su təsərrüfatı, kənd təsərrüfatı, balıqçılıq təsərrüfatı sənaye, energetika, nəqliyyat və digər dövlət ehtiyaclarının və ya ictimai ehtiyacların təmin edilməsi üçün istifadə edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 322, Run 4",
+                "text": "ictimai ehtiyacların",
+                "strike_type": "single",
+                "paragraph_text": "2. Su fondu torpaqları əhalinin içməli suya tələbatını, məişət, sağlamlaşdırma və digər ehtiyaclarını təmin edən qurğuların tikintisi və istismarı üçün, eləcə də su təsərrüfatı, kənd təsərrüfatı, balıqçılıq təsərrüfatı sənaye, energetika, nəqliyyat və digər dövlət ehtiyaclarının və ya ictimai ehtiyacların təmin edilməsi üçün istifadə edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 323, Run 2",
+                "text": "istifadəsinə və",
+                "strike_type": "single",
+                "paragraph_text": "3. Su fondu torpaqları bu Məcəllə, Azərbaycan Respublikasının Su Məcəlləsi və digər qanunvericiliyi ilə nəzərdə tutulmuş qaydada bələdiyyə mülkiyyətinə, hüquqi və fiziki şəxslərin istifadəsinə və icarəsinə, dövlət orqanlarının (qurumlarının) istifadəsinə verilə bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 383, Run 3",
+                "text": "və ictimai ehtiyaclar",
+                "strike_type": "single",
+                "paragraph_text": "qanunla nəzərdə tutulmuş qaydada dövlət ehtiyacları və ictimai ehtiyaclar üçün torpaqların geri alınması və verilməsi, torpaqların əsas məqsədli təyinatının dəyişdirilməsi və digər yerquruluşu məsələlərinin həlli ilə bağlı sənədlərin rəsmiləşdirilməsi, onların müvafiq icra hakimiyyəti orqanlarının təsdiqinə təqdim edilməsi;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 383, Run 5",
+                "text": "geri",
+                "strike_type": "single",
+                "paragraph_text": "qanunla nəzərdə tutulmuş qaydada dövlət ehtiyacları və ictimai ehtiyaclar üçün torpaqların geri alınması və verilməsi, torpaqların əsas məqsədli təyinatının dəyişdirilməsi və digər yerquruluşu məsələlərinin həlli ilə bağlı sənədlərin rəsmiləşdirilməsi, onların müvafiq icra hakimiyyəti orqanlarının təsdiqinə təqdim edilməsi;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 480, Run 4",
+                "text": "dövlət məqsədləri üçün",
+                "strike_type": "single",
+                "paragraph_text": "2-1. Xəzər dənizinin, (gölünün) Azərbaycan Respublikasına mənsub olan bölməsinin sahilboyu 20-50 metrlik zolağının altında olan torpaq sahələri dövlətin mülkiyyətində qalmaqla özgəninkiləşdirilə bilməz və yalnız dövlət məqsədləri üçün müvafiq icra hakimiyyəti orqanının qərarı ilə istifadəyə və icarəyə verilə bilər. Bu maddənin birinci cümləsinə uyğun olaraq istifadəyə və ya icarəyə verilməsi barədə qərar qəbul edilmiş Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsinin sahilboyu 20-50 metrlik zolağının altında olan torpaq sahəsi müvafiq icra hakimiyyəti orqanının icazəsi əsasında dənizin sahilinə gediş-gəlişi məhdudlaşdırmamaq şərti ilə hasara alınma yolu ilə və ya digər üsullarla bağlanıla bilər. Yalnız dövlətin iqtisadi və ya təhlükəsizlik mənafelərinin təmin edilməsi ilə əlaqədar müvafiq icra hakimiyyəti orqanının qərarı ilə həmin torpaq sahələrinə gediş-gəliş məhdudlaşdırıla bilər. Göstərilən sahilboyu zolağın qrafiki təsviri müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir. Sahilboyu zolaq Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsinin su səthinin quru ilə bu qanun qüvvəyə mindikdən sonra mövcud olan təmas xəttindən hesablanır. Sahilboyu zolağın qrafiki təsvirində həmçinin zolağın 20 metrdən 50 metrədək müəyyənləşdirilməsinə əsas olan su səthinin quru ilə təmas xəttinin mövcud və təbii təsirlərlə əlaqədar dəyişən vəziyyəti öz əksini tapmalıdır. İctimai çimərliklərdə (müvafiq icra hakimiyyəti orqanı və ya bələdiyyələr tərəfindən yaradılan və ya bu məqsədlər üçün hüquqi və fiziki şəxslərə icarəyə verilən, gediş-gəlişi məhdudlaşdırılmayan çimərlik) sahilboyu 20-50 metrlik zolağın altında olan torpaq sahəsinin dənizin sahilinə gediş-gəlişi məhdudlaşdırmamaq şərti ilə hasara alınma yolu ilə və ya digər üsullarla bağlanmasına o halda yol verilir ki, hasar və ya bağlanma üçün istifadə edilən tikinti konstruksiyaları qəfəsəli olmaqla, sahil tərəfdən dənizin və onun sahilində su ilə qurunun təmas xəttinin görünməsini məhdudlaşdırmasın və həmin hasarın və ya tikinti konstruksiyasının sahilboyu uzunluğunun hər 200 metrindən bir dövlət sərhədinin mühafizəsinin təmin olunması məqsədi ilə nəqliyyat vasitələrinin hərəkəti üçün yetərli olan eni 6 metrdən az olmayaraq sahilə birbaşa keçid təmin olunsun."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 610, Run 3",
+                "text": ", hüquqi və fiziki şəxslərin istifadəsinə və icarəsinə verilmiş kənd təsərrüfatına azyararlı və yararsız torpaqların öz vəsaiti hesabına yararlı hala salınmış kənd təsərrüfatı təyinatlı torpaqları, qeyri-kənd təsərrüfatı məqsədləri üçün istifadəyə və icarəyə verilmiş torpaq sahələri",
+                "strike_type": "single",
+                "paragraph_text": "2. Bələdiyyələrin ehtiyat fondunun özəlləşdirilə bilən torpaqları xüsusi mülkiyyətə satıla bilər. Bələdiyyələrin ehtiyat fondunun yaşayış məntəqələrinin perspektiv inkişafı üçün cəlb olunan torpaq sahələri, habelə kənd təsərrüfatına azyararlı və yararsız torpaqları, hüquqi və fiziki şəxslərin istifadəsinə və icarəsinə verilmiş kənd təsərrüfatına azyararlı və yararsız torpaqların öz vəsaiti hesabına yararlı hala salınmış kənd təsərrüfatı təyinatlı torpaqları, qeyri-kənd təsərrüfatı məqsədləri üçün istifadəyə və icarəyə verilmiş torpaq sahələri özəlləşdirilə bilər. Özəlləşdirilməsi barədə qərar qəbul edilənədək bu torpaqlar ərazinin perspektiv inkişaf proqramına xələl gətirməmək şərtilə hüquqi və fiziki şəxslərin müvəqqəti istifadəsinə və icarəsinə verilə bilər. Bələdiyyənin ərazisində daimi yaşayan və eyni zamanda ən azı beş il müddətində yaşayış yeri üzrə qeydiyyatda olan Azərbaycan Respublikası vətəndaşlarının mülkiyyətinə Bələdiyyə torpaqlarının idarə edilməsi haqqında” Azərbaycan Respublikası Qanununun 9.8-ci maddəsi ilə müəyyən edilmiş məhdudiyyət nəzərə alınmaqla fərdi yaşayış evinin tikintisi üçün torpağın ayrılması, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən irəli gələn öhdəlikləri yerinə yetirmək məqsədi ilə torpağın dövlət mülkiyyətinə və ya icarəsinə verilməsi, “Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq bərpa olunan enerji mənbələri ərazisinin əhatə etdiyi torpaq sahəsinin dövlət mülkiyyətinə və ya icarəsinə, elektrik enerjisi istehsalçısının icarəsinə verilməsi istisna olmaqla, digər hallarda bələdiyyə torpaqları üzərində mülkiyyət və icarə hüquqları yalnız açıq torpaq hərracları və ya müsabiqələri vasitəsilə əldə edilə bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 610, Run 7",
+                "text": "müvəqqəti istifadəsinə və",
+                "strike_type": "single",
+                "paragraph_text": "2. Bələdiyyələrin ehtiyat fondunun özəlləşdirilə bilən torpaqları xüsusi mülkiyyətə satıla bilər. Bələdiyyələrin ehtiyat fondunun yaşayış məntəqələrinin perspektiv inkişafı üçün cəlb olunan torpaq sahələri, habelə kənd təsərrüfatına azyararlı və yararsız torpaqları, hüquqi və fiziki şəxslərin istifadəsinə və icarəsinə verilmiş kənd təsərrüfatına azyararlı və yararsız torpaqların öz vəsaiti hesabına yararlı hala salınmış kənd təsərrüfatı təyinatlı torpaqları, qeyri-kənd təsərrüfatı məqsədləri üçün istifadəyə və icarəyə verilmiş torpaq sahələri özəlləşdirilə bilər. Özəlləşdirilməsi barədə qərar qəbul edilənədək bu torpaqlar ərazinin perspektiv inkişaf proqramına xələl gətirməmək şərtilə hüquqi və fiziki şəxslərin müvəqqəti istifadəsinə və icarəsinə verilə bilər. Bələdiyyənin ərazisində daimi yaşayan və eyni zamanda ən azı beş il müddətində yaşayış yeri üzrə qeydiyyatda olan Azərbaycan Respublikası vətəndaşlarının mülkiyyətinə Bələdiyyə torpaqlarının idarə edilməsi haqqında” Azərbaycan Respublikası Qanununun 9.8-ci maddəsi ilə müəyyən edilmiş məhdudiyyət nəzərə alınmaqla fərdi yaşayış evinin tikintisi üçün torpağın ayrılması, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən irəli gələn öhdəlikləri yerinə yetirmək məqsədi ilə torpağın dövlət mülkiyyətinə və ya icarəsinə verilməsi, “Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq bərpa olunan enerji mənbələri ərazisinin əhatə etdiyi torpaq sahəsinin dövlət mülkiyyətinə və ya icarəsinə, elektrik enerjisi istehsalçısının icarəsinə verilməsi istisna olmaqla, digər hallarda bələdiyyə torpaqları üzərində mülkiyyət və icarə hüquqları yalnız açıq torpaq hərracları və ya müsabiqələri vasitəsilə əldə edilə bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 611, Run 2",
+                "text": "istifadəyə və",
+                "strike_type": "single",
+                "paragraph_text": "3. Bələdiyyələrin ehtiyat fondunun kənd təsərrüfatı təyinatlı torpaqları yalnız kənd təsərrüfatı istehsalı üçün istifadəyə və icarəyə verilə bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 624, Run 3",
+                "text": ", istifadəyə",
+                "strike_type": "single",
+                "paragraph_text": "8. Müvafiq icra hakimiyyəti orqanları və bələdiyyələr mülkiyyətə, istifadəyə və icarəyə verilməsi nəzərdə tutulan sərbəst torpaq sahələri və yeni torpaqların mülki dövriyyəyə cəlb edilməsi proqramları barədə əhaliyə məlumat verməli və mediada hər il hesabat dərc etdirməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 653, Run 2",
+                "text": "və ya icarəsinə",
+                "strike_type": "single",
+                "paragraph_text": "kooperativlərinin mülkiyyətinə və ya icarəsinə;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 665, Run 1",
+                "text": "Maddə 61.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 61. Çoxmənzilli yaşayış evlərinə aid torpaq sahələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 665, Run 2",
+                "text": "Çoxmənzilli yaşayış evlərinə aid torpaq sahələri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 61. Çoxmənzilli yaşayış evlərinə aid torpaq sahələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 667, Run 1",
+                "text": "1. Dövlət və bələdiyyə mülkiyyətində olan (yaxud qismən özəlləşdirilmiş) çoxmənzilli yaşayış evlərinə aid torpaq sahələri dövlət və ya bələdiyyə mülkiyyətində qalmaqla, həmin evləri idarə edən müvafiq təşkilatların daimi istifadəsinə verilir.",
+                "strike_type": "single",
+                "paragraph_text": "1. Dövlət və bələdiyyə mülkiyyətində olan (yaxud qismən özəlləşdirilmiş) çoxmənzilli yaşayış evlərinə aid torpaq sahələri dövlət və ya bələdiyyə mülkiyyətində qalmaqla, həmin evləri idarə edən müvafiq təşkilatların daimi istifadəsinə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 668, Run 1",
+                "text": "2. Tam olaraq özəlləşdirilmiş çoxmənzilli yaşayış evlərinin, habelə onlara aid olan qeyri-yaşayış binalarının torpaq sahələri həmin evlərin idarə edilməsi üçün onların sakinləri tərəfindən təsis edilmiş özünüidarəetmə təşkilatlarının daimi istifadəsinə verilir.",
+                "strike_type": "single",
+                "paragraph_text": "2. Tam olaraq özəlləşdirilmiş çoxmənzilli yaşayış evlərinin, habelə onlara aid olan qeyri-yaşayış binalarının torpaq sahələri həmin evlərin idarə edilməsi üçün onların sakinləri tərəfindən təsis edilmiş özünüidarəetmə təşkilatlarının daimi istifadəsinə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 669, Run 1",
+                "text": "3. Çoxmənzilli yaşayış evlərinə aid torpaq sahələrinin təyinatından kənar məqsədlər üçün istifadəsinə, habelə xüsusi mülkiyyətə və icarəyə verilməsinə yol verilmir.",
+                "strike_type": "single",
+                "paragraph_text": "3. Çoxmənzilli yaşayış evlərinə aid torpaq sahələrinin təyinatından kənar məqsədlər üçün istifadəsinə, habelə xüsusi mülkiyyətə və icarəyə verilməsinə yol verilmir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 692, Run 2",
+                "text": "Torpaq sahəsinin istifadəyə və ya icarəyə verilməsi (satılması) barədə müvafiq qərar qəbul edildikdən sonra həmin sahənin sərhədləri yerdə (naturada) müəyyən edilir.",
+                "strike_type": "single",
+                "paragraph_text": "3. Torpaq sahəsinin istifadəyə və ya icarəyə verilməsi (satılması) barədə müvafiq qərar qəbul edildikdən sonra həmin sahənin sərhədləri yerdə (naturada) müəyyən edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 706, Run 1",
+                "text": "3. Torpaqdan (o cümlədən, icarə şərtləri ilə verilmiş torpaqdan) müvəqqəti istifadə hüququ müvafiq icra hakimiyyəti orqanı tərəfindən verilən şəhadətnamə və tərəflər arasında bağlanılan icarə müqaviləsi ilə rəsmiləşdirilir.",
+                "strike_type": "single",
+                "paragraph_text": "3. Torpaqdan (o cümlədən, icarə şərtləri ilə verilmiş torpaqdan) müvəqqəti istifadə hüququ müvafiq icra hakimiyyəti orqanı tərəfindən verilən şəhadətnamə və tərəflər arasında bağlanılan icarə müqaviləsi ilə rəsmiləşdirilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 707, Run 2",
+                "text": "Dövlət aktının, şəhadətnamənin,",
+                "strike_type": "single",
+                "paragraph_text": "4. Dövlət aktının, şəhadətnamənin, alqı-satqı, ipoteka, istifadə və icarə müqavilələrinin nümunəvi formaları qanunvericiliklə müəyyən olunmuş qaydada təsdiq edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 707, Run 4",
+                "text": "ipoteka,",
+                "strike_type": "single",
+                "paragraph_text": "4. Dövlət aktının, şəhadətnamənin, alqı-satqı, ipoteka, istifadə və icarə müqavilələrinin nümunəvi formaları qanunvericiliklə müəyyən olunmuş qaydada təsdiq edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 708, Run 1",
+                "text": "5. Torpaq üzərində hüquq daşınmaz əmlakın dövlət reyestrində qanunvericiliklə müəyyən edilmiş qaydada qeydə alınır",
+                "strike_type": "single",
+                "paragraph_text": "5. Torpaq üzərində hüquq daşınmaz əmlakın dövlət reyestrində qanunvericiliklə müəyyən edilmiş qaydada qeydə alınır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 708, Run 2",
+                "text": ".",
+                "strike_type": "single",
+                "paragraph_text": "5. Torpaq üzərində hüquq daşınmaz əmlakın dövlət reyestrində qanunvericiliklə müəyyən edilmiş qaydada qeydə alınır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 714, Run 1",
+                "text": "2. Dövlət torpaq kadastrında və dövlət torpaq reyestrində",
+                "strike_type": "single",
+                "paragraph_text": "2. Dövlət torpaq kadastrında və dövlət torpaq reyestrində habelə qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində torpaq sahələri üzərində mülkiyyətçilərin, istifadəçilərin və icarəçilərin hüquqları və vəzifələri barədə qeydlər əsas təsdiqedici və hüquq müəyyənedici sənəddir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 714, Run 2",
+                "text": "habelə qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində",
+                "strike_type": "single",
+                "paragraph_text": "2. Dövlət torpaq kadastrında və dövlət torpaq reyestrində habelə qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində torpaq sahələri üzərində mülkiyyətçilərin, istifadəçilərin və icarəçilərin hüquqları və vəzifələri barədə qeydlər əsas təsdiqedici və hüquq müəyyənedici sənəddir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 714, Run 3",
+                "text": "torpaq sahələri üzərində mülkiyyətçilərin, istifadəçilərin və icarəçilərin hüquqları və vəzifələri barədə qeydlər əsas təsdiqedici və hüquq müəyyənedici sənəddir.",
+                "strike_type": "single",
+                "paragraph_text": "2. Dövlət torpaq kadastrında və dövlət torpaq reyestrində habelə qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində torpaq sahələri üzərində mülkiyyətçilərin, istifadəçilərin və icarəçilərin hüquqları və vəzifələri barədə qeydlər əsas təsdiqedici və hüquq müəyyənedici sənəddir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 735, Run 1",
+                "text": "Maddə 71.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 71. Torpaq sahələrinin tikinti altına verilməsi üçün geri alınması şərtləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 735, Run 2",
+                "text": "Torpaq sahələrinin tikinti altına verilməsi üçün geri alınması şərtləri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 71. Torpaq sahələrinin tikinti altına verilməsi üçün geri alınması şərtləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 737, Run 1",
+                "text": "1. Müvafiq icra hakimiyyəti orqanı və ya bələdiyyə xüsusi mülkiyyətdə, istifadədə və ya icarədə olan torpaq sahəsini tikinti altına vermək üçün onu bu Məcəllədə və digər normativ-hüquqi aktlarda müəyyən edilmiş qaydada geri ala bilər. Bu zaman aşağıdakı şərtlərə əməl olunmalıdır:",
+                "strike_type": "single",
+                "paragraph_text": "1. Müvafiq icra hakimiyyəti orqanı və ya bələdiyyə xüsusi mülkiyyətdə, istifadədə və ya icarədə olan torpaq sahəsini tikinti altına vermək üçün onu bu Məcəllədə və digər normativ-hüquqi aktlarda müəyyən edilmiş qaydada geri ala bilər. Bu zaman aşağıdakı şərtlərə əməl olunmalıdır:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 738, Run 1",
+                "text": "geri alınması nəzərdə tutulan torpaq sahəsi üçün özgəninkiləşdirilmə zonasının müəyyən edilməsi və həmin zonanın dövlət torpaq kadastrında və digər müvafiq qeydiyyat sənədlərində əks etdirilməsi;",
+                "strike_type": "single",
+                "paragraph_text": "geri alınması nəzərdə tutulan torpaq sahəsi üçün özgəninkiləşdirilmə zonasının müəyyən edilməsi və həmin zonanın dövlət torpaq kadastrında və digər müvafiq qeydiyyat sənədlərində əks etdirilməsi;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 739, Run 1",
+                "text": "geri alınması nəzərdə tutulan torpaq sahəsi üzərindəki daşınmaz əmlakın, o cümlədən xüsusi mülkiyyətdə olan torpaq sahəsinin satılmasından, yaxud həmin torpaq sahəsini geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən",
+                "strike_type": "single",
+                "paragraph_text": "geri alınması nəzərdə tutulan torpaq sahəsi üzərindəki daşınmaz əmlakın, o cümlədən xüsusi mülkiyyətdə olan torpaq sahəsinin satılmasından, yaxud həmin torpaq sahəsini geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən geri alınmasından sonra onların tikinti altına verilməsi üçün qanunvericilikdə müəyyən edilmiş qaydada müsabiqənin (tenderin, hərracın) elan edilməsi."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 739, Run 2",
+                "text": "geri",
+                "strike_type": "single",
+                "paragraph_text": "geri alınması nəzərdə tutulan torpaq sahəsi üzərindəki daşınmaz əmlakın, o cümlədən xüsusi mülkiyyətdə olan torpaq sahəsinin satılmasından, yaxud həmin torpaq sahəsini geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən geri alınmasından sonra onların tikinti altına verilməsi üçün qanunvericilikdə müəyyən edilmiş qaydada müsabiqənin (tenderin, hərracın) elan edilməsi."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 739, Run 3",
+                "text": "alınmasından sonra onların tikinti altına verilməsi üçün qanunvericilikdə müəyyən edilmiş qaydada müsabiqənin (tenderin, hərracın) elan edilməsi.",
+                "strike_type": "single",
+                "paragraph_text": "geri alınması nəzərdə tutulan torpaq sahəsi üzərindəki daşınmaz əmlakın, o cümlədən xüsusi mülkiyyətdə olan torpaq sahəsinin satılmasından, yaxud həmin torpaq sahəsini geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən geri alınmasından sonra onların tikinti altına verilməsi üçün qanunvericilikdə müəyyən edilmiş qaydada müsabiqənin (tenderin, hərracın) elan edilməsi."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 740, Run 1",
+                "text": "2. Torpaq sahələrinin özgəninkiləşdirmə zonasına aid edilməsi yalnız dövlət",
+                "strike_type": "single",
+                "paragraph_text": "2. Torpaq sahələrinin özgəninkiləşdirmə zonasına aid edilməsi yalnız dövlət ehtiyaclarının və ya ictimai ehtiyacların ödənilməsi məqsədilə aparılır və ərazinin planlaşdırılmasına və yaşayış məntəqələrinin baş planına uyğun olaraq, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən həyata keçirilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 740, Run 2",
+                "text": "ehtiyaclarının və ya",
+                "strike_type": "single",
+                "paragraph_text": "2. Torpaq sahələrinin özgəninkiləşdirmə zonasına aid edilməsi yalnız dövlət ehtiyaclarının və ya ictimai ehtiyacların ödənilməsi məqsədilə aparılır və ərazinin planlaşdırılmasına və yaşayış məntəqələrinin baş planına uyğun olaraq, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən həyata keçirilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 740, Run 3",
+                "text": "ictimai ehtiyacların ödənilməsi məqsədilə aparılır və ərazinin planlaşdırılmasına və yaşayış məntəqələrinin baş planına uyğun olaraq, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən həyata keçirilir.",
+                "strike_type": "single",
+                "paragraph_text": "2. Torpaq sahələrinin özgəninkiləşdirmə zonasına aid edilməsi yalnız dövlət ehtiyaclarının və ya ictimai ehtiyacların ödənilməsi məqsədilə aparılır və ərazinin planlaşdırılmasına və yaşayış məntəqələrinin baş planına uyğun olaraq, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən həyata keçirilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 741, Run 1",
+                "text": "3. Torpaq sahəsinin geri alınması haqqında qərardan iddia bu barədə yazılı bildiriş həmin sahənin mülkiyyətçisinə göndərildiyi gündən bir il ərzində verilə bilər.",
+                "strike_type": "single",
+                "paragraph_text": "3. Torpaq sahəsinin geri alınması haqqında qərardan iddia bu barədə yazılı bildiriş həmin sahənin mülkiyyətçisinə göndərildiyi gündən bir il ərzində verilə bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 743, Run 1",
+                "text": "Maddə 72.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 72. Torpaq sahələrinin geri alınması ilə əlaqədar məsələlərin baxışı zamanı hüquqi və fiziki şəxslərin iştirakı"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 743, Run 2",
+                "text": "Torpaq sahələrinin geri alınması ilə əlaqədar məsələlərin baxışı zamanı hüquqi və fiziki şəxslərin iştirakı",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 72. Torpaq sahələrinin geri alınması ilə əlaqədar məsələlərin baxışı zamanı hüquqi və fiziki şəxslərin iştirakı"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 745, Run 1",
+                "text": "1. Torpaq sahələrinin geri alınmasına dair baxılan məsələ hər hansı hüquqi və ya fiziki şəxsin mənafelərinə toxunarsa, həmin şəxsin (onun müvəkkilinin) bu məsələnin baxılmasında iştirak etmək hüququ vardır.",
+                "strike_type": "single",
+                "paragraph_text": "1. Torpaq sahələrinin geri alınmasına dair baxılan məsələ hər hansı hüquqi və ya fiziki şəxsin mənafelərinə toxunarsa, həmin şəxsin (onun müvəkkilinin) bu məsələnin baxılmasında iştirak etmək hüququ vardır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 746, Run 1",
+                "text": "2. Torpaq sahələrinin geri alınması barədə müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı hüquqi və fiziki şəxslərin mənafeyinə toxunarsa, həmin qərar yalnız bu şəxslərin rəyi nəzərə alınmaqla qəbul edilə bilər.",
+                "strike_type": "single",
+                "paragraph_text": "2. Torpaq sahələrinin geri alınması barədə müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı hüquqi və fiziki şəxslərin mənafeyinə toxunarsa, həmin qərar yalnız bu şəxslərin rəyi nəzərə alınmaqla qəbul edilə bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 785, Run 2",
+                "text": "mülkiyyət",
+                "strike_type": "single",
+                "paragraph_text": "3. Bu Məcəllənin 73-cü maddəsinin 1-ci bəndinin 5-ci, 7-ci, 10-cu abzaslarında nəzərdə tutulan hallarda torpaq sahələri üzərində mülkiyyət, istifadə və icarə hüquqlarına xitam verilməsi haqqında qərar, buraxılmış nöqsanların (pozuntuların) müəyyən edilmiş vaxtda aradan qaldırılması barədə xəbərdarlıqdan sonra tədbirlər görülmədikdə qəbul edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 798, Run 1",
+                "text": "XVI fəsil",
+                "strike_type": "single",
+                "paragraph_text": "XVI fəsil"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 800, Run 1",
+                "text": "TORPAQ SAHƏLƏRİ ÜZƏRİNDƏ HÜQUQLARIN DÖVLƏT QEYDİYYATI",
+                "strike_type": "single",
+                "paragraph_text": "TORPAQ SAHƏLƏRİ ÜZƏRİNDƏ HÜQUQLARIN DÖVLƏT QEYDİYYATI"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 802, Run 1",
+                "text": "Maddə 78.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 78. Torpaq sahələrinin və onların üzərində hüquqların dövlət qeydiyyatının ümumi qaydaları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 802, Run 2",
+                "text": "",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 78. Torpaq sahələrinin və onların üzərində hüquqların dövlət qeydiyyatının ümumi qaydaları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 802, Run 3",
+                "text": "Torpaq sahələrinin və onların üzərində hüquqların dövlət qeydiyyatının ümumi qaydaları",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 78. Torpaq sahələrinin və onların üzərində hüquqların dövlət qeydiyyatının ümumi qaydaları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 804, Run 1",
+                "text": "1. Torpaq sahəsinin dövlət qeydiyyatı dövlət torpaq kadastrında aparılır.",
+                "strike_type": "single",
+                "paragraph_text": "1. Torpaq sahəsinin dövlət qeydiyyatı dövlət torpaq kadastrında aparılır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 805, Run 1",
+                "text": "2. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatı torpaq sahəsinin yerləşdiyi ərazi üzrə dövlət reyestrinə aşağıdakı məlumatların daxil edilməsi ilə aparılır:",
+                "strike_type": "single",
+                "paragraph_text": "2. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatı torpaq sahəsinin yerləşdiyi ərazi üzrə dövlət reyestrinə aşağıdakı məlumatların daxil edilməsi ilə aparılır:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 806, Run 1",
+                "text": "torpaq sahəsi üzərində hüququ əldə edən şəxs barədə məlumat;",
+                "strike_type": "single",
+                "paragraph_text": "torpaq sahəsi üzərində hüququ əldə edən şəxs barədə məlumat;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 807, Run 1",
+                "text": "torpaq sahəsinin təsviri (torpağın kateqoriyası, istifadə məqsədi, torpaq uqodiyasının növü, torpaq sahəsinin ölçüsü, sərhədləri, kadastr nömrəsi və digər səciyyəvi xüsusiyyətləri göstərilməklə);",
+                "strike_type": "single",
+                "paragraph_text": "torpaq sahəsinin təsviri (torpağın kateqoriyası, istifadə məqsədi, torpaq uqodiyasının növü, torpaq sahəsinin ölçüsü, sərhədləri, kadastr nömrəsi və digər səciyyəvi xüsusiyyətləri göstərilməklə);"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 808, Run 1",
+                "text": "torpaq sahəsinin mülkiyyətə, istifadəyə və icarəyə verilməsi haqqında müqavilənin şərtləri, sahənin istifadəsində müəyyən edilmiş servitutlar, öhdəliklər və məhdudiyyətlər haqqında məlumatlar;",
+                "strike_type": "single",
+                "paragraph_text": "torpaq sahəsinin mülkiyyətə, istifadəyə və icarəyə verilməsi haqqında müqavilənin şərtləri, sahənin istifadəsində müəyyən edilmiş servitutlar, öhdəliklər və məhdudiyyətlər haqqında məlumatlar;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 809, Run 1",
+                "text": "torpaq sahəsi barədə sərəncam verilməsinə dair əqdlərin bağlanması və digər fəaliyyət barədə məlumatlar;",
+                "strike_type": "single",
+                "paragraph_text": "torpaq sahəsi barədə sərəncam verilməsinə dair əqdlərin bağlanması və digər fəaliyyət barədə məlumatlar;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 810, Run 1",
+                "text": "torpaq sahəsinə dair əqdlərin bağlanmasına qadağanlar müəyyən edilməsinə dair məlumatlar;",
+                "strike_type": "single",
+                "paragraph_text": "torpaq sahəsinə dair əqdlərin bağlanmasına qadağanlar müəyyən edilməsinə dair məlumatlar;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 811, Run 1",
+                "text": "torpaq sahəsinin dövlət və bələdiyyə ehtiyacları üçün özgəninkiləşdirilməsi barədə qərarların tarixi və nömrəsi;",
+                "strike_type": "single",
+                "paragraph_text": "torpaq sahəsinin dövlət və bələdiyyə ehtiyacları üçün özgəninkiləşdirilməsi barədə qərarların tarixi və nömrəsi;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 812, Run 1",
+                "text": "qanunvericiliklə müəyyən edilmiş digər məlumatlar.",
+                "strike_type": "single",
+                "paragraph_text": "qanunvericiliklə müəyyən edilmiş digər məlumatlar."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 813, Run 1",
+                "text": "3. Torpaq sahəsinə dair əqdlərin dövlət qeydiyyatı həmin əqdlərin predmeti sayılan torpaq sahəsinin planı olduqda həyata keçirilir.",
+                "strike_type": "single",
+                "paragraph_text": "3. Torpaq sahəsinə dair əqdlərin dövlət qeydiyyatı həmin əqdlərin predmeti sayılan torpaq sahəsinin planı olduqda həyata keçirilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 814, Run 1",
+                "text": "4. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatı onu aparan orqana torpaq sahəsi üzərində hüquqlar barədə lazım olan bütün sənədlər daxil olduğu vaxtdan on gün müddətində aparılır.",
+                "strike_type": "single",
+                "paragraph_text": "4. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatı onu aparan orqana torpaq sahəsi üzərində hüquqlar barədə lazım olan bütün sənədlər daxil olduğu vaxtdan on gün müddətində aparılır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 815, Run 1",
+                "text": "5. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatının aparılması barədə qeydiyyatın tarixi və nömrəsi, habelə qeydiyyatı aparan orqan haqqında məlumatlar göstərilməklə torpaq mülkiyyətçilərinə, istifadəçilərinə və ya icarəçilərinə bu Məcəllədə və digər normativ-hüquqi aktlarda müəyyən olunmuş hüquqi sənədlər verilir.",
+                "strike_type": "single",
+                "paragraph_text": "5. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatının aparılması barədə qeydiyyatın tarixi və nömrəsi, habelə qeydiyyatı aparan orqan haqqında məlumatlar göstərilməklə torpaq mülkiyyətçilərinə, istifadəçilərinə və ya icarəçilərinə bu Məcəllədə və digər normativ-hüquqi aktlarda müəyyən olunmuş hüquqi sənədlər verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 816, Run 1",
+                "text": "6. Torpaq sahəsinə dair əqdlər onun özgəninkiləşdirilməsi ilə nəticələnirsə, dövlət reyestrində həmin əqdlər barədə qeydlər aparılır və torpaq verənin (satıcının) torpaq sahəsi üzərində hüquqları barədə sənədləri dövlət qeydiyyatını aparan orqana təqdim edilir.",
+                "strike_type": "single",
+                "paragraph_text": "6. Torpaq sahəsinə dair əqdlər onun özgəninkiləşdirilməsi ilə nəticələnirsə, dövlət reyestrində həmin əqdlər barədə qeydlər aparılır və torpaq verənin (satıcının) torpaq sahəsi üzərində hüquqları barədə sənədləri dövlət qeydiyyatını aparan orqana təqdim edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 817, Run 1",
+                "text": "7. Torpaq sahəsi və onunla bağlı daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatının aparılması qaydaları dövlət torpaq kadastrı, habelə daşınmaz əmlak və onunla bağlı əqdlərin dövlət qeydiyyatı haqqında normativ-hüquqi aktlarla müəyyən edilir.",
+                "strike_type": "single",
+                "paragraph_text": "7. Torpaq sahəsi və onunla bağlı daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatının aparılması qaydaları dövlət torpaq kadastrı, habelə daşınmaz əmlak və onunla bağlı əqdlərin dövlət qeydiyyatı haqqında normativ-hüquqi aktlarla müəyyən edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 818, Run 1",
+                "text": "8. Torpaq sahəsi üzərində hüquqlar qanunvericiliklə müəyyən edilmiş qaydada həmçinin daşınmaz əmlakın dövlət reyestrində qeydiyyata alınmalıdır",
+                "strike_type": "single",
+                "paragraph_text": "8. Torpaq sahəsi üzərində hüquqlar qanunvericiliklə müəyyən edilmiş qaydada həmçinin daşınmaz əmlakın dövlət reyestrində qeydiyyata alınmalıdır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 818, Run 2",
+                "text": ".",
+                "strike_type": "single",
+                "paragraph_text": "8. Torpaq sahəsi üzərində hüquqlar qanunvericiliklə müəyyən edilmiş qaydada həmçinin daşınmaz əmlakın dövlət reyestrində qeydiyyata alınmalıdır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 820, Run 1",
+                "text": "Maddə 79.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 79. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatından imtina edilməsinin əsasları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 820, Run 2",
+                "text": "Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatından imtina edilməsinin əsasları",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 79. Torpaq sahəsi üzərində hüquqların dövlət qeydiyyatından imtina edilməsinin əsasları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 822, Run 1",
+                "text": "1. Torpaq sahəsi üzərində hüquqların və onunla bağlı əqdlərin dövlət qeydiyyatından imtina edilməsinin əsasları aşağıdakılardır:",
+                "strike_type": "single",
+                "paragraph_text": "1. Torpaq sahəsi üzərində hüquqların və onunla bağlı əqdlərin dövlət qeydiyyatından imtina edilməsinin əsasları aşağıdakılardır:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 823, Run 1",
+                "text": "dövlət və ya bələdiyyə mülkiyyətində olan torpaq sahəsinin mülkiyyətə, istifadəyə və icarəyə verilməsi barədə müvafiq icra hakimiyyəti orqanı və ya bələdiyyənin qərarının, müvafiq müqavilənin, torpaq sahəsi üzərində hüququ təsdiq edən sənədin, torpaq sahəsinin satılması halında isə, eləcə də torpağın dəyərinin ödənilməsi barədə sənədin, habelə digər müvafiq normativ hüquqi aktlarda nəzərdə tutulmuş başqa sənədlərin təqdim edilməməsi;",
+                "strike_type": "single",
+                "paragraph_text": "dövlət və ya bələdiyyə mülkiyyətində olan torpaq sahəsinin mülkiyyətə, istifadəyə və icarəyə verilməsi barədə müvafiq icra hakimiyyəti orqanı və ya bələdiyyənin qərarının, müvafiq müqavilənin, torpaq sahəsi üzərində hüququ təsdiq edən sənədin, torpaq sahəsinin satılması halında isə, eləcə də torpağın dəyərinin ödənilməsi barədə sənədin, habelə digər müvafiq normativ hüquqi aktlarda nəzərdə tutulmuş başqa sənədlərin təqdim edilməməsi;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 824, Run 1",
+                "text": "təqdim edilmiş sənədlərdə zəruri məlumatların, o cümlədən bu Məcəllənin 84-cü maddəsində nəzərdə tutulmuş məlumatların olmaması;",
+                "strike_type": "single",
+                "paragraph_text": "təqdim edilmiş sənədlərdə zəruri məlumatların, o cümlədən bu Məcəllənin 84-cü maddəsində nəzərdə tutulmuş məlumatların olmaması;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 825, Run 1",
+                "text": "mülki dövriyyədən çıxarılmış və ya dövriyyəsi məhdudlaşdırılmış torpaq sahəsinin verilməsinə dair birbaşa qadağanın müəyyən edilməsi;",
+                "strike_type": "single",
+                "paragraph_text": "mülki dövriyyədən çıxarılmış və ya dövriyyəsi məhdudlaşdırılmış torpaq sahəsinin verilməsinə dair birbaşa qadağanın müəyyən edilməsi;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 826, Run 1",
+                "text": "torpaq sahəsi üzərində hüquqların dövlət qeydiyyatını aparan orqanda, həmin torpaq sahəsi barədə mübahisələrin mövcudluğunu təsdiq edən sənədlərin olması;",
+                "strike_type": "single",
+                "paragraph_text": "torpaq sahəsi üzərində hüquqların dövlət qeydiyyatını aparan orqanda, həmin torpaq sahəsi barədə mübahisələrin mövcudluğunu təsdiq edən sənədlərin olması;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 827, Run 1",
+                "text": "torpaq sahəsi üzərində hüquqların dövlət qeydiyyatını aparan orqana torpaq sahəsinin həbsi və digər məhdudiyyətlər haqqında qərarın (hökmün) daxil olması.",
+                "strike_type": "single",
+                "paragraph_text": "torpaq sahəsi üzərində hüquqların dövlət qeydiyyatını aparan orqana torpaq sahəsinin həbsi və digər məhdudiyyətlər haqqında qərarın (hökmün) daxil olması."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 828, Run 1",
+                "text": "2. Torpaq sahəsinin sərhədləri və ya bu sahəyə dair müəyyən edilmiş məhdudiyyətlər (öhdəliklər) barədə mübahisənin mövcudluğu (əgər həmin mübahisənin mövcudluğu barədə məlumatlar müqavilədə əks olunmuşdursa) əqdlərin dövlət qeydiyyatına mane ola bilməz.",
+                "strike_type": "single",
+                "paragraph_text": "2. Torpaq sahəsinin sərhədləri və ya bu sahəyə dair müəyyən edilmiş məhdudiyyətlər (öhdəliklər) barədə mübahisənin mövcudluğu (əgər həmin mübahisənin mövcudluğu barədə məlumatlar müqavilədə əks olunmuşdursa) əqdlərin dövlət qeydiyyatına mane ola bilməz."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 828, Run 2",
+                "text": "",
+                "strike_type": "single",
+                "paragraph_text": "2. Torpaq sahəsinin sərhədləri və ya bu sahəyə dair müəyyən edilmiş məhdudiyyətlər (öhdəliklər) barədə mübahisənin mövcudluğu (əgər həmin mübahisənin mövcudluğu barədə məlumatlar müqavilədə əks olunmuşdursa) əqdlərin dövlət qeydiyyatına mane ola bilməz."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 839, Run 2",
+                "text": "(dincə qoyulan)",
+                "strike_type": "single",
+                "paragraph_text": "torpağın itirilmiş təbii münbitliyinin bərpası və digər səbəblərlə əlaqədar müvafiq icra hakimiyyəti orqanı tərəfindən əkin dövriyyəsindən müvəqqəti çıxarılan (dincə qoyulan) torpaq sahələrinə görə əvəz almaq;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 883, Run 1",
+                "text": "5. Hüquqi və ya fiziki şəxsə",
+                "strike_type": "single",
+                "paragraph_text": "5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 883, Run 2",
+                "text": "istifadəyə",
+                "strike_type": "single",
+                "paragraph_text": "5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 883, Run 3",
+                "text": "verilmiş torpaq sahəsi dövlət",
+                "strike_type": "single",
+                "paragraph_text": "5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 883, Run 4",
+                "text": "ehtiyacları və ya",
+                "strike_type": "single",
+                "paragraph_text": "5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 883, Run 5",
+                "text": "ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin.",
+                "strike_type": "single",
+                "paragraph_text": "5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 883, Run 6",
+                "text": "Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir",
+                "strike_type": "single",
+                "paragraph_text": "5. Hüquqi və ya fiziki şəxsə istifadəyə verilmiş torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün yalnız o şərtlə geri alına bilər ki, torpağı geri alan müvafiq icra hakimiyyəti orqanı və ya bələdiyyə həmin şəxsin arzusu ilə ona eyni ölçüdə və keyfiyyətdə başqa torpaq sahəsi ayırsın, habelə xeyrinə torpaq sahəsi geri alınan hüquqi və ya fiziki şəxs torpaqla birlikdə əldə edilmiş yaşayış, istehsal və başqa tikililərin əvəzinə yeni yerdə təzələrini tiksin və bu Məcəlləyə uyğun olaraq, bütün qalan zərəri tam həcmdə ödəsin. Hüquqi və ya fiziki şəxslərin mülkiyyətində olan və onlara icarəyə verilmiş torpaq sahələrinin dövlət ehtiyacları üçün özgəninkiləşdirilməsi şərtləri və hallan Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 901, Run 2",
+                "text": ", bələdiyyə",
+                "strike_type": "single",
+                "paragraph_text": "dövlət, bələdiyyə və xüsusi mülkiyyətdə olan torpaqlar üzərində istifadə və icarə hüquqları."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 905, Run 2",
+                "text": "haqqı ödənilməklə istifadə və",
+                "strike_type": "single",
+                "paragraph_text": "4. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə, xarici hüquqi şəxslərə, beynəlxalq birliklərə və təşkilatlara, habelə xarici dövlətlərə torpaqlar yalnız haqqı ödənilməklə istifadə və icarə hüququnda verilə bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 926, Run 1",
+                "text": "Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləşən fərdi yaşayış evinə mülkiyyət hüququ keçərkən tərəflərin razılaşması ilə başqa hal nəzərdə tutulmayıbsa, müəyyənləşdirilən torpaq sahəsinə hüquqlar həmin evi əldə edənə keçir. Əgər yaşayış evinin özgəninkiləşdirilməsi haqqında müqavilədə ayrı qayda nəzərdə tutulmayıbsa, torpaq sahəsinin ev yerləşən və ondan istifadə üçün zəruri olan hissəsinə mülkiyyət hüququ əldə edənə keçir.",
+                "strike_type": "single",
+                "paragraph_text": "Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləşən fərdi yaşayış evinə mülkiyyət hüququ keçərkən tərəflərin razılaşması ilə başqa hal nəzərdə tutulmayıbsa, müəyyənləşdirilən torpaq sahəsinə hüquqlar həmin evi əldə edənə keçir. Əgər yaşayış evinin özgəninkiləşdirilməsi haqqında müqavilədə ayrı qayda nəzərdə tutulmayıbsa, torpaq sahəsinin ev yerləşən və ondan istifadə üçün zəruri olan hissəsinə mülkiyyət hüququ əldə edənə keçir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 957, Run 5",
+                "text": ", o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar",
+                "strike_type": "single",
+                "paragraph_text": "2. Əgər nə qanun üzrə, nə də vəsiyyət üzrə vərəsə yoxdursa və ya bütün vərəsələr mirasdan imtina etmişsə, yaxud bütün vərəsələr vərəsəlik hüququndan məhrum edilmişdirsə, vərəsələri olmayan torpaq dövlətə keçir; əgər miras qoyan şəxs ahıllar və əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar üçün sosial xidmət müəssisələrinin, müalicə, tərbiyə və sosial təminat müəssisələrinin təminatında olmuşdursa, həmin müəssisənin mülkiyyətinə keçir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1000, Run 1",
+                "text": "4. Bələdiyyələrin kənd təsərrüfatına az yararlı və yararsız torpaqları",
+                "strike_type": "single",
+                "paragraph_text": "4. Bələdiyyələrin kənd təsərrüfatına az yararlı və yararsız torpaqları öz vəsaitləri hesabına yararlı hala salaraq kənd təsərrüfatı məhsulları istehsal edən Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə satıldıqda bu torpaqlarda torpaq qanunvericiliyi ilə müəyyən edilmiş qiymət güzəştləri tətbiq olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1000, Run 2",
+                "text": "öz vəsaitləri hesabına yararlı hala salaraq kənd təsərrüfatı məhsulları istehsal edən Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə satıldıqda bu torpaqlarda torpaq qanunvericiliyi ilə müəyyən edilmiş qiymət güzəştləri tətbiq olunur",
+                "strike_type": "single",
+                "paragraph_text": "4. Bələdiyyələrin kənd təsərrüfatına az yararlı və yararsız torpaqları öz vəsaitləri hesabına yararlı hala salaraq kənd təsərrüfatı məhsulları istehsal edən Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə satıldıqda bu torpaqlarda torpaq qanunvericiliyi ilə müəyyən edilmiş qiymət güzəştləri tətbiq olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1000, Run 3",
+                "text": ".",
+                "strike_type": "single",
+                "paragraph_text": "4. Bələdiyyələrin kənd təsərrüfatına az yararlı və yararsız torpaqları öz vəsaitləri hesabına yararlı hala salaraq kənd təsərrüfatı məhsulları istehsal edən Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə satıldıqda bu torpaqlarda torpaq qanunvericiliyi ilə müəyyən edilmiş qiymət güzəştləri tətbiq olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1002, Run 1",
+                "text": "6. Torpaq sahələri dövlət",
+                "strike_type": "single",
+                "paragraph_text": "6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1002, Run 2",
+                "text": "ehtiyaclarını",
+                "strike_type": "single",
+                "paragraph_text": "6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1002, Run 3",
+                "text": "ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların",
+                "strike_type": "single",
+                "paragraph_text": "6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1002, Run 4",
+                "text": "satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq",
+                "strike_type": "single",
+                "paragraph_text": "6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1002, Run 5",
+                "text": ", tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur.",
+                "strike_type": "single",
+                "paragraph_text": "6. Torpaq sahələri dövlət ehtiyaclarını ödəmək məqsədilə mülkiyyətçilərdən əvəzi ödənilməklə alındıqda onların satınalma qiyməti Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, tərəflərin razılığı əsasında müəyyənləşdirilir. Tərəflər arasında mübahisə məhkəmə qaydasında həll olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1004, Run 1",
+                "text": "8. Torpaq sahələri (xüsusi mülkiyyətdə olan torpaqlar istisna olmaqla) bağışlanıldıqda, dəyişdirildikdə və vərəsəliyə verildikdə onlar müvafiq icra hakimiyyəti orqanı və ya bələdiyyələr tərəfindən müəyyən edilən qaydada normativ qiymətlərdən az olmamaq şərti ilə qiymətləndirilir.",
+                "strike_type": "single",
+                "paragraph_text": "8. Torpaq sahələri (xüsusi mülkiyyətdə olan torpaqlar istisna olmaqla) bağışlanıldıqda, dəyişdirildikdə və vərəsəliyə verildikdə onlar müvafiq icra hakimiyyəti orqanı və ya bələdiyyələr tərəfindən müəyyən edilən qaydada normativ qiymətlərdən az olmamaq şərti ilə qiymətləndirilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1006, Run 2",
+                "text": "ilkin",
+                "strike_type": "single",
+                "paragraph_text": "10. İpoteka predmeti olan torpaq sahəsinə tutma yönəldilərkən onun ilkin satış qiyməti normativ hüquqi aktlara uyğun olaraq bazar qiyməti nəzərə alınmaqla müəyyən edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1023, Run 2",
+                "text": "və bələdiyyə",
+                "strike_type": "single",
+                "paragraph_text": "4. Dövlət və bələdiyyə mülkiyyətində olan torpaqların icarə haqqının aşağı həddi və hərraca (müsabiqəyə) çıxarılan dövlət və ya bələdiyyə mülkiyyətində olan torpaqların icarə haqqının ilkin qiyməti (qiyməti)onların təyinatından, sahəsindən, coğrafi yerləşməsindən və keyfiyyətindən asılı olaraq, müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş normativlər əsasında müəyyənləşdirilir. Həmin sənədlərdə torpağın normativ qiyməti, torpaq vergisi, habelə tələb və təklif nəzərə alınmalıdır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1025, Run 1",
+                "text": "6. Kənd təsərrüfatına az yararlı və yararsız torpaqlar kənd təsərrüfatı ehtiyacları üçün icarəyə verildikdə, torpaq qanunvericiliyində nəzərdə tutulmuş imtiyazlar tətbiq olunur.",
+                "strike_type": "single",
+                "paragraph_text": "6. Kənd təsərrüfatına az yararlı və yararsız torpaqlar kənd təsərrüfatı ehtiyacları üçün icarəyə verildikdə, torpaq qanunvericiliyində nəzərdə tutulmuş imtiyazlar tətbiq olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1108, Run 2",
+                "text": "Özbaşına tutulmuş (zəbt edilmiş) torpaqlar qanunvericiliklə müəyyən edilmiş qaydada geri qaytarılmadıqda, həmin torpaq sahəsinin kadastr dəyəri torpağı zəbt etmiş şəxs tərəfindən onun qanuni mülkiyyətçisinə ödənilməklə geri alınır.",
+                "strike_type": "single",
+                "paragraph_text": "3. Torpaqların əvvəlki vəziyyətinə gətirilməsi (orada olan binaların, tikililər və qurğuların sökülməsi də daxil olmaqla) torpaqları zəbt etmiş hüquqi və fiziki şəxslər tərəfindən və ya onların hesabına həyata keçirilir. Özbaşına tutulmuş (zəbt edilmiş) torpaqlar qanunvericiliklə müəyyən edilmiş qaydada geri qaytarılmadıqda, həmin torpaq sahəsinin kadastr dəyəri torpağı zəbt etmiş şəxs tərəfindən onun qanuni mülkiyyətçisinə ödənilməklə geri alınır."
+            }
+        ]
+    }
+]
