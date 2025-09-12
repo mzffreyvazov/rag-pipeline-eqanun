@@ -16,11 +16,12 @@ import json
 import os
 import re
 from typing import List, Dict, Tuple
+import argparse
 
 # Set your file paths here
-JSON_FILE_PATH = "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/strikes_json/_Azərbaycan_Respublikasının_Seçki_Məcəlləsi_strikethrough_report.json"  # Path to JSON output from strikethrough detector
-MARKDOWN_FILE_PATH = "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/mecelleler-raw/mecelleler-final/AZƏRBAYCAN RESPUBLİKASININ SEÇKİ MƏCƏLLƏSİ.md"  # Path to the Markdown document to clean
-OUTPUT_FILE_PATH = "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/mecelleler-raw/mecelleler-cleaned-final/cleaned_document-secki.md"  # Path for the cleaned output
+JSON_FILE_PATH = "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/strikes_json/_Azərbaycan_Respublikasının_Ailə_Məcəlləsi_strikethrough_report.json"  # Path to JSON output from strikethrough detector
+MARKDOWN_FILE_PATH = "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/mecelleler-raw/mecelleler-final/AZƏRBAYCAN RESPUBLİKASININ AİLƏ MƏCƏLLƏSİ.md"  # Path to the Markdown document to clean
+OUTPUT_FILE_PATH = "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/mecelleler-raw/mecelleler-cleaned-final/cleaned_document-ailə.md"  # Path for the cleaned output
 
 
 class MarkdownCleaner:
@@ -608,11 +609,39 @@ class MarkdownCleaner:
 
 def main():
     """Main function to run the Markdown cleaner."""
+    # Parse CLI flag for manual mode (interactive prompts)
+    def str2bool(v):
+        return str(v).lower() in ("1", "true", "t", "yes", "y", "on")
+
+    parser = argparse.ArgumentParser(description="Markdown Document Cleaner")
+    parser.add_argument(
+        "--manual",
+        "-m",
+        type=str2bool,
+        nargs="?",
+        const=True,
+        default=True,
+        help="Enable manual editing prompts (true/false). Default: true",
+    )
+
+    # Support both `--manual false` and a loose `manual=false` token
+    known_args, unknown_args = parser.parse_known_args()
+    manual = known_args.manual
+    for tok in unknown_args:
+        if tok.lower().startswith("manual="):
+            manual = str2bool(tok.split("=", 1)[1])
+            break
+
     cleaner = MarkdownCleaner()
-    
+
     try:
-        success = cleaner.clean_document(JSON_FILE_PATH, MARKDOWN_FILE_PATH, OUTPUT_FILE_PATH)
-        
+        success = cleaner.clean_document(
+            JSON_FILE_PATH,
+            MARKDOWN_FILE_PATH,
+            OUTPUT_FILE_PATH,
+            interactive=manual,
+        )
+
         if success:
             print(f"\n{'='*50}")
             print("Document cleaning completed successfully!")
@@ -621,7 +650,7 @@ def main():
             print(f"JSON report: {JSON_FILE_PATH}")
         else:
             print("Document cleaning failed. Check the error messages above.")
-            
+
     except Exception as e:
         print(f"An unexpected error occurred: {str(e)}")
 
