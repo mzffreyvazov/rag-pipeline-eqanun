@@ -1,0 +1,2151 @@
+[
+    {
+        "file_path": "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/mecelleler-docx/-Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsi.docx",
+        "filename": "-Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsi.docx",
+        "strikethrough_count": 306,
+        "strikethrough_items": [
+            {
+                "type": "paragraph",
+                "location": "Paragraph 42, Run 2",
+                "text": "məhkumlara",
+                "strike_type": "single",
+                "paragraph_text": "Cəzaların icrasının və məhkumlara cinayət-hüquqi xarakterli digər tədbirlərin tətbiqinin əsaslarını məhkəmənin qanuni qüvvəyə minmiş hökmü, yaxud məhkəmənin bu hökmü dəyişən qərarları, habelə amnistiya və ya əfvetmə aktları təşkil edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 42, Run 4",
+                "text": "məhkəmənin bu hökmü dəyişən",
+                "strike_type": "single",
+                "paragraph_text": "Cəzaların icrasının və məhkumlara cinayət-hüquqi xarakterli digər tədbirlərin tətbiqinin əsaslarını məhkəmənin qanuni qüvvəyə minmiş hökmü, yaxud məhkəmənin bu hökmü dəyişən qərarları, habelə amnistiya və ya əfvetmə aktları təşkil edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 261, Run 2",
+                "text": "müddətli həqiqi hərbi xidmətə çağırılarsa və ya",
+                "strike_type": "single",
+                "paragraph_text": "28.4. Cəzanın icrası müddətində məhkum müddətli həqiqi hərbi xidmətə çağırılarsa və ya hərbi xidmətə qəbul edilərsə, icra məmurunu hökmün surətini cəzanın icrası üçün müvafiq hərbi komissarlığa və ya məhkumun xidmət yerinə göndərir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 261, Run 6",
+                "text": "müvafiq hərbi komissarlığa və ya",
+                "strike_type": "single",
+                "paragraph_text": "28.4. Cəzanın icrası müddətində məhkum müddətli həqiqi hərbi xidmətə çağırılarsa və ya hərbi xidmətə qəbul edilərsə, icra məmurunu hökmün surətini cəzanın icrası üçün müvafiq hərbi komissarlığa və ya məhkumun xidmət yerinə göndərir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 299, Run 4",
+                "text": "müvafiq icra hakimiyyəti orqanı ilə ictimai işlərin həyata keçiriləcəyi yerlərin siyahısını",
+                "strike_type": "single",
+                "paragraph_text": "34.3. icra məmuru məhkumların qeydiyyatını aparır, onlara cəzanın icrasının qayda və şərtlərini izah edir, müvafiq icra hakimiyyəti orqanı ilə ictimai işlərin həyata keçiriləcəyi yerlərin siyahısını razılaşdırır, məhkumların davranışına nəzarət edir, onların işləmiş olduğu vaxtın uçotunu aparır, ayda iki dəfədən az olmayaraq şəxsin ictimai işləri yerinə yetirməli olduğu vaxtlarda həmin işlərin görüldüyü yerlərə baş çəkməklə protokol tərtib edir, cəzanın bu Məcəllə ilə müəyyən edilmiş qaydada həyata keçirilməsi üçün digər tədbirləri görür."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 299, Run 5",
+                "text": "razılaşdırır",
+                "strike_type": "single",
+                "paragraph_text": "34.3. icra məmuru məhkumların qeydiyyatını aparır, onlara cəzanın icrasının qayda və şərtlərini izah edir, müvafiq icra hakimiyyəti orqanı ilə ictimai işlərin həyata keçiriləcəyi yerlərin siyahısını razılaşdırır, məhkumların davranışına nəzarət edir, onların işləmiş olduğu vaxtın uçotunu aparır, ayda iki dəfədən az olmayaraq şəxsin ictimai işləri yerinə yetirməli olduğu vaxtlarda həmin işlərin görüldüyü yerlərə baş çəkməklə protokol tərtib edir, cəzanın bu Məcəllə ilə müəyyən edilmiş qaydada həyata keçirilməsi üçün digər tədbirləri görür."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 299, Run 6",
+                "text": ",",
+                "strike_type": "single",
+                "paragraph_text": "34.3. icra məmuru məhkumların qeydiyyatını aparır, onlara cəzanın icrasının qayda və şərtlərini izah edir, müvafiq icra hakimiyyəti orqanı ilə ictimai işlərin həyata keçiriləcəyi yerlərin siyahısını razılaşdırır, məhkumların davranışına nəzarət edir, onların işləmiş olduğu vaxtın uçotunu aparır, ayda iki dəfədən az olmayaraq şəxsin ictimai işləri yerinə yetirməli olduğu vaxtlarda həmin işlərin görüldüyü yerlərə baş çəkməklə protokol tərtib edir, cəzanın bu Məcəllə ilə müəyyən edilmiş qaydada həyata keçirilməsi üçün digər tədbirləri görür."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 479, Run 1",
+                "text": "VIII fəsil",
+                "strike_type": "single",
+                "paragraph_text": "VIII fəsil"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 481, Run 1",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Azadlığın məhdudlaşdırılması növündə cəzanın İcrası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 481, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Azadlığın məhdudlaşdırılması növündə cəzanın İcrası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 481, Run 3",
+                "text": "növündə cəzanın İcrası",
+                "strike_type": "single",
+                "paragraph_text": "Azadlığın məhdudlaşdırılması növündə cəzanın İcrası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 483, Run 1",
+                "text": "Maddə 52.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 52. Azadlığın məhdudlaşdırılması növündə cəzanın icrası yeri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 483, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 52. Azadlığın məhdudlaşdırılması növündə cəzanın icrası yeri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 483, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 52. Azadlığın məhdudlaşdırılması növündə cəzanın icrası yeri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 483, Run 4",
+                "text": "növündə cəzanın icrası yeri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 52. Azadlığın məhdudlaşdırılması növündə cəzanın icrası yeri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 485, Run 1",
+                "text": "52.1. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "52.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər cəzanı bir qayda olaraq yaşayış yerinə yaxın ərazidə yerləşən xüsusi müəssisələrdə çəkirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 485, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "52.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər cəzanı bir qayda olaraq yaşayış yerinə yaxın ərazidə yerləşən xüsusi müəssisələrdə çəkirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 485, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər cəzanı bir qayda olaraq yaşayış yerinə yaxın ərazidə yerləşən xüsusi müəssisələrdə çəkirlər.",
+                "strike_type": "single",
+                "paragraph_text": "52.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər cəzanı bir qayda olaraq yaşayış yerinə yaxın ərazidə yerləşən xüsusi müəssisələrdə çəkirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 486, Run 1",
+                "text": "52.2. Cəzaları azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "52.2. Cəzaları azadlığın məhdudlaşdırılması cəza növü ilə əvəz edilmiş məhkumlar cəzanı çəkmək üçün digər xüsusi müəssisələrə göndərilə bilərlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 486, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "52.2. Cəzaları azadlığın məhdudlaşdırılması cəza növü ilə əvəz edilmiş məhkumlar cəzanı çəkmək üçün digər xüsusi müəssisələrə göndərilə bilərlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 486, Run 3",
+                "text": "cəza növü ilə əvəz edilmiş məhkumlar cəzanı çəkmək üçün digər xüsusi müəssisələrə göndərilə bilərlər.",
+                "strike_type": "single",
+                "paragraph_text": "52.2. Cəzaları azadlığın məhdudlaşdırılması cəza növü ilə əvəz edilmiş məhkumlar cəzanı çəkmək üçün digər xüsusi müəssisələrə göndərilə bilərlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 487, Run 1",
+                "text": "52.3. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "52.3. Azadlığın məhdudlaşdırılması növündə cəzanı icra edən xüsusi müəssisənin müdiriyyəti cəza çəkmək üçün göndərilən şəxslərin əmək və məişət təminatına köməklik göstərməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 487, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "52.3. Azadlığın məhdudlaşdırılması növündə cəzanı icra edən xüsusi müəssisənin müdiriyyəti cəza çəkmək üçün göndərilən şəxslərin əmək və məişət təminatına köməklik göstərməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 487, Run 3",
+                "text": "növündə cəzanı icra edən xüsusi müəssisənin müdiriyyəti cəza çəkmək üçün göndərilən şəxslərin əmək və məişət təminatına köməklik",
+                "strike_type": "single",
+                "paragraph_text": "52.3. Azadlığın məhdudlaşdırılması növündə cəzanı icra edən xüsusi müəssisənin müdiriyyəti cəza çəkmək üçün göndərilən şəxslərin əmək və məişət təminatına köməklik göstərməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 487, Run 4",
+                "text": "göstərməlidirlər",
+                "strike_type": "single",
+                "paragraph_text": "52.3. Azadlığın məhdudlaşdırılması növündə cəzanı icra edən xüsusi müəssisənin müdiriyyəti cəza çəkmək üçün göndərilən şəxslərin əmək və məişət təminatına köməklik göstərməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 487, Run 5",
+                "text": ".",
+                "strike_type": "single",
+                "paragraph_text": "52.3. Azadlığın məhdudlaşdırılması növündə cəzanı icra edən xüsusi müəssisənin müdiriyyəti cəza çəkmək üçün göndərilən şəxslərin əmək və məişət təminatına köməklik göstərməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 489, Run 1",
+                "text": "Maddə 53.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 53. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin cəzanın icrası yerlərinə göndərilməsi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 489, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 53. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin cəzanın icrası yerlərinə göndərilməsi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 489, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 53. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin cəzanın icrası yerlərinə göndərilməsi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 489, Run 4",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərin cəzanın icrası yerlərinə göndərilməsi",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 53. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin cəzanın icrası yerlərinə göndərilməsi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 491, Run 1",
+                "text": "53.1. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "53.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş və ya cəzaları bu cəza növü ilə əvəz edilmiş şəxslər cəzanın icrası yerlərinə müstəqil gedirlər. Cəzaçəkmə müəssisəsinin müdiriyyəti və ya icra məmuru məhkəmənin hökm və ya qərardadına əsasən məhkuma cəzanın icrası yerinə getmək haqqında göstəriş təqdim edir. Göstərişi alan məhkum göstərişdə müəyyən edilən vaxtda cəzanın icrası yerinə gəlməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 491, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "53.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş və ya cəzaları bu cəza növü ilə əvəz edilmiş şəxslər cəzanın icrası yerlərinə müstəqil gedirlər. Cəzaçəkmə müəssisəsinin müdiriyyəti və ya icra məmuru məhkəmənin hökm və ya qərardadına əsasən məhkuma cəzanın icrası yerinə getmək haqqında göstəriş təqdim edir. Göstərişi alan məhkum göstərişdə müəyyən edilən vaxtda cəzanın icrası yerinə gəlməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 491, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş və ya cəzaları bu cəza növü ilə əvəz edilmiş şəxslər cəzanın icrası yerlərinə müstəqil gedirlər. Cəzaçəkmə müəssisəsinin müdiriyyəti və",
+                "strike_type": "single",
+                "paragraph_text": "53.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş və ya cəzaları bu cəza növü ilə əvəz edilmiş şəxslər cəzanın icrası yerlərinə müstəqil gedirlər. Cəzaçəkmə müəssisəsinin müdiriyyəti və ya icra məmuru məhkəmənin hökm və ya qərardadına əsasən məhkuma cəzanın icrası yerinə getmək haqqında göstəriş təqdim edir. Göstərişi alan məhkum göstərişdə müəyyən edilən vaxtda cəzanın icrası yerinə gəlməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 491, Run 4",
+                "text": "ya icra məmuru",
+                "strike_type": "single",
+                "paragraph_text": "53.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş və ya cəzaları bu cəza növü ilə əvəz edilmiş şəxslər cəzanın icrası yerlərinə müstəqil gedirlər. Cəzaçəkmə müəssisəsinin müdiriyyəti və ya icra məmuru məhkəmənin hökm və ya qərardadına əsasən məhkuma cəzanın icrası yerinə getmək haqqında göstəriş təqdim edir. Göstərişi alan məhkum göstərişdə müəyyən edilən vaxtda cəzanın icrası yerinə gəlməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 491, Run 5",
+                "text": "məhkəmənin hökm və ya qərardadına əsasən məhkuma cəzanın icrası yerinə getmək haqqında göstəriş təqdim edir. Göstərişi alan məhkum göstərişdə müəyyən edilən vaxtda cəzanın icrası yerinə gəlməlidir.",
+                "strike_type": "single",
+                "paragraph_text": "53.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş və ya cəzaları bu cəza növü ilə əvəz edilmiş şəxslər cəzanın icrası yerlərinə müstəqil gedirlər. Cəzaçəkmə müəssisəsinin müdiriyyəti və ya icra məmuru məhkəmənin hökm və ya qərardadına əsasən məhkuma cəzanın icrası yerinə getmək haqqında göstəriş təqdim edir. Göstərişi alan məhkum göstərişdə müəyyən edilən vaxtda cəzanın icrası yerinə gəlməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 492, Run 1",
+                "text": "53.2. Məhkum cəzanın icrası yerinə getmək haqqında göstərişi almaqdan və ya cəzanın icrası yerinə getməkdən, habelə digər formada cəzanın",
+                "strike_type": "single",
+                "paragraph_text": "53.2. Məhkum cəzanın icrası yerinə getmək haqqında göstərişi almaqdan və ya cəzanın icrası yerinə getməkdən, habelə digər formada cəzanın çəkilməsindən boyun qaçırarsa, bu halda məhkum məhkəmənin qərarı ilə polis orqanları tərəfindən yeddi gün müddətinə tutulur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 492, Run 2",
+                "text": "çəkilməsindən",
+                "strike_type": "single",
+                "paragraph_text": "53.2. Məhkum cəzanın icrası yerinə getmək haqqında göstərişi almaqdan və ya cəzanın icrası yerinə getməkdən, habelə digər formada cəzanın çəkilməsindən boyun qaçırarsa, bu halda məhkum məhkəmənin qərarı ilə polis orqanları tərəfindən yeddi gün müddətinə tutulur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 492, Run 3",
+                "text": "boyun qaçırarsa, bu halda məhkum məhkəmənin qərarı ilə polis orqanları tərəfindən yeddi gün müddətinə tutulur.",
+                "strike_type": "single",
+                "paragraph_text": "53.2. Məhkum cəzanın icrası yerinə getmək haqqında göstərişi almaqdan və ya cəzanın icrası yerinə getməkdən, habelə digər formada cəzanın çəkilməsindən boyun qaçırarsa, bu halda məhkum məhkəmənin qərarı ilə polis orqanları tərəfindən yeddi gün müddətinə tutulur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 493, Run 1",
+                "text": "53.3.",
+                "strike_type": "single",
+                "paragraph_text": "53.3. Tutulduqdan sonra məhkum, müəyyən müddətə azadlıqdan məhrum etməyə məhkum olunan şəxslər üçün müəyyən edilmiş qaydada cəzanın icrası yerinə göndərilir və onun cəza çəkməkdən qərəzli boyun qaçırması müəyyən edildikdə, azadlığın məhdudlaşdırılması növündə cəzanın müəyyən müddətə azadlıqdan məhrum etmə növündə cəza ilə əvəz edilməsi üçün məhkəməyə təqdimat verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 493, Run 2",
+                "text": "Tutulduqdan",
+                "strike_type": "single",
+                "paragraph_text": "53.3. Tutulduqdan sonra məhkum, müəyyən müddətə azadlıqdan məhrum etməyə məhkum olunan şəxslər üçün müəyyən edilmiş qaydada cəzanın icrası yerinə göndərilir və onun cəza çəkməkdən qərəzli boyun qaçırması müəyyən edildikdə, azadlığın məhdudlaşdırılması növündə cəzanın müəyyən müddətə azadlıqdan məhrum etmə növündə cəza ilə əvəz edilməsi üçün məhkəməyə təqdimat verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 493, Run 3",
+                "text": "sonra məhkum, müəyyən müddətə azadlıqdan məhrum etməyə məhkum olunan şəxslər üçün müəyyən edilmiş qaydada cəzanın icrası yerinə göndərilir və onun cəza çəkməkdən qərəzli boyun qaçırması müəyyən edildikdə, azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "53.3. Tutulduqdan sonra məhkum, müəyyən müddətə azadlıqdan məhrum etməyə məhkum olunan şəxslər üçün müəyyən edilmiş qaydada cəzanın icrası yerinə göndərilir və onun cəza çəkməkdən qərəzli boyun qaçırması müəyyən edildikdə, azadlığın məhdudlaşdırılması növündə cəzanın müəyyən müddətə azadlıqdan məhrum etmə növündə cəza ilə əvəz edilməsi üçün məhkəməyə təqdimat verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 493, Run 4",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "53.3. Tutulduqdan sonra məhkum, müəyyən müddətə azadlıqdan məhrum etməyə məhkum olunan şəxslər üçün müəyyən edilmiş qaydada cəzanın icrası yerinə göndərilir və onun cəza çəkməkdən qərəzli boyun qaçırması müəyyən edildikdə, azadlığın məhdudlaşdırılması növündə cəzanın müəyyən müddətə azadlıqdan məhrum etmə növündə cəza ilə əvəz edilməsi üçün məhkəməyə təqdimat verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 493, Run 5",
+                "text": "növündə cəzanın müəyyən müddətə azadlıqdan məhrum etmə növündə cəza ilə əvəz edilməsi üçün məhkəməyə təqdimat verilir.",
+                "strike_type": "single",
+                "paragraph_text": "53.3. Tutulduqdan sonra məhkum, müəyyən müddətə azadlıqdan məhrum etməyə məhkum olunan şəxslər üçün müəyyən edilmiş qaydada cəzanın icrası yerinə göndərilir və onun cəza çəkməkdən qərəzli boyun qaçırması müəyyən edildikdə, azadlığın məhdudlaşdırılması növündə cəzanın müəyyən müddətə azadlıqdan məhrum etmə növündə cəza ilə əvəz edilməsi üçün məhkəməyə təqdimat verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 494, Run 1",
+                "text": "53.4. Xüsusi müəssisənin müdiriyyəti tərəfindən məhkum qeydiyyata alındıqdan sonra ona beş gün müddətədək ailəsi ilə görüşmək üçün icazə verilə bilər.",
+                "strike_type": "single",
+                "paragraph_text": "53.4. Xüsusi müəssisənin müdiriyyəti tərəfindən məhkum qeydiyyata alındıqdan sonra ona beş gün müddətədək ailəsi ilə görüşmək üçün icazə verilə bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 495, Run 1",
+                "text": "53.5. Ailəsi ilə görüşməyə icazə verilmiş məhkum müəyyən olunmuş vaxtda xüsusi müəssisəyə qayıtmadıqda məhkəmənin qərarı ilə polis orqanı tərəfindən tutulur.",
+                "strike_type": "single",
+                "paragraph_text": "53.5. Ailəsi ilə görüşməyə icazə verilmiş məhkum müəyyən olunmuş vaxtda xüsusi müəssisəyə qayıtmadıqda məhkəmənin qərarı ilə polis orqanı tərəfindən tutulur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 497, Run 1",
+                "text": "Maddə 54.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 54. Azadlığın məhdudlaşdırılması növündə cəzanın icrası müddətinin hesablanması"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 497, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 54. Azadlığın məhdudlaşdırılması növündə cəzanın icrası müddətinin hesablanması"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 497, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 54. Azadlığın məhdudlaşdırılması növündə cəzanın icrası müddətinin hesablanması"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 497, Run 4",
+                "text": "növündə cəzanın icrası müddətinin hesablanması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 54. Azadlığın məhdudlaşdırılması növündə cəzanın icrası müddətinin hesablanması"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 499, Run 1",
+                "text": "54.1. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "54.1. Azadlığın məhdudlaşdırılması növündə cəzanın icrası müddəti məhkumun xüsusi müəssisədə qeydiyyata alındığı vaxtdan hesablanır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 499, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "54.1. Azadlığın məhdudlaşdırılması növündə cəzanın icrası müddəti məhkumun xüsusi müəssisədə qeydiyyata alındığı vaxtdan hesablanır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 499, Run 3",
+                "text": "növündə cəzanın icrası müddəti məhkumun xüsusi müəssisədə qeydiyyata alındığı vaxtdan hesablanır.",
+                "strike_type": "single",
+                "paragraph_text": "54.1. Azadlığın məhdudlaşdırılması növündə cəzanın icrası müddəti məhkumun xüsusi müəssisədə qeydiyyata alındığı vaxtdan hesablanır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 500, Run 1",
+                "text": "54.2. Hökm qanuni qüvvəyə minənədək məhkumun qətimkan tədbiri kimi həbsdə saxlandığı müddət həbsin bir günü azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "54.2. Hökm qanuni qüvvəyə minənədək məhkumun qətimkan tədbiri kimi həbsdə saxlandığı müddət həbsin bir günü azadlığın məhdudlaşdırılması növündə cəzanın iki gününə bərabərləşdirilməklə hesablanır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 500, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "54.2. Hökm qanuni qüvvəyə minənədək məhkumun qətimkan tədbiri kimi həbsdə saxlandığı müddət həbsin bir günü azadlığın məhdudlaşdırılması növündə cəzanın iki gününə bərabərləşdirilməklə hesablanır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 500, Run 3",
+                "text": "növündə cəzanın iki gününə",
+                "strike_type": "single",
+                "paragraph_text": "54.2. Hökm qanuni qüvvəyə minənədək məhkumun qətimkan tədbiri kimi həbsdə saxlandığı müddət həbsin bir günü azadlığın məhdudlaşdırılması növündə cəzanın iki gününə bərabərləşdirilməklə hesablanır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 500, Run 4",
+                "text": "bərabərləşdirilməklə",
+                "strike_type": "single",
+                "paragraph_text": "54.2. Hökm qanuni qüvvəyə minənədək məhkumun qətimkan tədbiri kimi həbsdə saxlandığı müddət həbsin bir günü azadlığın məhdudlaşdırılması növündə cəzanın iki gününə bərabərləşdirilməklə hesablanır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 500, Run 5",
+                "text": "hesablanır.",
+                "strike_type": "single",
+                "paragraph_text": "54.2. Hökm qanuni qüvvəyə minənədək məhkumun qətimkan tədbiri kimi həbsdə saxlandığı müddət həbsin bir günü azadlığın məhdudlaşdırılması növündə cəzanın iki gününə bərabərləşdirilməklə hesablanır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 501, Run 1",
+                "text": "54.3. Məhkumun bir gündən artıq üzrsüz səbəbdən xüsusi müəssisəyə",
+                "strike_type": "single",
+                "paragraph_text": "54.3. Məhkumun bir gündən artıq üzrsüz səbəbdən xüsusi müəssisəyə gəlməməsi vaxtı cəza müddətinə hesablanmır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 501, Run 2",
+                "text": "gəlməməsi",
+                "strike_type": "single",
+                "paragraph_text": "54.3. Məhkumun bir gündən artıq üzrsüz səbəbdən xüsusi müəssisəyə gəlməməsi vaxtı cəza müddətinə hesablanmır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 501, Run 3",
+                "text": "vaxtı cəza müddətinə hesablanmır.",
+                "strike_type": "single",
+                "paragraph_text": "54.3. Məhkumun bir gündən artıq üzrsüz səbəbdən xüsusi müəssisəyə gəlməməsi vaxtı cəza müddətinə hesablanmır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 503, Run 1",
+                "text": "Maddə 55.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 55. Azadlığın məhdudlaşdırılması növündə cəzanın icrası qaydası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 503, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 55. Azadlığın məhdudlaşdırılması növündə cəzanın icrası qaydası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 503, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 55. Azadlığın məhdudlaşdırılması növündə cəzanın icrası qaydası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 503, Run 4",
+                "text": "növündə cəzanın icrası qaydası",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 55. Azadlığın məhdudlaşdırılması növündə cəzanın icrası qaydası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 505, Run 1",
+                "text": "55.1. Cəzanı icra edən orqanların təqdimatı ilə müvafiq icra hakimiyyəti orqanları xüsusi müəssisədə cəza çəkən məhkumların hərəkət edəcəyi ərazi sərhədini müəyyən edir.",
+                "strike_type": "single",
+                "paragraph_text": "55.1. Cəzanı icra edən orqanların təqdimatı ilə müvafiq icra hakimiyyəti orqanları xüsusi müəssisədə cəza çəkən məhkumların hərəkət edəcəyi ərazi sərhədini müəyyən edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 506, Run 1",
+                "text": "55.2. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "55.2. Azadlığın məhdudlaşdırılması növündə cəza çəkən şəxslər nəzarət altında olur və onlar:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 506, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "55.2. Azadlığın məhdudlaşdırılması növündə cəza çəkən şəxslər nəzarət altında olur və onlar:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 506, Run 3",
+                "text": "növündə cəza çəkən şəxslər nəzarət altında olur və onlar:",
+                "strike_type": "single",
+                "paragraph_text": "55.2. Azadlığın məhdudlaşdırılması növündə cəza çəkən şəxslər nəzarət altında olur və onlar:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 507, Run 1",
+                "text": "55.2.1. normativ hüquqi aktların tələblərini yerinə yetirməli;",
+                "strike_type": "single",
+                "paragraph_text": "55.2.1. normativ hüquqi aktların tələblərini yerinə yetirməli;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 508, Run 1",
+                "text": "55.2.2. müdiriyyətin icazəsi olmadan xüsusi müəssisənin ərazisini tərk etməməli;",
+                "strike_type": "single",
+                "paragraph_text": "55.2.2. müdiriyyətin icazəsi olmadan xüsusi müəssisənin ərazisini tərk etməməli;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 509, Run 1",
+                "text": "55.2.3. onlar üçün nəzərdə tutulmuş yataqxananın kommunal-məişət xərclərini ödəməli və xüsusi müəssisənin müdiriyyətinin icazəsi olmadan oranı tərk etməməli;",
+                "strike_type": "single",
+                "paragraph_text": "55.2.3. onlar üçün nəzərdə tutulmuş yataqxananın kommunal-məişət xərclərini ödəməli və xüsusi müəssisənin müdiriyyətinin icazəsi olmadan oranı tərk etməməli;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 510, Run 1",
+                "text": "55.2.4. xüsusi müəssisədə",
+                "strike_type": "single",
+                "paragraph_text": "55.2.4. xüsusi müəssisədə abadlaşdırma işlərində iş vaxtından əlavə, həftədə iki saatdan artıq olmayaraq növbə ilə ödənişsiz iştirak etməli;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 510, Run 2",
+                "text": "abadlaşdırma",
+                "strike_type": "single",
+                "paragraph_text": "55.2.4. xüsusi müəssisədə abadlaşdırma işlərində iş vaxtından əlavə, həftədə iki saatdan artıq olmayaraq növbə ilə ödənişsiz iştirak etməli;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 510, Run 3",
+                "text": "işlərində iş vaxtından əlavə, həftədə iki saatdan artıq olmayaraq növbə ilə ödənişsiz iştirak etməli;",
+                "strike_type": "single",
+                "paragraph_text": "55.2.4. xüsusi müəssisədə abadlaşdırma işlərində iş vaxtından əlavə, həftədə iki saatdan artıq olmayaraq növbə ilə ödənişsiz iştirak etməli;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 511, Run 1",
+                "text": "55.2.5. müəyyən edilmiş nümunədə şəxsiyyəti təsdiq edən sənəd",
+                "strike_type": "single",
+                "paragraph_text": "55.2.5. müəyyən edilmiş nümunədə şəxsiyyəti təsdiq edən sənəd daşımalıdırlar."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 511, Run 2",
+                "text": "daşımalıdırlar",
+                "strike_type": "single",
+                "paragraph_text": "55.2.5. müəyyən edilmiş nümunədə şəxsiyyəti təsdiq edən sənəd daşımalıdırlar."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 511, Run 3",
+                "text": ".",
+                "strike_type": "single",
+                "paragraph_text": "55.2.5. müəyyən edilmiş nümunədə şəxsiyyəti təsdiq edən sənəd daşımalıdırlar."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 512, Run 1",
+                "text": "55.3. Məhkumlar, onların saxlandığı yerlər və əşyaları yoxlanıla bilər.",
+                "strike_type": "single",
+                "paragraph_text": "55.3. Məhkumlar, onların saxlandığı yerlər və əşyaları yoxlanıla bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 513, Run 1",
+                "text": "55.4. Xüsusi müəssisədə Daxili İntizam Qaydaları ilə qadağan edilmiş əşya və malların məhkumlar tərəfindən alınmasına,",
+                "strike_type": "single",
+                "paragraph_text": "55.4. Xüsusi müəssisədə Daxili İntizam Qaydaları ilə qadağan edilmiş əşya və malların məhkumlar tərəfindən alınmasına, saxlanılmasına və istifadəsinə yol verilmir. Belə əşya və mallar məhkumlarda aşkar olunarsa, onlar xüsusi müəssisənin müdiriyyətinin qərarı ilə götürülüb ya məhv edilir, ya da məhkumlar cəza çəkməkdən azad olunanadək saxlanılmaq üçün anbara təhvil verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 513, Run 2",
+                "text": "saxlanılmasına",
+                "strike_type": "single",
+                "paragraph_text": "55.4. Xüsusi müəssisədə Daxili İntizam Qaydaları ilə qadağan edilmiş əşya və malların məhkumlar tərəfindən alınmasına, saxlanılmasına və istifadəsinə yol verilmir. Belə əşya və mallar məhkumlarda aşkar olunarsa, onlar xüsusi müəssisənin müdiriyyətinin qərarı ilə götürülüb ya məhv edilir, ya da məhkumlar cəza çəkməkdən azad olunanadək saxlanılmaq üçün anbara təhvil verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 513, Run 3",
+                "text": "və istifadəsinə yol verilmir. Belə əşya və mallar məhkumlarda aşkar olunarsa, onlar xüsusi müəssisənin müdiriyyətinin qərarı ilə götürülüb ya məhv edilir, ya da məhkumlar cəza çəkməkdən azad",
+                "strike_type": "single",
+                "paragraph_text": "55.4. Xüsusi müəssisədə Daxili İntizam Qaydaları ilə qadağan edilmiş əşya və malların məhkumlar tərəfindən alınmasına, saxlanılmasına və istifadəsinə yol verilmir. Belə əşya və mallar məhkumlarda aşkar olunarsa, onlar xüsusi müəssisənin müdiriyyətinin qərarı ilə götürülüb ya məhv edilir, ya da məhkumlar cəza çəkməkdən azad olunanadək saxlanılmaq üçün anbara təhvil verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 513, Run 4",
+                "text": "olunanadək",
+                "strike_type": "single",
+                "paragraph_text": "55.4. Xüsusi müəssisədə Daxili İntizam Qaydaları ilə qadağan edilmiş əşya və malların məhkumlar tərəfindən alınmasına, saxlanılmasına və istifadəsinə yol verilmir. Belə əşya və mallar məhkumlarda aşkar olunarsa, onlar xüsusi müəssisənin müdiriyyətinin qərarı ilə götürülüb ya məhv edilir, ya da məhkumlar cəza çəkməkdən azad olunanadək saxlanılmaq üçün anbara təhvil verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 513, Run 5",
+                "text": "saxlanılmaq üçün anbara təhvil verilir.",
+                "strike_type": "single",
+                "paragraph_text": "55.4. Xüsusi müəssisədə Daxili İntizam Qaydaları ilə qadağan edilmiş əşya və malların məhkumlar tərəfindən alınmasına, saxlanılmasına və istifadəsinə yol verilmir. Belə əşya və mallar məhkumlarda aşkar olunarsa, onlar xüsusi müəssisənin müdiriyyətinin qərarı ilə götürülüb ya məhv edilir, ya da məhkumlar cəza çəkməkdən azad olunanadək saxlanılmaq üçün anbara təhvil verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 514, Run 1",
+                "text": "55.5. Xüsusi müəssisənin Daxili İntizam Qaydalarını pozmayan ailəli məhkumlara xüsusi müəssisənin müdiriyyətinin qərarı ilə ailəsi ilə icarəyə götürülmüş və ya şəxsi yaşayış sahəsində yaşamağa icazə verilir. Belə məhkumların hər ay bir dəfədən dörd dəfəyə qədər xüsusi müəssisədə qeydiyyatdan keçməsi xüsusi müəssisənin müdiriyyətinin qərarı ilə müəyyən edilir.",
+                "strike_type": "single",
+                "paragraph_text": "55.5. Xüsusi müəssisənin Daxili İntizam Qaydalarını pozmayan ailəli məhkumlara xüsusi müəssisənin müdiriyyətinin qərarı ilə ailəsi ilə icarəyə götürülmüş və ya şəxsi yaşayış sahəsində yaşamağa icazə verilir. Belə məhkumların hər ay bir dəfədən dörd dəfəyə qədər xüsusi müəssisədə qeydiyyatdan keçməsi xüsusi müəssisənin müdiriyyətinin qərarı ilə müəyyən edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 515, Run 1",
+                "text": "55.6. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "55.6. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərə cəzanın icrası yeri üzrə inzibati ərazidə yerləşən ali, orta ixtisas təhsil müəssisələrində qiyabi təhsil almağa icazə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 515, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "55.6. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərə cəzanın icrası yeri üzrə inzibati ərazidə yerləşən ali, orta ixtisas təhsil müəssisələrində qiyabi təhsil almağa icazə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 515, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərə cəzanın icrası yeri üzrə inzibati ərazidə yerləşən ali, orta ixtisas təhsil müəssisələrində qiyabi təhsil almağa icazə verilir.",
+                "strike_type": "single",
+                "paragraph_text": "55.6. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərə cəzanın icrası yeri üzrə inzibati ərazidə yerləşən ali, orta ixtisas təhsil müəssisələrində qiyabi təhsil almağa icazə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 515, Run 4",
+                "text": "",
+                "strike_type": "single",
+                "paragraph_text": "55.6. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərə cəzanın icrası yeri üzrə inzibati ərazidə yerləşən ali, orta ixtisas təhsil müəssisələrində qiyabi təhsil almağa icazə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 516, Run 1",
+                "text": "55.7. Məhkumlara tibbi yardım xüsusi müəssisənin yerləşdiyi və ya bu əraziyə daha yaxın yerləşən səhiyyə müəssisələrində göstərilir.",
+                "strike_type": "single",
+                "paragraph_text": "55.7. Məhkumlara tibbi yardım xüsusi müəssisənin yerləşdiyi və ya bu əraziyə daha yaxın yerləşən səhiyyə müəssisələrində göstərilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 518, Run 1",
+                "text": "Maddə 56.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 56. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin əməyi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 518, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 56. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin əməyi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 518, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 56. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin əməyi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 518, Run 4",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərin əməyi",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 56. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin əməyi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 520, Run 1",
+                "text": "56.1. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "56.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər xüsusi müəssisənin yerləşdiyi inzibati ərazi hüdudlarında işləyə bilərlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 520, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "56.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər xüsusi müəssisənin yerləşdiyi inzibati ərazi hüdudlarında işləyə bilərlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 520, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər xüsusi müəssisənin yerləşdiyi inzibati ərazi hüdudlarında işləyə bilərlər.",
+                "strike_type": "single",
+                "paragraph_text": "56.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər xüsusi müəssisənin yerləşdiyi inzibati ərazi hüdudlarında işləyə bilərlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 520, Run 4",
+                "text": "",
+                "strike_type": "single",
+                "paragraph_text": "56.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər xüsusi müəssisənin yerləşdiyi inzibati ərazi hüdudlarında işləyə bilərlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 521, Run 1",
+                "text": "56.2. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "56.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin əməyi əmək qanunvericiliyi ilə tənzimlənir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 521, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "56.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin əməyi əmək qanunvericiliyi ilə tənzimlənir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 521, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərin əməyi əmək qanunvericiliyi ilə tənzimlənir.",
+                "strike_type": "single",
+                "paragraph_text": "56.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin əməyi əmək qanunvericiliyi ilə tənzimlənir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 523, Run 1",
+                "text": "Maddə 57.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 57. Xüsusi müəssisənin müdiriyyətinin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 523, Run 2",
+                "text": "Xüsusi müəssisənin müdiriyyətinin vəzifələri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 57. Xüsusi müəssisənin müdiriyyətinin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 525, Run 1",
+                "text": "57.1. Xüsusi müəssisənin müdiriyyəti:",
+                "strike_type": "single",
+                "paragraph_text": "57.1. Xüsusi müəssisənin müdiriyyəti:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 526, Run 1",
+                "text": "57.1.1. məhkumların qeydiyyatını aparır;",
+                "strike_type": "single",
+                "paragraph_text": "57.1.1. məhkumların qeydiyyatını aparır;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 527, Run 1",
+                "text": "57.1.2. cəzanın icrasının qayda və şərtlərini məhkumlara izah edir;",
+                "strike_type": "single",
+                "paragraph_text": "57.1.2. cəzanın icrasının qayda və şərtlərini məhkumlara izah edir;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 528, Run 1",
+                "text": "57.1.3. məhkumların məişət təminatını təşkil edir;",
+                "strike_type": "single",
+                "paragraph_text": "57.1.3. məhkumların məişət təminatını təşkil edir;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 529, Run 1",
+                "text": "57.1.4. cəzanın icrasının qayda və şərtlərinə riayət",
+                "strike_type": "single",
+                "paragraph_text": "57.1.4. cəzanın icrasının qayda və şərtlərinə riayət edilməsinə nəzarət edir;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 529, Run 2",
+                "text": "edilməsinə",
+                "strike_type": "single",
+                "paragraph_text": "57.1.4. cəzanın icrasının qayda və şərtlərinə riayət edilməsinə nəzarət edir;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 529, Run 3",
+                "text": "nəzarət edir;",
+                "strike_type": "single",
+                "paragraph_text": "57.1.4. cəzanın icrasının qayda və şərtlərinə riayət edilməsinə nəzarət edir;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 530, Run 1",
+                "text": "57.1.5. məhkumlarla tərbiyəvi iş aparır;",
+                "strike_type": "single",
+                "paragraph_text": "57.1.5. məhkumlarla tərbiyəvi iş aparır;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 531, Run 1",
+                "text": "57.1.6. bu Məcəllə ilə müəyyən edilən",
+                "strike_type": "single",
+                "paragraph_text": "57.1.6. bu Məcəllə ilə müəyyən edilən həvəsləndirmə və tənbeh tədbirləri tətbiq edir;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 531, Run 2",
+                "text": "həvəsləndirmə",
+                "strike_type": "single",
+                "paragraph_text": "57.1.6. bu Məcəllə ilə müəyyən edilən həvəsləndirmə və tənbeh tədbirləri tətbiq edir;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 531, Run 3",
+                "text": "və tənbeh tədbirləri tətbiq edir;",
+                "strike_type": "single",
+                "paragraph_text": "57.1.6. bu Məcəllə ilə müəyyən edilən həvəsləndirmə və tənbeh tədbirləri tətbiq edir;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 532, Run 1",
+                "text": "57.1.7. məhkumun cəza çəkməkdən azad edilməsi ilə əlaqədar hazırlıq işi aparır.",
+                "strike_type": "single",
+                "paragraph_text": "57.1.7. məhkumun cəza çəkməkdən azad edilməsi ilə əlaqədar hazırlıq işi aparır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 533, Run 1",
+                "text": "57.2. Göstərilmiş vəzifələrin yerinə yetirilməsi qaydası bu Məcəllə, habelə digər normativ hüquqi aktlarla müəyyən edilir.",
+                "strike_type": "single",
+                "paragraph_text": "57.2. Göstərilmiş vəzifələrin yerinə yetirilməsi qaydası bu Məcəllə, habelə digər normativ hüquqi aktlarla müəyyən edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 535, Run 1",
+                "text": "Maddə 58.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 58. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürənin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 535, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 58. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürənin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 535, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 58. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürənin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 535, Run 4",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərin",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 58. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürənin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 535, Run 5",
+                "text": "işlədikləri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 58. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürənin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 535, Run 6",
+                "text": "yer üzrə işəgötürənin vəzifələri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 58. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürənin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 537, Run 1",
+                "text": "58.1. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "58.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən məhkumların əməyini əmək qanunvericiliyinə uyğun təşkil edir və onların islah edilməsində iştirak edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 537, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "58.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən məhkumların əməyini əmək qanunvericiliyinə uyğun təşkil edir və onların islah edilməsində iştirak edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 537, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərin",
+                "strike_type": "single",
+                "paragraph_text": "58.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən məhkumların əməyini əmək qanunvericiliyinə uyğun təşkil edir və onların islah edilməsində iştirak edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 537, Run 4",
+                "text": "işlədikləri",
+                "strike_type": "single",
+                "paragraph_text": "58.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən məhkumların əməyini əmək qanunvericiliyinə uyğun təşkil edir və onların islah edilməsində iştirak edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 537, Run 5",
+                "text": "yer üzrə işəgötürən məhkumların əməyini əmək qanunvericiliyinə uyğun təşkil edir və onların islah",
+                "strike_type": "single",
+                "paragraph_text": "58.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən məhkumların əməyini əmək qanunvericiliyinə uyğun təşkil edir və onların islah edilməsində iştirak edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 537, Run 6",
+                "text": "edilməsində",
+                "strike_type": "single",
+                "paragraph_text": "58.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən məhkumların əməyini əmək qanunvericiliyinə uyğun təşkil edir və onların islah edilməsində iştirak edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 537, Run 7",
+                "text": "iştirak edir.",
+                "strike_type": "single",
+                "paragraph_text": "58.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən məhkumların əməyini əmək qanunvericiliyinə uyğun təşkil edir və onların islah edilməsində iştirak edir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 538, Run 1",
+                "text": "58.2. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "58.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən onları işdən azad etdikdə bu barədə xüsusi müəssisənin müdiriyyətinə məlumat verməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 538, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "58.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən onları işdən azad etdikdə bu barədə xüsusi müəssisənin müdiriyyətinə məlumat verməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 538, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərin",
+                "strike_type": "single",
+                "paragraph_text": "58.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən onları işdən azad etdikdə bu barədə xüsusi müəssisənin müdiriyyətinə məlumat verməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 538, Run 4",
+                "text": "işlədikləri",
+                "strike_type": "single",
+                "paragraph_text": "58.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən onları işdən azad etdikdə bu barədə xüsusi müəssisənin müdiriyyətinə məlumat verməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 538, Run 5",
+                "text": "yer üzrə işəgötürən onları işdən azad etdikdə bu barədə xüsusi müəssisənin müdiriyyətinə məlumat verməlidir.",
+                "strike_type": "single",
+                "paragraph_text": "58.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin işlədikləri yer üzrə işəgötürən onları işdən azad etdikdə bu barədə xüsusi müəssisənin müdiriyyətinə məlumat verməlidir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 540, Run 1",
+                "text": "Maddə 59.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 59. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərlə tərbiyə işi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 540, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 59. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərlə tərbiyə işi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 540, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 59. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərlə tərbiyə işi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 540, Run 4",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərlə tərbiyə işi",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 59. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərlə tərbiyə işi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 542, Run 1",
+                "text": "59.1. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "59.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərlə xüsusi müəssisənin müdiriyyəti, ictimaiyyət və məhkumların işlədiyi yer üzrə işəgötürən tərəfindən tərbiyə işi aparılır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 542, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "59.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərlə xüsusi müəssisənin müdiriyyəti, ictimaiyyət və məhkumların işlədiyi yer üzrə işəgötürən tərəfindən tərbiyə işi aparılır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 542, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərlə xüsusi müəssisənin müdiriyyəti, ictimaiyyət və məhkumların işlədiyi yer üzrə işəgötürən tərəfindən tərbiyə işi aparılır.",
+                "strike_type": "single",
+                "paragraph_text": "59.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərlə xüsusi müəssisənin müdiriyyəti, ictimaiyyət və məhkumların işlədiyi yer üzrə işəgötürən tərəfindən tərbiyə işi aparılır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 543, Run 1",
+                "text": "59.2. Məhkumların tərbiyə xarakterli tədbirlərdə fəal iştirakı",
+                "strike_type": "single",
+                "paragraph_text": "59.2. Məhkumların tərbiyə xarakterli tədbirlərdə fəal iştirakı həvəsləndirilir və onların islah edilməsi müəyyən olunarkən nəzərə alınır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 543, Run 2",
+                "text": "həvəsləndirilir",
+                "strike_type": "single",
+                "paragraph_text": "59.2. Məhkumların tərbiyə xarakterli tədbirlərdə fəal iştirakı həvəsləndirilir və onların islah edilməsi müəyyən olunarkən nəzərə alınır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 543, Run 3",
+                "text": "və onların islah edilməsi müəyyən olunarkən nəzərə alınır.",
+                "strike_type": "single",
+                "paragraph_text": "59.2. Məhkumların tərbiyə xarakterli tədbirlərdə fəal iştirakı həvəsləndirilir və onların islah edilməsi müəyyən olunarkən nəzərə alınır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 545, Run 1",
+                "text": "Maddə 60.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 60. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən həvəsləndirmə tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 545, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 60. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən həvəsləndirmə tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 545, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 60. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən həvəsləndirmə tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 545, Run 4",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 60. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən həvəsləndirmə tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 545, Run 5",
+                "text": "həvəsləndirmə",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 60. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən həvəsləndirmə tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 545, Run 6",
+                "text": "tədbirləri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 60. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən həvəsləndirmə tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 547, Run 1",
+                "text": "60.0. Nümunəvi davranışa və əməyə vicdanlı münasibətə görə xüsusi müəssisənin müdiriyyəti azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "60.0. Nümunəvi davranışa və əməyə vicdanlı münasibətə görə xüsusi müəssisənin müdiriyyəti azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərə aşağıdakı həvəsləndirmə tədbirləri tətbiq edə bilər:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 547, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "60.0. Nümunəvi davranışa və əməyə vicdanlı münasibətə görə xüsusi müəssisənin müdiriyyəti azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərə aşağıdakı həvəsləndirmə tədbirləri tətbiq edə bilər:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 547, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslərə aşağıdakı",
+                "strike_type": "single",
+                "paragraph_text": "60.0. Nümunəvi davranışa və əməyə vicdanlı münasibətə görə xüsusi müəssisənin müdiriyyəti azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərə aşağıdakı həvəsləndirmə tədbirləri tətbiq edə bilər:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 547, Run 4",
+                "text": "həvəsləndirmə",
+                "strike_type": "single",
+                "paragraph_text": "60.0. Nümunəvi davranışa və əməyə vicdanlı münasibətə görə xüsusi müəssisənin müdiriyyəti azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərə aşağıdakı həvəsləndirmə tədbirləri tətbiq edə bilər:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 547, Run 5",
+                "text": "tədbirləri tətbiq edə bilər:",
+                "strike_type": "single",
+                "paragraph_text": "60.0. Nümunəvi davranışa və əməyə vicdanlı münasibətə görə xüsusi müəssisənin müdiriyyəti azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərə aşağıdakı həvəsləndirmə tədbirləri tətbiq edə bilər:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 548, Run 1",
+                "text": "60.0.1. təşəkkür elan etmək;",
+                "strike_type": "single",
+                "paragraph_text": "60.0.1. təşəkkür elan etmək;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 549, Run 1",
+                "text": "60.0.2. verilmiş tənbehi vaxtından əvvəl götürmək;",
+                "strike_type": "single",
+                "paragraph_text": "60.0.2. verilmiş tənbehi vaxtından əvvəl götürmək;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 550, Run 1",
+                "text": "60.0.3. bayram və istirahət günlərinin xüsusi müəssisənin ərazisinin",
+                "strike_type": "single",
+                "paragraph_text": "60.0.3. bayram və istirahət günlərinin xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 550, Run 2",
+                "text": "sərhədlərindən",
+                "strike_type": "single",
+                "paragraph_text": "60.0.3. bayram və istirahət günlərinin xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 550, Run 3",
+                "text": "kənarda",
+                "strike_type": "single",
+                "paragraph_text": "60.0.3. bayram və istirahət günlərinin xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 550, Run 4",
+                "text": "keçirilməsinə",
+                "strike_type": "single",
+                "paragraph_text": "60.0.3. bayram və istirahət günlərinin xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 550, Run 5",
+                "text": "icazə vermək;",
+                "strike_type": "single",
+                "paragraph_text": "60.0.3. bayram və istirahət günlərinin xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 551, Run 1",
+                "text": "60.0.4. iş yeri üzrə əsas məzuniyyəti xüsusi müəssisənin ərazisinin",
+                "strike_type": "single",
+                "paragraph_text": "60.0.4. iş yeri üzrə əsas məzuniyyəti xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 551, Run 2",
+                "text": "sərhədlərindən",
+                "strike_type": "single",
+                "paragraph_text": "60.0.4. iş yeri üzrə əsas məzuniyyəti xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 551, Run 3",
+                "text": "kənarda",
+                "strike_type": "single",
+                "paragraph_text": "60.0.4. iş yeri üzrə əsas məzuniyyəti xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 551, Run 4",
+                "text": "keçirilməsinə",
+                "strike_type": "single",
+                "paragraph_text": "60.0.4. iş yeri üzrə əsas məzuniyyəti xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 551, Run 5",
+                "text": "icazə vermək.",
+                "strike_type": "single",
+                "paragraph_text": "60.0.4. iş yeri üzrə əsas məzuniyyəti xüsusi müəssisənin ərazisinin sərhədlərindən kənarda keçirilməsinə icazə vermək."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 553, Run 1",
+                "text": "Maddə 61.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 61. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən tənbeh tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 553, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 61. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən tənbeh tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 553, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 61. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən tənbeh tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 553, Run 4",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən tənbeh tədbirləri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 61. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində tətbiq edilən tənbeh tədbirləri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 555, Run 1",
+                "text": "61.0. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "61.0. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər cəzanın icrası qaydalarını pozduqda, xüsusi müəssisənin müdiriyyəti onlar barəsində aşağıdakı tənbeh tədbirləri tətbiq edə bilər:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 555, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "61.0. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər cəzanın icrası qaydalarını pozduqda, xüsusi müəssisənin müdiriyyəti onlar barəsində aşağıdakı tənbeh tədbirləri tətbiq edə bilər:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 555, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər cəzanın icrası qaydalarını pozduqda, xüsusi müəssisənin müdiriyyəti onlar barəsində aşağıdakı tənbeh tədbirləri tətbiq edə bilər:",
+                "strike_type": "single",
+                "paragraph_text": "61.0. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər cəzanın icrası qaydalarını pozduqda, xüsusi müəssisənin müdiriyyəti onlar barəsində aşağıdakı tənbeh tədbirləri tətbiq edə bilər:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 556, Run 1",
+                "text": "61.0.1. xəbərdarlıq;",
+                "strike_type": "single",
+                "paragraph_text": "61.0.1. xəbərdarlıq;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 557, Run 1",
+                "text": "61.0.2. töhmət;",
+                "strike_type": "single",
+                "paragraph_text": "61.0.2. töhmət;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 558, Run 1",
+                "text": "61.0.3. müəyyən olunmuş vaxtlarda yataqxanadan kənara çıxmağa bir ayadək müddətə qadağan qoymaq;",
+                "strike_type": "single",
+                "paragraph_text": "61.0.3. müəyyən olunmuş vaxtlarda yataqxanadan kənara çıxmağa bir ayadək müddətə qadağan qoymaq;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 559, Run 1",
+                "text": "61.0.4. beş günədək müddətə intizam təcridxanasına salmaq.",
+                "strike_type": "single",
+                "paragraph_text": "61.0.4. beş günədək müddətə intizam təcridxanasına salmaq."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 561, Run 1",
+                "text": "Maddə 62.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 62. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərinin tətbiq edilməsi qaydaları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 561, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 62. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərinin tətbiq edilməsi qaydaları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 561, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 62. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərinin tətbiq edilməsi qaydaları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 561, Run 4",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər barəsində",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 62. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərinin tətbiq edilməsi qaydaları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 561, Run 5",
+                "text": "həvəsləndirmə",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 62. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərinin tətbiq edilməsi qaydaları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 561, Run 6",
+                "text": "və tənbeh tədbirlərinin tətbiq edilməsi qaydaları",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 62. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərinin tətbiq edilməsi qaydaları"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 563, Run 1",
+                "text": "62.1. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "62.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirləri yazılı şəkildə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 563, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "62.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirləri yazılı şəkildə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 563, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər barəsində",
+                "strike_type": "single",
+                "paragraph_text": "62.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirləri yazılı şəkildə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 563, Run 4",
+                "text": "həvəsləndirmə",
+                "strike_type": "single",
+                "paragraph_text": "62.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirləri yazılı şəkildə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 563, Run 5",
+                "text": "və tənbeh tədbirləri yazılı şəkildə verilir.",
+                "strike_type": "single",
+                "paragraph_text": "62.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirləri yazılı şəkildə verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 564, Run 1",
+                "text": "62.2. Tənbeh tədbirləri tətbiq edilərkən, xətanın törədilmə şəraiti, məhkumun şəxsiyyəti və onun xəta törədənədək davranışı nəzərə alınır. Tənbeh məhkumun törətdiyi xətanın ağırlığına və xüsusiyyətinə uyğun olmalıdır. Tənbeh tədbiri xətanın aşkar olunduğu vaxtdan on gün ərzində tətbiq edilir. Əgər həmin xəta ilə əlaqədar yoxlama aparılarsa, onun başa çatdığı gündən, lakin xətanın törədildiyi vaxtdan bir aydan gec olmayaraq müddətə tətbiq edilir. Tənbehin icrası bir qayda olaraq dərhal, müstəsna hallarda isə, onun tətbiq edildiyi gündən bir aydan gec olmayaraq həyata keçirilir. Eyni zamanda törədilmiş bir neçə xəta üçün bir tənbeh tədbiri tətbiq edilir.",
+                "strike_type": "single",
+                "paragraph_text": "62.2. Tənbeh tədbirləri tətbiq edilərkən, xətanın törədilmə şəraiti, məhkumun şəxsiyyəti və onun xəta törədənədək davranışı nəzərə alınır. Tənbeh məhkumun törətdiyi xətanın ağırlığına və xüsusiyyətinə uyğun olmalıdır. Tənbeh tədbiri xətanın aşkar olunduğu vaxtdan on gün ərzində tətbiq edilir. Əgər həmin xəta ilə əlaqədar yoxlama aparılarsa, onun başa çatdığı gündən, lakin xətanın törədildiyi vaxtdan bir aydan gec olmayaraq müddətə tətbiq edilir. Tənbehin icrası bir qayda olaraq dərhal, müstəsna hallarda isə, onun tətbiq edildiyi gündən bir aydan gec olmayaraq həyata keçirilir. Eyni zamanda törədilmiş bir neçə xəta üçün bir tənbeh tədbiri tətbiq edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 565, Run 1",
+                "text": "62.3. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "62.3. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərini tətbiq etmək hüququna xüsusi müəssisənin müdiriyyəti malikdir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 565, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "62.3. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərini tətbiq etmək hüququna xüsusi müəssisənin müdiriyyəti malikdir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 565, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər barəsində",
+                "strike_type": "single",
+                "paragraph_text": "62.3. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərini tətbiq etmək hüququna xüsusi müəssisənin müdiriyyəti malikdir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 565, Run 4",
+                "text": "həvəsləndirmə",
+                "strike_type": "single",
+                "paragraph_text": "62.3. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərini tətbiq etmək hüququna xüsusi müəssisənin müdiriyyəti malikdir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 565, Run 5",
+                "text": "və tənbeh tədbirlərini tətbiq etmək hüququna xüsusi müəssisənin müdiriyyəti malikdir.",
+                "strike_type": "single",
+                "paragraph_text": "62.3. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər barəsində həvəsləndirmə və tənbeh tədbirlərini tətbiq etmək hüququna xüsusi müəssisənin müdiriyyəti malikdir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 567, Run 1",
+                "text": "Maddə 63.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 63. Azadlığın məhdudlaşdırılması növündə cəzanın icrasından qərəzli boyun qaçırma"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 567, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 63. Azadlığın məhdudlaşdırılması növündə cəzanın icrasından qərəzli boyun qaçırma"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 567, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 63. Azadlığın məhdudlaşdırılması növündə cəzanın icrasından qərəzli boyun qaçırma"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 567, Run 4",
+                "text": "növündə cəzanın icrasından qərəzli boyun qaçırma",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 63. Azadlığın məhdudlaşdırılması növündə cəzanın icrasından qərəzli boyun qaçırma"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 569, Run 1",
+                "text": "63.0. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "63.0. Azadlığın məhdudlaşdırılması növündə cəzanın icrasından qərəzli boyun qaçırma aşağıdakı hallar hesab olunur:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 569, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "63.0. Azadlığın məhdudlaşdırılması növündə cəzanın icrasından qərəzli boyun qaçırma aşağıdakı hallar hesab olunur:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 569, Run 3",
+                "text": "növündə cəzanın icrasından qərəzli boyun qaçırma aşağıdakı hallar hesab olunur:",
+                "strike_type": "single",
+                "paragraph_text": "63.0. Azadlığın məhdudlaşdırılması növündə cəzanın icrasından qərəzli boyun qaçırma aşağıdakı hallar hesab olunur:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 570, Run 1",
+                "text": "63.0.1. məhkumun üzrsüz səbəbdən xüsusi müəssisəyə vaxtında",
+                "strike_type": "single",
+                "paragraph_text": "63.0.1. məhkumun üzrsüz səbəbdən xüsusi müəssisəyə vaxtında gəlməməsi və ya qayıtmaması;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 570, Run 2",
+                "text": "gəlməməsi",
+                "strike_type": "single",
+                "paragraph_text": "63.0.1. məhkumun üzrsüz səbəbdən xüsusi müəssisəyə vaxtında gəlməməsi və ya qayıtmaması;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 570, Run 3",
+                "text": "və ya",
+                "strike_type": "single",
+                "paragraph_text": "63.0.1. məhkumun üzrsüz səbəbdən xüsusi müəssisəyə vaxtında gəlməməsi və ya qayıtmaması;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 570, Run 4",
+                "text": "qayıtmaması",
+                "strike_type": "single",
+                "paragraph_text": "63.0.1. məhkumun üzrsüz səbəbdən xüsusi müəssisəyə vaxtında gəlməməsi və ya qayıtmaması;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 570, Run 5",
+                "text": ";",
+                "strike_type": "single",
+                "paragraph_text": "63.0.1. məhkumun üzrsüz səbəbdən xüsusi müəssisəyə vaxtında gəlməməsi və ya qayıtmaması;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 571, Run 1",
+                "text": "63.0.2. məhkumun xüsusi müəssisənin ərazisini icazəsiz tərk etməsi.",
+                "strike_type": "single",
+                "paragraph_text": "63.0.2. məhkumun xüsusi müəssisənin ərazisini icazəsiz tərk etməsi."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 573, Run 1",
+                "text": "Maddə 64.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 64. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər üzərində nəzarət"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 573, Run 2",
+                "text": "Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 64. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər üzərində nəzarət"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 573, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 64. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər üzərində nəzarət"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 573, Run 4",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər üzərində nəzarət",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 64. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər üzərində nəzarət"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 575, Run 1",
+                "text": "64.1. Azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "64.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər üzərində nəzarət xüsusi müəssisənin müdiriyyəti tərəfindən həyata keçirilir. Nəzarətin həyata keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanının qəbul etdiyi normativ hüquqi aktlarla müəyyən edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 575, Run 2",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "64.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər üzərində nəzarət xüsusi müəssisənin müdiriyyəti tərəfindən həyata keçirilir. Nəzarətin həyata keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanının qəbul etdiyi normativ hüquqi aktlarla müəyyən edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 575, Run 3",
+                "text": "növündə cəzaya məhkum olunmuş şəxslər üzərində nəzarət xüsusi müəssisənin müdiriyyəti tərəfindən həyata keçirilir. Nəzarətin həyata keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanının qəbul etdiyi normativ hüquqi aktlarla müəyyən edilir.",
+                "strike_type": "single",
+                "paragraph_text": "64.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər üzərində nəzarət xüsusi müəssisənin müdiriyyəti tərəfindən həyata keçirilir. Nəzarətin həyata keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanının qəbul etdiyi normativ hüquqi aktlarla müəyyən edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 576, Run 1",
+                "text": "64.2. İctimai qaydanın",
+                "strike_type": "single",
+                "paragraph_text": "64.2. İctimai qaydanın pozulmasının qarşısının alınması məqsədi ilə barəsində tənbeh tədbirlərinin tətbiqi haqqında məsələnin həllinə qədər məhkum iyirmi dörd saatdan çox olmayan müddətə intizam təcridxanasına salına bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 576, Run 2",
+                "text": "pozulmasının",
+                "strike_type": "single",
+                "paragraph_text": "64.2. İctimai qaydanın pozulmasının qarşısının alınması məqsədi ilə barəsində tənbeh tədbirlərinin tətbiqi haqqında məsələnin həllinə qədər məhkum iyirmi dörd saatdan çox olmayan müddətə intizam təcridxanasına salına bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 576, Run 3",
+                "text": "qarşısının alınması məqsədi ilə barəsində tənbeh tədbirlərinin tətbiqi haqqında məsələnin həllinə qədər məhkum iyirmi dörd saatdan çox olmayan müddətə intizam təcridxanasına salına bilər.",
+                "strike_type": "single",
+                "paragraph_text": "64.2. İctimai qaydanın pozulmasının qarşısının alınması məqsədi ilə barəsində tənbeh tədbirlərinin tətbiqi haqqında məsələnin həllinə qədər məhkum iyirmi dörd saatdan çox olmayan müddətə intizam təcridxanasına salına bilər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 609, Run 2",
+                "text": "müstəsna hallarda",
+                "strike_type": "single",
+                "paragraph_text": "69.1. İlk dəfə beş ildən artıq olmayan müddətə azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş və cəzasını ümumi rejimli cəzaçəkmə müəssisələrində çəkən şəxslər müstəsna hallarda onların razılığı ilə təsərrüfat və məişət xidməti işi üçün istintaq təcridxanasında, müalicə müəssisəsində və ya həbsxanada saxlanıla bilərlər. Əvvəllər məhkum edilmiş və yenidən yeddi ildən artıq olmayan müddətə azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş şəxslər müstəsna hallarda onların razılığı ilə təsərrüfat və məişət xidməti işi üçün müalicə müəssisələrində saxlanıla bilərlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 677, Run 2",
+                "text": "və cəzaçəkmə",
+                "strike_type": "single",
+                "paragraph_text": "75.5. Cəzaçəkmə müəssisəsinin müdiriyyəti bu müəssisəyə daxil olan və çıxan şəxslərə, onların əşyalarına, nəqliyyat vasitələrinə baxış keçirmək və cəzaçəkmə müəssisələrinin Daxili İntizam Qaydaları ilə müəyyən edilmiş siyahı üzrə qadağan olunmuş əşya və sənədləri götürmək hüququna malikdir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 677, Run 3",
+                "text": "müəssisələrinin Daxili İntizam Qaydaları ilə müəyyən edilmiş siyahı üzrə qadağan olunmuş əşya və sənədləri götürmək",
+                "strike_type": "single",
+                "paragraph_text": "75.5. Cəzaçəkmə müəssisəsinin müdiriyyəti bu müəssisəyə daxil olan və çıxan şəxslərə, onların əşyalarına, nəqliyyat vasitələrinə baxış keçirmək və cəzaçəkmə müəssisələrinin Daxili İntizam Qaydaları ilə müəyyən edilmiş siyahı üzrə qadağan olunmuş əşya və sənədləri götürmək hüququna malikdir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 740, Run 2",
+                "text": ", habelə məhkumlara alınması qadağan edilən əşyaların siyahısı",
+                "strike_type": "single",
+                "paragraph_text": "82.5. Məhkumların bağlama, sovqat və ya banderol alması və onlara baxış keçirilməsi qaydası, habelə məhkumlara alınması qadağan edilən əşyaların siyahısı cəzaçəkmə müəssisələrinin Daxili İntizam Qaydaları ilə müəyyən edilir. Məhkumların adına göndərilmiş bağlama və banderollarda bu məcəllənin 74.5-ci maddəsində nəzərdə tutulanlar istisna olmaqla, digər əşya, mallar və qida məhsulları aşkar edildikdə onlar götürülür. Bu əşya, mallar və ya qida məhsulları məhkum azad olunanadək saxlanılması üçün anbara təhvil verilir və ya bağlama və banderolu göndərmiş şəxsin hesabına geri qaytarılır, yaxud cəzaçəkmə müəssisəsinin müdiriyyətinin əsaslandırılmış qərarına əsasən məhv edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 812, Run 4",
+                "text": ".",
+                "strike_type": "single",
+                "paragraph_text": "91.4. Məhkumlar gün ərzində orqanizmin normal fəaliyyətini təmin edən üç dəfə yeməklə dövlət hesabına təmin olunurlar. Məhkumları əməyə cəlb edən müəssisələrin hesabına onların müəyyən olunmuş normadan əlavə qidalanması təşkil edilə bilər. Özlərindən asılı olmayan səbəblərdən əmək haqqı və ya pensiya almayan məhkumlar dövlət hesabına yeməklə təmin edilirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 812, Run 5",
+                "text": "Özlərindən",
+                "strike_type": "single",
+                "paragraph_text": "91.4. Məhkumlar gün ərzində orqanizmin normal fəaliyyətini təmin edən üç dəfə yeməklə dövlət hesabına təmin olunurlar. Məhkumları əməyə cəlb edən müəssisələrin hesabına onların müəyyən olunmuş normadan əlavə qidalanması təşkil edilə bilər. Özlərindən asılı olmayan səbəblərdən əmək haqqı və ya pensiya almayan məhkumlar dövlət hesabına yeməklə təmin edilirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 812, Run 6",
+                "text": "asılı olmayan səbəblərdən əmək haqqı və ya pensiya almayan məhkumlar dövlət hesabına yeməklə təmin edilirlər.",
+                "strike_type": "single",
+                "paragraph_text": "91.4. Məhkumlar gün ərzində orqanizmin normal fəaliyyətini təmin edən üç dəfə yeməklə dövlət hesabına təmin olunurlar. Məhkumları əməyə cəlb edən müəssisələrin hesabına onların müəyyən olunmuş normadan əlavə qidalanması təşkil edilə bilər. Özlərindən asılı olmayan səbəblərdən əmək haqqı və ya pensiya almayan məhkumlar dövlət hesabına yeməklə təmin edilirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 817, Run 4",
+                "text": "həmçinin idman paltarı",
+                "strike_type": "single",
+                "paragraph_text": "91.9. Qida məhsullarının və ən zəruri malların əldə edilməsi üçün xərcləməyə icazə verilən məbləğdən başqa, məhkumlar öz şəxsi hesablarında olan vəsaitlə cəzaçəkmə müəssisələrində istifadəsinə icazə verilən ayaqqabı və paltar həmçinin idman paltarı əldə edə bilərlər. Məhkumlar normativ hüquqi aktlarla müəyyən olunmuş qaydada haqqı ödənilən müalicə-profilaktika xidmətlərindən və başqa əlavə xidmətlərdən istifadə edə bilərlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 938, Run 9",
+                "text": "orta",
+                "strike_type": "single",
+                "paragraph_text": "104.1. Cəzaçəkmə müəssisələrində məhkumların ümumi təhsili həyata keçirilir. Yaşı qırxdan çox olan məhkumlar, orqanizmin funksiyalarının 61-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş məhkumlar, əlilliyi olan məhkum uşaqlar ümumi orta təhsilə öz arzularına görə cəlb edilirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1139, Run 2",
+                "text": "ayrılıqda və iki nəfərdən artıq olmamaq şərti ilə",
+                "strike_type": "single",
+                "paragraph_text": "122.1. Ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş şəxslər həbsxanalarda ayrılıqda və iki nəfərdən artıq olmamaq şərti ilə kameralarda saxlanılırlar. Bu məhkumlar:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1215, Run 2",
+                "text": "orta",
+                "strike_type": "single",
+                "paragraph_text": "130.2. Məhkumların ümumi orta təhsili tərbiyə müəssisələrinin ümumtəhsil məktəblərində, peşə təhsili ilə tərbiyə müəssisələrinin peşə məktəblərində və ya tərbiyə müəssisələrinin istehsalat sahələrində həyata keçirilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1369, Run 2",
+                "text": ", əmlak müsadirəsi",
+                "strike_type": "single",
+                "paragraph_text": "Nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə, xüsusi və ya hərbi rütbədən, fəxri addan və dövlət təltifindən məhrum etmə, əmlak müsadirəsi və Azərbaycan Respublikasının hüdudlarından kənara məcburi çıxarma növündə cəzaların icrası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1375, Run 2",
+                "text": "azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "154.3. Nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə növündə cəza azadlığın məhdudlaşdırılması intizam xarakterli hərbi hissədə saxlama və ya müəyyən müddətə azadlıqdan məhrum etmə növündə cəzalara əlavə olaraq təyin edildikdə, cəzanı icra edən müəssisə və ya orqan əsas cəza müddəti qurtardıqdan sonra, yaxud məhkum şərti olaraq vaxtından əvvəl azad edilərsə və ya cəzasının çəkilməmiş hissəsi daha yüngül cəza ilə əvəz edilərsə hökmün surətini və nəqliyyat vasitəsini idarəetmə hüququ verən sənədi məhkumun yaşadığı yerin icra məmuruna göndərir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1375, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "154.3. Nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə növündə cəza azadlığın məhdudlaşdırılması intizam xarakterli hərbi hissədə saxlama və ya müəyyən müddətə azadlıqdan məhrum etmə növündə cəzalara əlavə olaraq təyin edildikdə, cəzanı icra edən müəssisə və ya orqan əsas cəza müddəti qurtardıqdan sonra, yaxud məhkum şərti olaraq vaxtından əvvəl azad edilərsə və ya cəzasının çəkilməmiş hissəsi daha yüngül cəza ilə əvəz edilərsə hökmün surətini və nəqliyyat vasitəsini idarəetmə hüququ verən sənədi məhkumun yaşadığı yerin icra məmuruna göndərir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1381, Run 2",
+                "text": "azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "155.2. Cəzanı icra edən müəssisə və ya orqan azadlığın məhdudlaşdırılması, intizam xarakterli hərbi hissədə saxlama və ya müəyyən müddətə azadlıqdan məhrum etmə növündə cəzalardan əlavə nəqliyyat vasitəsini idarəetmə hüququndan məhrum etməyə məhkum olunmuş şəxsləri nəqliyyat vasitəsini idarəetmə ilə əlaqədar işlərdə istifadə edə bilməz."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1381, Run 3",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "155.2. Cəzanı icra edən müəssisə və ya orqan azadlığın məhdudlaşdırılması, intizam xarakterli hərbi hissədə saxlama və ya müəyyən müddətə azadlıqdan məhrum etmə növündə cəzalardan əlavə nəqliyyat vasitəsini idarəetmə hüququndan məhrum etməyə məhkum olunmuş şəxsləri nəqliyyat vasitəsini idarəetmə ilə əlaqədar işlərdə istifadə edə bilməz."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1381, Run 4",
+                "text": ",",
+                "strike_type": "single",
+                "paragraph_text": "155.2. Cəzanı icra edən müəssisə və ya orqan azadlığın məhdudlaşdırılması, intizam xarakterli hərbi hissədə saxlama və ya müəyyən müddətə azadlıqdan məhrum etmə növündə cəzalardan əlavə nəqliyyat vasitəsini idarəetmə hüququndan məhrum etməyə məhkum olunmuş şəxsləri nəqliyyat vasitəsini idarəetmə ilə əlaqədar işlərdə istifadə edə bilməz."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1407, Run 1",
+                "text": "Maddə 160.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 160. Əmlak müsadirəsi növündə cəzanın icrası qaydası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1407, Run 2",
+                "text": "Əmlak müsadirəsi növündə cəzanın icrası qaydası",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 160. Əmlak müsadirəsi növündə cəzanın icrası qaydası"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1409, Run 1",
+                "text": "160.1. Əmlak müsadirəsi barədə hökmü çıxarmış məhkəmə hökm qanuni qüvvəyə mindikdən sonra hökmün surətini, hökmün icrası barədə göstərişi və əmlakın siyahısının surətini",
+                "strike_type": "single",
+                "paragraph_text": "160.1. Əmlak müsadirəsi barədə hökmü çıxarmış məhkəmə hökm qanuni qüvvəyə mindikdən sonra hökmün surətini, hökmün icrası barədə göstərişi və əmlakın siyahısının surətini icra məmuruna göndərir və bu barədə müvafiq maliyyə orqanına məlumat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1409, Run 2",
+                "text": "icra məmuruna",
+                "strike_type": "single",
+                "paragraph_text": "160.1. Əmlak müsadirəsi barədə hökmü çıxarmış məhkəmə hökm qanuni qüvvəyə mindikdən sonra hökmün surətini, hökmün icrası barədə göstərişi və əmlakın siyahısının surətini icra məmuruna göndərir və bu barədə müvafiq maliyyə orqanına məlumat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1409, Run 3",
+                "text": "göndərir və bu barədə müvafiq maliyyə orqanına məlumat verir.",
+                "strike_type": "single",
+                "paragraph_text": "160.1. Əmlak müsadirəsi barədə hökmü çıxarmış məhkəmə hökm qanuni qüvvəyə mindikdən sonra hökmün surətini, hökmün icrası barədə göstərişi və əmlakın siyahısının surətini icra məmuruna göndərir və bu barədə müvafiq maliyyə orqanına məlumat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1410, Run 1",
+                "text": "160.2. Əmlak müsadirəsi növündə cəzanın icrasını əmlakın olduğu yer üzrə",
+                "strike_type": "single",
+                "paragraph_text": "160.2. Əmlak müsadirəsi növündə cəzanın icrasını əmlakın olduğu yer üzrə icra məmuru həyata keçirir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1410, Run 2",
+                "text": "icra məmuru",
+                "strike_type": "single",
+                "paragraph_text": "160.2. Əmlak müsadirəsi növündə cəzanın icrasını əmlakın olduğu yer üzrə icra məmuru həyata keçirir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1410, Run 3",
+                "text": "həyata keçirir.",
+                "strike_type": "single",
+                "paragraph_text": "160.2. Əmlak müsadirəsi növündə cəzanın icrasını əmlakın olduğu yer üzrə icra məmuru həyata keçirir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1412, Run 1",
+                "text": "Maddə 161.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 161. Müsadirə edilən əmlak"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1412, Run 2",
+                "text": "Müsadirə edilən əmlak",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 161. Müsadirə edilən əmlak"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1414, Run 1",
+                "text": "161.1. Məhkəmənin hökmündə və əmlak siyahısında göstərilən aşağıdakı əmlak müsadirə edilir:",
+                "strike_type": "single",
+                "paragraph_text": "161.1. Məhkəmənin hökmündə və əmlak siyahısında göstərilən aşağıdakı əmlak müsadirə edilir:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1414, Run 2",
+                "text": "",
+                "strike_type": "single",
+                "paragraph_text": "161.1. Məhkəmənin hökmündə və əmlak siyahısında göstərilən aşağıdakı əmlak müsadirə edilir:"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1415, Run 1",
+                "text": "161.1.1. cinayət",
+                "strike_type": "single",
+                "paragraph_text": "161.1.1. cinayət törədilərkən istifadə edilmiş alət və vasitələr;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1415, Run 2",
+                "text": "törədilərkən",
+                "strike_type": "single",
+                "paragraph_text": "161.1.1. cinayət törədilərkən istifadə edilmiş alət və vasitələr;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1415, Run 3",
+                "text": "istifadə edilmiş alət və vasitələr;",
+                "strike_type": "single",
+                "paragraph_text": "161.1.1. cinayət törədilərkən istifadə edilmiş alət və vasitələr;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1416, Run 1",
+                "text": "161.1.2. cinayətin",
+                "strike_type": "single",
+                "paragraph_text": "161.1.2. cinayətin predmetləri;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1416, Run 2",
+                "text": "predmetləri",
+                "strike_type": "single",
+                "paragraph_text": "161.1.2. cinayətin predmetləri;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1416, Run 3",
+                "text": ";",
+                "strike_type": "single",
+                "paragraph_text": "161.1.2. cinayətin predmetləri;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1417, Run 1",
+                "text": "161.1.3. cinayət yolu ilə əldə edilmiş əmlak;",
+                "strike_type": "single",
+                "paragraph_text": "161.1.3. cinayət yolu ilə əldə edilmiş əmlak;"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1418, Run 1",
+                "text": "161.1.4. cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin",
+                "strike_type": "single",
+                "paragraph_text": "161.1.4. cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin predmeti istifadə edildiyi, özgəninkiləşdirildiyi və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində məhkuma məxsus olan pul və ya digər əmlak."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1418, Run 2",
+                "text": "predmeti",
+                "strike_type": "single",
+                "paragraph_text": "161.1.4. cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin predmeti istifadə edildiyi, özgəninkiləşdirildiyi və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində məhkuma məxsus olan pul və ya digər əmlak."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1418, Run 3",
+                "text": "istifadə edildiyi,",
+                "strike_type": "single",
+                "paragraph_text": "161.1.4. cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin predmeti istifadə edildiyi, özgəninkiləşdirildiyi və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində məhkuma məxsus olan pul və ya digər əmlak."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1418, Run 4",
+                "text": "özgəninkiləşdirildiyi",
+                "strike_type": "single",
+                "paragraph_text": "161.1.4. cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin predmeti istifadə edildiyi, özgəninkiləşdirildiyi və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində məhkuma məxsus olan pul və ya digər əmlak."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1418, Run 5",
+                "text": "və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində məhkuma məxsus olan pul və ya digər əmlak.",
+                "strike_type": "single",
+                "paragraph_text": "161.1.4. cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin predmeti istifadə edildiyi, özgəninkiləşdirildiyi və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində məhkuma məxsus olan pul və ya digər əmlak."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1419, Run 1",
+                "text": "161.2. Məhkəmənin hökmü ilə müsadirə edilməli əmlakın kimə mənsub olması haqqında mübahisə mülki məhkəmə icraatı qaydasında həll edilir.",
+                "strike_type": "single",
+                "paragraph_text": "161.2. Məhkəmənin hökmü ilə müsadirə edilməli əmlakın kimə mənsub olması haqqında mübahisə mülki məhkəmə icraatı qaydasında həll edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1421, Run 1",
+                "text": "Maddə 162.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 162. Əmlak müsadirəsi növündə cəzanın icrası zamanı icra məmurunun vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1421, Run 2",
+                "text": "Əmlak müsadirəsi növündə cəzanın icrası zamanı icra",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 162. Əmlak müsadirəsi növündə cəzanın icrası zamanı icra məmurunun vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1421, Run 3",
+                "text": "məmurunun",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 162. Əmlak müsadirəsi növündə cəzanın icrası zamanı icra məmurunun vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1421, Run 4",
+                "text": "vəzifələri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 162. Əmlak müsadirəsi növündə cəzanın icrası zamanı icra məmurunun vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1423, Run 1",
+                "text": "162.1.",
+                "strike_type": "single",
+                "paragraph_text": "162.1. icra məmuru məhkəmə hökmünün surətini, hökmün icrası barədə göstərişi aldıqdan sonra dərhal əmlak siyahısında göstərilən əmlakın mövcudluğunu yoxlayır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1423, Run 2",
+                "text": "icra məmuru",
+                "strike_type": "single",
+                "paragraph_text": "162.1. icra məmuru məhkəmə hökmünün surətini, hökmün icrası barədə göstərişi aldıqdan sonra dərhal əmlak siyahısında göstərilən əmlakın mövcudluğunu yoxlayır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1423, Run 3",
+                "text": "məhkəmə hökmünün surətini, hökmün icrası barədə göstərişi aldıqdan sonra dərhal əmlak siyahısında göstərilən əmlakın mövcudluğunu yoxlayır.",
+                "strike_type": "single",
+                "paragraph_text": "162.1. icra məmuru məhkəmə hökmünün surətini, hökmün icrası barədə göstərişi aldıqdan sonra dərhal əmlak siyahısında göstərilən əmlakın mövcudluğunu yoxlayır."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1424, Run 1",
+                "text": "162.2. Müsadirə edilən əmlak plomblanır, yaxud möhürlənir, zəruri hallarda isə bu barədə siyahıda qeydlər edilir.",
+                "strike_type": "single",
+                "paragraph_text": "162.2. Müsadirə edilən əmlak plomblanır, yaxud möhürlənir, zəruri hallarda isə bu barədə siyahıda qeydlər edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1425, Run 1",
+                "text": "162.3. Müsadirə edilməli əmlakın saxlanılması üçün",
+                "strike_type": "single",
+                "paragraph_text": "162.3. Müsadirə edilməli əmlakın saxlanılması üçün icra məmuru zəruri tədbirlər görür."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1425, Run 2",
+                "text": "icra məmuru",
+                "strike_type": "single",
+                "paragraph_text": "162.3. Müsadirə edilməli əmlakın saxlanılması üçün icra məmuru zəruri tədbirlər görür."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1425, Run 3",
+                "text": "zəruri tədbirlər görür.",
+                "strike_type": "single",
+                "paragraph_text": "162.3. Müsadirə edilməli əmlakın saxlanılması üçün icra məmuru zəruri tədbirlər görür."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1427, Run 1",
+                "text": "Maddə 163.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 163. Müsadirə edilməli əmlakla əlaqədar digər şəxslərin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1427, Run 2",
+                "text": "Müsadirə edilməli əmlakla əlaqədar digər şəxslərin vəzifələri",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 163. Müsadirə edilməli əmlakla əlaqədar digər şəxslərin vəzifələri"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1429, Run 1",
+                "text": "163.1. Müsadirə edilməli əmlak müəssisə, idarə, təşkilat və ya vətəndaşlarda olarsa, onlar bu barədə məhkəməyə və ya müvafiq maliyyə orqanına xəbər",
+                "strike_type": "single",
+                "paragraph_text": "163.1. Müsadirə edilməli əmlak müəssisə, idarə, təşkilat və ya vətəndaşlarda olarsa, onlar bu barədə məhkəməyə və ya müvafiq maliyyə orqanına xəbər verməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1429, Run 2",
+                "text": "verməlidirlər",
+                "strike_type": "single",
+                "paragraph_text": "163.1. Müsadirə edilməli əmlak müəssisə, idarə, təşkilat və ya vətəndaşlarda olarsa, onlar bu barədə məhkəməyə və ya müvafiq maliyyə orqanına xəbər verməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1429, Run 3",
+                "text": ".",
+                "strike_type": "single",
+                "paragraph_text": "163.1. Müsadirə edilməli əmlak müəssisə, idarə, təşkilat və ya vətəndaşlarda olarsa, onlar bu barədə məhkəməyə və ya müvafiq maliyyə orqanına xəbər verməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1430, Run 1",
+                "text": "163.2. Müəssisə, idarə, təşkilat və ya vətəndaşlar onlara saxlanmaq üçün verilən müsadirə edilən əmlakın qorunub saxlanmasını təmin",
+                "strike_type": "single",
+                "paragraph_text": "163.2. Müəssisə, idarə, təşkilat və ya vətəndaşlar onlara saxlanmaq üçün verilən müsadirə edilən əmlakın qorunub saxlanmasını təmin etməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1430, Run 2",
+                "text": "etməlidirlər",
+                "strike_type": "single",
+                "paragraph_text": "163.2. Müəssisə, idarə, təşkilat və ya vətəndaşlar onlara saxlanmaq üçün verilən müsadirə edilən əmlakın qorunub saxlanmasını təmin etməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1430, Run 3",
+                "text": ".",
+                "strike_type": "single",
+                "paragraph_text": "163.2. Müəssisə, idarə, təşkilat və ya vətəndaşlar onlara saxlanmaq üçün verilən müsadirə edilən əmlakın qorunub saxlanmasını təmin etməlidirlər."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1431, Run 1",
+                "text": "163.3. Müsadirə edilən əmlakın gizlədilməsinə, israf",
+                "strike_type": "single",
+                "paragraph_text": "163.3. Müsadirə edilən əmlakın gizlədilməsinə, israf edilməsinə, özgəninkiləşdirilməsinə və ya dəyişdirilməsinə görə təqsirli şəxslər qanunvericiliyə uyğun məsuliyyətə cəlb olunurlar."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1431, Run 2",
+                "text": "edilməsinə",
+                "strike_type": "single",
+                "paragraph_text": "163.3. Müsadirə edilən əmlakın gizlədilməsinə, israf edilməsinə, özgəninkiləşdirilməsinə və ya dəyişdirilməsinə görə təqsirli şəxslər qanunvericiliyə uyğun məsuliyyətə cəlb olunurlar."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1431, Run 3",
+                "text": ", özgəninkiləşdirilməsinə və ya",
+                "strike_type": "single",
+                "paragraph_text": "163.3. Müsadirə edilən əmlakın gizlədilməsinə, israf edilməsinə, özgəninkiləşdirilməsinə və ya dəyişdirilməsinə görə təqsirli şəxslər qanunvericiliyə uyğun məsuliyyətə cəlb olunurlar."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1431, Run 4",
+                "text": "dəyişdirilməsinə",
+                "strike_type": "single",
+                "paragraph_text": "163.3. Müsadirə edilən əmlakın gizlədilməsinə, israf edilməsinə, özgəninkiləşdirilməsinə və ya dəyişdirilməsinə görə təqsirli şəxslər qanunvericiliyə uyğun məsuliyyətə cəlb olunurlar."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1431, Run 5",
+                "text": "görə təqsirli şəxslər qanunvericiliyə uyğun məsuliyyətə cəlb olunurlar.",
+                "strike_type": "single",
+                "paragraph_text": "163.3. Müsadirə edilən əmlakın gizlədilməsinə, israf edilməsinə, özgəninkiləşdirilməsinə və ya dəyişdirilməsinə görə təqsirli şəxslər qanunvericiliyə uyğun məsuliyyətə cəlb olunurlar."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1433, Run 1",
+                "text": "Maddə 164.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 164. Müsadirə edilmiş əmlakın maliyyə orqanlarına verilməsi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1433, Run 2",
+                "text": "Müsadirə edilmiş əmlakın maliyyə orqanlarına verilməsi",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 164. Müsadirə edilmiş əmlakın maliyyə orqanlarına verilməsi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1435, Run 1",
+                "text": "164.1. Məhkumun müsadirə edilmiş əmlakı bu əmlak barəsində irəli sürülən bütün tələblər qanunvericilikdə müəyyən edilmiş qaydada təmin",
+                "strike_type": "single",
+                "paragraph_text": "164.1. Məhkumun müsadirə edilmiş əmlakı bu əmlak barəsində irəli sürülən bütün tələblər qanunvericilikdə müəyyən edilmiş qaydada təmin edildikdən sonra maliyyə orqanlarına verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1435, Run 2",
+                "text": "edildikdən",
+                "strike_type": "single",
+                "paragraph_text": "164.1. Məhkumun müsadirə edilmiş əmlakı bu əmlak barəsində irəli sürülən bütün tələblər qanunvericilikdə müəyyən edilmiş qaydada təmin edildikdən sonra maliyyə orqanlarına verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1435, Run 3",
+                "text": "sonra maliyyə orqanlarına verilir.",
+                "strike_type": "single",
+                "paragraph_text": "164.1. Məhkumun müsadirə edilmiş əmlakı bu əmlak barəsində irəli sürülən bütün tələblər qanunvericilikdə müəyyən edilmiş qaydada təmin edildikdən sonra maliyyə orqanlarına verilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1436, Run 1",
+                "text": "164.2. Müsadirə edilmiş əmlakın dövlət nəfinə verilmə qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.",
+                "strike_type": "single",
+                "paragraph_text": "164.2. Müsadirə edilmiş əmlakın dövlət nəfinə verilmə qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1438, Run 1",
+                "text": "Maddə 165.",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 165. Hökmün icrasından sonra aşkar edilmiş əmlakın müsadirəsi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1438, Run 2",
+                "text": "Hökmün icrasından sonra aşkar edilmiş əmlakın müsadirəsi",
+                "strike_type": "single",
+                "paragraph_text": "Maddə 165. Hökmün icrasından sonra aşkar edilmiş əmlakın müsadirəsi"
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1440, Run 1",
+                "text": "Hökmün əmlakın müsadirə",
+                "strike_type": "single",
+                "paragraph_text": "Hökmün əmlakın müsadirə edilməsinə dair hissəsi icra edildikdən sonra, məhkumun törətdiyi cinayət ilə əlaqədar əldə edilmiş əmlak aşkar edildiyi hallarda, icra məmuru hökmü çıxaran məhkəməyə və ya hökmün icra edildiyi yerin məhkəməsinə təqdimat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1440, Run 2",
+                "text": "edilməsinə",
+                "strike_type": "single",
+                "paragraph_text": "Hökmün əmlakın müsadirə edilməsinə dair hissəsi icra edildikdən sonra, məhkumun törətdiyi cinayət ilə əlaqədar əldə edilmiş əmlak aşkar edildiyi hallarda, icra məmuru hökmü çıxaran məhkəməyə və ya hökmün icra edildiyi yerin məhkəməsinə təqdimat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1440, Run 3",
+                "text": "dair hissəsi icra",
+                "strike_type": "single",
+                "paragraph_text": "Hökmün əmlakın müsadirə edilməsinə dair hissəsi icra edildikdən sonra, məhkumun törətdiyi cinayət ilə əlaqədar əldə edilmiş əmlak aşkar edildiyi hallarda, icra məmuru hökmü çıxaran məhkəməyə və ya hökmün icra edildiyi yerin məhkəməsinə təqdimat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1440, Run 4",
+                "text": "edildikdən",
+                "strike_type": "single",
+                "paragraph_text": "Hökmün əmlakın müsadirə edilməsinə dair hissəsi icra edildikdən sonra, məhkumun törətdiyi cinayət ilə əlaqədar əldə edilmiş əmlak aşkar edildiyi hallarda, icra məmuru hökmü çıxaran məhkəməyə və ya hökmün icra edildiyi yerin məhkəməsinə təqdimat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1440, Run 5",
+                "text": "sonra, məhkumun törətdiyi cinayət ilə əlaqədar əldə edilmiş əmlak aşkar edildiyi hallarda,",
+                "strike_type": "single",
+                "paragraph_text": "Hökmün əmlakın müsadirə edilməsinə dair hissəsi icra edildikdən sonra, məhkumun törətdiyi cinayət ilə əlaqədar əldə edilmiş əmlak aşkar edildiyi hallarda, icra məmuru hökmü çıxaran məhkəməyə və ya hökmün icra edildiyi yerin məhkəməsinə təqdimat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1440, Run 6",
+                "text": "icra məmuru",
+                "strike_type": "single",
+                "paragraph_text": "Hökmün əmlakın müsadirə edilməsinə dair hissəsi icra edildikdən sonra, məhkumun törətdiyi cinayət ilə əlaqədar əldə edilmiş əmlak aşkar edildiyi hallarda, icra məmuru hökmü çıxaran məhkəməyə və ya hökmün icra edildiyi yerin məhkəməsinə təqdimat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1440, Run 7",
+                "text": "hökmü çıxaran məhkəməyə və ya hökmün icra edildiyi yerin məhkəməsinə təqdimat verir.",
+                "strike_type": "single",
+                "paragraph_text": "Hökmün əmlakın müsadirə edilməsinə dair hissəsi icra edildikdən sonra, məhkumun törətdiyi cinayət ilə əlaqədar əldə edilmiş əmlak aşkar edildiyi hallarda, icra məmuru hökmü çıxaran məhkəməyə və ya hökmün icra edildiyi yerin məhkəməsinə təqdimat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1476, Run 7",
+                "text": "azadlığın",
+                "strike_type": "single",
+                "paragraph_text": "168.1. Müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə, ictimai işlər, islah işləri, azadlığın məhdudlaşdırılması, azadlığın məhdudlaşdırılması, müəyyən müddətə azadlıqdan məhrum etmə, həmçinin hərbi xidmət üzrə məhdudlaşdırma və intizam xarakterli hərbi hissədə saxlama növündə cəzaların müddəti cəza çəkmənin axırıncı günü bitir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1476, Run 8",
+                "text": "məhdudlaşdırılması",
+                "strike_type": "single",
+                "paragraph_text": "168.1. Müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə, ictimai işlər, islah işləri, azadlığın məhdudlaşdırılması, azadlığın məhdudlaşdırılması, müəyyən müddətə azadlıqdan məhrum etmə, həmçinin hərbi xidmət üzrə məhdudlaşdırma və intizam xarakterli hərbi hissədə saxlama növündə cəzaların müddəti cəza çəkmənin axırıncı günü bitir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1476, Run 9",
+                "text": ",",
+                "strike_type": "single",
+                "paragraph_text": "168.1. Müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə, ictimai işlər, islah işləri, azadlığın məhdudlaşdırılması, azadlığın məhdudlaşdırılması, müəyyən müddətə azadlıqdan məhrum etmə, həmçinin hərbi xidmət üzrə məhdudlaşdırma və intizam xarakterli hərbi hissədə saxlama növündə cəzaların müddəti cəza çəkmənin axırıncı günü bitir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1518, Run 2",
+                "text": "qadın",
+                "strike_type": "single",
+                "paragraph_text": "173.3. Məhkum qadın xəbərdarlıqdan sonra uşaqdan imtina etdiyi və ya uşağı tərbiyə etməkdən boyun qaçırmaqda davam etdiyi halda icra məmuru məhkumun yaşayış yeri üzrə məhkəməyə cəzanın çəkilməsinin təxirə salınmasının ləğvi və məhkumun hökmlə müəyyən olunmuş cəzanın icrası yerinə göndərilməsi haqqında təqdimat verir. Təqdimata cəzanın çəkilməsinin təxirə salınması haqqında qərarın surəti əlavə olunur."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1532, Run 2",
+                "text": "xüsusi müəssisənin və ya",
+                "strike_type": "single",
+                "paragraph_text": "175.1. Cəza çəkməkdən azad edilməyə hazırlıq məqsədilə xüsusi müəssisənin və ya cəzaçəkmə müəssisəsinin müdiriyyəti məhkumlarla hazırlıq işi aparır, onlara hüquq və vəzifələrini izah edir, cəza çəkməkdən azad edilmiş şəxslərin sosial adaptasiyası barədə qanunvericilik haqqında məlumat verir."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1533, Run 4",
+                "text": "xüsusi müəssisənin və ya",
+                "strike_type": "single",
+                "paragraph_text": "175.2. Cəzaçəkmə müəssisəsinin müdiriyyəti müəyyən müddətə azadlıqdan məhrum etmə növündə cəzalara məhkum edilmiş şəxslərin cəza müddətinin qurtarmasına üç ay qalmış onların siyahısını müvafiq icra hakimiyyəti orqanına təqdim edir. Müvafiq icra hakimiyyəti orqanı xüsusi müəssisənin və ya cəzaçəkmə müəssisəsinin müdiriyyəti ilə birlikdə ayda bir dəfədən az olmayaraq, sosial adaptasiyaya ehtiyacı olan cəza çəkməkdən azad ediləcək şəxsləri müəyyən edir və bu şəxsləri onların razılığı ilə qeydiyyata götürür. Qeydiyyata götürülmüş şəxslərə onların hüquq və vəzifələri, sosial adaptasiya tədbirlərinin məzmunu və həyata keçirilməsi qaydası izah olunur. Sosial adaptasiyadan imtina etmiş şəxslərə cəza çəkməkdən azad olunduqdan sonra üç ay müddətində sosial adaptasiya məqsədi ilə müvafiq icra hakimiyyəti orqanına müraciət etmək hüququ barədə məlumat verilir. Digər əsaslarla cəza çəkməkdən azad olunmuş və sosial adaptasiyaya ehtiyacı olan şəxslər barədə xüsusi müəssisənin və ya cəzaçəkmə müəssisəsinin müdiriyyəti dərhal müvafiq icra hakimiyyəti orqanını məlumatlandırır və bu şəxslərin sosial adaptasiya mərkəzlərinə göndərilməsi üçün birgə tədbirlər görülür."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1533, Run 9",
+                "text": "xüsusi müəssisənin və ya",
+                "strike_type": "single",
+                "paragraph_text": "175.2. Cəzaçəkmə müəssisəsinin müdiriyyəti müəyyən müddətə azadlıqdan məhrum etmə növündə cəzalara məhkum edilmiş şəxslərin cəza müddətinin qurtarmasına üç ay qalmış onların siyahısını müvafiq icra hakimiyyəti orqanına təqdim edir. Müvafiq icra hakimiyyəti orqanı xüsusi müəssisənin və ya cəzaçəkmə müəssisəsinin müdiriyyəti ilə birlikdə ayda bir dəfədən az olmayaraq, sosial adaptasiyaya ehtiyacı olan cəza çəkməkdən azad ediləcək şəxsləri müəyyən edir və bu şəxsləri onların razılığı ilə qeydiyyata götürür. Qeydiyyata götürülmüş şəxslərə onların hüquq və vəzifələri, sosial adaptasiya tədbirlərinin məzmunu və həyata keçirilməsi qaydası izah olunur. Sosial adaptasiyadan imtina etmiş şəxslərə cəza çəkməkdən azad olunduqdan sonra üç ay müddətində sosial adaptasiya məqsədi ilə müvafiq icra hakimiyyəti orqanına müraciət etmək hüququ barədə məlumat verilir. Digər əsaslarla cəza çəkməkdən azad olunmuş və sosial adaptasiyaya ehtiyacı olan şəxslər barədə xüsusi müəssisənin və ya cəzaçəkmə müəssisəsinin müdiriyyəti dərhal müvafiq icra hakimiyyəti orqanını məlumatlandırır və bu şəxslərin sosial adaptasiya mərkəzlərinə göndərilməsi üçün birgə tədbirlər görülür."
+            },
+            {
+                "type": "paragraph",
+                "location": "Paragraph 1534, Run 7",
+                "text": ", o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar",
+                "strike_type": "single",
+                "paragraph_text": "175.3. Orqanizmin funksiyalarının 61-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş məhkumlar, altmış iki yaşına çatmış məhkum kişilər və əlli yeddi yaşına çatmış məhkum qadınlar öz ərizələri və cəzaçəkmə müəssisəsi müdiriyyətinin təqdimatı ilə müvafiq icra hakimiyyəti orqanı tərəfindən ahıllar və əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar üçün sosial xidmət müəssisələrinə göndərilirlər."
+            }
+        ]
+    }
+]
