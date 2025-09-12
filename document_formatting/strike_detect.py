@@ -217,7 +217,7 @@ class StrikethroughDetector:
 def main():
     """Main function to run the strikethrough detector."""
     # Specify the file path directly in the code
-    FILE_PATH = r"D:\Downloads\code\code\Extra-Projects\rag-pipeline-eqanun\assets\-Azərbaycan Respublikasının Torpaq Məcəlləsi.docx"
+    FILE_PATH = r"D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/mecelleler-docx/-Azərbaycan Respublikasının Mülki Prosessual Məcəlləsi.docx"
     
     # Extract filename for output file naming
     filename = os.path.basename(FILE_PATH).replace('.docx', '').replace(' ', '_').replace('-', '_')

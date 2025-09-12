@@ -172,11 +172,6 @@ Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr
     - 19.1.5. o, məhkəmədə baxılan mübahisə üzrə əvvəllər tərəflər arasında mediasiya prosesində mediator kimi iştirak etmişdirsə;
     - 19.1.6. o, tərəflərdən biridirsə və ya tərəflərdən birinin və yaxud onun nümayəndəsinin və ya vəkilinin qohumudursa və ya qohumu olmuşsa;
     - 19.1.7. onun şəxsən, bilavasitə və ya dolayı yolla işin nəticəsində maraqlı olmasına, obyektivliyinə və qərəzsizliyinə dair şübhə doğuran kifayət qədər əsas varsa.[32]
-- 19.2. Aşağıdakı hallarda hakim işə baxılmasında iştirak edə bilməz və ona etiraz edilə bilər:[33]
-    - 19.2.1. O, əvvəllər tərəflərdən birinin nümayəndəsi, yaxud vəkili olmuşsa və ya işdə şahid, ekspert, mütəxəssis, tərcüməçi, məhkəmə iclasının katibi kimi iştirak etmişsə;[34]
-    - 19.2.2. O, tərəflərdən biridirsə və ya tərəflərdən birinin və yaxud onun nümayəndəsinin və ya vəkilinin qohumudursa və ya qohumu olmuşsa;[35]
-    - 19.2.3. O, şəxsən, bilavasitə və ya dolayı yolla işin nəticəsində maraqlıdırsa, ya da onun obyektivliyinə və qərəzsizliyinə şübhə doğuran kifayət qədər əsas varsa;
-    - 19.2.4. o, məhkəmədə baxılan mübahisə üzrə əvvəllər tərəflər arasında mediasiya prosesində mediator kimi iştirak etmişdirsə.[36]
 - 19.3. Bir-biri ilə qohum olan şəxslərin işə baxan məhkəmə tərkibində iştirakına yol verilmir.[37]
 
 Qeyd: Bu Məcəllədə “qohum” dedikdə, babaya və nənəyə qədər əcdadları ümumi olan şəxslər, ər-arvadın yaxın qohumları, babanın, nənənin, valideynin, övladlığa götürənin, doğma və ögey qardaş və bacının, uşağın, övladlığa götürülənin və ya nəvənin əri (arvadı) və ya onların yaxın qohumları nəzərdə tutulur. Yaxın qohumlara babalar, nənələr, valideynlər, övladlığa götürənlər, doğma və ögey qardaşlar və bacılar, ər-arvad, uşaqlar, övladlığa götürülənlər, nəvələr aiddirlər.[38]
@@ -233,10 +228,6 @@ Qeyd: Bu Məcəllədə “qohum” dedikdə, babaya və nənəyə qədər əcdad
 
 - 26.1. Sahibkarlıq fəaliyyətinin həyata keçirilməsi ilə əlaqədar olan mübahisələrə (kommersiya mübahisələrinə) dair işlərə mülki məhkəmə icraatı qaydasında kommersiya məhkəmələri baxır.
 - 26.2. Kommersiya məhkəmələri bu Məcəllənin 40-5-ci fəslində nəzərdə tutulmuş işlərə, habelə sahibkarlıq fəaliyyəti ilə əlaqədar olduqda bu Məcəllənin 35-ci və 40-2-ci fəsillərində nəzərdə tutulmuş işlərə və qanunla onların səlahiyyətlərinə aid edilən digər işlərə də baxırlar.
-
-#### Maddə 27. Mübahisələrin beynəlxalq müqavilələrdən irəli gələn mübahisələrə dair Azərbaycan Respublikasının İqtisad Məhkəməsinə aidiyyəti
-
-Beynəlxalq müqavilələrdən irəli gələn mübahisələrə dair İqtisad Məhkəməsi Azərbaycan Respublikasının fiziki və hüquqi şəxsləri, həmçinin, xarici hüquqi şəxslərin, xarici investisiyalı hüquqi şəxslərin, beynəlxalq hüquqi şəxslərin, sahibkarlıq fəaliyyətini həyata keçirən əcnəbilərin, vətəndaşlığı olmayan şəxslərin iştirakı ilə ona aid olan mübahisələrə baxır.[51]
 
 #### Maddə 28. Əcnəbilərin, vətəndaşlığı olmayan şəxslərin, xarici hüquqi şəxslərin iştirak etdiyi işlərin aidiyyəti
 
@@ -401,10 +392,6 @@ Hər bir fiziki və hüquqi şəxs eyni dərəcədə qanunla müəyyən edilən 
 - 55.1. Mübahisə predmeti barəsində müstəqil tələblər irəli sürən üçüncü şəxslər işin məhkəmədə baxılmağa hazırlanması yekunlaşana qədər bir tərəfə və yaxud hər iki tərəfə qarşı iddia irəli sürməklə işə qarışa bilərlər.[93]
 - 55.2. Onlar bu Məcəllənin 4.3 ‒ 4.6-cı maddələrində müəyyən edilmiş qaydalara əməl olunması vəzifəsi istisna olmaqla, iddiaçının bütün hüquqlarından istifadə edir və onun bütün vəzifələrini daşıyırlar.[94]
 
-#### Maddə 56. İşə bərpa etmək haqqında işlər üzrə üçüncü şəxslərin cəlb edilməsi
-- 56.1. Qanunsuz olaraq işdən çıxarılan və ya başqa işə keçirilən işçilərin işə bərpa edilməsi haqqında işlər üzrə sərəncamı ilə işçini işdən çıxarmış və ya başqa işə keçirmiş vəzifəli şəxsi məhkəmə cavabdehin tərəfində üçüncü şəxs kimi işdə iştirak etməyə cəlb edə bilər.
-- 56.2. Məhkəmə işçinin işdən çıxarılmasında və ya başqa işə keçirilməsində qanunun aşkar surətdə pozulduğunu müəyyən etdikdə, çarəsizlikdən məcburi işburaxma müddəti üçün və ya aşağı maaşlı işin görüldüyü müddət üçün haqq ödənilməsi ilə əlaqədar hüquqi şəxsə vurulmuş zərəri və ya işçiyə vurulmuş mənəvi zərəri ödəmək vəzifəsini təqsirli vəzifəli şəxsin üzərinə qoya bilər. Belə hallarda vəzifəli şəxslərdən tutulmalı olan məbləğin miqdarı əmək qanunvericiliyi ilə müəyyən edilir. [95]
-
 #### Maddə 57. Mübahisə predmeti barəsində müstəqil tələblər irəli sürməyən üçüncü şəxslər
 - 57.1. Mübahisə predmeti barəsində müstəqil tələblər irəli sürməyən üçüncü şəxslər iş üzrə birinci instansiya məhkəməsi tərəfindən qətnamə çıxarılana qədər, bu qətnamə tərəflərdən birinə münasibətdə onların hüquq və vəzifələrinə təsir edə biləcəyi təqdirdə, prosesdə iddiaçının və ya cavabdehin tərəfində iştirak edə bilərlər. Onlar işdə iştirak edən şəxslərin vəsatəti üzrə və ya məhkəmənin təşəbbüsü ilə işdə iştirak etməyə cəlb oluna bilərlər.[96]
 - 57.2. Müstəqil tələblər irəli sürməyən üçüncü şəxslər iddianın əsasını və predmetini dəyişdirmək, iddia tələblərinin miqdarını artırmaq və ya azaltmak, iddiadan imtina etmək, iddianı etiraf etmək, qarşılıqlı iddia vermək, məhkəmə qətnaməsinin məcburi icrasını tələb etmək hüquqları istisna olmaqla, tərəfin prosessual hüquqlarından istifadə edir və onun prosessual vəzifələrini daşıyırlar.[97]
@@ -482,8 +469,6 @@ Azərbaycan Respublikasının ərazisində mülki prosesdə vəkil kimi Azərbay
 - 69.3. Təşkilat rəhbərinin səlahiyyəti onun tərəfindən məhkəməyə təqdim edilmiş xidməti vəzifəsini bildirən sənədi, zəruri olduqda isə təsis sənədləri ilə (nizamnamə, müqavilə ilə) təsdiq olunur.
 - 69.4. Ləğv edilən hüquqi şəxsin adından məhkəmədə ləğvetmə komissiyasının səlahiyyətli nümayəndəsi (təsviyəçi, ləğvedici) çıxış edir.[111]
 
-#### Maddə 70. Məhkəmədə nümayəndə ola bilən şəxslər[112]
-Bu Məcəllənin 71-ci maddəsində sadalanan şəxslər istisna olmaqla, məhkəmədə iş aparmaq üçün səlahiyyəti lazımi qaydada rəsmiləşdirilmiş hər hansı fəaliyyət qabiliyyətli şəxs nümayəndə ola bilər.
 
 #### Maddə 71. Məhkəmədə nümayəndə ola bilməyən şəxslər
 - 71.1. Tam fəaliyyət qabiliyyəti olmayan, yaxud qəyyumluq və ya himayəçilik altında olan şəxslər məhkəmədə nümayəndə ola bilməzlər.
@@ -751,38 +736,6 @@ Məhkəmə xərcləri dövlət rüsumundan və işə baxılması ilə əlaqədar
 - 108.2. Məhkəmələrdə baxılan işlər üzrə dövlət rüsumunun əsasları, ödənilmə qaydaları, məbləği və dövlət rüsumu ödəməkdən azad edilmə hallan qanunla müəyyən edilir.[#154]
 - 108.3. Dövlət rüsumu yalnız elektron ödəniş sistemləri vasitəsilə ödənilməlidir.[#155]
 
-#### Maddə 109. Məhkəmə aktlarından şikayət verilərkən dövlət rüsumu
-
-[#156]
-- 109.1. Apellyasiya və kassasiya şikayəti verildikdə birinci instansiya məhkəməsinə müraciət edilərkən ödənilməsi müəyyən edilmiş dövlət rüsumunun müvafiq olaraq 120 və 150 faizi məbləğində dövlət rüsumu ödənilir.
-- 109.2. Qətnaməyə yenidən baxılması qaydasında verilən şikayətə görə dövlət rüsumu bir dəfə ödənilir.[#157]
-
-#### Maddə 110. Məhkəmə xərclərini ödəməkdən azad olunma
-
-- 110.1. Məhkəmədə baxılan işlər üzrə dövlət rüsumundan azad olunurlar:
-    - 110.1.1. müəlliflik mübahisələri üzrə—müəlliflər; müəlliflik hüququ, ixtiralar, faydalı modellər, sənaye nümunələri, habelə əqli mülkiyyətin digər növlərinə dair hüquqlardan irəli gələn iddialar üzrə—iddiaçılar;
-    - 110.1.2. aliment alınması barədə iddialar üzrə—iddiaçılar;
-    - 110.1.3. şikəstlik, səhhətə digər xəsarətlər yetirilməsi və ya ailəni dolandıranın ölümü nəticəsində dəyən ziyanın ödənilməsi barəsində iddialar üzrə—iddiaçılar;
-    - 110.1.4. zərərçəkənə və ya onun ailə üzvlərinə ödənilmiş müavinət məbləğinin ziyan vurandan tutulması barədə reqres iddialar üzrə sosial sığorta və müdafiə orqanları;
-    - 110.1.5. aliment verməkdən, şikəstlik və ya sair xəsarət yetirməkdən və ya ailəni dolandıranın ölümü nəticəsində dəyən zərəri ödəməkdən, vergilərin və digər məcburi ödəmələrin tutulmasından boyun qaçıran şəxslərin axtarışı ilə əlaqədar xərclərin tələb olunması üzrə—polis orqanları;
-    - 110.1.6. cinayət nəticəsində vurulmuş maddi zərərin ödənilməsi barədə iddialar üzrə—iddiaçılar;
-    - 110.1.7. cinayət nəticəsində dövlətə vurulmuş ziyanın ödənilməsi barədə iddialar üzrə—iddiaçı prokuror;
-    - 110.1.8. hüquqlarının pozulması ilə əlaqədar iddialar üzrə—istehlakçılar;
-    - 110.1.9. sosial müdafiə vəsaitlərinin tələbi barədə iddialar üzrə—iddiaçılar.
-    - 110.1.10. borcludan tutulmalı olan, lakin hüquqi şəxsin, yaxud sahibkar olan fiziki şəxsin təqsiri üzündən tutulmayan, yaxud borcludan tutulan, lakin onların təqsiri üzündən borc tutan şəxsə keçirilməyən məbləğin alınması barədə iddialar üzrə—iddiaçılar;
-    - 110.1.11. qanunsuz olaraq qətimkan tədbiri kimi həbsə alınmaqla, yaxud həbs və ya islah işləri növündə qanunsuz olaraq inzibati tənbeh verilməsi ilə fiziki şəxsə vurulmuş zərərin ödənilməsi ilə əlaqədar mübahisələr üzrə—tərəflər;
-    - 110.1.12. öz hüquqlarının müdafiəsi barədə ərizələrdən—yetkinlik yaşına çatmayanlar;
-    - 110.1.13. başqa şəxslərin hüquqlarının, azadlıqlarının və qanunla qorunan mənafelərinin, dövlət mənafeyinin müdafiəsi üçün verilən ərizələrdən—dövlət orqanları;
-    - 110.1.14. məhkəmə qərardadlarından verilən şikayətlərdən—işdə iştirak edən şəxslər;
-    - 110.1.15. qiyabi icraat qaydasında qəbul edilmiş qərarlara yenidən baxılması haqqında birinci instansiya məhkəmələrinə verilən ərizələrdən—tərəflər;
-    - 110.1.16. yeni açılmış hallara görə qanuni qüvvəyə minmiş məhkəmə aktlarına yenidən baxılması barədə ərizələrdən—tərəflər.
-- 110.2. Qanunla dövlət rüsumu ödəməkdən azad olunmanın başqa halları da nəzərdə tutula bilər.
-- 110.3. Məhkəmə aktlarının surəti işdə iştirak edən şəxslərə dövlət rüsumu alınmadan verilir. Məhkəmə aktları təkrarən verildikdə dövlət rüsumu alınır.[#158]
-
-#### Maddə 111. Məhkəmə xərclərinin ödənilməsinə möhlət verilməsi, hissə-hissə ödənilməsi və onların məbləğinin azaldılması
-
-Tərəflərin əmlak vəziyyətindən asılı olaraq məhkəmə tərəflərdən birinə və ya hər ikisinə məhkəmə xərclərini ödəməyə möhlət verə, hissə-hissə ödətdirə və ya həmin xərclərin məbləğini azalda bilər.[#159]
-
 #### Maddə 112. İddianın qiyməti
 
 - 112.1. İddianın qiyməti aşağıdakı qaydada müəyyən edilir:
@@ -865,7 +818,7 @@ Məhkəmə, vicdansızcasına əsassız iddia vermiş və ya iddiaya qarşı mü
 #### Maddə 121. Nümayəndəyə və vəkilə göstərdiyi yardıma görə xərclərin ödənilməsi
 
 - 121.1. Məhkəmə nümayəndənin və ya vəkilin göstərdiyi yardıma görə xərclərin, konkret hallar və təqdim edilmiş məlumatlar qiymətləndirilməklə, digər tərəfdən ağlabatan məbləğdə alınıb xeyrinə qətnamə çıxarılan tərəfə verilməsini qərara alır.[#167]
-- 121.2. Bu Məcəllənin 67-ci maddəsində nəzərdə tutulmuş əsaslarla işdə iştirak edən vəkil maddi vəziyyətinə görə öz hesabına vəkil tutmaq imkanı olmayan şəxslərə hüquqi yardımı məhkəmənin qərarı ilə pulsuz, Azərbaycan Respublikası dövlət büdcəsinin vəsaiti hesabına göstərir. Qanunvericiliklə müəyyən edilən məbləğdə ödənilmiş bu vəsait iddianın təmin edilmiş hissəsinə mütənasib olaraq əleyhinə məhkəmə qərarı çıxarılmış şəxsdən tutularaq dövlət büdcəsinə ödənilə bilər.[#168]
+
 
 #### Maddə 122. İddiaçı iddiadan imtina etdikdə və barışıq sazişi bağladıqda məhkəmə xərcləri və yardım üçün vəkilə ödənilən xərclərin bölüşdürülməsi
 
@@ -1014,50 +967,6 @@ Məhkəmənin təyin etdiyi müddətlər maraqlı şəxslərin ərizəsi üzrə,
 #### Maddə 140. Məhkəmə sənədinin ünvan sahibinə çatdırmaq üçün qəbul etməkdən imtinaya və ya səhlənkarlıq nəticəsində çatdırılmamasına görə məsuliyyət
 
 Məhkəmə sənədini ünvan sahibinə çatdırmaq üçün qəbul etməkdən imtina edən və ya onu səhlənkarlıq nəticəsində ünvan sahibinə çatdırmayan orqanlar, vəzifəli şəxslər, yaxud məhkəmə sənədinin çatdırılması tapşırılmış digər şəxslər bu Məcəllənin 126-cı maddəsində nəzərdə tutulmuş qaydada iyirmi manat miqdarında cərimə edilir.[183]
-
-#### Maddə 141. Çağırış vərəqəsi və ya bildirişin məzmunu
-
-- 141.1. Çağırış vərəqəsi və ya bildiriş məhkəmənin rəsmi sənədi olub, müvafiq qaydada təsdiq olunmuş formada tərtib edilir.
-- 141.2. Çağırış vərəqəsində və ya bildirişdə aşağıdakılar göstərilməlidir:
-    - 141.2.1. məhkəmənin adı və dəqiq ünvanı (telefon, faks, indeks və s.);
-    - 141.2.2. gəlmə vaxtı (tarix və saat) və yeri;
-    - 141.2.3. xəbər verilən, yaxud məhkəməyə çağırılan şəxsin göstəriciləri (soyadı, adı, atasının adı);
-    - 141.2.4. xəbər verilən, yaxud məhkəməyə çağırılan şəxsin ünvanı (ev, yaxud hüquqi şəxsin olduğu yer);
-    - 141.2.5. ünvan sahibinin kim qismində xəbərdar edilməsi və ya çağırılması;
-    - 141.2.6. ünvan sahibinin xəbərdar edildiyi, yaxud çağırıldığı işin adı;
-    - 141.2.7. işdə iştirak edən şəxslərə iş üzrə onlarda olan bütün sübutların təqdim edilməsinə dair təklif;
-    - 141.2.8. ünvan sahibinin olmadığı təqdirdə çağırış vərəqəsini və bildiriş vərəqəsini qəbul edən şəxsin imkan olan ilk anda onu ünvan sahibinə vermək vəzifəsinə dair göstəriş;
-    - 141.2.9. xəbər verilən və çağırılan şəxsin məhkəməyə gəlməməsinin nəticələrinə və gəlməmənin səbəbləri barədə məhkəməyə məlumat vermək vəzifələrinə dair göstəriş.
-- 141.3. Çağırış vərəqəsi ilə eyni zamanda hakim cavabdehə iddia ərizəsinin surətini və ərizəyə əlavə edilən sənədlərin surətlərini göndərə bilər.
-- 141.4. İddiaçıya ünvanlanmış çağırış vərəqəsi ilə birlikdə hakim o halda cavabdehin yazılı izahatlarının surətini və onlara əlavə olunmuş sənədlərin surətlərini göndərir ki, onlar məhkəməyə daxil olmuş olsun.
-
-#### Maddə 142. Çağırış vərəqələrinin çatdırılması
-
-- 142.1. Çağırış vərəqəsi poçt vasitəsi ilə və ya hakimin tapşırdığı şəxslər tərəfindən çatdırılır. Ünvan sahibinə çağırış vərəqəsinin verilməsi vaxtı çağırış vərəqəsinin məhkəməyə qaytarılmalı olan kötüyündə qeyd edilir.
-- 142.2. Hakim işdə iştirak edən şəxsin razılığı ilə ona iş üzrə çağırılan və ya xəbər verilən digər şəxsə çatdırmaq üçün çağırış vərəqəsi verə bilər.
-- 142.3. Çağırış vərəqələrini çatdırmağa borclu olan orqanlar, yaxud onların çatdırılması tapşırılmış şəxs, çağırış vərəqəsini aldıqları günün sonrakı günündən gec olmayaraq bu hərəkəti etməyə borcludurlar.
-- 142.4. Səhlənkarlıq nəticəsində çağırış vərəqəsini çatdırmayan orqanlar yaxud vəzifəli şəxslər, eləcə də çağırış vərəqəsini çatdırmaq tapşırılmış şəxs məhkəməyə hörmətsizlik göstərdiyinə görə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
-- 142.5. Çağırış vərəqəsini çatdırmağa borclu olan orqan, yaxud çağırış vərəqəsini çatdırmaq tapşırılmış şəxs, çağırış vərəqəsinin çatdırılmalı olduğu günün sonrakı günündən gec olmayaraq çağırış vərəqəsinin çatdırılmaması barədə məhkəməyə məlumat verməlidirlər.
-
-#### Maddə 143. Çağırış vərəqəsinin verilməsi
-
-- 143.1. Çağırış vərəqəsi onun məhkəməyə qaytarılmalı olan kötüyünün imzalanması ilə ünvanlanan şəxsin özünə verilir. Təşkilata ünvanlanmış çağırış vərəqəsi müvafiq vəzifəli şəxsə çağırış vərəqəsinin kötüyünü imzalatmaqla verilir.
-- 143.2. Çağırış vərəqəsini aparan şəxs xəbər verilən və ya çağırılan şəxsin ünvanının dəqiqliyini yoxladıqdan sonra iş üzrə xəbər verilən və ya çağırılan fiziki şəxsi yaşadığı və ya işlədiyi yerdə tapmazsa, çağırış vərəqəsi xəbər verilənlə və ya çağıranla bir yerdə yaşayan böyük yaşlı ailə üzvlərindən birinə onların razılığı ilə verilir, onlar olmadıqda isə müvafiq icra hakimiyyəti orqanına, ünvan sahibinin yaşadığı yerin yerli özünüidarə orqanına və ya onun iş yerinin müdiriyyətinə verilir. Göstərilən hallarda çağırış vərəqəsini qəbul edən şəxs çağırış vərəqəsinin kötüyündə soyadını, adını və atasının adını, eləcə də tutduğu vəzifəsini, ünvan sahibinə münasibətini göstərməlidir. Çağırış vərəqəsini qəbul edən şəxs imkanı olan kimi yubatmadan onu ünvan sahibinə verməlidir.
-- 143.3. Ünvan sahibi müvəqqəti olmadığı təqdirdə, çağırış vərəqəsini aparan şəxs onun hara getdiyini və nə vaxt qayıdacağını çağırış vərəqəsinin kötüyündə qeyd etməlidir. Bu hal müvafiq icra hakimiyyəti orqanı, onun yaşadığı yer üzrə orqan və ya iş yerinin müdiriyyəti tərəfindən yəqin edilməli, təsdiq edilməli və bu barədə dərhal məhkəməyə məlumat verilməlidir.
-
-#### Maddə 144. Məhkəməyə gəlmənin məcburiliyi
-
-- 144.1. Çağırış vərəqəsini alan ünvan sahibi göstərilən vaxtda məhkəməyə gəlməlidir.
-- 144.2. Ünvan sahibi məhkəməyə gələ bilmədiyi halda bu barədə məhkəməyə məlumat verməlidir.
-- 144.3. Şəxsin özünün və ya nümayəndəsi vasitəsi ilə üzürlü səbəblər olmadan məhkəmənin çağırışına gəlməməsi onun irəli sürülən tələblərlə sözsüz razı olduğunu göstərir və işə baxılması üçün maneə deyildir.
-- 144.4. Müstəsna hallarda məhkəmə müvafiq icra hakimiyyəti orqanı vasitəsi ilə cavabdehin məhkəməyə gətirilməsini təmin edə bilər.
-
-#### Maddə 145. Çağırış vərəqəsini və ya bildirişi qəbul etməkdən imtina edilməsinin nəticələri
-
-- 145.1. Ünvan sahibi və ya digər şəxs çağırış vərəqəsini və ya bildirişi almaqdan imtina etdikdə, onları gətirən, yaxud təqdim edən şəxs çağırış vərəqəsində və ya bildirişdə müvafiq qeydlər etdikdən sonra onları məhkəməyə qaytarır.
-- 145.2. Çağırış vərəqəsi, yaxud bildirişin ünvan sahibi tərəfindən qəbul edilməsindən imtina barədə qeyd onun yaşayış yeri üzrə yerli özünüidarə orqanı, müvafiq icra hakimiyyəti orqanı və ya onun iş yerinin müdiriyyəti tərəfindən təsdiq edilir.
-- 145.3. Ünvan sahibinin çağırış vərəqəsini və ya bildirişi qəbul etməkdən imtina etməsi ona qarşı irəli sürülən tələblərlə sözsüz razı olduğunu göstərir və işə baxılması üçün və ya ayrı-ayrı prosessual hərəkətlərin edilməsi üçün maneə deyildir.
-- 145.4. Şəxsin çağırış vərəqəsini ünvan sahibinə çatdırmaq üçün qəbul etməkdən imtina etməsi məhkəməyə hörmətsizlik kimi qiymətləndirilir və on bir manat cərimə olunur.[184]
 
 #### Maddə 146. İş üzrə icraat zamanı ünvanın dəyişməsi
 

@@ -18,9 +18,9 @@ import re
 from typing import List, Dict, Tuple
 
 # Set your file paths here
-JSON_FILE_PATH = "docling_converter/strikes_json/_Azərbaycan_Respublikasının_Torpaq_Məcəlləsi_strikethrough_report.json"  # Path to JSON output from strikethrough detector
-MARKDOWN_FILE_PATH = "docling_converter/mecelleler-raw/mecelleler-final/AZƏRBAYCAN RESPUBLİKASININ TORPAQ MƏCƏLLƏSİ.md"  # Path to the Markdown document to clean
-OUTPUT_FILE_PATH = "docling_converter/mecelleler-raw/mecelleler-final/cleaned_document.md"  # Path for the cleaned output
+JSON_FILE_PATH = "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/strikes_json/_Azərbaycan_Respublikasının_Seçki_Məcəlləsi_strikethrough_report.json"  # Path to JSON output from strikethrough detector
+MARKDOWN_FILE_PATH = "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/mecelleler-raw/mecelleler-final/AZƏRBAYCAN RESPUBLİKASININ SEÇKİ MƏCƏLLƏSİ.md"  # Path to the Markdown document to clean
+OUTPUT_FILE_PATH = "D:/Downloads/code/code/Extra-Projects/rag-pipeline-eqanun/document_formatting/mecelleler-raw/mecelleler-cleaned-final/cleaned_document-secki.md"  # Path for the cleaned output
 
 
 class MarkdownCleaner:
