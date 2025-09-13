@@ -184,12 +184,30 @@ def main():
     # Configure inputs here: a list of .docx file paths to convert
     input_files = [
         # Examples:
-        # r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\output-cinayet.docx",
-        # r"D:\\path\\to\\another.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Ailə Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Cinayət Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Əmək Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Gömrük Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının İnzibati Prosessual Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Meşə Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Mənzil Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Miqrasiya Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Mülki Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Mülki Prosessual Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Rəqabət Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Seçki Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Su Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Ticarət Gəmiçiliyi Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Torpaq Məcəlləsi.docx",
+        r"D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-docx\\-Azərbaycan Respublikasının Vergi Məcəlləsi.docx"
     ]
 
     # Optional output directory. If None, writes next to each input file.
-    output_dir = "D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-raw\\mecelleler-wo-strikes" # e.g., r"D:\\Downloads\\...\\document_formatting\\outputs_md"
+    output_dir = "D:\\Downloads\\code\\code\\Extra-Projects\\rag-pipeline-eqanun\\document_formatting\\mecelleler-cleaned" # e.g., r"D:\\Downloads\\...\\document_formatting\\outputs_md"
 
     if not input_files:
         print("No input files configured. Edit 'input_files' in this script.")
