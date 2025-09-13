@@ -1,7 +1,5 @@
 <center>**AZƏRBAYCAN RESPUBLİKASININ MEŞƏ MƏCƏLLƏSİ**</center>
 
-<center>(Bu Məcəllə Azərbaycan Respublikasının  Qanunu ilə təsdiq edilmişdir)</center>
-
 Bu Məcəllə Azərbaycan Respublikasının ərazisində meşə münasibətlərinin tənzimlənməsinin, meşələrdən istifadənin, onların mühafizəsinin, qorunmasının, bərpasının, ekoloji və ehtiyat potensialının yüksəldilməsinin hüquqi əsaslarını müəyyən edir.
 
 Meşə münasibətlərinin tənzimlənməsi meşə bitkilərinin, torpağın, heyvanat aləminin və ətraf mühitin mühüm ekoloji, iqtisadi və sosial əhəmiyyət kəsb edən digər komponentlərinin vəhdəti olan meşə anlayışı nəzərə alınmaqla həyata keçirilir.
@@ -847,35 +845,3 @@ Meşə fondu sahələrinin özbaşına tutulmasına (zəbt edilməsinə) görə 
 Maddə 80. **Meşə qanunvericiliyinin pozulması ilə bağlı ****əqdlərin**** etibarsızlığı**
 
 Meşə qanunvericiliyini pozmaqla bağlanmış əqdlər etibarsızdır.
-
-30 dekabr 1997-ci il tarixli N 424-IQ nömrəli “Azərbaycan Respublikası Meşə Məcəlləsinin təsdiq edilməsi haqqında” Azərbaycan Respublikasının Qanunu ilə təsdiq edilmişdir. (**Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 3, maddə 139**)
-
-**Məcəlləyə əlavə və dəyişikliklər etmiş qanunlar:**
-
-22 iyun 1999-cu il tarixli 692-IQD nömrəli "İstehsalat və məişət tullantıları haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə Azərbaycan Respublikasının Qanunu (**Azərbaycan Respublikasının qanunvericilik toplusu, 1999-cu il, № 8, maddə 476**)
-
-29 oktyabr 2004-cü il 785-IIQD nömrəli “Ovçuluq haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər haqqında” Azərbaycan Respublikasının Qanunu (**Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 11, maddə 902**)
-
-17 aprel 2007-ci il tarixli 314-IIIQD nömrəli Azərbaycan Respublikasının Qanunu(**Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, maddə 436**)
-
-1 aprel 2008-ci il tarixli 588-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (**Azərbaycan  Respublikasının Qanunvericilik Toplusu, 2008-ci il, №5, maddə 348**)
-
-5 mart 2010-cu il tarixli **970-IIIQD** nömrəli Azərbaycan Respublikasının Qanunu** (“Azərbaycan” qəzeti, 16 aprel ****2010-cu**** il, № 80, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, № 04, maddə 274)**
-
-20 aprel 2012-ci il tarixli **330-IVQD **nömrəli Azərbaycan Respublikasının Qanunu **(“Respublika” qəzeti, 5 iyun 2012-ci il, № 122, “Azərbaycan” qəzeti 6 iyun 2012-ci il, № 123, Azərbaycan  Respublikasının Qanunvericilik Toplusu, 2012-ci il, №6, maddə 496)**
-
-Azərbaycan Respublikasının Qanunu **(“****Respublika****” qəzeti, 1 iyul 2016-cı il, № 140****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 6, maddə 989****)**
-
-Azərbaycan Respublikasının Qanunu **(“****Azərbaycan****” qəzeti, 1****8**** ****dekabr**** 2016-cı il, № ****281****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № ****12****, maddə ****2007****)**
-
-Azərbaycan Respublikasının Qanunu **(“Azərbaycan” qəzeti, 12 mart 2017-ci il, № 55****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 3, maddə 34****3****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 14 iyun 2019-cu il, № 128****, ****Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 6, maddə 987****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, ****26**** ****dekabr**** 20****20****-c****i**** il, № ****273****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 12,**** ****I kitab,**** maddə 1423****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, ****13 iyun**** 20****21****-c****i**** il, № ****122****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № ****6****, I kitab, maddə 541****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı****, ****13 mart 2024-cü il****, “****Azərbaycan****” qəzeti, ****14 mart 2024-cü il****, № 57****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 3, maddə 2****50****)**
-
-03 iyun 2025-ci il tarixli **209-VIIQD** nömrəli Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı,**** ****25**** ****iyun**** 2025-ci**** il, “Azərbaycan” qəzeti, ****26**** ****iyun**** 2025-ci**** il, № ****130****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə**** 536****)**
