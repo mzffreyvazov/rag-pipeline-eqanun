@@ -6,120 +6,7 @@
 
 <center>(Fəslin başlanğıcına getmək üçün müvafiq fəslin adının üzərində sol düyməni basın)</center>
 
-BÖLMƏLƏR (Fəsillər)
-
-### ÜMUMİ HİSSƏ
-** ****(1-2)**
-
-** ****(3-8)**
-
-** ****(9-10)**
-
-** ****(11-13)**
-
-** ****(14)**
-
-** ****(15)**
-
-### XÜSUSİ HİSSƏ
-** ****(16-17)**
-
-** ****(18-22)**
-
-** ****(23-24)**
-
-(25-30)
-
-** ****(31-34)**
-
-** ****(35)**
-
-FƏSİLLƏR (Maddələr)
-
-# CİNAYƏT QANUNU
-(1-9)
-
-(10-13)
-
-# CİNAYƏT HAQQINDA
-(14-18)
-
-(19-23)
-
-(24-26)
-
-(27-30)
-
-(31-35)
-
-(36-40)
-
-# CƏZA HAQQINDA
-(41-57)
-
-(58-71)
-
-# CİNAYƏT MƏSULİYYƏTİNDƏN VƏ CƏZADAN AZAD ETMƏ
-(72-75)
-
-(76-80)
-
-(81-83)
-
-# YETKİNLİK YAŞINA ÇATMAYANLARIN CİNAYƏT MƏSULİYYƏTİ
-(84-92)
-
-# TİBBİ XARAKTERLİ MƏCBURİ TƏDBİRLƏR
-(93-99)
-
-# SÜLH VƏ İNSANLIQ ƏLEYHİNƏ CINAYƏTLƏR
-SÜLH VƏ İNSANLIQ ƏLEYHİNƏ CİNAYƏTLƏR (100-113)
-
-(114-119)
-
-# ŞƏXSİYYƏT ƏLEYHİNƏ OLAN CİNAYƏTLƏR
-(120-143)
-
-(144-148)
-
-(149-153)
-
-(154-169)
-
-(170-176)
-
-# İQTISADİ SAHƏDƏ CİNAYƏTLƏR
-(177-189)
-
-(190-213)
-
-# **İ**CTİMAİ TƏHLÜKƏSİZLİK VƏ İCTİMAİ QAYDA ƏLEYHİNƏ OLAN CİNAYƏTLƏR
-İCTİMAİ TƏHLÜKƏSİZLİK ƏLEYHİNƏ OLAN CİNAYƏTLƏR (214-233)
-
-(234-241)
-
-(242-246)
-
-(247-261)
-
-(262-270)
-
-(271-273)
-
-# DÖVLƏT HAKİMİYYƏTİ ƏLEYHİNƏ OLAN CİNAYƏTLƏR
-DÖVLƏTİN KONSTİTUSİYA QURULUŞUNUN ƏSASLARI VƏ TƏHLÜKƏSİZLİYİ ƏLEYHİNƏ OLAN CİNAYƏTLƏR (274-285)
-
-(286-307)
-
-(308-314)
-
-(315-326)
-
-# HƏRBİ XİDMƏT ƏLEYHİNƏ OLAN CİNAYƏTLƏR
-HƏRBİ XİDMƏT ƏLEYHİNƏ OLAN CİNAYƏTLƏR (327-353)
-
 # AZƏRBAYCAN RESPUBLİKASININ CİNAYƏT MƏCƏLLƏSİ1
-# ÜMUMİ HİSSƏ
 BİRİNCİ BÖLMƏ
 
 ## CİNAYƏT QANUNU
@@ -1493,7 +1380,6 @@ Hüquqi şəxsin xeyrinə və ya onun maraqlarının qorunması üçün cinayət
 
 *99-10.1.4.** **xüsusilə** **ağır** **cinayətə** **görə** **barəsində** **cinayət-hüquqi** **tədbir** **tətbiq** **olunmuş** **hüquqi** **şəxs** **həmin** **cinayət-hüquqi** **tədbirin** **icrasını** **bitirdiyi** **gündən** **etibarən** **səkkiz** **il** **keçdikdə.*
 
-# XÜSUSİ HİSSӘ
 YEDDİNCİ BÖLMƏ
 
 ## SÜLH VƏ İNSANLIQ ƏLEYHİNƏ CİNAYƏTLƏR 175
@@ -6530,24 +6416,3 @@ iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandır�
 353.2. Eyni əməllər ehtiyatsızlıqdan iki və ya daha çox şəxsin ölümünə səbəb olduqda—
 
 beş ildən on ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
-
-# 30 dekabr 1999-cu il tarixli 787-IQ nömrəli “Azərbaycan Respublikası Cinayət Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2000-ci il, № 4, maddə 251) ilə təsdiq edilmişdir.
-**Məcəlləyə**** ****əlavə**** ****və**** ****dəyişikliklər**** ****etmiş**** ****qanunlar**
-
-26 may 2000-ci il tarixli 886-IQ nömrəli “Azərbaycan Respublikası Mülki Məcəlləsinin, Azərbaycan Respublikası Mülki Prosessual Məcəlləsinin və Azərbaycan Respublikası Cinayət Məcəlləsinin qüvvəyə minmə müddətlərinin dəyişdirilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2000-ci il, № 5, maddə 323)
-
-26 dekabr 2000-ci il tarixli 48-IIQ nömrəli “Şərti maliyyə vahidi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2000-ci il, № 12, maddə 835)
-
-26 dekabr 2000-ci il tarixli 49-IIQD nömrəli “Azərbaycan Respublikasının Cinayət və İnzibati Xətalar Məcəllələrinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 1, maddə 24)
-
-2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455)
-
-27 dekabr 2001-ci il tarixli 240-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 1, maddə 9)
-
-19 aprel 2002-ci il tarixli 305-II QD nömrəli "Psixiatriya yardımı haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 236)
-
-14 may 2002-ci il tarixli 321-IIQD nömrəli "Şəhərsalmanın əsasları haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 248)
-
-17 may 2002-ci il tarixli 332-IIQD nömrəli "Terrorizmin maliyyələşdirilməsi ilə mübarizə haqqında Beynəlxalq Konvensiyaya Azərbaycan Respublikasının qoşulması barədə" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 258)
-
-16 aprel 2002-ci il tarixli 302-IIQD nömrəli "Qırmızı Xaç və Qırmızı Aypara emblemlərindən istifadə və onların müdafiəsi haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının Cinayət Məcəlləsinə və Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə əlavə və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 6, maddə 326)
