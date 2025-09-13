@@ -1,10 +1,6 @@
 <center>**AZƏRBAYCAN RESPUBLİKASININ MƏNZİL MƏCƏLLƏSİ**</center>
 
-<center>*(Bu Məcəllə Azərbaycan Respublikasının ** Qanunu** ilə təsdiq **edilmişdir**)*</center>
-
 <center>**Birinci bölmə**</center>
-
-<center>**ÜMUMİ HİSSƏ**</center>
 
 <center>**I fəsil**</center>
 
@@ -1883,47 +1879,3 @@ Bütün sahələri dövlətin və ya bələdiyyənin mülkiyyətində olan çoxm
 146.3. Bu Məcəllənin 146.2-ci maddəsində nəzərdə tutulmuş yaşayış sahələrinin özəlləşdirilməsi Azərbaycan Respublikasının qanunlarında nəzərdə tutulduğu hallarda və qaydada həyata keçirilə bilər.
 
 *146.4. Dövlət mənzil fondunun bu Məcəllənin 146.1-ci maddəsinə aid edilməyən yaşayış sahələrinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi hallarda** və qaydada** **özəlləşdirilməsinə** yol verilir.*
-
-<center>**İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI**</center>
-
-15 noyabr 2011-ci il tarixli **253-IVQD **nömrəli Azərbaycan Respublikasının Qanunu **(“Respublika” qəzeti, 25 dekabr 2011-ci il, № 280, “Azərbaycan” qəzeti 29 dekabr 2011-ci il, № 289, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 12, maddə 1108)**
-
-20 aprel 2012-ci il tarixli **335-IVQD **nömrəli Azərbaycan Respublikasının Qanunu **(“Respublika” qəzeti, 5 iyun 2012-ci il, № 122, “Azərbaycan” qəzeti 6 iyun 2012-ci il, № 123)**
-
-Azərbaycan Respublikasının Qanunu **(“Azərbaycan” qəzeti, 3 iyun 2017-ci il, № 118****, ****Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 5, maddə 732****)**
-
-Azərbaycan Respublikasının Qanunu **(“Azərbaycan” qəzeti, 20 iyul 2017-ci il, № 154,**** Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 7, maddə 1298****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 9 noyabr 2018-ci il, № 253****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 11, maddə 2190****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 19 yanvar 2019-cu il, № 14, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, maddə 14****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 8 mart 2019-cu il, № 55, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 3, maddə 368****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 814****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 27 avqust 2019-cu il, № 186****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №8, maddə 1375****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 1 iyul 2020-ci il, № 124****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 670****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 15 iyul 2020-ci il, № 136****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 832****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, ****21 avqust 2021-ci**** il, № 175****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 894****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, ****8 fevral 2022-ci**** il, № 28****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 2, maddə ****91****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı,**** 8 fevral**** 2023-cü**** il, “Azərbaycan” qəzeti, 9 fevral**** 2023-cü**** il, № 29****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 18****3****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı,**** 1 fevral 2023-cü il, ****“Azərbaycan” qəzeti, 2 fevral 2023-cü il, № 23****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə ****202****) **
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı,**** 31 yanvar**** 2023-cü**** il, “Azərbaycan” qəzeti, 2 fevral**** 2023-cü**** il, № 23****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 41****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı****, ****30**** may**** 2024-cü**** il, “Azərbaycan” qəzeti, ****31**** may**** 2024-cü**** il, № 11****3****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab****,**** maddə 48****9****)**
-
-Azərbaycan Respublikasının Qanunu **(Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi ****internet saytı****, 10 mart**** 2025-ci il****, “****Azərbaycan****” qəzeti, ****11 mart 2025-ci il****, № 53****, Azərbaycan ****Respublikasının Qanunve****ricilik Toplusu, 2025-ci il, № ****3, maddə ****219****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı****, 1 avqust**** 2025-ci il****, “****Azərbaycan****” qəzeti, ****2 avqust 2025-ci il****, № 159****)**
-
-14 iyul 2025-ci il tarixli **244-VIIQD** nömrəli Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı****, 4 avqust**** 2025-ci il****, “****Azərbaycan****” qəzeti, ****5 avqust 2025-ci il****, № 161****)**
-
-<center>**MƏCƏLLƏYƏ EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI**</center>
