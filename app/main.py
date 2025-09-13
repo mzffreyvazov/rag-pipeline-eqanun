@@ -418,6 +418,21 @@ class JobStatusResponse(BaseModel):
     overall: Dict[str, Any]
     error: Optional[str] = None
 
+# Document retrieval models
+class RetrieveRequest(BaseModel):
+    query: str
+    n_results: Optional[int] = 10
+
+class RetrievedChunk(BaseModel):
+    content: str
+    metadata: Dict[str, Any]
+    distance: Optional[float] = None
+
+class RetrieveResponse(BaseModel):
+    query: str
+    chunks: List[RetrievedChunk]
+    total_results: int
+
 def get_or_create_collection():
     """Get or create the ChromaDB collection with Gemini embeddings"""
     global chroma_client, collection_name, embedding_function
@@ -856,6 +871,47 @@ async def chat(request: ChatRequest):
         
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error in chat: {str(e)}")
+
+@app.post("/retrieve", response_model=RetrieveResponse)
+async def retrieve_documents(request: RetrieveRequest):
+    """Retrieve relevant document chunks for a query without generating LLM response"""
+    try:
+        collection = get_existing_collection()
+        
+        # Compute embeddings for the query
+        q_emb = embed_texts([request.query])
+        
+        # Query the vector database
+        results = collection.query(
+            query_embeddings=q_emb,
+            n_results=request.n_results,
+            include=["metadatas", "documents", "distances"],
+        )
+        
+        retrieved_chunks = []
+        if results['documents'] and results['documents'][0]:
+            docs = results.get('documents', [[]])[0]
+            metas = results.get('metadatas', [[]])[0] 
+            distances = results.get('distances', [[]])[0]
+            
+            for i, doc in enumerate(docs):
+                metadata = metas[i] if i < len(metas) else {}
+                distance = distances[i] if i < len(distances) else None
+                
+                retrieved_chunks.append(RetrievedChunk(
+                    content=doc,
+                    metadata=metadata,
+                    distance=distance
+                ))
+        
+        return RetrieveResponse(
+            query=request.query,
+            chunks=retrieved_chunks,
+            total_results=len(retrieved_chunks)
+        )
+        
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error retrieving documents: {str(e)}")
 
 @app.get("/status", response_model=StatusResponse)
 async def get_status():
