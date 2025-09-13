@@ -1,7 +1,5 @@
 <center>**AZƏRBAYCAN RESPUBLİKASININ İNZİBATİ PROSESSUAL MƏCƏLLƏSİ**</center>
 
-<center>*(Bu Məcəllə Azərbaycan Respublikasının** ** **Qanunu** **ilə təsdiq **edilmişdir**)*</center>
-
 <center>**I fəsil**</center>
 
 <center>**ÜMUMİ MÜDDƏALAR**</center>
@@ -1523,63 +1521,3 @@ Maddə 128.** *****Çap mediası və ******onlayn****** media subyektlərinin f�
 *132.3. Mübahisə ilə bağlı iş üzrə məhkəmə qərarından həmin qərarın tam formada təqdim olunduğu gündən 10 gün müddətində Ali Məhkəməyə şikayət verilə bilər. Belə şikayətin verilməsi məhkəmə qərarının icrasını dayandırmır.*
 
 *132.4. Ali Məhkəmə şikayətə 15 gün müddətində baxıb qərar qəbul etməlidir.*
-
-<center>**İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI**</center>
-
-10 iyun 2011-ci il tarixli **152-IVQD** nömrəli Azərbaycan Respublikasının Qanunu** (“Azərbaycan” qəzeti, 30 iyun ****2011-ci**** il, № 139; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 6, maddə 485)**
-
-17 may 2011-ci il tarixli **122-IVQD** nömrəli Azərbaycan Respublikasının Qanunu** (“Azərbaycan” qəzeti, 5 iyul ****2011-ci**** il, № 143; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 7, maddə 593)**
-
-20 aprel 2012-ci il tarixli **328-IVQD **nömrəli Azərbaycan Respublikasının Qanunu **(“Azərbaycan” qəzeti, 12 may 2012-ci il, № 103; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 5, maddə 410)**
-
-11 dekabr 2012-ci il tarixli **497-IVQD **nömrəli Azərbaycan Respublikasının Qanunu **(“Respublika” qəzeti, 19 yanvar 2013-cü il, № 12; “Azərbaycan” qəzeti, 22 yanvar 2013-cü il, № 14; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 01, maddə 16)**
-
-30 sentyabr 2013-cü il tarixli **748-IVQD** nömrəli Azərbaycan Respublikasının Qanunu **(“****Respublika****” qəzeti, 19 noyabr 2013-cü il, № 253****; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 11, maddə 1267****)**
-
-Azərbaycan Respublikasının Qanunu **(“****Respublika****” qəzeti, 29 yanvar 2016-cı il, № 20****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 01, maddə 12)**
-
-Azərbaycan Respublikasının Qanunu **(“Azərbaycan” qəzeti, 14 aprel 2017-ci il, № 77****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 4, maddə 522****)**
-
-Azərbaycan Respublikasının Qanunu **(“Azərbaycan” qəzeti, 21 may 2017-ci il, № 108****, ****Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 5, maddə 752****)**
-
-Azərbaycan Respublikasının Qanunu **(“Azərbaycan” qəzeti, 11 noyabr 2017-ci il, № 248****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, №11 , maddə 1976****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 6 may 2018-ci il, № 102****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №5, maddə 855****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 19 may 2018-ci il, № 112****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №5, maddə 878****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 15 iyul 2018-ci il, № 155****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1440****)**
-
-Azərbaycan Respublikasının Qanunu **(“Azərbaycan” qəzeti, 31 yanvar 2019-cu il, № 24****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, maddə 23****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 21 iyul 2019-cu il, № 157****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1199****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, 22 dekabr 2019-cu il, № 285****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 12, maddə 1899****)**
-
-Azərbaycan Respublikasının Qanunu **(“Azərbaycan” qəzeti, 1 iyul 2020-ci il, № 124****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 669****) **
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, ****25 iyul 2021-ci**** il, № 152****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 711****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, ****17 iyul 2021-ci**** il, № 148****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 715****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, ****3 iyul 2022-ci**** il, № 139****, ****Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, maddə 5****91****)**
-
-Azərbaycan Respublikasının Qanunu **(****“Azərbaycan” qəzeti, ****23 iyul 2022-ci**** il, № 153****, ****Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 703****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı,**** 7 fevral**** 2023-cü**** il, “Azərbaycan” qəzeti, 8 fevral**** 2023-cü**** il, № 28****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 19****9****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı,**** 8 aprel**** 2023-cü**** il, “Azərbaycan” qəzeti, 9 aprel**** 2023-cü**** il, № 73****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 202****3****-c****ü**** il, № ****4****, maddə ****445****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı,**** 2 avqust**** 2023-cü**** il, “Azərbaycan” qəzeti, 3 avqust**** 2023-cü**** il, № 162****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 8, ****I kitab, ****maddə 1112****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı****, 25 dekabr**** 2023-cü**** il, “Azərbaycan” qəzeti, 26 dekabr**** 2023-cü**** il, № 283****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 12, I kitab, maddə 1****619****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı****, ****9 dekabr**** 2024-cü**** il, “Azərbaycan” qəzeti, ****10 dekabr**** 2024-cü**** il, ****№ 272****, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 12, I kitab, maddə 1281****)**
-
-Azərbaycan Respublikasının Qanunu **(****Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-****ın****) rəsmi internet saytı****, 19 aprel**** 2025-ci il****, “****Azərbaycan****” qəzeti, ****20 ****aprel**** 2025-ci il****, № 78****) **
-
-<center>**Konstitusiya Məhkəməsinin Qərarları**</center>
-
-** **“Banklar haqqında” Azərbaycan Respublikası Qanununun 81-ci maddəsi ilə kreditorların banka qarşı təsdiqlənmiş tələblərinin təminatı və bankın öz tələblərinin təminatı olan aktivlərin realizə qaydası tənzimlənir.
-
-“Banklar haqqında” Azərbaycan Respublikası Qanununun 81-ci, habelə Azərbaycan Respublikası İnzibati Prosessual Məcəlləsinin 131 və 132-ci maddələrinin hüquqi mahiyyəti baxımından ləğvetmə prosesində olan bankın pozulmuş kredit öhdəliyinə görə kreditorun üçüncü şəxslərə məxsus ipoteka (girov) predmetinə tutmanın yönəldilməsi ilə əlaqədar tələbinə inzibati icraat qaydasında deyil, mülki (iddia) icraat qaydasında baxılmalıdır. **(Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 10 iyul 2023-cü il tarixli Qərarı – “Respublika” qəzeti 27 iyul 2023-cü il, № 156)**
