@@ -17,7 +17,7 @@ from pydantic import BaseModel
 import vertexai
 from dotenv import load_dotenv
 
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader, UnstructuredMarkdownLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_google_vertexai import VertexAIEmbeddings
 from langchain_google_genai import ChatGoogleGenerativeAI
@@ -127,7 +127,7 @@ def initialize_components():
         embedding_function, provider, model_name, model_dim = _build_embedding_function()
 
         # Initialize LLM
-        llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
+        llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
 
         print(
             f"✅ Components initialized | Embeddings: provider='{provider}', model='{model_name}', dim='{model_dim or 'n/a'}'"
@@ -354,7 +354,7 @@ async def lifespan(app: FastAPI):
 # Initialize FastAPI app with lifespan
 app = FastAPI(
     title="Azerbaijani Legal RAG Pipeline",
-    description="A conversational RAG system for Azerbaijani legal documents",
+    description="A conversational RAG system for Azerbaijani legal documents (PDF and Markdown)",
     version="1.0.0",
     lifespan=lifespan
 )
@@ -522,18 +522,36 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
     )
     
     for file in files:
-        if not file.filename.lower().endswith('.pdf'):
+        if not (file.filename.lower().endswith('.pdf') or 
+                file.filename.lower().endswith('.md') or 
+                file.filename.lower().endswith('.markdown')):
             continue
             
         # Create temporary file
-        with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:
+        if file.filename.lower().endswith('.pdf'):
+            suffix = '.pdf'
+        elif file.filename.lower().endswith('.md'):
+            suffix = '.md'
+        elif file.filename.lower().endswith('.markdown'):
+            suffix = '.markdown'
+        else:
+            suffix = '.txt'  # fallback
+            
+        with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp_file:
             content = await file.read()
             tmp_file.write(content)
             tmp_file_path = tmp_file.name
         
         try:
-            # Load PDF
-            loader = PyPDFLoader(tmp_file_path)
+            # Load document based on file type
+            if file.filename.lower().endswith('.pdf'):
+                loader = PyPDFLoader(tmp_file_path)
+            elif file.filename.lower().endswith(('.md', '.markdown')):
+                loader = UnstructuredMarkdownLoader(tmp_file_path)
+            else:
+                print(f"❌ Unsupported file type: {file.filename}")
+                continue
+                
             docs = loader.load()
             
             # Add metadata to identify source
@@ -652,7 +670,15 @@ def _process_uploaded_file_paths(file_entries: List[Dict[str, str]], job_id: str
             tmp_path = entry["path"]
             _update_file_progress(job_id, original_name, status="running")
             try:
-                loader = PyPDFLoader(tmp_path)
+                # Load document based on file type
+                if original_name.lower().endswith('.pdf'):
+                    loader = PyPDFLoader(tmp_path)
+                elif original_name.lower().endswith(('.md', '.markdown')):
+                    loader = UnstructuredMarkdownLoader(tmp_path)
+                else:
+                    _update_file_progress(job_id, original_name, status="failed", error=f"Unsupported file type: {original_name}")
+                    continue
+                    
                 docs = loader.load()
 
                 # Update pages_total early
@@ -738,17 +764,21 @@ async def upload_documents(
     background_tasks: BackgroundTasks,
     files: List[UploadFile] = File(...)
 ):
-    """Upload and process PDF documents"""
+    """Upload and process PDF and Markdown documents"""
     if not files:
         raise HTTPException(status_code=400, detail="No files provided")
     
     # Validate file types
-    pdf_files = [f for f in files if f.filename.lower().endswith('.pdf')]
-    if not pdf_files:
-        raise HTTPException(status_code=400, detail="Only PDF files are supported")
+    supported_files = [f for f in files if (
+        f.filename.lower().endswith('.pdf') or 
+        f.filename.lower().endswith('.md') or 
+        f.filename.lower().endswith('.markdown')
+    )]
+    if not supported_files:
+        raise HTTPException(status_code=400, detail="Only PDF and Markdown files are supported")
     
     try:
-        document_infos = await process_uploaded_files(pdf_files)
+        document_infos = await process_uploaded_files(supported_files)
         
         collection = get_existing_collection()
         total_docs = collection.count()
@@ -772,15 +802,29 @@ async def upload_start(background_tasks: BackgroundTasks, files: List[UploadFile
     if not files:
         raise HTTPException(status_code=400, detail="No files provided")
 
-    pdf_files = [f for f in files if f.filename.lower().endswith('.pdf')]
-    if not pdf_files:
-        raise HTTPException(status_code=400, detail="Only PDF files are supported")
+    supported_files = [f for f in files if (
+        f.filename.lower().endswith('.pdf') or 
+        f.filename.lower().endswith('.md') or 
+        f.filename.lower().endswith('.markdown')
+    )]
+    if not supported_files:
+        raise HTTPException(status_code=400, detail="Only PDF and Markdown files are supported")
 
     # Save files to temp paths to allow background processing after response returns
     temp_entries: List[Dict[str, str]] = []
     filenames: List[str] = []
-    for f in pdf_files:
-        with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp:
+    for f in supported_files:
+        # Determine file extension for temp file
+        if f.filename.lower().endswith('.pdf'):
+            suffix = '.pdf'
+        elif f.filename.lower().endswith('.md'):
+            suffix = '.md'
+        elif f.filename.lower().endswith('.markdown'):
+            suffix = '.markdown'
+        else:
+            suffix = '.txt'  # fallback
+            
+        with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
             content = await f.read()
             tmp.write(content)
             temp_entries.append({"filename": f.filename, "path": tmp.name})
