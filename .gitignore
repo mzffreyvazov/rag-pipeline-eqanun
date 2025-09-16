@@ -83,6 +83,7 @@ logs/
 *.log
 other/
 notebooks/
+retrieval_logs/
 
 # Temporary files
 *.tmp

@@ -6,6 +6,7 @@ from typing import List, Optional, Dict, Any
 import threading
 from contextlib import asynccontextmanager
 import shutil
+from datetime import datetime
 
 import chromadb
 from chromadb.config import Settings
@@ -27,6 +28,9 @@ from langchain_core.documents import Document
 from langgraph.graph import MessagesState, StateGraph, END
 from langgraph.prebuilt import ToolNode, tools_condition
 from langgraph.checkpoint.memory import MemorySaver
+
+# Import hierarchical chunking components
+from hierarchical_chunker import HierarchicalLegalChunker, HierarchicalRetriever
 
 # Load environment variables
 load_dotenv()
@@ -152,40 +156,31 @@ def embed_texts(texts: List[str]) -> List[List[float]]:
     # Some EF implementations may return numpy arrays; coerce to plain lists
     return [list(v) for v in vectors]
 
+# Global variable to store last retrieved documents for source display
+last_retrieved_docs: List[Dict[str, Any]] = []
+
 def create_rag_graph():
     """Create the RAG conversation graph"""
     global llm
     
     @tool(response_format="content_and_artifact")
     def retrieve(query: str):
-        """Retrieve information related to a query."""
+        """Retrieve information related to a query using hierarchical retrieval."""
+        global last_retrieved_docs
         try:
             collection = get_existing_collection()
             
-            # Compute embeddings ourselves to avoid relying on collection EF
-            q_emb = embed_texts([query])
-            # Use ChromaDB's query method with precomputed embeddings
-            results = collection.query(
-                query_embeddings=q_emb,
-                n_results=10,  # Increased to get more diverse results
-                include=["metadatas", "documents", "distances"],
-            )
+            # Initialize hierarchical retriever with embed function
+            retriever = HierarchicalRetriever(collection, embed_texts)
             
-            retrieved_docs = []
-            if results['documents'] and results['documents'][0]:
-                for i, doc in enumerate(results['documents'][0]):
-                    metadata = (
-                        results['metadatas'][0][i]
-                        if results.get('metadatas') and results['metadatas'] and results['metadatas'][0]
-                        else {}
-                    )
-                    retrieved_docs.append({
-                        'content': doc,
-                        'metadata': metadata
-                    })
+            # Use adaptive hierarchical retrieval
+            retrieved_docs = retriever.retrieve_with_hierarchy(query, n_results=10)
+            
+            # Store retrieved docs globally for source display
+            last_retrieved_docs = retrieved_docs.copy()
             
             # Debug: Print what documents are being retrieved
-            print(f"\n================ RETRIEVAL DEBUG ================")
+            print(f"\n================ HIERARCHICAL RETRIEVAL DEBUG ================")
             print(f"🔎 Query: {query}")
             print(f"🔢 Retrieved: {len(retrieved_docs)} results")
 
@@ -198,40 +193,54 @@ def create_rag_graph():
             except Exception:
                 pass
 
-            # Print ranked results with distance, id, source, and preview
-            ids = results.get('ids', [[]])[0] if results.get('ids') else []
-            dists = results.get('distances', [[]])[0] if results.get('distances') else []
-            metas = results.get('metadatas', [[]])[0] if results.get('metadatas') else []
-            docs = results.get('documents', [[]])[0] if results.get('documents') else []
-
-            for rank, (rid, dist, meta, doc) in enumerate(zip(ids, dists, metas, docs), start=1):
-                source = meta.get('source_document', 'Unknown') if isinstance(meta, dict) else 'Unknown'
-                preview = (doc or '')[:200].replace('\n', ' ')
-                try:
-                    dist_str = f"{float(dist):.4f}"
-                except Exception:
-                    dist_str = str(dist)
-                print(f"{rank:02d}. id={rid} | dist={dist_str} | source={source}\n    {preview}...")
+            # Print retrieved results with hierarchy information
+            for rank, doc in enumerate(retrieved_docs, start=1):
+                metadata = doc.get('metadata', {})
+                content = doc.get('content', '')
+                source = metadata.get('source_document', 'Unknown')
+                chunk_type = metadata.get('chunk_type', 'unknown')
+                hierarchy_level = metadata.get('hierarchy_level', 'unknown')
+                preview = content[:200].replace('\n', ' ')
+                
+                print(f"{rank:02d}. type={chunk_type} | level={hierarchy_level} | source={source}")
+                print(f"    {preview}...")
+                
+                # Show parent context if available
+                if metadata.get('parent_id'):
+                    print(f"    ↳ Parent: {metadata.get('parent_id')}")
             
             if retrieved_docs:
                 sources = set(doc['metadata'].get('source_document', 'Unknown') for doc in retrieved_docs)
                 print(f"📄 Sources found: {', '.join(sources)}")
                 # Print per-source counts
                 counts = {}
-                for m in metas:
-                    s = (m or {}).get('source_document', 'Unknown')
+                chunk_type_counts = {}
+                for doc in retrieved_docs:
+                    meta = doc.get('metadata', {})
+                    s = meta.get('source_document', 'Unknown')
+                    chunk_type = meta.get('chunk_type', 'unknown')
                     counts[s] = counts.get(s, 0) + 1
+                    chunk_type_counts[chunk_type] = chunk_type_counts.get(chunk_type, 0) + 1
+                
                 print("📊 Per-source counts:")
                 for s, c in counts.items():
                     print(f"   - {s}: {c}")
+                    
+                print("🏗️ Chunk type distribution:")
+                for chunk_type, c in chunk_type_counts.items():
+                    print(f"   - {chunk_type}: {c}")
             else:
                 print("❌ No documents retrieved")
-            print("================ END RETRIEVAL DEBUG ================\n")
+            print("================ END HIERARCHICAL RETRIEVAL DEBUG ================\n")
             
             serialized = "\n\n".join(
                 (f"[Source: {doc['metadata'].get('source_document', 'Unknown')}]\n{doc['content']}")
                 for doc in retrieved_docs
             )
+            
+            # Save retrieved content to file for analysis
+            save_retrieved_content_to_file(query, retrieved_docs, serialized)
+            
             return serialized, retrieved_docs
         except Exception as e:
             return f"Error retrieving documents: {str(e)}", []
@@ -376,10 +385,18 @@ class ChatRequest(BaseModel):
     message: str
     session_id: Optional[str] = None
 
+class SourceInfo(BaseModel):
+    document_name: str
+    retrieved_content: str
+    page_number: Optional[int] = None
+    chunk_type: Optional[str] = None
+    hierarchy_level: Optional[int] = None
+    clause_number: Optional[str] = None
+
 class ChatResponse(BaseModel):
     response: str
     session_id: str
-    sources: Optional[List[Dict[str, Any]]] = None
+    sources: Optional[List[SourceInfo]] = None
 
 class UploadResponse(BaseModel):
     message: str
@@ -390,6 +407,8 @@ class DocumentInfo(BaseModel):
     filename: str
     total_pages: int
     chunks_created: int
+    parent_chunks: Optional[int] = None
+    child_chunks: Optional[int] = None
 
 class StatusResponse(BaseModel):
     status: str
@@ -511,14 +530,104 @@ def get_existing_collection():
         # If collection doesn't exist or has wrong embedding function, create it
         return get_or_create_collection()
 
+def save_retrieved_content_to_file(query: str, retrieved_docs: List[Dict[str, Any]], serialized_content: str):
+    """
+    Save retrieved content to a text file for analysis.
+    Creates a timestamped file with query, retrieved chunks, and final serialized content.
+    """
+    try:
+        # Create retrieval_logs directory if it doesn't exist
+        logs_dir = Path("retrieval_logs")
+        logs_dir.mkdir(exist_ok=True)
+        
+        # Generate timestamp and safe filename
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        safe_query = "".join(c for c in query[:50] if c.isalnum() or c in (' ', '-', '_')).rstrip()
+        safe_query = safe_query.replace(' ', '_')
+        filename = f"{timestamp}_{safe_query}.txt"
+        
+        filepath = logs_dir / filename
+        
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write("=" * 80 + "\n")
+            f.write("HIERARCHICAL RETRIEVAL ANALYSIS LOG\n")
+            f.write("=" * 80 + "\n")
+            f.write(f"Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"Query: {query}\n")
+            f.write(f"Retrieved chunks: {len(retrieved_docs)}\n")
+            f.write("=" * 80 + "\n\n")
+            
+            # Individual chunk analysis
+            f.write("INDIVIDUAL RETRIEVED CHUNKS:\n")
+            f.write("-" * 50 + "\n\n")
+            
+            for i, doc in enumerate(retrieved_docs, 1):
+                metadata = doc.get('metadata', {})
+                content = doc.get('content', '')
+                
+                f.write(f"CHUNK #{i}:\n")
+                f.write(f"  Chunk Type: {metadata.get('chunk_type', 'unknown')}\n")
+                f.write(f"  Source Document: {metadata.get('source_document', 'unknown')}\n")
+                f.write(f"  Chunk ID: {metadata.get('chunk_id', 'unknown')}\n")
+                f.write(f"  Parent ID: {metadata.get('parent_chunk_id', 'none')}\n")
+                f.write(f"  Hierarchical Path: {metadata.get('hierarchical_path', 'unknown')}\n")
+                f.write(f"  Content Length: {metadata.get('content_length', len(content))}\n")
+                f.write(f"  Distance: {doc.get('distance', 'unknown')}\n")
+                
+                f.write(f"\n  CONTENT:\n")
+                f.write(f"  {'-' * 40}\n")
+                f.write(f"  {content}\n")
+                f.write(f"  {'-' * 40}\n\n")
+            
+            # Final serialized content sent to LLM
+            f.write("\n" + "=" * 80 + "\n")
+            f.write("FINAL SERIALIZED CONTENT SENT TO LLM:\n")
+            f.write("=" * 80 + "\n")
+            f.write(serialized_content)
+            f.write("\n\n" + "=" * 80 + "\n")
+            f.write("END OF LOG\n")
+            f.write("=" * 80 + "\n")
+        
+        print(f"📝 Retrieved content saved to: {filepath}")
+        
+    except Exception as e:
+        print(f"⚠️ Error saving retrieved content: {str(e)}")
+
+def sanitize_metadata_for_chromadb(metadata: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Sanitize metadata to ensure ChromaDB compatibility.
+    ChromaDB only accepts: str, int, float, bool (no None values).
+    """
+    sanitized = {}
+    for key, value in metadata.items():
+        if value is None:
+            # Skip None values completely
+            continue
+        elif isinstance(value, str):
+            # Keep non-empty strings, convert empty strings to a default
+            sanitized[key] = value if value.strip() else "unknown"
+        elif isinstance(value, (int, float, bool)):
+            # Keep valid numeric and boolean values
+            sanitized[key] = value
+        elif isinstance(value, (list, dict)):
+            # Convert complex types to string representation
+            sanitized[key] = str(value)
+        else:
+            # Convert other types to string
+            sanitized[key] = str(value) if value is not None else "unknown"
+    
+    return sanitized
+
 async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
-    """Process uploaded PDF files and add to vector store"""
+    """Process uploaded PDF files and add to vector store with hierarchical chunking"""
     collection = get_existing_collection()
     document_infos = []
     
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1536, 
-        chunk_overlap=305
+    # Initialize hierarchical chunker
+    chunker = HierarchicalLegalChunker(
+        parent_chunk_size=2000,  # Larger chunks for context (full articles)
+        child_chunk_size=500,    # Smaller chunks for precision (individual clauses)
+        overlap=100
     )
     
     for file in files:
@@ -556,27 +665,48 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
             
             # Add metadata to identify source
             for doc in docs:
-                doc.metadata["source_document"] = file.filename
+                # Extract document title from first header if available
+                document_title = "unknown"
+                if doc.page_content:
+                    # Clean and normalize the text for better matching
+                    content_lines = doc.page_content.split('\n')
+                    for line in content_lines[:10]:  # Check first 10 lines
+                        line = line.strip()
+                        # Look for document title patterns
+                        if ('MƏCƏLLƏ' in line.upper() or 'MECELLə' in line.upper() or 
+                            'AZƏRBAYCAN' in line.upper() and len(line) > 20 and len(line) < 200):
+                            document_title = line
+                            break
+                        elif line.startswith('# ') and len(line) > 5:
+                            document_title = line[2:].strip()
+                            break
+                
+                doc.metadata["source_document"] = document_title if document_title != "unknown" else file.filename
+                doc.metadata["document_filename"] = file.filename
                 doc.metadata["document_type"] = Path(file.filename).stem
                 doc.metadata["upload_id"] = str(uuid.uuid4())
             
-            # Split documents
-            all_splits = text_splitter.split_documents(docs)
-            print(f"📄 Split {file.filename} into {len(all_splits)} chunks")
+            # Use hierarchical chunking instead of basic splitting
+            parent_chunks, child_chunks = chunker.chunk_documents(docs)
+            print(f"📄 Created {len(parent_chunks)} parent chunks and {len(child_chunks)} child chunks from {file.filename}")
+            
+            # Combine both parent and child chunks for storage
+            all_chunks = parent_chunks + child_chunks
             
             # Prepare data for ChromaDB
-            if all_splits:
+            if all_chunks:
                 # Generate embeddings and add to collection
                 batch_size = 100
                 total_added = 0
                 
-                print(f"🔄 Adding {len(all_splits)} chunks to collection in batches of {batch_size}")
+                print(f"🔄 Adding {len(all_chunks)} chunks to collection in batches of {batch_size}")
                 
-                for i in range(0, len(all_splits), batch_size):
-                    batch = all_splits[i:i + batch_size]
-                    batch_ids = [f"{file.filename}_{j}" for j in range(i, i + len(batch))]
-                    batch_documents = [doc.page_content for doc in batch]
-                    batch_metadatas = [doc.metadata for doc in batch]
+                for i in range(0, len(all_chunks), batch_size):
+                    batch = all_chunks[i:i + batch_size]
+                    batch_ids = [chunk.metadata["chunk_id"] for chunk in batch]
+                    batch_documents = [chunk.page_content for chunk in batch]
+                    # Sanitize metadata to prevent ChromaDB validation errors
+                    batch_metadatas = [sanitize_metadata_for_chromadb(chunk.metadata) for chunk in batch]
                     
                     print(f"🔄 Adding batch {i//batch_size + 1}: {len(batch)} documents")
                     
@@ -603,7 +733,9 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
             document_infos.append(DocumentInfo(
                 filename=file.filename,
                 total_pages=len(docs),
-                chunks_created=len(all_splits)
+                chunks_created=len(all_chunks),
+                parent_chunks=len(parent_chunks),
+                child_chunks=len(child_chunks)
             ))
             
         except Exception as e:
@@ -660,9 +792,12 @@ def _process_uploaded_file_paths(file_entries: List[Dict[str, str]], job_id: str
     """Background processor: takes temp-saved files and updates job progress while indexing."""
     try:
         collection = get_existing_collection()
-        text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=1536,
-            chunk_overlap=305,
+        
+        # Initialize hierarchical chunker
+        chunker = HierarchicalLegalChunker(
+            parent_chunk_size=2000,  # Larger chunks for context
+            child_chunk_size=500,    # Smaller chunks for precision  
+            overlap=100
         )
 
         for entry in file_entries:
@@ -686,22 +821,41 @@ def _process_uploaded_file_paths(file_entries: List[Dict[str, str]], job_id: str
 
                 # Attach base metadata to each page
                 for doc in docs:
-                    doc.metadata["source_document"] = original_name
+                    # Extract document title from first header if available
+                    document_title = "unknown"
+                    if doc.page_content:
+                        # Clean and normalize the text for better matching
+                        content_lines = doc.page_content.split('\n')
+                        for line in content_lines[:10]:  # Check first 10 lines
+                            line = line.strip()
+                            # Look for document title patterns
+                            if ('MƏCƏLLƏ' in line.upper() or 'MECELLə' in line.upper() or 
+                                'AZƏRBAYCAN' in line.upper() and len(line) > 20 and len(line) < 200):
+                                document_title = line
+                                break
+                            elif line.startswith('# ') and len(line) > 5:
+                                document_title = line[2:].strip()
+                                break
+                    
+                    doc.metadata["source_document"] = document_title if document_title != "unknown" else original_name
+                    doc.metadata["document_filename"] = original_name
                     doc.metadata["document_type"] = Path(original_name).stem
                     doc.metadata["job_id"] = job_id
 
-                # Split documents
-                all_splits = text_splitter.split_documents(docs)
-                chunks_total = len(all_splits)
+                # Use hierarchical chunking
+                parent_chunks, child_chunks = chunker.chunk_documents(docs)
+                all_chunks = parent_chunks + child_chunks
+                chunks_total = len(all_chunks)
                 _update_file_progress(job_id, original_name, chunks_total=chunks_total, chunks_done=0, percent=0.0)
 
-                if all_splits:
+                if all_chunks:
                     batch_size = 100
                     for i in range(0, chunks_total, batch_size):
-                        batch = all_splits[i:i + batch_size]
-                        batch_ids = [f"{original_name}_{j}" for j in range(i, i + len(batch))]
-                        batch_documents = [d.page_content for d in batch]
-                        batch_metadatas = [d.metadata for d in batch]
+                        batch = all_chunks[i:i + batch_size]
+                        batch_ids = [chunk.metadata["chunk_id"] for chunk in batch]
+                        batch_documents = [chunk.page_content for chunk in batch]
+                        # Sanitize metadata to prevent ChromaDB validation errors
+                        batch_metadatas = [sanitize_metadata_for_chromadb(chunk.metadata) for chunk in batch]
 
                         # Precompute embeddings
                         batch_embeddings = embed_texts(batch_documents)
@@ -870,7 +1024,6 @@ async def chat(request: ChatRequest):
     try:
         # Run the conversation graph
         response_content = ""
-        top_sources: List[Dict[str, Any]] = []
         for step in graph.stream(
             {"messages": [{"role": "user", "content": request.message}]},
             stream_mode="values",
@@ -880,32 +1033,33 @@ async def chat(request: ChatRequest):
                 last_message = step["messages"][-1]
                 if hasattr(last_message, 'content'):
                     response_content = last_message.content
-        # Additionally, query the vector store for top-3 sources to return
-        try:
-            collection = get_existing_collection()
-            q_emb = embed_texts([request.message])
-            results = collection.query(
-                query_embeddings=q_emb,
-                n_results=3,
-                include=["metadatas", "documents", "distances"],
+        
+        # Use the exact same retrieved documents that were sent to the LLM
+        global last_retrieved_docs
+        top_sources: List[SourceInfo] = []
+        
+        for doc in last_retrieved_docs:  # Show ALL retrieved documents, not just top 5
+            metadata = doc.get('metadata', {})
+            content = doc.get('content', '')
+            
+            # Extract meaningful source name - prioritize document_title over source_document
+            source_name = (
+                metadata.get('document_title', 'unknown') if metadata.get('document_title', 'unknown') != 'unknown' 
+                else metadata.get('source_document', 'unknown')
             )
-            docs = results.get('documents', [[]])[0]
-            metas = results.get('metadatas', [[]])[0]
-            ids = results.get('ids', [[]])[0]
-
-            for i, doc in enumerate(docs):
-                meta = metas[i] if i < len(metas) else {}
-                doc_id = ids[i] if i < len(ids) else None
-                # Try to extract page number if available in metadata
-                page_number = meta.get('page', None) or meta.get('page_number', None) or meta.get('source_page', None)
-                top_sources.append({
-                    "document_name": meta.get('source_document', str(doc_id) if doc_id else 'unknown'),
-                    "retrieved_content": doc,
-                    "page_number": page_number,
-                })
-        except Exception as e:
-            # If retrieval fails, just return empty sources
-            print(f"Warning: failed to fetch top sources: {e}")
+            
+            if source_name == 'unknown' or '.md' in source_name:
+                # Fallback to chunk ID or filename
+                source_name = metadata.get('chunk_id', metadata.get('document_filename', 'unknown'))
+            
+            top_sources.append(SourceInfo(
+                document_name=source_name,
+                retrieved_content=content,  # Show FULL content, not truncated
+                page_number=metadata.get('page', None),
+                chunk_type=metadata.get('chunk_type', 'unknown'),
+                hierarchy_level=metadata.get('structure_level', 0),
+                clause_number=metadata.get('clause_number', None)
+            ))
 
         return ChatResponse(
             response=response_content or "Sorry, I couldn't generate a response.",
@@ -918,35 +1072,47 @@ async def chat(request: ChatRequest):
 
 @app.post("/retrieve", response_model=RetrieveResponse)
 async def retrieve_documents(request: RetrieveRequest):
-    """Retrieve relevant document chunks for a query without generating LLM response"""
+    """Retrieve relevant document chunks for a query without generating LLM response using hierarchical retrieval"""
     try:
         collection = get_existing_collection()
         
-        # Compute embeddings for the query
-        q_emb = embed_texts([request.query])
+        # Initialize hierarchical retriever with embed function
+        retriever = HierarchicalRetriever(collection, embed_texts)
         
-        # Query the vector database
-        results = collection.query(
-            query_embeddings=q_emb,
-            n_results=request.n_results,
-            include=["metadatas", "documents", "distances"],
+        # Use adaptive hierarchical retrieval
+        retrieved_docs = retriever.retrieve_with_hierarchy(request.query, n_results=request.n_results)
+        
+        # Create serialized content for logging (same format as chat endpoint)
+        serialized_content = "\n\n".join(
+            (f"[Source: {doc['metadata'].get('source_document', 'Unknown')}]\n{doc['content']}")
+            for doc in retrieved_docs
         )
         
+        # Save retrieved content to file for analysis (same as chat endpoint)
+        save_retrieved_content_to_file(request.query, retrieved_docs, serialized_content)
+        
+        # Prepare response with enhanced metadata
         retrieved_chunks = []
-        if results['documents'] and results['documents'][0]:
-            docs = results.get('documents', [[]])[0]
-            metas = results.get('metadatas', [[]])[0] 
-            distances = results.get('distances', [[]])[0]
+        for doc in retrieved_docs:
+            metadata = doc.get('metadata', {})
             
-            for i, doc in enumerate(docs):
-                metadata = metas[i] if i < len(metas) else {}
-                distance = distances[i] if i < len(distances) else None
-                
-                retrieved_chunks.append(RetrievedChunk(
-                    content=doc,
-                    metadata=metadata,
-                    distance=distance
-                ))
+            # Extract meaningful source name - prioritize document_title over source_document
+            source_name = (
+                metadata.get('document_title', 'unknown') if metadata.get('document_title', 'unknown') != 'unknown' 
+                else metadata.get('source_document', 'unknown')
+            )
+            
+            if source_name == 'unknown' or '.md' in source_name:
+                source_name = metadata.get('chunk_id', metadata.get('document_filename', 'unknown'))
+            
+            retrieved_chunks.append(RetrievedChunk(
+                content=doc.get('content', ''),
+                metadata={
+                    **metadata,
+                    'display_source_name': source_name  # Add clean source name for display
+                },
+                distance=doc.get('distance', None)
+            ))
         
         return RetrieveResponse(
             query=request.query,
