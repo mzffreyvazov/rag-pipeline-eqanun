@@ -75,12 +75,17 @@ class HierarchicalLegalChunker:
         return None
 
     def build_hierarchical_path(self, headers: Dict[str, str]) -> str:
-        """Build a hierarchical path from headers like 'Document > Section > Chapter > Article'"""
+        """Build a hierarchical path as comma separated list without placeholder words.
+
+        Example:
+            AZƏRBAYCAN RESPUBLİKASININ AİLƏ MƏCƏLLƏSİ, Birinci bölmə. Ümumi müddəalar, 1-ci fəsil. Ailə qanunvericiliyi, Maddə 1. ...
+        """
         path_parts = []
         for level in ["Document_Title", "Section", "Chapter", "Article_Header"]:
-            if headers.get(level):
-                path_parts.append(headers[level])
-        return " > ".join(path_parts)
+            value = headers.get(level)
+            if value and value.strip():
+                path_parts.append(value.strip())
+        return ", ".join(path_parts)
 
     def sanitize_metadata(self, metadata: Dict[str, Any]) -> Dict[str, Any]:
         """
@@ -137,6 +142,8 @@ class HierarchicalLegalChunker:
             "source_document": chunk.metadata.get("source_document", document_title),
             "document_filename": chunk.metadata.get("document_filename", "unknown"),
         }
+        if parent_id:
+            metadata["parent_chunk_id"] = parent_id
         
         # Sanitize metadata to ensure ChromaDB compatibility
         return self.sanitize_metadata(metadata)
@@ -152,22 +159,24 @@ class HierarchicalLegalChunker:
         
         # Split by numbered clauses (1.1, 1.2, etc.) and sub-clauses (1.1.1, 1.1.2, etc.)
         # Pattern matches: "- 1.1." or "- 1.1.1." at the beginning of lines
-        clause_pattern = r'^[-•]\s*(\d+\.\d+(?:\.\d+)?)\.\s*(.+?)(?=^[-•]\s*\d+\.\d+|\Z)'
-        
+        # Accept bullet markers or none; ensure we capture clauses even if bullet removed already
+        clause_pattern = r'^(?:[-•]\s*)?(\d+\.\d+(?:\.\d+)?)\.\s*(.+?)(?=^(?:[-•]\s*)?\d+\.\d+|\Z)'
+
         matches = re.finditer(clause_pattern, article_section, re.MULTILINE | re.DOTALL)
-        
+
         for match in matches:
             clause_number = match.group(1)
             clause_content = match.group(2).strip()
-            
+
             # Combine clause number with content
+            # Normalize: ensure no duplicate hyphen / bullet prefixes, consistent numbering
             full_clause = f"{clause_number}. {clause_content}"
             clauses.append(full_clause)
-        
+
         # If no numbered clauses found, treat entire content as one clause
         if not clauses:
             clauses = [article_section.strip()]
-        
+
         return clauses
 
     def chunk_document(self, document: Document) -> Tuple[List[Document], List[Document]]:
@@ -192,35 +201,77 @@ class HierarchicalLegalChunker:
             header_splits = [Document(page_content=document.page_content, metadata={})]
         
         for header_doc in header_splits:
+            # --- KEY CHANGE HERE ---
+            # Merge the original document's metadata (e.g., filename) with the
+            # header metadata from the splitter. This ensures source information is
+            # propagated to all chunks.
+            header_doc.metadata.update(document.metadata)
             current_headers = header_doc.metadata.copy()
+
+            # Fallback inference: if splitter failed to attach top-level headers, try regex extraction
+            if not current_headers.get("Document_Title"):
+                title_match = re.search(r'^#\s+(.+)', document.page_content, re.MULTILINE)
+                if title_match:
+                    current_headers["Document_Title"] = title_match.group(1).strip()
+            if not current_headers.get("Section"):
+                sec_match = re.search(r'^##\s+(.+)', header_doc.page_content, re.MULTILINE)
+                if sec_match:
+                    current_headers["Section"] = sec_match.group(1).strip()
+            if not current_headers.get("Chapter"):
+                chap_match = re.search(r'^###\s+(.+)', header_doc.page_content, re.MULTILINE)
+                if chap_match:
+                    current_headers["Chapter"] = chap_match.group(1).strip()
+            if not current_headers.get("Article_Header"):
+                art_match = re.search(r'^####\s+(.+)', header_doc.page_content, re.MULTILINE)
+                if art_match:
+                    current_headers["Article_Header"] = art_match.group(1).strip()
             
             # Check if this is an Article section (4th level header with actual content)
             is_article_section = current_headers.get("Article_Header") and len(header_doc.page_content.strip()) > 50
             
             if is_article_section:
-                # For articles, create one parent chunk with the entire article
+                # For articles, create one parent chunk composed of header hierarchy + normalized clauses
                 parent_id = f"parent_{uuid.uuid4().hex[:8]}_{len(parent_chunks)}"
-                
-                # Create parent chunk (entire article)
+
+                # Extract clauses first (normalized)
+                article_clauses = self.extract_article_content(header_doc.page_content)
+
+                # Reconstruct parent content with markdown headers preserved
+                content_lines = []
+                if current_headers.get("Document_Title"):
+                    content_lines.append(f"# {current_headers['Document_Title']}")
+                if current_headers.get("Section"):
+                    content_lines.append(f"## {current_headers['Section']}")
+                if current_headers.get("Chapter"):
+                    content_lines.append(f"### {current_headers['Chapter']}")
+                if current_headers.get("Article_Header"):
+                    content_lines.append(f"#### {current_headers['Article_Header']}")
+
+                # If no clauses were detected fall back to original article content
+                if article_clauses:
+                    content_lines.extend(article_clauses)
+                else:
+                    content_lines.append(header_doc.page_content.strip())
+
+                reconstructed_content = "\n".join(content_lines).strip()
+
                 parent_chunk = Document(
-                    page_content=header_doc.page_content,
+                    page_content=reconstructed_content,
                     metadata=self.enhance_metadata(
                         header_doc,
                         current_headers,
                         chunk_type="parent",
+                        parent_id=None,
                         chunk_index=0
                     )
                 )
                 parent_chunk.metadata["chunk_id"] = parent_id
                 parent_chunks.append(parent_chunk)
-                
-                # Extract individual clauses for child chunks
-                article_clauses = self.extract_article_content(header_doc.page_content)
-                
+
+                # Create child chunks from each clause
                 for j, clause_text in enumerate(article_clauses):
-                    if clause_text.strip():  # Only create chunk if content exists
+                    if clause_text.strip():
                         child_id = f"child_{uuid.uuid4().hex[:8]}_{parent_id}_{j}"
-                        
                         child_chunk = Document(
                             page_content=clause_text,
                             metadata=self.enhance_metadata(
