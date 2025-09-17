@@ -618,8 +618,10 @@ def sanitize_metadata_for_chromadb(metadata: Dict[str, Any]) -> Dict[str, Any]:
     
     return sanitized
 
+# In main.py, replace the entire existing function with this one.
+
 async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
-    """Process uploaded PDF files and add to vector store with hierarchical chunking"""
+    """Process uploaded PDF and Markdown files and add to vector store with hierarchical chunking"""
     collection = get_existing_collection()
     document_infos = []
     
@@ -637,14 +639,7 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
             continue
             
         # Create temporary file
-        if file.filename.lower().endswith('.pdf'):
-            suffix = '.pdf'
-        elif file.filename.lower().endswith('.md'):
-            suffix = '.md'
-        elif file.filename.lower().endswith('.markdown'):
-            suffix = '.markdown'
-        else:
-            suffix = '.txt'  # fallback
+        suffix = Path(file.filename).suffix.lower() or '.txt'
             
         with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp_file:
             content = await file.read()
@@ -652,27 +647,41 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
             tmp_file_path = tmp_file.name
         
         try:
-            # Load document based on file type
+            # --- START OF THE CRITICAL FIX ---
+            docs: List[Document] = []
             if file.filename.lower().endswith('.pdf'):
                 loader = PyPDFLoader(tmp_file_path)
+                pages = loader.load()
+                if pages:
+                    # Consolidate all PDF pages into a single Document
+                    full_text = "\n\n".join([p.page_content for p in pages])
+                    doc = Document(page_content=full_text, metadata=pages[0].metadata)
+                    docs = [doc]
+
             elif file.filename.lower().endswith(('.md', '.markdown')):
-                loader = UnstructuredMarkdownLoader(tmp_file_path)
+                # DO NOT USE UnstructuredMarkdownLoader. Load raw text to preserve headers.
+                raw_content = Path(tmp_file_path).read_text(encoding='utf-8')
+                # Create a SINGLE Document for the entire file content.
+                doc = Document(page_content=raw_content)
+                docs = [doc]
+                
             else:
                 print(f"❌ Unsupported file type: {file.filename}")
                 continue
-                
-            docs = loader.load()
             
-            # Add metadata to identify source
+            if not docs:
+                print(f"❌ Could not load content from {file.filename}")
+                continue
+            # --- END OF THE CRITICAL FIX ---
+            
+            # Add metadata to the single, consolidated document
+            # This loop will now only run once per file
             for doc in docs:
-                # Extract document title from first header if available
                 document_title = "unknown"
                 if doc.page_content:
-                    # Clean and normalize the text for better matching
                     content_lines = doc.page_content.split('\n')
-                    for line in content_lines[:10]:  # Check first 10 lines
+                    for line in content_lines[:10]:
                         line = line.strip()
-                        # Look for document title patterns
                         if ('MƏCƏLLƏ' in line.upper() or 'MECELLə' in line.upper() or 
                             'AZƏRBAYCAN' in line.upper() and len(line) > 20 and len(line) < 200):
                             document_title = line
@@ -686,16 +695,14 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
                 doc.metadata["document_type"] = Path(file.filename).stem
                 doc.metadata["upload_id"] = str(uuid.uuid4())
             
-            # Use hierarchical chunking instead of basic splitting
+            # Use hierarchical chunking on the single, complete document
             parent_chunks, child_chunks = chunker.chunk_documents(docs)
             print(f"📄 Created {len(parent_chunks)} parent chunks and {len(child_chunks)} child chunks from {file.filename}")
             
-            # Combine both parent and child chunks for storage
+            # The rest of your function logic is correct
             all_chunks = parent_chunks + child_chunks
             
-            # Prepare data for ChromaDB
             if all_chunks:
-                # Generate embeddings and add to collection
                 batch_size = 100
                 total_added = 0
                 
@@ -705,18 +712,15 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
                     batch = all_chunks[i:i + batch_size]
                     batch_ids = [chunk.metadata["chunk_id"] for chunk in batch]
                     batch_documents = [chunk.page_content for chunk in batch]
-                    # Sanitize metadata to prevent ChromaDB validation errors
                     batch_metadatas = [sanitize_metadata_for_chromadb(chunk.metadata) for chunk in batch]
                     
                     print(f"🔄 Adding batch {i//batch_size + 1}: {len(batch)} documents")
                     
-                    # Precompute embeddings to avoid relying on collection EF
                     try:
                         batch_embeddings = embed_texts(batch_documents)
                     except Exception as ee:
                         raise RuntimeError(f"Embedding batch failed: {str(ee)}")
 
-                    # Add to collection with explicit embeddings
                     collection.add(
                         ids=batch_ids,
                         embeddings=batch_embeddings,
@@ -732,7 +736,7 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
             
             document_infos.append(DocumentInfo(
                 filename=file.filename,
-                total_pages=len(docs),
+                total_pages=len(docs), # This will now correctly be 1
                 chunks_created=len(all_chunks),
                 parent_chunks=len(parent_chunks),
                 child_chunks=len(child_chunks)
@@ -742,7 +746,6 @@ async def process_uploaded_files(files: List[UploadFile]) -> List[DocumentInfo]:
             print(f"Error processing {file.filename}: {str(e)}")
             continue
         finally:
-            # Clean up temporary file
             try:
                 os.unlink(tmp_file_path)
             except:
@@ -805,16 +808,28 @@ def _process_uploaded_file_paths(file_entries: List[Dict[str, str]], job_id: str
             tmp_path = entry["path"]
             _update_file_progress(job_id, original_name, status="running")
             try:
-                # Load document based on file type
+                # --- START OF THE CRITICAL FIX ---
+                docs: List[Document] = []
                 if original_name.lower().endswith('.pdf'):
+                    # To be robust, PDFs should also be consolidated into one document
                     loader = PyPDFLoader(tmp_path)
+                    pages = loader.load()
+                    if pages:
+                        full_text = "\n\n".join([p.page_content for p in pages])
+                        doc = Document(page_content=full_text, metadata=pages[0].metadata)
+                        docs = [doc]
+
                 elif original_name.lower().endswith(('.md', '.markdown')):
-                    loader = UnstructuredMarkdownLoader(tmp_path)
+                    # DO NOT USE UnstructuredMarkdownLoader. Load the raw text directly.
+                    raw_content = Path(tmp_path).read_text(encoding='utf-8')
+                    # Create a SINGLE Document object for the entire file.
+                    doc = Document(page_content=raw_content)
+                    docs = [doc]
+                
                 else:
                     _update_file_progress(job_id, original_name, status="failed", error=f"Unsupported file type: {original_name}")
                     continue
-                    
-                docs = loader.load()
+                # --- END OF THE CRITICAL FIX ---
 
                 # Update pages_total early
                 _update_file_progress(job_id, original_name, pages_total=len(docs))
