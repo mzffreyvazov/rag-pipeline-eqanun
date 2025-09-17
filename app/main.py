@@ -1,4 +1,5 @@
 import os
+import json
 import tempfile
 import uuid
 from pathlib import Path
@@ -452,6 +453,19 @@ class RetrieveResponse(BaseModel):
     chunks: List[RetrievedChunk]
     total_results: int
 
+# New models for listing processed documents
+class DocumentSummary(BaseModel):
+    document_filename: str
+    source_document: Optional[str] = None
+    document_type: Optional[str] = None
+    total_chunks: int
+    parent_chunks: int
+    child_chunks: int
+
+class DocumentsListResponse(BaseModel):
+    documents: List[DocumentSummary]
+    total_documents: int
+
 def get_or_create_collection():
     """Get or create the ChromaDB collection with Gemini embeddings"""
     global chroma_client, collection_name, embedding_function
@@ -531,65 +545,111 @@ def get_existing_collection():
         return get_or_create_collection()
 
 def save_retrieved_content_to_file(query: str, retrieved_docs: List[Dict[str, Any]], serialized_content: str):
-    """
-    Save retrieved content to a text file for analysis.
-    Creates a timestamped file with query, retrieved chunks, and final serialized content.
+    """Persist detailed retrieval diagnostics including ALL metadata & content.
+
+    Enhancements:
+      * Full pretty-printed JSON metadata dump per chunk
+      * Aggregated metadata key coverage & unique value counts
+      * Final machine‑readable JSON companion file (<logname>.json)
     """
     try:
-        # Create retrieval_logs directory if it doesn't exist
         logs_dir = Path("retrieval_logs")
         logs_dir.mkdir(exist_ok=True)
-        
-        # Generate timestamp and safe filename
+
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        safe_query = "".join(c for c in query[:50] if c.isalnum() or c in (' ', '-', '_')).rstrip()
-        safe_query = safe_query.replace(' ', '_')
-        filename = f"{timestamp}_{safe_query}.txt"
-        
-        filepath = logs_dir / filename
-        
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write("=" * 80 + "\n")
-            f.write("HIERARCHICAL RETRIEVAL ANALYSIS LOG\n")
-            f.write("=" * 80 + "\n")
-            f.write(f"Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-            f.write(f"Query: {query}\n")
-            f.write(f"Retrieved chunks: {len(retrieved_docs)}\n")
-            f.write("=" * 80 + "\n\n")
-            
-            # Individual chunk analysis
-            f.write("INDIVIDUAL RETRIEVED CHUNKS:\n")
-            f.write("-" * 50 + "\n\n")
-            
+        safe_query = "".join(c for c in query[:50] if c.isalnum() or c in (' ', '-', '_')).rstrip().replace(' ', '_')
+        base_filename = f"{timestamp}_{safe_query}" if safe_query else timestamp
+        txt_path = logs_dir / f"{base_filename}.txt"
+        json_path = logs_dir / f"{base_filename}.json"
+
+        # Aggregate metadata stats
+        key_counts: Dict[str, int] = {}
+        unique_values: Dict[str, set] = {}
+        chunk_type_counts: Dict[str, int] = {}
+        for doc in retrieved_docs:
+            meta = doc.get('metadata', {}) or {}
+            for k, v in meta.items():
+                key_counts[k] = key_counts.get(k, 0) + 1
+                if k not in unique_values:
+                    unique_values[k] = set()
+                # Represent complex objects consistently
+                if isinstance(v, (dict, list)):
+                    try:
+                        unique_values[k].add(json.dumps(v, sort_keys=True, ensure_ascii=False))
+                    except Exception:
+                        unique_values[k].add(str(v))
+                else:
+                    unique_values[k].add(str(v))
+            ctype = (meta.get('chunk_type') or 'unknown').lower()
+            chunk_type_counts[ctype] = chunk_type_counts.get(ctype, 0) + 1
+
+        with open(txt_path, 'w', encoding='utf-8') as f:
+            f.write("=" * 100 + "\n")
+            f.write("HIERARCHICAL RETRIEVAL LOG (ENHANCED)\n")
+            f.write("=" * 100 + "\n")
+            f.write(f"Timestamp       : {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"Query           : {query}\n")
+            f.write(f"Chunks Retrieved: {len(retrieved_docs)}\n")
+            f.write("-" * 100 + "\n\n")
+
+            f.write("AGGREGATED METADATA SUMMARY\n")
+            f.write("~" * 100 + "\n")
+            f.write("Metadata Keys (count / unique_values):\n")
+            for k in sorted(key_counts.keys()):
+                f.write(f"  - {k}: {key_counts[k]} / {len(unique_values.get(k, []))}\n")
+            f.write("\nChunk Type Distribution:\n")
+            for ct, cnt in sorted(chunk_type_counts.items()):
+                f.write(f"  - {ct}: {cnt}\n")
+            f.write("\n")
+
+            f.write("INDIVIDUAL CHUNKS DETAIL\n")
+            f.write("~" * 100 + "\n\n")
             for i, doc in enumerate(retrieved_docs, 1):
-                metadata = doc.get('metadata', {})
+                meta = doc.get('metadata', {}) or {}
                 content = doc.get('content', '')
-                
-                f.write(f"CHUNK #{i}:\n")
-                f.write(f"  Chunk Type: {metadata.get('chunk_type', 'unknown')}\n")
-                f.write(f"  Source Document: {metadata.get('source_document', 'unknown')}\n")
-                f.write(f"  Chunk ID: {metadata.get('chunk_id', 'unknown')}\n")
-                f.write(f"  Parent ID: {metadata.get('parent_chunk_id', 'none')}\n")
-                f.write(f"  Hierarchical Path: {metadata.get('hierarchical_path', 'unknown')}\n")
-                f.write(f"  Content Length: {metadata.get('content_length', len(content))}\n")
-                f.write(f"  Distance: {doc.get('distance', 'unknown')}\n")
-                
-                f.write(f"\n  CONTENT:\n")
-                f.write(f"  {'-' * 40}\n")
-                f.write(f"  {content}\n")
-                f.write(f"  {'-' * 40}\n\n")
-            
-            # Final serialized content sent to LLM
-            f.write("\n" + "=" * 80 + "\n")
-            f.write("FINAL SERIALIZED CONTENT SENT TO LLM:\n")
-            f.write("=" * 80 + "\n")
-            f.write(serialized_content)
-            f.write("\n\n" + "=" * 80 + "\n")
-            f.write("END OF LOG\n")
-            f.write("=" * 80 + "\n")
-        
-        print(f"📝 Retrieved content saved to: {filepath}")
-        
+                distance = doc.get('distance')
+                f.write(f"CHUNK #{i}\n")
+                f.write(f"  Distance: {distance}\n")
+                f.write(f"  Content Length: {len(content)}\n")
+                f.write("  Metadata (JSON):\n")
+                f.write("  " + json.dumps(meta, ensure_ascii=False, indent=2).replace('\n', '\n  ') + "\n")
+                f.write("  CONTENT:\n")
+                f.write("  " + "-" * 80 + "\n")
+                # Indent content for readability
+                for line in content.splitlines():
+                    f.write(f"  {line}\n")
+                f.write("  " + "-" * 80 + "\n\n")
+
+            f.write("=" * 100 + "\n")
+            f.write("FINAL SERIALIZED CONTENT SENT TO LLM\n")
+            f.write("=" * 100 + "\n")
+            for line in serialized_content.splitlines():
+                f.write(line + "\n")
+            f.write("=" * 100 + "\nEND OF LOG\n" + "=" * 100 + "\n")
+
+        # JSON companion (machine readable)
+        json_payload = {
+            "timestamp": datetime.now().isoformat(),
+            "query": query,
+            "chunks_retrieved": len(retrieved_docs),
+            "chunk_type_distribution": chunk_type_counts,
+            "metadata_key_counts": key_counts,
+            "metadata_unique_value_counts": {k: len(v) for k, v in unique_values.items()},
+            "retrieved_chunks": [
+                {
+                    "index": idx + 1,
+                    "distance": doc.get('distance'),
+                    "content": doc.get('content'),
+                    "metadata": doc.get('metadata', {})
+                }
+                for idx, doc in enumerate(retrieved_docs)
+            ],
+            "serialized_context": serialized_content,
+        }
+        with open(json_path, 'w', encoding='utf-8') as jf:
+            json.dump(json_payload, jf, ensure_ascii=False, indent=2)
+
+        print(f"📝 Retrieved content saved to: {txt_path} (and JSON companion)")
     except Exception as e:
         print(f"⚠️ Error saving retrieved content: {str(e)}")
 
@@ -1158,6 +1218,65 @@ async def get_status():
             total_documents=0,
             message=f"System error: {str(e)}"
         )
+
+@app.get("/documents", response_model=DocumentsListResponse)
+async def list_documents():
+    """Return a list of uploaded/processed documents with chunk counts.
+
+    Aggregates over all chunks in the Chroma collection, grouping by
+    document_filename (falling back to source_document). Parent/child
+    chunk counts are inferred from chunk_type metadata.
+    """
+    try:
+        collection = get_existing_collection()
+        # Fetch only metadata to minimize payload (ids needed to iterate)
+        data = collection.get()
+        metadatas = data.get('metadatas', []) or []
+
+        docs_acc: Dict[str, Dict[str, int]] = {}
+        name_mapping: Dict[str, Dict[str, str]] = {}
+
+        for meta in metadatas:
+            if not meta:
+                continue
+            filename = meta.get('document_filename') or meta.get('source_document') or 'unknown'
+            chunk_type = (meta.get('chunk_type') or '').lower()
+
+            if filename not in docs_acc:
+                docs_acc[filename] = {
+                    'total_chunks': 0,
+                    'parent_chunks': 0,
+                    'child_chunks': 0,
+                }
+                name_mapping[filename] = {
+                    'source_document': meta.get('source_document'),
+                    'document_type': meta.get('document_type'),
+                }
+
+            docs_acc[filename]['total_chunks'] += 1
+            if chunk_type == 'parent':
+                docs_acc[filename]['parent_chunks'] += 1
+            elif chunk_type == 'child':
+                docs_acc[filename]['child_chunks'] += 1
+
+        summaries: List[DocumentSummary] = []
+        for filename, counts in docs_acc.items():
+            mapping = name_mapping.get(filename, {})
+            summaries.append(DocumentSummary(
+                document_filename=filename,
+                source_document=mapping.get('source_document'),
+                document_type=mapping.get('document_type'),
+                total_chunks=counts['total_chunks'],
+                parent_chunks=counts['parent_chunks'],
+                child_chunks=counts['child_chunks'],
+            ))
+
+        return DocumentsListResponse(
+            documents=sorted(summaries, key=lambda d: d.document_filename.lower()),
+            total_documents=len(summaries)
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error listing documents: {str(e)}")
 
 @app.delete("/documents")
 async def clear_documents():
