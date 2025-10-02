@@ -1,6 +1,6 @@
 """Security configuration for RAG Pipeline."""
 import os
-from typing import List, Set, Union
+from typing import List, Set, Union, Optional
 from pydantic_settings import BaseSettings
 from pydantic import field_validator, Field
 
@@ -29,6 +29,10 @@ class SecuritySettings(BaseSettings):
     supabase_anon_key: str = Field(default="")
     supabase_jwt_secret: str = Field(default="")  # Optional: for additional validation
     supabase_jwt_audience: str = Field(default="authenticated")  # Default Supabase audience
+    
+    # Admin Configuration (for restricted endpoints like /upload)
+    admin_emails: str = Field(default="")  # Comma-separated list of admin emails
+    admin_user_ids: str = Field(default="")  # Comma-separated list of admin user IDs (Supabase UUIDs)
     
     # File Upload Limits
     upload_max_megabytes: int = 50
@@ -67,6 +71,48 @@ class SecuritySettings(BaseSettings):
     def get_max_upload_bytes(self) -> int:
         """Get maximum upload size in bytes."""
         return self.upload_max_megabytes * 1024 * 1024
+    
+    def get_admin_emails(self) -> Set[str]:
+        """Parse and return admin emails as a set."""
+        if not self.admin_emails:
+            return set()
+        return {e.strip().lower() for e in self.admin_emails.split(",") if e.strip()}
+    
+    def get_admin_user_ids(self) -> Set[str]:
+        """Parse and return admin user IDs as a set."""
+        if not self.admin_user_ids:
+            return set()
+        return {uid.strip() for uid in self.admin_user_ids.split(",") if uid.strip()}
+    
+    def is_admin_user(self, email: Optional[str] = None, user_id: Optional[str] = None) -> bool:
+        """
+        Check if the user is an admin based on email or user ID.
+        
+        Args:
+            email: User's email address
+            user_id: User's unique ID (Supabase UUID)
+            
+        Returns:
+            True if user is an admin, False otherwise
+        """
+        admin_emails = self.get_admin_emails()
+        admin_user_ids = self.get_admin_user_ids()
+        
+        # If no admins are configured, deny access for security
+        if not admin_emails and not admin_user_ids:
+            return False
+        
+        # Check email match (case-insensitive)
+        if email and admin_emails:
+            if email.strip().lower() in admin_emails:
+                return True
+        
+        # Check user ID match
+        if user_id and admin_user_ids:
+            if user_id.strip() in admin_user_ids:
+                return True
+        
+        return False
 
 
 # Global instance

@@ -38,7 +38,7 @@ from hierarchical_chunker import HierarchicalLegalChunker, HierarchicalRetriever
 from app.config.security import security_settings
 from app.security.auth import verify_api_key
 from app.security.uploads import validate_upload_file, sanitize_filename
-from app.security.jwt_auth import get_current_user
+from app.security.jwt_auth import get_current_user, get_current_admin_user
 
 # Load environment variables
 load_dotenv()
@@ -425,9 +425,12 @@ if security_settings.enable_cors:
         allow_headers=["Content-Type", "Authorization", security_settings.api_key_header],
     )
 
-# Include authentication router
+# Include authentication routers
 from app.security.auth_routes import router as auth_router
+from app.security.supabase_auth_routes import router as supabase_auth_router
+
 app.include_router(auth_router)
+app.include_router(supabase_auth_router)
 
 # Global variables (moved after app initialization)
 collection_name = "legal_documents"
@@ -1043,9 +1046,9 @@ async def root():
 async def upload_documents(
     background_tasks: BackgroundTasks,
     files: List[UploadFile] = File(...),
-    current_user: dict = Depends(get_current_user)
+    current_user: dict = Depends(get_current_admin_user)
 ):
-    """Upload and process PDF and Markdown documents (requires JWT authentication)"""
+    """Upload and process PDF and Markdown documents (requires ADMIN authentication)"""
     if not files:
         raise HTTPException(status_code=400, detail="No files provided")
     
@@ -1085,9 +1088,9 @@ async def upload_documents(
 async def upload_start(
     background_tasks: BackgroundTasks,
     files: List[UploadFile] = File(...),
-    current_user: dict = Depends(get_current_user)
+    current_user: dict = Depends(get_current_admin_user)
 ):
-    """Start an async upload/index job and return a job_id for frontend polling (requires JWT authentication)"""
+    """Start an async upload/index job and return a job_id for frontend polling (requires ADMIN authentication)"""
     if not files:
         raise HTTPException(status_code=400, detail="No files provided")
 

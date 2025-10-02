@@ -329,3 +329,35 @@ async def verify_refresh_token(
         )
     
     return payload
+
+
+async def get_current_admin_user(
+    current_user: Dict[str, Any] = Depends(get_current_user)
+) -> Dict[str, Any]:
+    """
+    FastAPI dependency to verify the current user is an admin.
+    
+    This is a higher-level security check for sensitive operations like file uploads.
+    Only users configured as admins (via ADMIN_EMAILS or ADMIN_USER_IDS) can pass.
+    
+    Args:
+        current_user: Authenticated user from get_current_user dependency
+        
+    Returns:
+        User data if user is an admin
+        
+    Raises:
+        HTTPException: If user is not an admin
+    """
+    # Extract user identifiers
+    email = current_user.get("email")
+    user_id = current_user.get("user_id") or current_user.get("sub")
+    
+    # Check if user is admin
+    if not security_settings.is_admin_user(email=email, user_id=user_id):
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Access denied. Admin privileges required for this operation.",
+        )
+    
+    return current_user

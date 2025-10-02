@@ -36,3 +36,5 @@ typing-extensions
 # Google AI/Cloud
 google-generativeai
 google-cloud-aiplatform
+
+redis
