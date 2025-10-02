@@ -48,6 +48,11 @@ class PasswordResetRequest(BaseModel):
     email: EmailStr
 
 
+class RefreshTokenRequest(BaseModel):
+    """Refresh token request."""
+    refresh_token: str = Field(..., description="Refresh token from login")
+
+
 def get_supabase_auth_url() -> str:
     """Get Supabase Auth API URL."""
     if not security_settings.supabase_url:
@@ -213,7 +218,7 @@ async def supabase_register(user_data: SupabaseRegister):
 
 
 @router.post("/refresh", response_model=SupabaseTokenResponse)
-async def supabase_refresh_token(refresh_token: str = Field(..., description="Refresh token from login")):
+async def supabase_refresh_token(request: RefreshTokenRequest):
     """
     Get a new access token using a refresh token.
     
@@ -231,7 +236,7 @@ async def supabase_refresh_token(refresh_token: str = Field(..., description="Re
         response = requests.post(
             f"{auth_url}/token?grant_type=refresh_token",
             headers=headers,
-            json={"refresh_token": refresh_token},
+            json={"refresh_token": request.refresh_token},
             timeout=10
         )
         
@@ -246,7 +251,7 @@ async def supabase_refresh_token(refresh_token: str = Field(..., description="Re
         
         return SupabaseTokenResponse(
             access_token=data["access_token"],
-            refresh_token=data.get("refresh_token", refresh_token),
+            refresh_token=data.get("refresh_token", request.refresh_token),
             token_type="bearer",
             expires_in=data.get("expires_in", 3600),
             user=data.get("user", {})
