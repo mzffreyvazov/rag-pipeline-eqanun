@@ -5,7 +5,6 @@
 ### 1-ci fəsil. Mülki hüquq sahəsində qanunvericilik
 
 #### Maddə 1. Azərbaycan Respublikası Mülki Məcəlləsinin məqsəd və vəzifələri
-
 - 1.1. Bu Məcəllənin məqsədi üçüncü şəxslərin hüquqlarına xələl gətirmədən mülki dövriyyənin azadlığını onun iştirakçılarının bərabərliyi əsasında təmin etməkdir.
 - 1.2. Bu Məcəllənin vəzifələri aşağıdakılardır:
   - mülki hüquq subyektlərinin əmlak və şəxsi qeyri-əmlak münasibətlərini tənzimləmək;
@@ -16,7 +15,6 @@
   - sərbəst bazar iqtisadiyyatının inkişafına şərait yaratmaq.
 
 #### Maddə 2. Azərbaycan Respublikasının mülki qanunvericiliyi
-
 - 2.1. Azərbaycan Respublikasının mülki qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasına əsaslanır və bu Məcəllədən, digər qanunlardan və onların əsasında qəbul edilən, mülki hüquq normalarını müəyyənləşdirən başqa normativ hüquqi aktlardan ibarətdir.
 - 2.2. Mülki qanunvericilik mülki hüquq münasibətləri subyektlərinin hüquqi vəziyyətini, mülkiyyət hüququnun və başqa əmlak hüquqlarının əmələ gəlməsi əsaslarını və həyata keçirilməsi qaydasını müəyyənləşdirir, müqavilə və digər öhdəlik münasibətlərini, habelə sair əmlak münasibətlərini və onlarla bağlı olan şəxsi qeyri-əmlak münasibətlərini tənzimləyir.
 - 2.3. Ailə, əmək münasibətləri, təbii ehtiyatlardan istifadə, ətraf mühitin mühafizəsi, müəlliflik hüququ və əlaqədar hüquqlar ilə bağlı münasibətlər, əgər ailə, əmək, torpaq, təbiəti mühafizə, müəlliflik və digər xüsusi qanunvericilikdə ayrı qayda nəzərdə tutulmayıbsa, mülki qanunvericilik və başqa hüquqi aktlar ilə tənzimlənir.
@@ -26,22 +24,18 @@
 - 2.6. Qanundan aşağı qüvvəli normativ hüquqi aktlar mülki münasibətlərin tənzimlənməsi üçün yalnız o halda tətbiq edilir ki, onlar bu Məcəlləyə uyğun gəlsin və ona zidd olmasın.
 
 #### Maddə 3. Mülki qanunvericilik və beynəlxalq hüquq aktları
-
 - 3.1. Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələr bu Məcəllə ilə tənzimlənən mülki hüquq münasibətlərinə (beynəlxalq müqavilədən onun tətbiqi üçün dövlətdaxili normativ hüquqi aktın qəbul edilməsi tələbinin irəli gəldiyi hallar istisna edilməklə) birbaşa tətbiq edilir.
 - 3.2. Əgər Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilədə müəyyənləşdirilən normalar mülki qanunvericilikdə nəzərdə tutulan normalardan fərqlənərsə, onda beynəlxalq müqavilənin normaları tətbiq edilir.
 
 #### Maddə 4. Mülki hüquq münasibətlərinin obyektləri
-
 Əmlak və ya qeyri-əmlak dəyəri olan, qanunvericiliklə mülki dövriyyədən çıxarılmamış maddi və ya qeyri-maddi nemətlər mülki hüquq münasibətlərinin obyektləri ola bilərlər.
 
 #### Maddə 5. Mülki hüquq münasibətlərinin subyektləri
-
 - 5.1. İstər sahibkarlıq fəaliyyəti ilə məşğul olan, istərsə də məşğul olmayan hər hansı fiziki və ya hüquqi şəxslər mülki hüquq münasibətlərinin subyektləri ola bilərlər.
 - 5.2. Dövlət hakimiyyəti orqanlarının və yerli özünüidarə orqanlarının digər şəxslərlə mülki hüquq münasibətləri, qanunda ayrı qayda nəzərdə tutulmayıbsa, mülki qanunvericiliklə tənzimlənir.
 - 5.3. Mülki hüquq münasibətlərinin subyektləri öz hüquq və vəzifələrini vicdanla həyata keçirməyə borcludurlar.
 
 #### Maddə 6. Mülki qanunvericiliyin prinsipləri
-
 - 6.1. Mülki qanunvericiliyin prinsipləri aşağıdakılardır:
   - 6.1.1. mülki hüquq subyektlərinin bərabərliyi;
   - 6.1.2. mülki hüquq subyektlərinin iradə sərbəstliyi;
@@ -57,48 +51,40 @@
 - 6.4. Mallar, xidmətlər və maliyyə vəsaiti Azərbaycan Respublikasının bütün ərazisində sərbəst hərəkət edir. Əgər insanların təhlükəsizliyinin təmin edilməsi, həyatının və sağlamlığının müdafiəsi, təbiətin və mədəniyyət sərvətlərinin qorunması üçün zəruridirsə, malların və xidmətlərin hərəkəti üçün məhdudiyyətlər qanuna müvafiq surətdə tətbiq edilə bilər.
 
 #### Maddə 7. Mülki qanunvericiliyin zamana görə qüvvəsi
-
 - 7.1. Azərbaycan Respublikası Konstitusiyasının 149-cu maddəsinin VII hissəsində nəzərdə tutulanlar istisna olmaqla, mülki qanunvericilik müddəalarının geriyə qüvvəsi yoxdur və onlar qüvvəyə mindikdən sonra əmələ gəlmiş münasibətlərə tətbiq edilir.
 - 7.2. Qanunla birbaşa nəzərdə tutulmuş hallarda mülki qanunvericiliyin geriyə qüvvəsi ola bilər.
 - 7.3. Mülki hüquq subyektlərinə ziyan vurarsa və ya onların vəziyyətini pisləşdirərsə, mülki qanunvericiliyin geriyə qüvvəsi ola bilməz.
 
 #### Maddə 8. Mülki qanunvericiliyin məkana görə qüvvəsi
-
 - 8.1. Mülki qanunvericilik Azərbaycan Respublikasının istisnasız olaraq bütün ərazisində qüvvədədir.
 - 8.2. Mülki qanunvericilikdə nəzərdə tutulan hüquqlar Azərbaycan Respublikasının bütün ərazisində maneəsiz həyata keçirilə bilər və hökmən mühafizə edilməlidir.
 
 #### Maddə 9. Mülki qanunvericiliyin şəxslərə görə qüvvəsi
-
 - 9.1. Mülki qanunvericilik Azərbaycan Respublikasının ərazisində fəaliyyət göstərən bütün fiziki və hüquqi şəxslər üçün qüvvədədir.
 - 9.2. Mülki qanunvericiliklə müəyyənləşdirilmiş qaydalar, əgər qanunda ayrı hal nəzərdə tutulmayıbsa, əcnəbilərin, vətəndaşlığı olmayan şəxslərin və xarici hüquqi şəxslərin iştirak etdiyi münasibətlərə də tətbiq olunur.
 - 9.3. Qanunu bilməmək və ya onu yanlış başa düşmək qanunun tətbiq edilməməsinə və ya nəzərdə tutulmuş məsuliyyətdən azad edilməyə əsas verə bilməz.
 
 #### Maddə 10. İşgüzar adətlər
-
 - 10.1. Sahibkarlıq fəaliyyətinin hər hansı sahəsində təşəkkül tapan və geniş tətbiq edilən, qanunvericilikdə nəzərdə tutulmayan davranış qaydası, hansısa aktda qeyd edilib-edilmədiyindən asılı olmayaraq, işgüzar adət sayılır.
 - 10.2. Qanunvericiliyə və ya müqaviləyə zidd olan işgüzar adətlər tətbiq edilmir.
 
 #### Maddə 11. Mülki qanunvericiliyin analogiya üzrə tətbiqi
-
 - 11.1. Mülki hüquq münasibətləri mülki qanunvericiliklə və ya tərəflərin razılaşması ilə birbaşa tənzimlənmədikdə və onlara tətbiq edilə bilən işgüzar adət olmadıqda həmin münasibətlərə, əgər bu, onların mahiyyətinə zidd deyildirsə, oxşar münasibətləri tənzimləyən mülki qanunvericilik normaları tətbiq edilir (qanunun analogiyası).
 - 11.2. Oxşar münasibətləri tənzimləyən mülki hüquq normaları olmadıqda tərəflərin hüquq və vəzifələri mülki qanunvericilik prinsipləri əsas götürülməklə tənzimlənir (hüququn analogiyası). Hüququn analogiyası tətbiq edilərkən ədalət, insaf və mənəviyyat tələbləri nəzərə alınmalıdır.
-- 11.3. *Çıxarılmışdır.*
+- 11.3. Çıxarılmışdır.
 - 11.4. Xüsusi münasibətləri tənzimləyən mülki qanunvericilik müddəaları (istisna normaları) analogiya üzrə tətbiq edilməməlidir.
 - 11.5. Mülki hüquq münasibətlərini tənzimləyən hüquq normasının olmaması və ya onun qeyri-müəyyənliyi məhkəmənin mülki işə baxmaqdan imtina etməsinə əsas verə bilməz.
 
 #### Maddə 12. Mülki hüquqların siyasi hüquqlardan asılı olmaması
-
 - 12.1. Mülki hüquqların həyata keçirilməsi Azərbaycan Respublikasının Konstitusiyası və ya qanunları ilə müəyyənləşdirilmiş siyasi hüquqlardan asılı deyildir.
 - 12.2. Mülki hüquq münasibətlərinin subyektləri həm qanunla birbaşa qadağan olunmamış hərəkətləri, həm də qanunda bilavasitə nəzərdə tutulmamış hərəkətləri icra edə bilərlər.
 
 #### Maddə 13. Sahibkarlıq fəaliyyəti
-
 Sahibkarlıq fəaliyyəti şəxsin müstəqil surətdə həyata keçirdiyi, əsas məqsədi əmlak istifadəsindən, malların istehsalından və (və ya) satışından, işlər görülməsindən və ya xidmətlər göstərilməsindən mənfəət (fərdi sahibkarlar tərəfindən gəlir) götürülməsi olan fəaliyyətdir.
 
 ### 2-ci fəsil. Mülki hüquq və vəzifələr, onların müdafiəsi
 
 #### Maddə 14. Mülki hüquqların və vəzifələrin əmələ gəlməsi
-
 - 14.1. Mülki hüquqlar və vəzifələr mülki qanunvericilikdə nəzərdə tutulan əsaslardan, habelə fiziki və hüquqi şəxslərin qanunvericilikdə nəzərdə tutulmasa da, mülki qanunvericiliyin prinsiplərinə görə mülki hüquqlar və vəzifələr doğuran hərəkətlərindən əmələ gəlir.
 - 14.2. Mülki hüquqların və vəzifələrin əmələ gəlməsi əsasları aşağıdakılardır:
   - 14.2.1. Qanunvericilikdə nəzərdə tutulmuş müqavilələr (əmək müqavilələri istisna olmaqla) və başqa əqdlər, habelə qanunvericilikdə nəzərdə tutulmasa da, ona zidd olmayan müqavilələr və başqa əqdlər.
@@ -113,45 +99,34 @@ Sahibkarlıq fəaliyyəti şəxsin müstəqil surətdə həyata keçirdiyi, əsa
 - 14.3. Əgər qanunla əmlak hüquqlarının yaranması üçün ayrı qayda nəzərdə tutulmayıbsa, dövlət qeydiyyatına alınmalı əmlak hüquqları onların qeydə alındığı andan əmələ gəlir.
 
 #### Maddə 15. Mülki hüquqların həyata keçirilməsi
-
-- 15.1. *Çıxarılmışdır.*
+- 15.1. Çıxarılmışdır.
 - 15.2. Fiziki və hüquqi şəxslərin özlərinə mənsub mülki hüquqlardan istifadə etməməsi, qanunvericilikdə nəzərdə tutulan hallar istisna olmaqla, bu hüquqlara xitam verilməsinə səbəb olmur.
 
 #### Maddə 16. Mülki hüquqların həyata keçirilməsinin məhdudlaşdırılması
-
 - 16.1. Fiziki və hüquqi şəxslərin yalnız və yalnız başqa şəxsə ziyan vurmaq niyyəti ilə həyata keçirdikləri hərəkətlərə, habelə hüquqdan digər formalarda sui-istifadə edilməsinə yol verilmir.
-- 16.2. *Çıxarılmışdır.*
+- 16.2. Çıxarılmışdır.
 
 #### Maddə 17. Mülki hüquqların müdafiəsi
-
 - 17.1. Bütün dövlət hakimiyyəti orqanları, yerli özünüidarə orqanları, siyasi partiyalar, ictimai birliklər, həmkarlar ittifaqı təşkilatları, fiziki və hüquqi şəxslər mülki hüquqlara hörmət bəsləməyə və onların müdafiəsinə kömək göstərməyə borcludurlar.
-- 17.2. *Çıxarılmışdır.*
-- 17.3. *Çıxarılmışdır.*
+- 17.2. Çıxarılmışdır.
+- 17.3. Çıxarılmışdır.
 
 #### Maddə 18. Mülki hüquqların müdafiəsi üsulları
-
 Mülki hüquqların müdafiəsi qanunvericilikdə nəzərdə tutulmuş qaydada və qanuna, ictimai qaydaya və əxlaqa zidd olmayan üsullarla həyata keçirilir.
 
 #### Maddə 19. Dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının aktının etibarsız sayılması
-
 Dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının mülki qanunvericiliyə uyğun gəlməyən, fiziki və ya hüquqi şəxsin mülki hüquqlarını və qanunla qorunan mənafelərini pozan qeyri-normativ xarakterli aktı məhkəmə tərəfindən etibarsız sayıla bilər.
 
-#### Maddə 20. Mülki hüquqların özümüdafiəsi
-
-- *Çıxarılmışdır.*
+#### Maddə 20. Mülki hüquqların özümüdafiəsi – çıxarılmışdır.
 
 #### Maddə 21. Zərərin əvəzinin ödənilməsi
-
 - 21.1. Zərərin əvəzinin ödənilməsini tələb etmək hüququna malik olan şəxs ona vurulmuş zərərin əvəzinin tam ödənilməsini tələb edə bilər, bu şərtlə ki, qanunda və ya müqavilədə zərərin əvəzinin daha az miqdarda ödənilməsi nəzərdə tutulmasın.
 - 21.2. Zərər dedikdə, hüququ pozulmuş şəxsin pozulmuş hüququnu bərpa etmək üçün çəkdiyi və ya çəkməli olduğu xərclər, əmlakından məhrum olması və ya əmlakının zədələnməsi (real zərər), habelə hüququ pozulmasaydı, həmin şəxsin adi mülki dövriyyə şəraitində əldə edəcəyi gəlirlər (əldən çıxmış fayda) başa düşülür.
 - 21.3. Zərərin əvəzinin ödənilməsi ilə bağlı tələbin həcminin müəyyənləşdirilməsi zamanı zərərçəkənin, onun işçisinin və qanunvericiliklə nəzərdə tutulmuş hallarda üçüncü şəxslərin davranışının zərərin yaranmasına və artmasına hansı həcmdə şərait yaratması nəzərə alınmalıdır.
 
-#### Maddə 22. Dövlət hakimiyyəti orqanlarının və yerli özünüidarə orqanlarının vurduqları zərərin əvəzinin ödənilməsi
-
-- *Çıxarılmışdır.*
+#### Maddə 22. Dövlət hakimiyyəti orqanlarının və yerli özünüidarə orqanlarının vurduqları zərərin əvəzinin ödənilməsi – çıxarılmışdır.
 
 #### Maddə 23. Şərəfin, ləyaqətin və işgüzar nüfuzun müdafiəsi
-
 - 23.1. Fiziki şəxs onun şərəfini, ləyaqətini və ya işgüzar nüfuzunu ləkələyən, şəxsi və ailə həyatının sirrini və ya şəxsi və ailə toxunulmazlığını pozan məlumatların məhkəmə qaydasında təkzib olunmasını tələb edə bilər, bu şərtlə ki, həmin məlumatları yaymış şəxs onların həqiqətə uyğun olduğunu sübuta yetirməsin. Faktik məlumatlar natamam dərc edildikdə də, əgər bununla şəxsin şərəfinə, ləyaqətinə və ya işgüzar nüfuzuna toxunulursa, eyni qayda tətbiq edilir. Marağı olan şəxslərin tələbi ilə fiziki şəxsin şərəf və ləyaqətinin müdafiəsinə onun ölümündən sonra da yol verilir.
 - 23.2. Əgər fiziki şəxsin şərəfini, ləyaqətini, işgüzar nüfuzunu ləkələyən və ya şəxsi və ailə həyatının sirrinə qəsd edən məlumatlar mediada yayılmışdırsa, həmin mediada da təkzib edilməlidir. Əgər göstərilən məlumatlar rəsmi sənədə daxil edilmişdirsə, həmin sənəd dəyişdirilməli və bu barədə marağı olan şəxslərə məlumat verilməlidir. Digər hallarda təkzib qaydasını məhkəmə müəyyənləşdirir.
 - 23.3. Mediada hüquqlarına və ya qanunla qorunan mənafelərinə toxunan məlumatlar dərc edilmiş (yayımlanmış) fiziki şəxsin həmin mediada öz cavabının dərc edilməsi (yayımlanması) hüququ vardır.
@@ -164,19 +139,16 @@ Dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının mülki
 ### 3-cü fəsil. Fiziki şəxslər
 
 #### Maddə 24. Fiziki şəxs anlayışı
-
 - 24.1. Fiziki şəxs hüquq münasibətlərində öz adından iştirak edən insan fərdidir.
 - 24.2. Azərbaycan Respublikasında bütün vətəndaşlar, Azərbaycan Respublikasının ərazisində daimi yaşayan və ya müvəqqəti qalan əcnəbilər və vətəndaşlığı olmayan şəxslər fiziki şəxslərdir.
 
 #### Maddə 25. Fiziki şəxsin mülki hüquq qabiliyyəti
-
 - 25.1. Fiziki şəxsin mülki hüquq qabiliyyəti insanın mülki hüquqlara malik olmaq və mülki hüquq vəzifələri daşımaq qabiliyyətidir. Bütün fiziki şəxslərin mülki hüquq qabiliyyəti eyni dərəcədə tanınır.
 - 25.2. Fiziki şəxsin hüquq qabiliyyəti onun doğulduğu an əmələ gəlir və ölümü ilə xətm edilir. Beyinin fəaliyyətinin dayanması ölüm anı sayılır.
-- 25.3. Vərəsə olmaq hüququ maya bağlandığı andan əmələ gəlir, bu hüququn həyata keçirilməsi isə yalnız doğumdan sonra mümkündür.
+- 25.3. Vərəsə olmaq hüququ maya bağlandığı an əmələ gəlir, bu hüququn həyata keçirilməsi isə yalnız doğumdan sonra mümkündür.
 - 25.4. Fiziki şəxs hüquq qabiliyyətindən məhrum edilə bilməz.
 
 #### Maddə 26. Ad hüququ
-
 - 26.1. Hər bir fiziki şəxsin addan, ata adından və soyaddan ibarət adı olmaq hüququ vardır.
 - 26.2. Fiziki şəxs hüquq və vəzifələri öz adı ilə əldə edir və həyata keçirir.
 - 26.3. Qanunla nəzərdə tutulmuş hallarda və qaydada fiziki şəxs təxəllüsdən (uydurma addan) istifadə edə bilər.
@@ -187,13 +159,11 @@ Dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının mülki
 - 26.8. Fiziki şəxsin adı onun şərəfinə, ləyaqətinə və ya işgüzar nüfuzuna toxunan üsullarla və ya formada təhrif edildikdə və ya istifadə olunduqda bu Məcəllənin 23-cü maddəsində nəzərdə tutulan qaydalar tətbiq edilir.
 
 #### Maddə 27. Fiziki şəxsin yaşayış yeri
-
 - 27.1. Fiziki şəxsin adətən yaşadığı yer onun yaşayış yeri sayılır. Şəxsin bir neçə yaşayış yeri ola bilər.
 - 27.2. On dörd yaşına çatmamış şəxslərin yaşayış yeri valideynlik hüquqlarını itirməmiş valideynlərinin yaşayış yeri sayılır, qəyyumluq altında olan şəxsin yaşayış yeri isə qəyyumun yaşayış yeri sayılır.
 - 27.3. Əgər şəxs hər hansı səbəbdən öz yaşayış yerini müəyyən müddətə tərk edirsə, o, yaşayış yerini itirmir.
 
 #### Maddə 28. Fiziki şəxsin mülki hüquq fəaliyyət qabiliyyəti
-
 - 28.1. Fiziki şəxsin mülki hüquq fəaliyyət qabiliyyəti şəxsin öz hərəkətləri ilə mülki hüquqlar əldə etmək və həyata keçirmək, özü üçün mülki vəzifələr yaratmaq və icra etmək qabiliyyətidir.
 - 28.2. Fiziki şəxsin mülki hüquq fəaliyyət qabiliyyəti, o, yetkinlik yaşına, yəni on səkkiz yaşına çatdıqda tam həcmdə əmələ gəlir.
 - 28.3. 7 yaşınadək olan yetkinlik yaşına çatmayanların (azyaşlılar) fəaliyyət qabiliyyəti yoxdur. 7 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanların məhdud fəaliyyət qabiliyyəti vardır.
@@ -203,7 +173,6 @@ Dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının mülki
 - 28.9. Fəaliyyət qabiliyyəti olmayan sayılmış şəxsin sağaldığı və ya sağlamlıq vəziyyətinin xeyli yaxşılaşdığı halda məhkəmə onu fəaliyyət qabiliyyətli sayır. Onun üzərində müəyyənləşdirilmiş qəyyumluq məhkəmə qərarına əsasən ləğv edilir.
 
 #### Maddə 29. 14 yaşınadək olan yetkinlik yaşına çatmayanların fəaliyyət qabiliyyəti
-
 - 29.1. Bu Məcəllənin 29.2-ci maddəsində göstərilmiş əqdlər istisna olmaqla, 14 yaşı tamam olmamış yetkinlik yaşına çatmayanların əvəzinə əqdləri onların adından yalnız valideynləri, övladlığa götürənlər və ya qəyyumlar bağlaya bilərlər. Bu cür yetkinlik yaşına çatmayanın bağladığı əqd sonradan onun valideynləri, övladlığa götürənlər və qəyyumlar tərəfindən bəyənildikdə etibarlıdır.
 - 29.2. 7 yaşından 14 yaşınadək olan şəxslərin aşağıdakı əqdləri müstəqil bağlamaq ixtiyarı vardır:
   - 29.2.1. xırda məişət əqdləri;
@@ -212,29 +181,25 @@ Dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının mülki
 - 29.3. 14 yaşı tamam olmamış yetkinlik yaşına çatmayanın əqdləri, o cümlədən müstəqil bağladığı əqdlər üzrə əmlak məsuliyyətini onun valideynləri, övladlığa götürənlər və ya qəyyum daşıyır, bu şərtlə ki, həmin şəxslər öhdəliyin onların təqsiri üzündən pozulmadığını sübuta yetirməsinlər. Qanuna uyğun olaraq bu şəxslər azyaşlıların vurduqları ziyan üçün də cavabdehdirlər.
 
 #### Maddə 30. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanların fəaliyyət qabiliyyəti
-
 - 30.1. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanlar bu Məcəllənin 30.2-ci maddəsində göstərilənlər istisna olmaqla, əqdləri öz qanuni nümayəndələrinin – valideynlərinin, övladlığa götürənlərin və ya himayəçinin yazılı razılığı ilə bağlayırlar. Bu cür yetkinlik yaşına çatmayanın bağladığı əqd sonradan valideynləri, övladlığa götürənlər və ya himayəçi tərəfindən bəyənildikdə də etibarlıdır.
 - 30.2. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanların ixtiyarı vardır ki, valideynlərinin, övladlığa götürənlərin və ya himayəçinin razılığı olmadan müstəqil surətdə:
   - 30.2.1. öz qazancı, təqaüdü və digər gəlirləri barəsində sərəncam versin;
   - 30.2.2. elm, ədəbiyyat və ya incəsənət əsərinin, ixtiranın və ya qanunla qorunan digər əqli fəaliyyət nəticəsinin müəllifi hüquqlarını həyata keçirsin;
-  - 30.2.3. *çıxarılmışdır*;
+  - 30.2.3. çıxarılmışdır;
   - 30.2.4. xırda məişət əqdləri və bu Məcəllənin 29-2-ci maddəsində nəzərdə tutulan digər əqdlər bağlasın. On altı yaşı tamam olmuş yetkinlik yaşına çatmayanların kooperativ üzvü olmaq ixtiyarı da vardır.
 - 30.3. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanlar bu Məcəllənin 30.1 və 30.2-ci maddələrinə uyğun bağladıqları əqdlər üzrə müstəqil surətdə əmlak məsuliyyəti daşıyırlar. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanlar vurduqları ziyana görə bu Məcəlləyə uyğun məsuliyyət daşıyırlar.
 - 30.4. Yetərli əsaslar olduqda məhkəmə valideynlərin, övladlığa götürənlərin və ya himayəçinin və ya qəyyumluq və himayəçilik orqanının vəsatəti ilə 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanın (əgər, o tam həcmdə fəaliyyət qabiliyyəti əldə etməyibsə) öz qazancı, təqaüdü və ya digər gəlirləri barəsində müstəqil sərəncam vermək hüququnu məhdudlaşdıra və ya ala bilər.
 
 #### Maddə 31. Fiziki şəxsin hüquq qabiliyyətindən və fəaliyyət qabiliyyətindən məhrum edilməsinin və bunların məhdudlaşdırılmasının yolverilməzliyi
-
 - 31.1. Fiziki şəxs heç bir halda hüquq qabiliyyətindən məhrum edilə bilməz. Fiziki şəxsin hüquq qabiliyyəti və fəaliyyət qabiliyyəti yalnız qanunla müəyyənləşdirilmiş hallarda və qaydada məhdudlaşdırıla bilər.
 - 31.2. Fiziki şəxslərin fəaliyyət qabiliyyətinin və ya onların sahibkarlıq fəaliyyəti və ya başqa fəaliyyətlə məşğul olmaq hüququnun məhdudlaşdırılmasının qanunla müəyyənləşdirilmiş şərtlərinin və qaydasının gözlənilməməsi müvafiq məhdudiyyəti qoymuş dövlət orqanının və ya digər orqanın aktının etibarsızlığına səbəb olur.
 - 31.3. Fiziki şəxsin hüquq qabiliyyətindən və ya fəaliyyət qabiliyyətindən tamamilə və ya qismən imtina etməsi və hüquq qabiliyyətinin və ya fəaliyyət qabiliyyətinin məhdudlaşdırılmasına yönəldilmiş digər əqdlər əhəmiyyətsizdir.
 
 #### Maddə 32. Fiziki şəxsin fəaliyyət qabiliyyətinin məhdudlaşdırılması
-
 - 32.1. Spirtli içkilərdən, narkotik vasitələrdən və ya psixotrop maddələrdən sui-istifadə etməsi, habelə qumara qurşanması nəticəsində öz ailəsini ağır maddi vəziyyətə salan fiziki şəxsin fəaliyyət qabiliyyəti məhkəmə tərəfindən məhdudlaşdırıla bilər. Belə şəxsin üzərində himayəçilik təyin edilir. Onun xırda məişət əqdləri bağlamaq ixtiyarı vardır. O, yalnız himayəçisinin razılığı ilə başqa əqdlər bağlaya bilər, habelə qazanc, pensiya və digər gəlirlər götürə bilər və bunlar barəsində sərəncam verə bilər. Lakin bu cür fiziki şəxs bağladığı əqdlər üzrə və vurduğu ziyan üçün müstəqil surətdə əmlak məsuliyyəti daşıyır. Fəaliyyət qabiliyyəti məhdudlaşdırılmış fiziki şəxsin himayəçinin razılığı tələb olunan hallarda, belə razılıq olmadan bağladığı əqd sonradan himayəçinin yazılı razılığı ilə etibarlı hesab edilə bilər.
 - 32.2. Fiziki şəxsin fəaliyyət qabiliyyətinin məhdudlaşdırılmasına səbəb olan əsaslar aradan qalxdıqda məhkəmə onun fəaliyyət qabiliyyətinin məhdudlaşdırılmasını ləğv edir. Fiziki şəxsin üzərində təyin edilmiş himayəçilik məhkəmənin qərarına əsasən ləğv olunur.
 
 #### Maddə 33. Qəyyumluq və himayəçilik
-
 - 33.1. Qəyyumluq və himayəçilik fəaliyyət qabiliyyəti olmayan və ya məhdud fəaliyyət qabiliyyətli fiziki şəxslərin hüquq və mənafelərinin müdafiəsi üçün təyin edilir. Yetkinlik yaşına çatmayanlar üzərində qəyyumluq və himayəçilik, həmçinin onların tərbiyələndirilməsi məqsədilə təyin edilir. Qəyyumların və himayəçilərin buna uyğun hüquq və vəzifələri Azərbaycan Respublikasının Ailə Məcəlləsi ilə müəyyənləşdirilir.
 - 33.2. Qəyyumlar və himayəçilər istənilən şəxslərlə münasibətlərdə, o cümlədən məhkəmədə öz qəyyumluğunda olanların hüquq və vəzifələrini xüsusi səlahiyyət almadan müdafiə edirlər.
 - 33.3. Yetkinlik yaşına çatmayanların valideynləri, onları övladlığa götürənlər olmadıqda, valideynləri məhkəmə tərəfindən valideynlik hüquqlarından məhrum edildikdə, habelə bu cür fiziki şəxslər başqa səbəblərə görə valideyn himayəsindən məhrum olduqda, o cümlədən valideynləri onları tərbiyələndirməkdən və ya hüquq və mənafelərini müdafiə etməkdən boyun qaçırdıqda onların üzərində qəyyumluq və himayəçilik təyin edilir.
@@ -242,39 +207,34 @@ Dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının mülki
 - 33.5. Qəyyumlar qəyyumluqda olanların qanun üzrə nümayəndələri olur və onların adından və onların mənafeləri üçün bütün zəruri əqdləri bağlayırlar.
 - 33.6. On dörd yaşından on səkkiz yaşınadək olan yetkinlik yaşına çatmayanlar üzərində, habelə spirtli içkilərdən, narkotik vasitələrdən və ya psixotrop maddələrdən sui-istifadə etməsi və ya qumara qurşanması nəticəsində fəaliyyət qabiliyyəti məhkəmə tərəfindən məhdudlaşdırılmış fiziki şəxslər üzərində himayəçilik təyin edilir.
 - 33.7. Himayəçilər himayəçilikdə olan fiziki şəxslərin müstəqil surətdə bağlamağa ixtiyarı çatmadığı əqdlərin bağlanmasına razılıq verirlər. Himayəçilər himayədə olanlara öz hüquqlarını həyata keçirməkdə və vəzifələrini icra etməkdə kömək göstərir, habelə onları üçüncü şəxslərin sui-istifadəsindən qoruyurlar.
-- 33.9. Fiziki şəxsin fəaliyyət qabiliyyəti olmayan və ya məhdud fəaliyyət qabiliyyətli sayılmasına səbəb olmuş əsaslar aradan qalxdıqda qəyyum və ya himayəçi qəyyumluqda və ya himayədə olanın fəaliyyət qabiliyyətli sayılması və onun üzərindən qəyyumluğun və ya himayəçiliyin götürülməsi barədə məhkəmə qarşısında vəsatət qaldırmağa borcludur.
 
 #### Maddə 34. Qəyyumluq və himayəçilik orqanları
-
 - 34.1. Qəyyumluq və himayəçilik orqanları qanunvericiliklə müəyyənləşdirilir.
 - 34.2. Fiziki şəxsin fəaliyyət qabiliyyəti olmayan sayılması və ya fəaliyyət qabiliyyətinin məhdudlaşdırılması barədə qərarın qanuni qüvvəyə mindiyi gündən etibarən üç gün ərzində məhkəmə həmin fiziki şəxs üzərində qəyyumluq və himayəçilik təyin edilməsi üçün onun yaşayış yeri üzrə qəyyumluq və himayəçilik orqanına bu barədə məlumat verməlidir.
 - 34.3. Qəyyumluqda olanların yaşayış yeri üzrə qəyyumluq və himayəçilik orqanı onların qəyyumlarının və himayəçilərinin fəaliyyətinə nəzarət edir.
 
 #### Maddə 35. Qəyyumlar və himayəçilər
-
-- 35.1. Qəyyumu və ya himayəçini qəyyumluğa və ya himayəçiliyə ehtiyacı olan şəxsin yaşayış yeri üzrə qəyyumluq və himayəçilik orqanı fiziki şəxs üzərində qəyyumluq və ya himayəçilik qoyulması zərurətinin ona məlum olduğu anda üç ay ərzində təyin edir. Qəyyumluğa və ya himayəçiliyə ehtiyacı olan şəxsə qəyyum və ya himayəçi təyin edilənədək qəyyum və ya himayəçi vəzifələrini qəyyumluq və himayəçilik orqanı icra edir. Qəyyumluğa və ya himayəçiliyə ehtiyacı olan valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqlara qəyyum və himayəçi təyin edilənədək qəyyumluq və ya himayəçilik orqanının funksiyalarını müvafiq icra hakimiyyəti orqanı həyata keçirir. Qəyyumun və ya himayəçinin təyin edilməsi barədə maraqlı şəxslər məhkəməyə etiraz verə bilərlər.
+- 35.1. Qəyyumu və ya himayəçini qəyyumluğa və ya himayəçiliyə ehtiyacı olan şəxsin yaşayış yeri üzrə qəyyumluq və himayəçilik orqanı fiziki şəxs üzərində qəyyumluq və ya himayəçilik qoyulması zərurətinin ona məlum olduğu andan üç ay ərzində təyin edir. Qəyyumluğa və ya himayəçiliyə ehtiyacı olan şəxsə qəyyum və ya himayəçi təyin edilənədək qəyyum və ya himayəçi vəzifələrini qəyyumluq və himayəçilik orqanı icra edir. Qəyyumluğa və ya himayəçiliyə ehtiyacı olan valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqlara qəyyum və himayəçi təyin edilənədək qəyyumluq və ya himayəçilik orqanının funksiyalarını müvafiq icra hakimiyyəti orqanı həyata keçirir. Qəyyumun və ya himayəçinin təyin edilməsi barədə maraqlı şəxslər məhkəməyə etiraz verə bilərlər.
 - 35.2. Qəyyumlar və himayəçilər yetkinlik yaşına çatmış fəaliyyət qabiliyyətli fiziki şəxslərdən təyin edilir. Valideynlik hüquqlarından məhrum edilmiş fiziki şəxslər qəyyum və himayəçi təyin oluna bilməzlər.
 - 35.3. Qəyyum və ya himayəçi öz razılığı ilə təyin edilir. Bu zaman onun əxlaqi və digər şəxsi keyfiyyətləri, qəyyumluq və ya himayəçilik vəzifələrini yerinə yetirmək qabiliyyəti, onunla qəyyumluğa və ya himayəçiliyə ehtiyacı olan şəxs arasında mövcud münasibətlər, mümkünsə, həm də qəyyumluqda və ya himayədə olanın arzusu nəzərə alınmalıdır.
 - 35.4. Qəyyumluğa və ya himayəçiliyə ehtiyacı olan və müvafiq sosial xidmət müəssisələrində olan və ya bu müəssisələrə yerləşdirilmiş fiziki şəxslərin qəyyumları və himayəçiləri həmin müəssisələrdir.
 - 35.5. Qəyyumluq və himayəçilik vəzifələri, qanunla nəzərdə tutulan hallardan başqa, əvəzsiz icra edilir.
 - 35.6. Yetkinlik yaşına çatmayan fiziki şəxslərin qəyyumları və himayəçiləri öz qəyyumluğunda və ya himayəsində olanlarla birlikdə yaşamalıdırlar. Himayəçi ilə on altı yaşına çatmış himayədə olanın ayrılıqda yaşamasına qəyyumluq və himayəçilik orqanının razılığı ilə bu şərtlə yol verilir ki, ayrı yaşama himayədə olanın tərbiyəsinə, hüquq və mənafelərinin müdafiəsinə mənfi təsir göstərməsin. Qəyyumlar və himayəçilər yaşayış yerinin dəyişməsi barədə qəyyumluq və himayəçilik orqanlarına məlumat verməyə borcludurlar.
 - 35.7. Qəyyumlar və himayəçilər öz qəyyumluğunda və ya himayəsində olan uşaqların, o cümlədən Azərbaycan Respublikasının Ailə Məcəlləsinin 118.12-ci və 118.13-cü maddələrinə uyğun olaraq övladlığa götürmək istəyən şəxsin ailəsində sınaq müddəti ilə yerləşdirilən uşaqların saxlanması, onlara baxılmasının və onların müalicəsinin təmin edilməsi, onların təhsil alması və tərbiyələnməsi qayğısına qalmağa, onların hüquq və mənafelərini qorumağa borcludurlar.
+- 35.8. Bu Məcəllənin 35.7-ci maddəsində göstərilən vəzifələr məhkəmə tərəfindən fəaliyyət qabiliyyəti məhdudlaşdırılmış yetkinlik yaşına çatmış fiziki şəxslərin himayəçilərinə həvalə edilmir.
 - 35.9. Fiziki şəxsin fəaliyyət qabiliyyəti olmayan və ya məhdud fəaliyyət qabiliyyətli sayılmasına səbəb olmuş əsaslar aradan qalxdıqda qəyyum və ya himayəçi qəyyumluqda və ya himayədə olanın fəaliyyət qabiliyyətli sayılması və onun üzərindən qəyyumluğun və ya himayəçiliyin götürülməsi barədə məhkəmə qarşısında vəsatət qaldırmağa borcludur.
 
 #### Maddə 36. Qəyyumluqda və himayədə olanın əmlakı barəsində sərəncam verilməsi
-
 - 36.1. Qəyyumluqda və ya himayədə olan fiziki şəxsin müstəqil surətdə sərəncam verməyə ixtiyarı çatdığı gəlirlər istisna olmaqla, onun gəlirləri, o cümlədən qəyyumluqda və ya himayədə olana onun əmlakının idarə edilməsindən çatası gəlirlər qəyyum və ya himayəçi tərəfindən yalnız və yalnız qəyyumluqda və ya himayədə olanın mənafeləri üçün, həm də qəyyumluq və himayəçilik orqanının qabaqcadan icazəsi alınmaqla xərclənir. Qəyyumluq və himayəçilik orqanının qabaqcadan icazəsi olmadan qəyyum və ya himayəçi qəyyumluqda və ya himayədə olanın saxlanması üçün zəruri xərcləri qəyyumluqda və ya himayədə olana onun gəliri kimi çatası məbləğlər hesabına ödəyə bilər.
 - 36.2. Qəyyumluq və himayəçilik orqanının qabaqcadan icazəsini almadan qəyyum qəyyumluqda və ya himayədə olanın əmlakının özgəninkiləşdirilməsinə, o cümlədən dəyişdirilməsinə və ya bağışlanmasına, bu əmlakın icarəyə, əvəzsiz istifadəyə verilməsinə və ya girov qoyulmasına dair əqdləri, qəyyumluqda və ya himayədə olana mənsub hüquqlardan imtinaya, onun əmlakının bölüşdürülməsinə və ya bu əmlakdan payların ayrılmasına səbəb olan əqdləri, habelə qəyyumluqda və ya himayədə olanın əmlakının azalmasına səbəb olan hər hansı digər əqdləri bağlaya bilməz, himayəçi isə onların bağlanmasına razılıq verə bilməz. Qəyyumluqda olanın əmlakının idarə edilməsi qaydası qanunvericiliklə müəyyənləşdirilir.
 - 36.2-1. Bu Məcəllənin 36.1-ci və 36.2-ci maddələrində nəzərdə tutulan qəyyumluq və himayəçilik orqanlarının icazəsi ilə əlaqədar həmin orqanların qərarları 1 (bir) iş günü ərzində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminə daxil edilir.
 - 36.3. Qəyyumun, himayəçinin, onların ərinin (arvadının) və yaxın qohumlarının ixtiyarı yoxdur ki, qəyyumluqda və ya himayədə olana hədiyyə kimi əmlak verilməsi və ya onun əvəzsiz istifadəsinə əmlak verilməsi istisna olmaqla, qəyyumluqda və ya himayədə olanla əqdlər bağlasın, habelə əqdlər bağlanarkən və ya qəyyumluqda və ya himayədə olanla qəyyumun və ya himayəçinin əri (arvadı) və onların yaxın qohumları arasında məhkəmə işləri aparılarkən qəyyumluqda və ya himayədə olanı təmsil etsinlər.
 
 #### Maddə 37. Qəyyumluqda və ya himayədə olanın əmlakının etibarnamə ilə idarə edilməsi
-
-- 37.1. Qəyyumluqda və ya himayədə olanın daşınar və qiymətli daşınmaz əmlakının daimi idarə edilməsi zərurəti yarandıqda qəyyumluq və himayəçilik orqanı özünün müəyyənləşdirdiyi idarəçi ilə həmin əmlakın etibarnamə ilə idarə edilməsinə dair müqavilə bağlayır. Bu halda qəyyum və ya himayəçi qəyyumluqda və ya himayədə olanın etibarnamə ilə idarəetməyə verilməmiş əmlakı barəsində öz səlahiyyətlərini saxlayır. Qəyyumluqda və ya himayədə olanın əmlakının etibarnamə ilə idarə edilməsi səlahiyyətlərini həyata keçirərkən idarəçiyə bu Məcəllənin 36.2 və 36.3-cü maddələrində nəzərdə tutulan qaydalar tətbiq edilir.
+- 37.1. Qəyyumluqda və ya himayədə olanın daşınar və qiymətli daşınmaz əmlakının daimi idarə edilməsi zərurəti yarandıqda qəyyumluq və himayəçilik orqanı özünün müəyyənləşdirdiyi idarəçi ilə həmin əmlakın etibarnamə ilə idarə edilməsinə dair müqavilə bağlayır. Bu halda qəyyum və ya himayəçi qəyyumluqda və ya himayədə olanın etibarnamə ilə idarəetməyə verilməmiş əmlakı barəsində öz səlahiyyətlərini saxlayır. Qəyyumluqda və ya himayədə olanın əmlakının idarə edilməsi səlahiyyətlərini həyata keçirərkən idarəçiyə bu Məcəllənin 36.2 və 36.3-cü maddələrində nəzərdə tutulan qaydalar tətbiq edilir.
 - 37.2. Qəyyumluqda və ya himayədə olanın əmlakının etibarnamə ilə idarə edilməsinə əmlakın etibarnamə ilə idarə edilməsinə dair müqaviləyə xitam verilməsi üçün qanunvericilikdə nəzərdə tutulan əsaslar üzrə, habelə qəyyumluğa və ya himayəçiliyə xitam verildiyi hallarda xitam verilir.
 
 #### Maddə 38. Qəyyumların və himayəçilərin öz vəzifələrinin icrasından azad və kənar edilməsi. Qəyyumluğa və himayəçiliyə xitam verilməsi
-
 - 38.1. Yetkinlik yaşına çatmayan şəxs valideynlərinə qaytarıldıqda və ya övladlığa götürüldükdə qəyyumluq və himayəçilik orqanı qəyyumu və ya himayəçini öz vəzifələrinin icrasından azad edir.
 - 38.2. Qəyyumluqda olan müvafiq sosial xidmət müəssisələrinə və ya digər oxşar müəssisəyə yerləşdirildikdə qəyyumluq və himayəçilik orqanı bundan əvvəl təyin edilmiş qəyyumu və ya himayəçini, əgər bu, qəyyumluqda olanın mənafelərinə zidd deyilsə, öz vəzifələrinin icrasından azad edir.
 - 38.3. Üzrlü səbəblər olduqda (xəstəlik, əmlak vəziyyətinin dəyişməsi, qəyyumluqda olanla qarşılıqlı anlaşmanın yoxluğu və i.a.) qəyyum və ya himayəçi öz xahişi ilə vəzifələrinin icrasından azad edilə bilər.
@@ -284,22 +244,197 @@ Dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının mülki
 - 38.7. Qəyyumluqda olan yetkinlik yaşına çatmayanın on səkkiz yaşına çatdığı, habelə yetkinlik yaşına çatanadək tam fəaliyyət qabiliyyəti əldə etdiyi hallarda yetkinlik yaşına çatmayan üzərində himayəçiliyə xüsusi qərarsız xitam verilir.
 
 #### Maddə 39. Fəaliyyət qabiliyyətli fiziki şəxs üzərində patronaj
-
 - 39.1. Sağlamlıq vəziyyətinə görə müstəqil surətdə öz hüquqlarını həyata keçirməyə və müdafiə etməyə, öz vəzifələrini icra etməyə qadir olmayan yetkinlik yaşına çatmış fəaliyyət qabiliyyətli fiziki şəxsin xahişi ilə onun üzərində patronaj təyin edilə bilər. Patronaj təyin edilməsi fiziki şəxsin hüquqlarının məhdudlaşdırılmasına səbəb olmur.
 - 39.2. Yetkinlik yaşına çatmış fəaliyyət qabiliyyətli fiziki şəxsin patronu (köməkçisi) həmin fiziki şəxsin razılığı ilə qəyyumluq və himayəçilik orqanı tərəfindən təyin edilir.
 - 39.3. Patron (köməkçi) fiziki şəxslə bağlanmış tapşırıq və ya etibarnamə ilə idarəetmə müqaviləsinə əsasən yetkinlik yaşına çatmış fəaliyyət qabiliyyətli fiziki şəxsə mənsub əmlak barəsində sərəncam verir. Məişət tələbatının saxlanmasına və ödənilməsinə yönəldilən məişət əqdlərini və başqa əqdləri patron (köməkçi) fiziki şəxsin razılığı ilə bağlayır.
 - 39.4. Bu Məcəllənin 39.1-ci maddəsinə uyğun olaraq yetkinlik yaşına çatmış fəaliyyət qabiliyyətli fiziki şəxs üzərində təyin edilmiş patronaja patronajda olan fiziki şəxsin tələbi ilə xitam verilir. Patronajda olan fiziki şəxsin patronu (köməkçisi) bu Məcəllənin 38-ci maddəsində nəzərdə tutulan hallarda öz vəzifələrini yerinə yetirməkdən azad edilir.
 
 #### Maddə 40. Fiziki şəxsin xəbərsiz itkin düşmüş elan edilməsi
-
 - 40.1. Əgər fiziki şəxsin olduğu yer məlum deyildirsə və iki il ərzində o, yaşayış yerində görünməmişsə, maraqlı şəxslərin ərizəsinə əsasən məhkəmə fiziki şəxsi xəbərsiz itkin düşmüş hesab edə bilər.
 - 40.2. İtkin düşmə haqqında son məlumatların alındığı günü müəyyənləşdirmək mümkün olmadıqda, xəbərsiz itkin düşmüş sayılma üçün müddətin hesablanması itkin düşmüş haqqında son məlumatların alındığı aydan sonrakı ayın birinci günündən, həmin ayı müəyyənləşdirmək mümkün olmadıqda isə növbəti ilin yanvar ayının 1-dən başlanır.
 - 40.3. Xəbərsiz itkin düşmə haqqında məhkəmənin qərarı qanuni qüvvəyə mindikdən sonra həmin şəxsin qanuni vərəsələri xəbərsiz itkin düşmüşün əmlakını etibar olunmuş əmlak kimi idarə etmək, o cümlədən ondan fayda götürmək ixtiyarı əldə edirlər. Bu əmlakdan xəbərsiz itkin düşmüşün öhdəsində olan şəxslərə dolanacaq xərcləri verilir və borclar ödənilir.
 - 40.4. Xəbərsiz itkin düşmüş fiziki şəxsin qanuni əmlakının daimi idarə edilməsi zərurəti yarandıqda, əgər onun qanuni vərəsələri yoxdursa, məhkəmənin qərarı ilə bu əmlak qəyyumluq və himayəçilik orqanı tərəfindən müəyyənləşdirilən və həmin orqanla bağlanan etibarnamə ilə idarəetmə müqaviləsi əsasında fəaliyyət göstərən şəxsə verilir. Xəbərsiz itkin düşmüş şəxsin əmlakının idarəçisi itkin düşmüş şəxsin əmlakı hesabına onun borclarını ödəyir, əmlakı həmin şəxsin xeyrinə idarə edir, xəbərsiz itkin düşmüşün öhdəsində olan şəxslərə dolanacaq xərcləri verir. Əgər idarəçinin təyin edildiyi gündən üç il keçənədək şəxsin xəbərsiz itkin düşmüş hesab edilməsi haqqında məhkəmə qərarı ləğv edilməzsə və şəxsin ölmüş sayılması haqqında məhkəməyə müraciət edilməzsə, qəyyumluq və himayəçilik orqanı fiziki şəxsin ölmüş sayılması haqqında ərizə ilə məhkəməyə müraciət etməyə borcludur.
 - 40.5. Xəbərsiz itkin düşmüş şəxs gəldikdə və ya onun olduğu yer aşkar edildikdə məhkəmə onun xəbərsiz itkin düşmüş hesab edilməsi haqqında qərarı, habelə onun əmlakının idarə olunması haqqında qərarı ləğv edir.
 
-”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “”, “
+#### Maddə 41. Fiziki şəxsin ölmüş elan edilməsi
+- 41.1. Əgər şəxsin yaşayış yerində onun harada olması barədə beş il ərzində məlumat olmazsa, habelə o, ölüm təhlükəsi törədən və ya hansısa bədbəxt hadisədən həlak olduğunu güman etməyə əsas verən şəraitdə xəbərsiz itkin düşərsə və ondan altı ay ərzində xəbər çıxmazsa, o, məhkəmə qaydasında ölmüş elan edilə bilər.
+- 41.2. Hərbi əməliyyatlarla əlaqədar xəbərsiz itkin düşmüş hərbi qulluqçu və ya digər şəxs hərbi əməliyyatların qurtardığı gündən azı iki il keçdikdən sonra məhkəmə qaydasında ölmüş elan edilə bilər. Məhkəmə şəxsin hərbi əməliyyatlarda həlak olduğunu güman etməyə əsas verən halları nəzərə alaraq, onu bu müddət bitməzdən əvvəl, lakin hərbi əməliyyatların qurtardığı gündən altı aydan tez olmayaraq ölmüş elan edə bilər.
+- 41.3. Şəxsin ölmüş elan edilməsi haqqında məhkəmə qərarının qanuni qüvvəyə mindiyi gün onun ölüm günü sayılır.
+- 41.4. Bu Məcəllənin 41.1 və 41.2-ci maddələrində nəzərdə tutulan hallarda məhkəmə şəxsin həlakının güman edildiyi günü onun ölüm günü saya bilər.
 
+#### Maddə 42. Ölmüş elan edilmiş şəxsin gəlməsinin nəticələri
+- 42.1. Ölmüş elan edilmiş şəxs gəldikdə və ya onun olduğu yer aşkar edildikdə məhkəmə onun ölmüş elan edilməsi barədə qərarı ləğv edir.
+- 42.2. Nə vaxt gəlməsindən asılı olmayaraq, şəxs onun ölmüş elan edilməsindən sonra əvəzsiz olaraq başqa şəxsə verilmiş əmlakın qalan hissəsinin qaytarılmasını tələb edə bilər.
+- 42.3. Ölmüş elan edilmiş şəxsin əmlakını əvəzli əldə etmiş şəxs bu əmlakı ona qaytarmağa o halda borcludur ki, əmlakı əldə edərkən onun ölmüş elan edilmiş şəxsin sağ olduğunu bildiyi sübuta yetirilsin.
+- 42.4. Əgər ölmüş elan edilmiş şəxsin əmlakı dövlətin mədaxilinə keçirilmiş və satılmışdırsa, həmin şəxsin ölmüş elan edilməsi haqqında qərarın ləğvindən sonra əmlakın satışından götürülmüş məbləğ ona qaytarılır.
+
+### 4-cü fəsil. Hüquqi şəxslər
+
+### §1. Əsas müddəalar
+
+#### Maddə 43. Hüquqi şəxs anlayışı və onun növləri
+- 43.1. Hüquqi şəxs qanunla müəyyənləşdirilən qaydada dövlət qeydiyyatından keçmiş, xüsusi yaradılmış elə bir qurumdur ki, mülkiyyətində ayrıca əmlakı vardır, öz öhdəlikləri üçün bu əmlakla cavabdehdir, öz adından əmlak və şəxsi qeyri-əmlak hüquqları əldə etmək və həyata keçirmək, vəzifələr daşımaq, məhkəmədə iddiaçı və ya cavabdeh olmaq hüququna malikdir. Hüquqi şəxsin müstəqil balansı olmalıdır.
+- 43.2. Hüquqi şəxslər bir fiziki və ya hüquqi şəxs tərəfindən, yaxud fiziki və hüquqi şəxslərin toplusu tərəfindən yaradıla bilər, üzvlüyə əsaslana bilər, üzvlərin olmasından asılı ola və ya asılı olmaya bilər, sahibkarlıq fəaliyyəti ilə məşğul ola və ya məşğul olmaya bilər.
+- 43.3. Azərbaycan Respublikası mülki hüquq münasibətlərində eynilə digər hüquqi şəxslər kimi iştirak edir. Bu hallarda Azərbaycan Respublikasının səlahiyyətlərini onun hüquqi şəxslər olmayan orqanları həyata keçirirlər.
+- 43.4. Bələdiyyələr mülki hüquq münasibətlərində eynilə digər hüquqi şəxslər kimi iştirak edirlər. Bu hallarda bələdiyyənin səlahiyyətlərini onun hüquqi şəxslər olmayan orqanları həyata keçirirlər.
+- 43.5. Hüquqi şəxslər fəaliyyətinin əsas məqsədi mənfəət götürməkdən ibarət olan (kommersiya hüquqi şəxsləri) və ya əsas məqsədi mənfəət götürməkdən ibarət olmayan və götürülən mənfəəti iştirakçıları arasında bölüşdürməyən (qeyri-kommersiya hüquqi şəxsləri), habelə ümumdövlət və (və ya) ictimai əhəmiyyət daşıyan fəaliyyətlə məşğul olan (publik hüquqi şəxslər) qurumlar ola bilər.
+- 43.6. Qeyri-kommersiya qurumları olan hüquqi şəxslər ictimai birliklər, fondlar, hüquqi şəxslərin ittifaqları formasında, habelə qanunvericilikdə nəzərdə tutulan digər formalarda yaradıla bilər. Qeyri-kommersiya hüquqi şəxsləri sahibkarlıq fəaliyyəti ilə yalnız o hallarda məşğul ola bilərlər ki, bu fəaliyyət onların yaradılması zamanı qarşıya qoyulmuş məqsədlərə nail olmağa xidmət etsin və bu məqsədlərə uyğun gəlsin. Sahibkarlıq fəaliyyətini həyata keçirmək üçün qeyri-kommersiya hüquqi şəxsləri təsərrüfat cəmiyyətləri yarada bilər və ya onlarda iştirak edə bilərlər.
+- 43.7. Publik hüquqi şəxslərin fəaliyyəti bu Məcəllə, “”, “” Azərbaycan Respublikasının qanunları ilə tənzimlənir.
+
+#### Maddə 44. Hüquqi şəxsin hüquq qabiliyyəti
+- 44.1. Hüquqi şəxs dövlət qeydiyyatına alındığı andan mülki hüquqlara malikdir və mülki vəzifələr daşıyır. Hüquqi şəxsin hüquq qabiliyyətinə onun ləğvinin başa çatdığı an xitam verilir.
+- 44.2. Kommersiya hüquqi şəxsləri qanunla qadağan edilməyən istənilən fəaliyyət növlərini həyata keçirmək üçün zəruri mülki hüquqlara malik ola və mülki vəzifələr daşıya bilərlər. Siyahısı qanunvericiliklə müəyyənləşdirilən ayrı-ayrı fəaliyyət növləri ilə hüquqi şəxslər yalnız xüsusi icazə (lisenziya) əsasında məşğul ola bilərlər.
+- 44.3. Hüquqi şəxsin hüquqları yalnız qanunla nəzərdə tutulan hallarda və qaydada məhdudlaşdırıla bilər. Hüquqi şəxs öz hüquqlarının məhdudlaşdırılması haqqında qərardan məhkəməyə etiraz verə bilər.
+- 44.4. Hüquqi şəxsin xüsusi icazə (lisenziya) alınması zəruri olan fəaliyyəti həyata keçirmək hüququ belə lisenziyanın alındığı andan və ya lisenziyada göstərilən vaxtda əmələ gəlir və bu hüquqa, əgər qanunvericiliklə ayrı qayda müəyyənləşdirilməyibsə, lisenziyanın müddəti qurtardıqda xitam verilir.
+
+#### Maddə 45. Hüquqi şəxsin yaradılması
+- 45.1. Hüquqi şəxs onun təsis edilməsi və nizamnaməsinin hazırlanması yolu ilə yaradılır.
+- 45.2. Əgər hüquqi şəxs bir neçə təsisçi tərəfindən yaradılırsa, təsisçilər müqavilə bağlayaraq hüquqi şəxsin nizamnaməsini, onun yaradılması üzrə birgə fəaliyyət qaydasını, özlərinin əmlakının ona verilməsi və onun fəaliyyətində iştirak edilməsi şərtlərini müəyyənləşdirirlər.
+
+#### Maddə 46. Hüquqi şəxsin təsisçilərinin məsuliyyəti
+Hüquqi şəxsin təsisçiləri hüquqi şəxsin dövlət qeydiyyatına alınmasına qədər əmələ gəlmiş, hüquqi şəxsin yaradılması ilə bağlı olan öhdəliklər üzrə birgə məsuliyyət daşıyırlar.
+
+#### Maddə 47. Hüquqi şəxsin nizamnaməsi
+- 47.1. Hüquqi şəxsin təsisçiləri tərəfindən təsdiq edilmiş nizamnaməsi hüquqi şəxsin təsis sənədidir. “”, “” Azərbaycan Respublikasının qanunlarında nəzərdə tutulmuş hallar istisna olmaqla, bir təsisçinin yaratdığı hüquqi şəxs həmin təsisçinin təsdiq etdiyi nizamnamə əsasında fəaliyyət göstərir.
+- 47.2. Hüquqi şəxsin nizamnaməsində hüquqi şəxsin adı, olduğu yer, fəaliyyətinin idarə edilməsi qaydası, habelə onun ləğvi qaydası müəyyənləşdirilir. Qeyri-kommersiya hüquqi şəxsinin nizamnaməsində onun fəaliyyətinin predmeti və məqsədləri müəyyənləşdirilir. Hüquqi şəxslərin (publik hüquqi şəxslər və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq olunmuş nizamnaməsi ilə dövlət nəzarəti və yoxlama funksiyaları verilmiş hüquqi şəxslər istisna olmaqla) nizamnamələrində dövlət orqanlarının (qurumlarının) və yerli özünüidarə orqanlarının səlahiyyətlərinin mənimsənilməsinə, habelə dövlət nəzarəti və yoxlama funksiyalarının nəzərdə tutulmasına yol verilmir.
+- 47.3. Nizamnamədə dəyişikliklər dövlət qeydiyyatına alındığı andan üçüncü şəxslər üçün hüquqi qüvvəyə minir. Lakin hüquqi şəxslər və onların təsisçiləri (iştirakçıları) həmin dəyişiklikləri nəzərə almaqla hərəkət etmiş üçüncü şəxslərlə münasibətlərdə həmin dəyişikliklərin qeydə alınmadığına istinad edə bilməzlər.
+
+#### Maddə 48. Hüquqi şəxslərin dövlət qeydiyyatı
+- 48.1. Hüquqi şəxs müvafiq icra hakimiyyəti orqanında dövlət qeydiyyatına alınmalıdır. Dövlət qeydiyyatının məlumatları, o cümlədən kommersiya təşkilatları üçün firma adı ümumi tanışlıq üçün açıq olan hüquqi şəxslərin dövlət reyestrinə daxil edilir.
+- 48.2. Hüquqi şəxsin dövlət qeydiyyatına alınmasından imtina edilməsinə “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulan hallarda yol verilir. Dövlət qeydiyyatına almaqdan imtina edilməsindən, habelə qeydiyyatdan yayınmaqdan məhkəməyə şikayət verilə bilər.
+- 48.3. Hüquqi şəxs yalnız qanunla müəyyənləşdirilmiş hallarda yenidən qeydə alınmalıdır.
+
+#### Maddə 49. Hüquqi şəxsin orqanları
+- 49.1. Hüquqi şəxslər qanunvericiliyə və nizamnaməyə uyğun fəaliyyət göstərən öz orqanları vasitəsilə mülki hüquqlar əldə edir və öhdələrinə mülki vəzifələr götürürlər. Hüquqi şəxsin orqanlarının seçilməsi və ya təyin edilməsi qaydası, müvafiq olaraq, nizamnamə, “”, “”, “”, “” və “” Azərbaycan Respublikasının qanunları ilə müəyyənləşdirilir.
+- 49.2. Hüquqi şəxs öz iştirakçıları, habelə təmsilçiləri vasitəsilə mülki hüquqlar əldə edə bilər və öhdəsinə mülki vəzifələr götürə bilər.
+- 49.3. Hüquqi şəxs adından çıxış edən şəxs, o cümlədən hüquqi şəxsin idarəetmə orqanlarında (müşahidə (direktorlar) şurası, icra orqanı) təmsil olunan hər hansı şəxs təmsil etdiyi hüquqi şəxsin mənafeləri üçün vəzifələrini yerinə yetirərkən vicdanla, peşəkar qaydada və məntiqlə hərəkət etmək, hüquqi şəxsin və onun bütün iştirakçılarının maraqlarına sadiq olmaq və hüquqi şəxsin maraqlarını öz maraqlarından üstün tutmaq, ehtiyatlı olmaq, habelə qərarların qəbulu zamanı ədalətli və qərəzsiz olmağa borcludur. Həmin şəxs, bu vəzifələrin hüquqi şəxsin maraqlarına uyğun olaraq yerinə yetirilməsi üçün məsuliyyət daşıyır. Hüquqi şəxsin nizamnamə kapitalında ən azı 5 faiz paya (səhmə) malik olan iştirakçısının (iştirakçılarının) tələbi ilə o, vəzifələrini pozduğu halda, pozuntu nəticəsində hüquqi şəxsə dəymiş zərərin əvəzini ödəməlidir.
+- 49.4. Hüquqi şəxs adından çıxış edən şəxs, o cümlədən hüquqi şəxsin idarəetmə orqanlarında (müşahidə (direktorlar) şurası, icra orqanı) təmsil olunan hər hansı şəxs hüquqi şəxsə və ya səhmdara (payçıya) dəyən zərərə görə aşağıdakı hallarda məsuliyyət daşıyır:
+  - 49.4.1. hüquqi şəxsin zərərlə işlədiyi halda və ya hüquqi şəxsin mənfəətinə qeyri-mütənasib həcmdə hüquqi şəxsin idarəetmə orqanlarının üzvlərinə bonusların ödənilməsi;
+  - 49.4.2. hüquqi şəxsin əmlakının bazar şərtlərindən əhəmiyyətli dərəcədə aşağı şərtlərlə və qiymətlə özgəninkiləşdirilməsi və ya istifadəyə verilməsi;
+  - 49.4.3. hüquqi şəxsə aidiyyəti olan şəxslərlə qanunun tələblərini pozan və ya hüquqi şəxsin maraqlarına təhlükə yaradan müqavilələrin bağlanması;
+  - 49.4.4. hüquqi şəxsin bağlanmış müqavilələr əsasında malları (işləri, xidmətləri) onların real dəyərindən əhəmiyyətli dərəcədə yuxarı qiymətə satın alması;
+  - 49.4.5. özü üçün, hüquqi şəxsə aidiyyəti olan şəxslər və ya digər şəxslər üçün maddi və qeyri-maddi əmlak nemətləri və bu cür əmlaka hüquqların təmin edilməsi məqsədi ilə hüquqi şəxsin əmlakının mənimsənilməsi və ya israf edilməsi;
+  - 49.4.6. səhmdarlara (payçılara) münasibətdə ədalətsiz və ya onlara ziyan vuran əqdlərin bağlanması.
+- 49.5. Hüquqi şəxsin adından çıxış edən, hüquqi şəxsin idarəetmə orqanlarında (müşahidə (direktorlar) şurası, icra orqanı) təmsil olunan hər hansı şəxs hüquqi şəxsə vurulmuş zərərə görə hüquqi şəxsin ümumi yığıncağının qərarı ilə tutduğu vəzifədən kənarlaşdırıla bilər. Hüquqi şəxsə vurulmuş zərərə görə hüquqi şəxsin adından çıxış edən şəxsin, hüquqi şəxsin idarəetmə orqanlarında (müşahidə (direktorlar) şurası, icra orqanı) təmsil olunan hər hansı şəxsin inzibati və ya cinayət məsuliyyətinə cəlb edilməsi onu hüquqi şəxsə dəymiş zərərin ödənilməsi vəzifəsindən azad etmir.
+- 49.6. Bu Məcəllənin 49.4-cü maddəsində nəzərdə tutulan hallar baş verdikdə və ya bu halların baş verməsinə dair əsaslı şübhələr olduqda, hüquqi şəxsin nizamnamə kapitalında ən azı 10 faiz paya (səhmə) malik olan iştirakçısı (iştirakçıları) hüquqi şəxs adından çıxış edən şəxsdən, o cümlədən hüquqi şəxsin idarəetmə orqanlarında (müşahidə (direktorlar) şurası, icra orqanı) təmsil olunan hər hansı şəxsdən hüquqi şəxsdə olan və həmin hallarla bağlı bütün sənədlərə (konkret sənəd göstərilmədən) və ya məlumatlara baxış keçirmək məqsədi ilə həmin sənədləri (məlumatları) tələb edə bilər. Bu halda müraciət olunan şəxs tərəfindən həmin iştirakçının tələbi 5 (beş) iş günü ərzində təmin edilməlidir. İştirakçı həmin sənədin (məlumatın) surətini əldə etmək istədikdə, müraciət olunan şəxs tərəfindən həmin sənədin (məlumatın) təsdiqlənmiş surətləri təqdim olunur. İştirakçı baxış zamanı ona məlum olan və əldə etdiyi məlumatların konfidensiallığını qorumalı və qanunda nəzərdə tutulan hallar istisna olmaqla, üçüncü şəxslərə həmin məlumatları ötürməməlidir.
+
+#### Maddə 49-1. Hüquqi şəxs tərəfindən aidiyyəti şəxslərlə əqdlərin bağlanması qaydası
+- 49-1.1. Hüquqi şəxsə aidiyyəti olan şəxslə həmin hüquqi şəxs arasında bağlanılan hər hansı əqd, razılaşma və yaxud əlaqəli əqdlər məcmusu aidiyyəti şəxslə əqd hesab edilir. Hüquqi şəxsə aidiyyəti olan şəxslər aşağıdakılardır:
+  - 49-1.1.1. hüquqi şəxsin direktorlar şurasının (müşahidə şurasının) və icra orqanının rəhbəri və üzvləri;
+  - 49-1.1.2. hüquqi şəxsin struktur bölməsinin (filial, nümayəndəlik, idarə və s.) rəhbəri;
+  - 49-1.1.3. bu Məcəllənin 49-1.1.1-ci və 49-1.1.2-ci maddələrində göstərilən şəxslərin qohumları (əri (arvadı), valideynləri, o cümlədən ərinin, arvadının valideynləri, babaları və nənələri, övladları, övladlığa götürənləri (götürülənləri), qardaşları və bacıları);
+  - 49-1.1.4. hüquqi şəxsin nizamnamə kapitalında ən azı 10 faiz və daha çox paya birbaşa və ya dolayı yolla malik olan hər hansı şəxs;
+  - 49-1.1.5. bu Məcəllənin 49-1.1.1-ci, 49-1.1.2-ci və 49-1.1.4-cü maddələrində göstərilən şəxslərin birbaşa və ya dolayısı ilə iştirak etdiyi hüquqi şəxslər;
+  - 49-1.1.6. hüquqi şəxsin, nizamnamə kapitalında ən azı 20 faiz payla iştirak etdiyi hüquqi şəxs;
+  - 49-1.1.7. bu Məcəllənin 49-1.1.4-cü və 49-1.1.6-cı maddələrində göstərilən hüquqi şəxslərdə ən azı 20 faiz paya (səhmlərə) malik olan hər hansı şəxs;
+  - 49-1.1.8. bu Məcəllənin 49-1.1.4-cü və 49-1.1.6-cı maddələrində göstərilən hüquqi şəxslərin direktorlar şurasının (müşahidə şurasının) və icra orqanlarının rəhbərləri;
+  - 49-1.1.9. “”, “”, “” Azərbaycan Respublikasının qanunları ilə müəyyən edilmiş, müvafiq olaraq, banklara, bank olmayan kredit təşkilatlarına və investisiya fondlarına aidiyyəti olan digər şəxslər.
+- 49-1.2. Aidiyyəti şəxslə bağlanması nəzərdə tutulan əqdin dəyəri hüquqi şəxsin aktivlərinin 5 faiz və daha çox hissəsini təşkil etdikdə, həmin əqd hüquqi şəxs tərəfindən cəlb edilmiş müstəqil auditorun rəyi və hüquqi şəxsin iştirakçılarının ümumi yığıncağının sadə səs çoxluğu ilə qəbul edilmiş qərarı ilə bağlanılır. Həmin əqdə münasibətdə aidiyyəti şəxs olan iştirakçı məsələ ilə əlaqədar olan səsvermədə iştirak edə bilməz.
+- 49-1.3. Aidiyyəti şəxslə bağlanması nəzərdə tutulan əqdin dəyəri hüquqi şəxsin aktivlərinin 5 faizədək hissəsini təşkil etdikdə, həmin əqd hüquqi şəxsin nizamnaməsinə uyğun olaraq, onun iştirakçılarının ümumi yığıncağı, direktorlar şurası (müşahidə şurası) və ya banklara münasibətdə “” Azərbaycan Respublikasının Qanununun tələbləri nəzərə alınmaqla, icra orqanı tərəfindən qəbul olunur. Bu halda iştirakçıların ümumi yığıncağında, direktorlar şurasının (müşahidə şurasının) və kollegial icra orqanının iclaslarında aidiyyəti şəxs olan iştirakçı (üzv) səsvermədə iştirak edə bilməz. Hüquqi şəxsin təkbaşına icra orqanının rəhbəri, habelə onun bu Məcəllənin 49-1.1.3-cü və 49-1.1.5-ci maddələrində göstərilən şəxsləri aidiyyəti şəxs qismində çıxış etdikdə onlarla hüquqi şəxs arasında əqd direktorlar şurasının (müşahidə şurasının), o olmadıqda isə hüquqi şəxsin ümumi yığıncağının qərarı ilə bağlanılır.
+- 49-1.4. Əqdin bu Məcəllənin 49-1.2-ci və 49-1.3-cü maddələrinin tələbləri pozulmaqla bağlanılması nəticəsində hüquqi şəxsə dəyən zərərə görə təqsiri olan şəxslər məsuliyyət daşıyır. Əqdin digər tərəfi əqdin bu Məcəllənin 49-1.2-ci və 49-1.3-cü maddələrinin tələbləri pozulmaqla bağlandığını bildikdə hüquqi şəxs və ya onun istənilən iştirakçısı bu Məcəllənin 337.1-ci və 339-cu maddələrinə müvafiq olaraq həmin əqdi mübahisələndirə bilər.
+- 49-1.5. Hüquqi şəxsin direktorlar şurasının (müşahidə şurasının) rəhbəri və ya üzvləri özlərinin, bu Məcəllənin 49-1.1.3-cü və 49-1.1.5-ci maddələrində göstərilən şəxslərin bağlanılan əqdə münasibətdə aidiyyəti şəxs qismində çıxış etmələri, həmçinin həmin əqdlə əlaqədar öz maraqlarının xüsusiyyətləri (onun yaranması, həcmi və s.) barədə məlumatı hüquqi şəxsin iştirakçılarına yazılı şəkildə təqdim etməlidirlər.
+- 49-1.6. Hüquqi şəxsin icra orqanının rəhbəri və ya digər üzvləri özlərinin, bu Məcəllənin 49-1.1.3-cü və 49-1.1.5-ci maddələrində göstərilən şəxslərin bağlanılan əqdə münasibətdə aidiyyəti şəxs qismində çıxış etmələri, həmçinin həmin əqdlə əlaqədar öz maraqlarının xüsusiyyətləri (onun yaranması, həcmi və s.) barədə məlumatı hüquqi şəxsin direktorlar şurasına (müşahidə şurasına), o olmadıqda hüquqi şəxsin iştirakçılarına yazılı şəkildə təqdim etməlidirlər.
+- 49-1.7. Hüquqi şəxsin direktorlar şurasının (müşahidə şurasının) və icra orqanının rəhbəri və ya üzvləri istisna olmaqla digər şəxslər özlərinin, bu Məcəllənin 49-1.1.3-cü və 49-1.1.5-ci maddələrində göstərilən şəxslərin bağlanılan əqdə münasibətdə aidiyyəti şəxs qismində çıxış etmələri, həmçinin həmin əqdlə əlaqədar öz maraqlarının xüsusiyyətləri (onun yaranması, həcmi və s.) barədə məlumatı hüquqi şəxsin direktorlar şurasına (müşahidə şurasına), o olmadıqda hüquqi şəxsin icra orqanına yazılı şəkildə təqdim etməlidirlər.
+
+#### Maddə 50. Hüquqi şəxsin adı
+- 50.1. Hüquqi şəxsin öz təşkilati-hüquqi formasını göstərən adı olur. Qeyri-kommersiya təşkilatının adında hüquqi şəxsin fəaliyyətinin xarakteri göstərilməlidir.
+- 50.1-1. Qeyri-hökumət təşkilatlarının adında Azərbaycan Respublikasının dövlət orqanlarının adlarından, habelə Azərbaycanın görkəmli şəxsiyyətlərinin adlarından (onların yaxın qohumlarının və ya vərəsələrinin icazəsi olmadan) istifadə edilə bilməz.
+- 50.2. Kommersiya təşkilatı olan hüquqi şəxsin firma adı olmalıdır. Firma adı qanunla müəyyənləşdirilmiş qaydada qeydə alınmış hüquqi şəxsin həmin addan istifadəyə müstəsna hüququ vardır. Firma adlarının qeydiyyatı və işlədilməsi qaydası qanunvericiliklə müəyyənləşdirilir.
+- 50.3. Başqa hüquqi şəxsin firma adı ilə hüquqlar və vəzifələr əldə etməyə yol verilmir. Özgəsinin qeydə alınmış firma adından haqsız istifadə edən şəxs firma adına hüququ olanın tələbi ilə ondan istifadəyə son qoymalı və vurduğu zərərin əvəzini ödəməlidir.
+
+#### Maddə 51. Hüquqi şəxsin olduğu yer
+Hüquqi şəxsin daimi fəaliyyət göstərən orqanının, siyasi partiyanın qərargahının yerləşdiyi yer hüquqi şəxsin olduğu yer sayılır.
+
+#### Maddə 52. Hüquqi şəxsin məsuliyyəti
+- 52.1. Hüquqi şəxs öz öhdəlikləri üçün ona mənsub bütün əmlakla cavabdehdir.
+- 52.2. Bu Məcəllədə və ya hüquqi şəxsin nizamnaməsində nəzərdə tutulan hallar istisna olmaqla, hüquqi şəxsin təsisçisi (iştirakçısı) hüquqi şəxsin öhdəlikləri üçün, hüquqi şəxs isə təsisçinin (iştirakçının) öhdəlikləri üçün cavabdeh deyildir.
+
+#### Maddə 53. Nümayəndəliklər və filiallar
+- 53.1. Hüquqi şəxsin olduğu yerdən kənarda yerləşən və hüquqi şəxsin mənafelərini təmsil və müdafiə edən ayrıca bölməsi nümayəndəlik sayılır.
+- 53.2. Hüquqi şəxsin olduğu yerdən kənarda yerləşən və onun funksiyalarının hamısını və ya bir hissəsini, o cümlədən nümayəndəlik funksiyalarını həyata keçirən ayrıca bölməsi filial sayılır.
+- 53.3. Nümayəndəliklər və filiallar hüquqi şəxs deyildirlər və hüquqi şəxsin təsdiq etdiyi əsasnamələr üzrə fəaliyyət göstərirlər. Nümayəndəliklərin və filialların rəhbərləri hüquqi şəxs tərəfindən təyin edilir və onun etibarnaməsi əsasında fəaliyyət göstərirlər. Təsisçilərinin əcnəbilər və ya xarici hüquqi şəxslər olduğu qeyri-hökumət təşkilatlarının filial və ya nümayəndəliklərinin rəhbərlərinin müavinləri Azərbaycan Respublikasının vətəndaşları olmalıdır.
+
+#### Maddə 54. İdarə
+- 54.1. Hüquqi şəxsin idarəetmə, sosial-mədəni və ya digər qeyri-kommersiya xarakterli funksiyaların həyata keçirilməsi üçün yaratdığı təşkilat idarə sayılır.
+- 54.2. İdarə hüquqi şəxs deyildir və hüquqi şəxsin təsdiq etdiyi əsasnamə üzrə fəaliyyət göstərir.
+- 54.3. İdarə ona təhkim edilmiş əmlak barəsində qanunla müəyyənləşdirilmiş hədlərdə, öz fəaliyyətinin məqsədlərinə, hüquqi şəxsin tapşırıqlarına və əmlakın təyinatına uyğun sahiblik, istifadə və sərəncam hüquqlarını həyata keçirir.
+- 54.4. İdarənin öhdəlikləri üçün məsuliyyət idarəni yaratmış hüquqi şəxsin üzərinə düşür.
+- 54.5. Dövlət idarələrinin və digər idarələrin ayrı-ayrı növlərinin hüquqi vəziyyətinin xüsusiyyətləri qanunvericiliklə müəyyənləşdirilir.
+
+#### Maddə 55. Hüquqi şəxsin yenidən təşkili
+- 55.1. Hüquqi şəxsin yenidən təşkili (birləşmə, qoşulma, bölünmə, ayrılma, çevrilmə) onun təsisçilərinin (iştirakçılarının) və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanının qərarı ilə həyata keçirilə bilər.
+- 55.2. Qanunla müəyyənləşdirilmiş hallarda hüquqi şəxsin bölünməsi və ya tərkibindən bir və ya bir neçə hüquqi şəxsin ayrılması şəklində yenidən təşkili məhkəmənin qərarı ilə həyata keçirilir.
+- 55.3. Məhkəmə hüquqi şəxsin kənar idarəçisini təyin edir və ona hüquqi şəxsi yenidən təşkil etməyi tapşırır. Kənar idarəçinin təyin edildiyi andan hüquqi şəxsin işlərini idarə etmək səlahiyyətləri ona keçir. Kənar idarəçi məhkəmədə hüquqi şəxsin adından çıxış edir, bölünmə balansını tərtib edib baxılmaq üçün onu yenidən təşkil nəticəsində yaranan hüquqi şəxslərin nizamnamələri ilə birlikdə məhkəməyə verir. Məhkəmənin qanuni qüvvəyə minmiş qərarı, qanunvericiliyin tələblərinə riayət edilməklə yeni yaranan hüquqi şəxslərin dövlət qeydiyyatına alınması üçün əsasdır.
+- 55.4. Qoşulma şəklində yenidən təşkil halı istisna olmaqla, hüquqi şəxs yeni yaranan hüquqi şəxslərin dövlət qeydiyyatına alındığı andan yenidən təşkil edilmiş sayılır.
+- 55.5. Hüquqi şəxs başqa hüquqi şəxsin ona qoşulması şəklində yenidən təşkil edilərkən qoşulan hüquqi şəxsin fəaliyyətinə xitam verilməsi haqqında qeydin hüquqi şəxslərin dövlət reyestrinə daxil edildiyi andan birinci hüquqi şəxs yenidən təşkil edilmiş sayılır.
+- 55.6. Bankların yenidən təşkili “” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+- 55.7. Barəsində tətbiq oluna biləcək cinayət-hüquqi tədbirlərin təmin edilməsi məqsədi ilə hüquqi şəxsin yenidən təşkil olunması Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində nəzərdə tutulmuş qaydada qadağan oluna bilər. Hüquqi şəxsin yenidən təşkil edilməsinin qadağan olunması barədə məhkəmənin qərarı dərhal müvafiq icra hakimiyyəti orqanına göndərilir.
+
+#### Maddə 56. Hüquqi şəxslər yenidən təşkil edilərkən hüquq varisliyi
+- 56.1. Hüquqi şəxslər birləşdikdə onlardan hər birinin hüquq və vəzifələri təhvil aktına uyğun olaraq yeni yaranmış hüquqi şəxsə keçir.
+- 56.2. Hüquqi şəxs digər hüquqi şəxsə qoşulduqda qoşulan hüquqi şəxsin hüquq və vəzifələri təhvil aktına uyğun olaraq əvvəlki hüquqi şəxsə keçir.
+- 56.3. Hüquqi şəxs bölündükdə onun hüquq və vəzifələri bölünmə balansına uyğun olaraq yeni yaranmış hüquqi şəxslərə keçir.
+- 56.4. Hüquqi şəxsin tərkibindən bir və ya bir neçə hüquqi şəxs ayrıldıqda yenidən təşkil edilmiş hüquqi şəxsin hüquq və vəzifələri bölünmə balansına uyğun olaraq onların hər birinə keçir.
+- 56.5. Bir növdən olan hüquqi şəxs digər növdən olan hüquqi şəxsə çevrildikdə (təşkilati-hüquqi formanın dəyişməsi) yenidən təşkil edilmiş hüquqi şəxsin hüquq və vəzifələri təhvil aktına uyğun olaraq yeni yaranmış hüquqi şəxsə keçir.
+
+#### Maddə 57. Təhvil aktı və bölünmə balansı
+- 57.1. Təhvil aktında və bölünmə balansında yenidən təşkil edilmiş hüquqi şəxsin bütün kreditorları və borcluları barəsində öhdəliklərinin hamısı, o cümlədən tərəflərin mübahisə etdikləri öhdəliklər üzrə hüquqi varislik haqqında müddəalar olmalıdır.
+- 57.2. Təhvil aktı və bölünmə balansı hüquqi şəxsin yenidən təşkili haqqında qərar qəbul etmiş onun təsisçiləri (iştirakçıları) və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanı tərəfindən təsdiq edilir və nizamnamələrlə birlikdə yeni yaranmış hüquqi şəxslərin dövlət qeydiyyatına alınması və ya mövcud hüquqi şəxslərin nizamnamələrində dəyişikliklər edilməsi üçün təqdim olunur.
+- 57.3. Nizamnamələrlə birlikdə təhvil aktının və bölünmə balansının təqdim edilməməsi, habelə onlarda yenidən təşkil edilmiş hüquqi şəxsin öhdəlikləri üzrə hüquq varisliyi haqqında müddəaların olmaması yeni yaranmış hüquqi şəxsləri dövlət qeydiyyatına almaqdan imtina edilməsinə səbəb olur.
+
+#### Maddə 58. Hüquqi şəxs yenidən təşkil edilərkən onun kreditorlarının hüquqları üçün təminatlar
+- 58.1. Hüquqi şəxsin yenidən təşkili haqqında qərar qəbul etmiş hüquqi şəxsin təsisçiləri (iştirakçıları) və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanı, bu Məcəllənin 55.3-cü maddəsində nəzərdə tutulan hallarda isə kənar idarəçi hüquqi şəxsin yenidən təşkili barəsində onun kreditorlarına yazılı bildiriş göndərməyə borcludurlar.
+- 58.2. Yenidən təşkil edilən hüquqi şəxsin kreditorunun ixtiyarı var ki, yenidən təşkil edilən hüquqi şəxsin borclu olduğu öhdəliklərə xitam verilməsini və ya onların vaxtından əvvəl icra olunmasını və zərərin əvəzinin ödənilməsini tələb etsin.
+- 58.3. Əgər bölünmə balansı yenidən təşkil edilmiş hüquqi şəxsin hüquq varisini müəyyənləşdirməyə imkan vermirsə, yeni yaranmış hüquqi şəxslər yenidən təşkil edilmiş hüquqi şəxsin öhdəlikləri üçün onun kreditorları qarşısında birgə məsuliyyət daşıyırlar.
+
+#### Maddə 59. Hüquqi şəxsin ləğvi
+- 59.1. Hüquqi şəxsin ləğvi onun mövcudluğuna və fəaliyyətinə hüquq və vəzifələri hüquq varisliyi qaydasında başqa şəxslərə keçmədən xitam verilməsi deməkdir.
+- 59.2. Hüquqi şəxs aşağıdakı hallarda ləğv edilə bilər:
+  - 59.2.1. onun təsisçilərinin (iştirakçılarının) və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanının qərarı ilə, o cümlədən hüquqi şəxsin mövcudluğu üçün nəzərdə tutulan müddətin qurtarması və ya yaradılması zamanı qarşıya qoyulan məqsədin əldə edilməsi ilə əlaqədar olaraq;
+  - 59.2.2. hüquqi şəxsin yaradılması zamanı yol verilmiş qanunvericilik pozuntuları ilə əlaqədar onun qeydiyyatının məhkəmə tərəfindən etibarsız sayıldığı halda;
+  - 59.2.3. lazımi xüsusi icazə (lisenziya) olmadan fəaliyyət və ya qanunla qadağan edilmiş fəaliyyət həyata keçirildikdə və ya qanunvericilik digər şəkildə dəfələrlə və ya kobudcasına pozulduqda və ya ictimai birlik və ya fond onun nizamnamə məqsədlərinə zidd fəaliyyətlə müntəzəm məşğul olduqda, habelə bu Məcəllədə, “”, “” Azərbaycan Respublikasının qanunlarında nəzərdə tutulan başqa hallarda məhkəmənin qərarı ilə;
+  - 59.2.4. məhkəmənin yekun qərarı ilə hüquqi şəxsi ləğvetmə növündə cinayət-hüquqi tədbir tətbiq edildikdə.
+- 59.2-1. Bu Məcəllənin 59.2.1-ci maddəsində göstərilən əsaslar üzrə hüquqi şəxsin ləğv edilməsi təşəbbüsü ilə çıxış edən iştirakçı və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanı hüquqi şəxsin cari fəaliyyətinə rəhbərlik edən icra orqanından hüquqi şəxsin bütün kreditorlarının tələblərini 12 ay ərzində qarşılamaq üçün ödəmə qabiliyyətinin olmasını təsdiq edən rəsmi bəyanatın (aktiv və passivlərinin vəziyyəti barədə) qəbul edilməsini tələb edir. Hüquqi şəxsin icra orqanı ləğvetmə qərarından ən çoxu 20 gün əvvəl bu bəyanatı qəbul edir və ya belə bəyanatın qəbul edilməsinin mümkünsüz olduğunu bildirir. İcra orqanı bəyanatın qəbul edilməsinin mümkünsüzlüyünü bildirdikdə, iştirakçıların ümumi yığıncağı hüquqi şəxsin bütün kreditorlarının tələblərini 12 ay ərzində qarşılamaq üçün ödəmə qabiliyyətinin olub-olmamasını təsdiq etmək üçün müstəqil auditor cəlb edə bilər. Müstəqil auditor hüquqi şəxsin ödəmə qabiliyyətinin olmasını öz rəyi ilə təsdiq etdikdə, həmin rəy bu maddə ilə müəyyən edilmiş bəyanata bərabər tutulur.
+- 59.3. Bu Məcəllənin 59.2.2 və 59.2.3-cü maddələrində göstərilən əsaslar üzrə hüquqi şəxsin ləğv edilməsi tələbini məhkəməyə qanunla bu cür tələb irəli sürmək hüququ verilmiş dövlət orqanı (qurumu) irəli sürə bilər. Hüquqi şəxsin ləğv edilməsi haqqında məhkəmənin qərarı ilə onun təsisçilərinə (iştirakçılarına) və ya hüquqi şəxsin nizamnaməsi ilə onun ləğvi üçün vəkil edilmiş orqana hüquqi şəxsin ləğvini həyata keçirmək vəzifələri həvalə edilə bilər. Bu Məcəllənin 59.2.4-cü maddəsində göstərilən əsas üzrə hüquqi şəxsin ləğv edilməsi haqqında məhkəmənin yekun qərarı ilə ləğvetmə komissiyasına (təsviyəçiyə) hüquqi şəxsin ləğvini həyata keçirmək vəzifələri həvalə olunur.
+- 59.4. Hüquqi şəxs müflis olma nəticəsində də ləğv edilir.
+- 59.5. Əgər ləğv edilən hüquqi şəxsin əmlakının dəyəri kreditorların tələblərinin ödənilməsi üçün yetərli deyildirsə, o yalnız müflis olma nəticəsində ləğv edilə bilər.
+- 59.6. Ləğvetmə prosesinin ümumi müddəti hüquqi şəxsin ləğv edilməsi barədə məlumatın hüquqi şəxslərin dövlət reyestrinə daxil edildiyi andan etibarən bir ildən çox olmamalıdır. Həmin müddətin keçməsi ləğvetmə prosesinin yenidən başlamasına səbəb olur.
+- 59.7. Xarici hüquqi şəxslərin filial və ya nümayəndəliklərinin ləğv edilməsi zamanı hüquqi şəxslərin ləğvi üçün bu Məcəllə və “” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydalar tətbiq edilir.
+- 59.7-1. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəliklərinin ləğv olunması məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqandan (qurumdan) məlumat daxil olduqdan sonra müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən 5 (beş) iş günü ərzində bu Məcəllənin 59 – 61-ci maddələrində hüquqi şəxsin ləğv edilməsi ilə bağlı qaydalar tətbiq edilmədən Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəliklərinin ləğv olunaraq hüquqi şəxslərin dövlət reyestrindən çıxarılması təmin edilir.
+- 59.8. Yerli bankların, onların filial, şöbə və nümayəndəliklərinin, habelə xarici bankların yerli filial və nümayəndəliklərinin ləğvi “” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla həyata keçirilir.
+- 59.9. Barəsində tətbiq oluna biləcək cinayət-hüquqi tədbirlərin təmin edilməsi məqsədi ilə hüquqi şəxsin onun təsisçilərinin (iştirakçılarının) və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanının qərarı ilə ləğv edilməsi Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində nəzərdə tutulmuş qaydada qadağan oluna bilər. Hüquqi şəxsin ləğv edilməsinin qadağan olunması barədə məhkəmənin qərarı dərhal müvafiq icra hakimiyyəti orqanına göndərilir.
+
+#### Maddə 60. Hüquqi şəxsin ləğvi haqqında qərar
+- 60.1. Hüquqi şəxsin ləğvi haqqında qərarla ləğvetmə komissiyası (təsviyəçi, ləğvedici) təyin edilir, bu Məcəlləyə uyğun olaraq ləğvetmə qaydası və müddətləri müəyyənləşdirilir və ləğvetmə prosesi başlayır.
+- 60.2. Ləğvetmə prosesi ərzində hüquqi şəxsin hüquq qabiliyyəti tam həcmdə saxlanılır.
+- 60.3. Hüquqi şəxsin ləğv edilməsi haqqında qərar qəbul etmiş hüquqi şəxsin iştirakçıları və ya nizamnamə ilə buna vəkil edilmiş orqanı ləğv barədə qərar qəbul edildiyi tarixdən etibarən yalnız ləğvetmə prosesi çərçivəsində fəaliyyət göstərir. Ləğv edilən hüquqi şəxsin adından məhkəmədə ləğvetmə komissiyası (təsviyəçi, ləğvedici) çıxış edir.
+- 60.4. Ləğvetmə komissiyasının (təsviyəçinin, ləğvedicinin) təyin edildiyi andan hüquqi şəxsin işlərini idarə etmək səlahiyyətləri ona keçir. Ləğvetmə komissiyası (təsviyəçi, ləğvedici) borcların ödənilməsi və qalıq gəlirin saxlanıla bilməsi üçün hüquqi şəxsin əmlakını iqtisadi cəhətdən səmərəli, qiymət baxımından sərfəli və tez bir zamanda satılması, borcların ödənilməsindən sonra qalan əmlakın iştirakçılar arasında bölüşdürülməsi, məqsədilə onun işini davam etdirir. Qeyri-kommersiya təşkilatı ləğv edildikdə onun borclarının ödənilməsindən sonra qalan əmlakın hüquqi müqəddəratı bu Məcəllənin 114.3-cü, 116.3-cü və 117.7-ci maddələrinə uyğun olaraq həll edilir.
+- 60.5. Ləğvetmə komissiyasının üzvləri (təsviyəçi, ləğvedici) öz fəaliyyətləri zamanı bu Məcəllənin 49.3-cü maddəsinin tələblərinə riayət etməlidirlər.
+- 60.6. Ləğvetmə komissiyasının üzvləri (təsviyəçi, ləğvedici) təyin olunduqları qaydada geri çağırıla və ya başqa şəxslərlə əvəz edilə bilərlər.
+
+#### Maddə 61. Hüquqi şəxsin ləğvi qaydası
+- 61.1. Ləğvetmə komissiyası (təsviyəçi, ləğvedici) təyin olunduğu gündən sonra 10 gün müddətində Azərbaycan Respublikasında hüquqi şəxslərin dövlət qeydiyyatı haqqında məlumatın dərc edildiyi mətbu nəşrdə hüquqi şəxsin ləğv edilməsi və kreditorlarının tələblərinin bildirilməsi qaydası və müddəti haqqında ilk məlumatı dərc etdirir. Bu məlumat hər dəfə 15-20 gün fasilə ilə daha iki dəfə eyni qaydada dərc etdirilir. Kreditorların tələblərinin irəli sürülməsi müddəti ləğvetmə haqqında ilk məlumatın dərc edildiyi gündən etibarən 60 gündən az ola bilməz.
+- 61.2. Ləğvetmə komissiyası (təsviyəçi, ləğvedici) təyin olunduğu gündən sonra 15 gün müddətində ləğvetmə barədə qərarı, bu Məcəllənin 59.2-1-ci və 61.1-ci maddələrində göstərilən ödəmə qabiliyyətinin olmasını təsdiq edən rəsmi bəyanatı, ilk məlumatın dərc olunmasını təsdiq edən sənədi və möhürü hüquqi şəxslərin dövlət qeydiyyatını həyata keçirən müvafiq icra hakimiyyəti orqanına təqdim etməlidir. Hüquqi şəxslərin dövlət qeydiyyatını həyata keçirən müvafiq icra hakimiyyəti orqanı təqdim edilmiş məlumatları aldığı gündən 5 gün ərzində “” Azərbaycan Respublikasının Qanununa uyğun olaraq hüquqi şəxslərin dövlət reyestrinə daxil edir. Bundan sonra hüquqi şəxs tərəfindən sənədlərin tərtibi zamanı üzərində “ləğv prosesindədir” yazılmış möhürdən istifadə olunur və bütün sənədlərdə onun adından sonra “ləğv prosesindədir” sözləri əlavə edilir.
+- 61.3. Ləğvetmə komissiyası (təsviyəçi, ləğvedici) kreditorları aşkar etmək və debitor borcunu almaq üçün tədbirlər görür, habelə ləğvetmə ilə bağlı mətbuatda elanın dərc olunduğu gün hüquqi şəxsin ləğvi haqqında bütün məlum kreditorlara bildiriş göndərir, dövlət büdcəsinə məcburi ödənişlər və büdcədənkənar dövlət fonduna məcburi dövlət sosial sığorta haqları və işsizlikdən sığorta haqları, habelə icbari tibbi sığorta fonduna icbari tibbi sığorta haqları üzrə borcların olub-olmamasını müəyyən etmək üçün müvafiq icra hakimiyyəti orqanına müraciət edir.
+- 61.3-1. Ləğvetmə komissiyası özünün və ləğv edilən hüquqi şəxsin fəaliyyəti nəticəsində yaranmış və “” Azərbaycan Respublikasının Qanununa uyğun olaraq arxiv sənədinə aid edilmiş sənədlərin hüquqi şəxsin olduğu yer üzrə müvafiq dövlət arxiv xidməti təşkilatına təhvil verilməsini təmin edir.
+- 61.4. Ləğvetmə komissiyası (təsviyəçi, ləğvedici) hər hansı bir kreditorun irəli sürdüyü tələblə razılaşmadığı halda həmin kreditor məhkəmədə iddia qaldırmaq hüququna malikdir. Tələb barədə məhkəmə qərarı qəbul edilənədək onun təmin edilməsi üçün zəruri olan vəsait saxlanılmalıdır.
+- 61.5. Kreditorların tələblərinin irəli sürülməsi müddəti bitdikdən sonra 10 gün müddətində ləğvetmə komissiyası (təsviyəçi, ləğvedici) aralıq ləğvetmə balansını tərtib edərək təsdiq edir və hüquqi şəxsin iştirakçılarına göndərir. Aralıq ləğvetmə balansına ən azı ləğv edilən hüquqi şəxsin əmlakının tərkibi, kreditorlarının tələblərinin və debitor borcların siyahısı haqqında məlumatlar daxil edilir. Aralıq ləğvetmə balansı ilə razı olmayan hüquqi şəxsin nizamnamə kapitalında azı 10 faiz iştirak payına malik iştirakçısı həmin balansı aldığı gündən 7 gün ərzində ümumi yığıncağın çağırılmasını tələb edə bilər. Bu halda aralıq ləğvetmə balansı iştirakçıların ümumi yığıncağı tərəfindən təsdiq edilməlidir.
+- 61.6. Ləğvetmə komissiyası (təsviyəçi, ləğvedici) hüquqi şəxsə məxsus olan əmlakın kreditorların tələblərini ödəmək üçün kifayət etmədiyini müəyyən etdikdə, dərhal müflis olma prosesini başlamalıdır.
+- 61.7. Ləğv edilən hüquqi şəxsin kreditorlarına pul vəsaitini ləğvetmə komissiyası (təsviyəçi, ləğvedici) ödəmə barədə tələblərin daxil olduğu növbəlilik qaydasında aralıq ləğvetmə balansına uyğun olaraq onun təsdiq edildiyi gündən başlayaraq ödəyir.
+- 61.8. Bütün məlum olan kreditorlarla hesablaşmalar başa çatdıqdan sonra 5 gün müddətində ləğvetmə komissiyası (təsviyəçi, ləğvedici) ləğvetmə balansını və qalıq əmlakın iştirakçılar arasında bölünməsi (qeyri-kommersiya təşkilatı olduğu halda isə bu Məcəllənin 114.3-cü, 116.3-cü və 117.7-ci maddələrinə uyğun olaraq istifadə edilməsi) planını əks etdirən hesabatı tərtib edir. Həmin balans və hesabat tərtib edildiyi gündən sonra 45 gündən gec olmayaraq hüquqi şəxsin iştirakçıları və ya nizamnamə ilə buna vəkil edilmiş orqanı tərəfindən təsdiq edilməlidir.
+- 61.9. Kreditorlar ləğvetmə balansı təsdiq edilənə qədər öz tələblərini irəli sürə bilərlər.
+- 61.10. Ləğvetmə balansı təsdiq edildikdən sonra 10 gün ərzində ləğvetmə komissiyası (təsviyəçi, ləğvedici) qalan əmlakın təsdiq edilmiş bölünmə planına uyğun olaraq hüquqi şəxsin iştirakçılarına təqdim edilməsini, qeyri-kommersiya təşkilatı olduğu halda isə təsdiq edilmiş istifadə planına uyğun olaraq bu Məcəllənin 114.3-cü, 116.3-cü və 117.7-ci maddələrinə uyğun olaraq istifadə edilməsini təmin edir. Əmlakın bölünməsi iştirakçının payına mütənasib şəkildə həyata keçirilir. Ləğv edilən hüquqi şəxsin iştirakçısı və ya iştirakçının vərəsəsi olmadıqda qalıq əmlak dövlətə verilir. Dövlətin adından həmin əmlakı müvafiq icra hakimiyyəti orqanı qəbul edir.
+- 61.11. Ləğvetmə komissiyası (təsviyəçi, ləğvedici) qalan əmlakın bölünməsindən və ya istifadə edilməsindən sonra 10 gün ərzində təsdiq olunmuş ləğvetmə balansını, qalıq əmlakın bölünməsi (istifadə edilməsi) planını əks etdirən hesabatı, həmin əmlakın iştirakçılara təqdim edilməsini (qeyri-kommersiya təşkilatı olduğu halda isə bu Məcəllənin 114.3-cü, 116.3-cü və 117.7-ci maddələrinə uyğun olaraq istifadə edilməsini) təsdiq edən sənədi və “” Azərbaycan Respublikası Qanununun 16.2-ci maddəsində nəzərdə tutulmuş digər sənədləri hüquqi şəxslərin dövlət qeydiyatını həyata keçirən müvafiq icra hakimiyyəti orqanına göndərir.
+- 61.12. Hüquqi şəxsin ləğvi bu barədə qeydin hüquqi şəxslərin dövlət reyestrinə daxil edildiyi andan başa çatmış, hüquqi şəxs isə mövcudluğuna son qoymuş sayılır.
+- 61.13. Hüquqi şəxsin ləğvi başa çatdıqdan sonra əmlak meydana çıxarsa, məhkəmə bunda maraqlı olan şəxsin ərizəsi əsasında ləğvetmə prosesini yenidən bərpa və yeni ləğvetmə komissiyası (təsviyəçi, ləğvedici) təyin edə bilər. Bu ləğvetmə komissiyasının (təsviyəçinin, ləğvedicinin) yeganə vəzifəsi həmin əmlakı dərhal pula çevirmək və iştirakçılar arasında bölüşdürməkdir (qeyri-kommersiya təşkilatı olduğu halda isə bu Məcəllənin 114.3-cü, 116.3-cü və 117.7-ci maddələrinə uyğun olaraq istifadə etməkdir). Hüquqi şəxsin dövlət reyestrindən çıxarılmasından sonra yeni öhdəliklərin meydana çıxması ləğvetmə prosesinin yenidən açılmasına səbəb olmur.
+
+#### Maddə 63. Hüquqi şəxsin müflis olması
+- 63.1. Əgər hüquqi şəxs kreditorların tələblərini ödəməyə qadir deyildirsə, o, məhkəmənin qərarı ilə müflis sayıla bilər.
+- 63.2. Hüquqi şəxsin məhkəmə tərəfindən müflis sayılması əsasları və qaydası, müvafiq olaraq, “” və “” Azərbaycan Respublikasının qanunları ilə müəyyənləşdirilir.
+
+### §2. Kommersiya təşkilatları
+
+ortaqlığı formasında yaradıla bilər.
 - 64.3. Təsərrüfat cəmiyyətləri məhdud və ya əlavə məsuliyyətli cəmiyyət və ya səhmdar cəmiyyəti formasında yaradıla bilər.
 - 64.4. Yalnız fərdi sahibkarlar və (və ya) kommersiya təşkilatları tam ortaqlıqların iştirakçıları və kommandit ortaqlıqlarında tam ortaqlar ola bilərlər.
 - 64.5. Təsərrüfat cəmiyyətlərinin iştirakçıları və kommandit ortaqlıqlarının maya qoyanları fiziki və hüquqi şəxslər ola bilərlər.
@@ -325,7 +460,7 @@ Dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının mülki
 - 66.2. Ortaqlıq cəmiyyətə çevrilərkən cəmiyyətin iştirakçısı (səhmdarı) olmuş hər bir tam ortaq ortaqlıqdan cəmiyyətə keçmiş öhdəliklər üzrə iki il ərzində özünün bütün əmlakı ilə subsidiar məsuliyyət daşıyır. Keçmiş ortağın ona mənsub payları (səhmləri) özgəninkiləşdirməsi onu bu cür məsuliyyətdən azad etmir.
 
 #### Maddə 67. Törəmə təsərrüfat cəmiyyəti
-- 67.1. Təsərrüfat cəmiyyəti o halda törəmə cəmiyyət sayılır ki, digər (əsas) təsərrüfat ortaqlığı və ya cəmiyyəti onun nizamnamə kapitalında üstün iştirakına görə və ya onlar arasında bağlanmış müqaviləyə müvafiq surətdə həmin cəmiyyətin qəbul etdiyi qərarları müəyyənləşdirmək imkanına malik olur.
+- 67.1. Təsərrüfat cəmiyyəti o halda törəmə cəmiyyət sayılır ki, digər (əsas) təsərrüfat ortaqlığı və ya cəmiyyəti onun nizamnamə kapitalında üstün iştirakına görə və ya onlar arasında bağlanmış müqaviləyə müvafiq surətdə həmin cəmiyyətin qəbul etdiyi qərarı müəyyənləşdirmək imkanına malik olur.
 - 67.2. Törəmə cəmiyyət əsas ortaqlığın və ya cəmiyyətin borcları üçün cavabdeh deyildir.
 - 67.3. Törəmə cəmiyyətə onun üçün məcburi göstərişlər vermək hüququ olan əsas ortaqlıq və ya cəmiyyət həmin göstərişlərin icrası üçün törəmə cəmiyyətin bağladığı əqdlər üzrə onunla birgə məsuliyyət daşıyır. Əsas ortaqlıq və ya cəmiyyət törəmə cəmiyyətə onun üçün məcburi göstərişlər vermək hüququna yalnız o halda malik sayılır ki, bu hüquq törəmə cəmiyyətlə müqavilədə nəzərdə tutulmuş olur.
 - 67.4. Törəmə cəmiyyətin iştirakçıları (səhmdarları) əsas ortaqlıqdan və ya cəmiyyətdən onun təqsiri üzündən törəmə cəmiyyətə dəymiş zərərin əvəzini ödəməyi tələb edə bilərlər. Zərər yalnız əsas ortaqlığın və ya cəmiyyətin törəmə cəmiyyət üçün məcburi göstərişinin törəmə cəmiyyət tərəfindən icrası nəticəsində baş verdikdə əsas ortaqlığın və ya cəmiyyətin təqsiri üzündən vurulmuş sayılır.
@@ -374,7 +509,7 @@ Tam ortaqlığın nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstə
 - 75.4. Bu maddədə nəzərdə tutulan məsuliyyətin məhdudlaşdırılması və ya aradan qaldırılması haqqında ortaqlıq iştirakçılarının razılaşması əhəmiyyətsizdir.
 
 #### Maddə 76. Tam ortaqlıq iştirakçılarının tərkibinin dəyişdirilməsi
-- 76.1. Tam ortaqlığın hər hansı iştirakçısı ortaqlıqdan çıxdıqda və ya öldükdə, iştirakçılardan biri xəbərsiz itkin düşmüş, fəaliyyət qabiliyyəti olmayan və ya məhdud fəaliyyət qabiliyyətli və ya müflis sayıldıqda, məhkəmənin qərarına əsasən iştirakçılardan biri barəsində yenidən təşkil prosedurlarına başlandıqda, ortaqlıqda iştirak edən hüquqi şəxs ləğv olunduqda və ya iştirakçılardan birinin kreditoru tərəfindən tutma onun şərikli kapitaldakı payına uyğun əmlak hissəsinə yönəldikdə ortaqlıq öz fəaliyyətini, əgər bu, ortaqlığın nizamnaməsində və ya qalan iştirakçıların razılaşmasında nəzərdə tutulubsa, davam etdirə bilər.
+- 76.1. Tam ortaqlığın hər hansı iştirakçısı ortaqlıqdan çıxdıqda və ya öldükdə, iştirakçılardan biri xəbərsiz itkin düşmüş, fəaliyyət qabiliyyəti olmayan və ya məhdud fəaliyyət qabiliyyətli və ya müflis sayıldıqda, məhkəmənin qərarına əsasən iştirakçılardan biri barəsində yenidən təşkil prosedurlarına başlandıqda, ortaqlıqda iştirak edən hüquqi şəxs ləğv olunduqda və ya iştirakçılardan birinin kreditoru tərəfindən tutma onun şərikli kapitaldakı payına uyğun əmlak hissəsinə yönəldildikdə ortaqlıq öz fəaliyyətini, əgər bu, ortaqlığın nizamnaməsində və ya qalan iştirakçıların razılaşmasında nəzərdə tutulubsa, davam etdirə bilər.
 - 76.2. Tam ortaqlıq iştirakçılarının ixtiyarı var ki, iştirakçılardan hər hansı birinin məhkəmə qaydasında ortaqlıqdan çıxarılmasını qalan iştirakçıların yekdil qərarı ilə və bunun üçün ciddi əsaslar olduqda, məsələn, həmin iştirakçı öz vəzifələrini kobudcasına pozduqda və ya onun işləri ağılla aparmağa qadir olmadığı aşkara çıxdıqda tələb etsinlər.
 
 #### Maddə 77. İştirakçının tam ortaqlıqdan çıxması
@@ -384,7 +519,7 @@ Tam ortaqlığın nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstə
 
 #### Maddə 78. İştirakçının tam ortaqlıqdan çıxmasının nəticələri
 - 78.1. Tam ortaqlıqdan çıxmış iştirakçıya, əgər nizamnamədə ayrı qayda nəzərdə tutulmayıbsa, həmin iştirakçının şərikli kapitaldakı payına uyğun ortaqlıq əmlakı hissəsinin dəyəri ödənilir. Çıxan iştirakçı ilə qalan iştirakçılar arasında razılaşmaya əsasən əmlak dəyərinin ödənilməsi əmlakın naturada verilməsi ilə əvəz edilə bilər. Çıxan iştirakçıya ortaqlıq əmlakından çatası hissə və ya onun dəyəri, bu Məcəllənin 80-ci maddəsində nəzərdə tutulan hal istisna olmaqla, onun çıxdığı məqamda tərtib edilən balans üzrə müəyyənləşdirilir.
-- 78.2. Tam ortaqlığın iştirakçısı öldükdə onun vərəsəsi tam ortaqlığa, əgər ortaqlığın nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, yalnız digər iştirakçıların razılığı ilə daxil ola bilər. Tam ortaqlıqda iştirak etmiş və yenidən təşkil edilmiş hüquqi şəxsin hüquq varisi olan hüquqi şəxs, əgər ortaqlığın nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, ortaqlığa onun digər iştirakçılarının razılığı ilə daxil ola bilər. Ortaqlığa daxil olmayan vərəsə (hüquq varisi) ilə hesablaşmalar bu Məcəllənin 78.1-ci maddəsinə uyğun aparılır. Tam ortaqlıq iştirakçısının vərəsəsi (hüquq varisi) bu Məcəllənin 75.2 və 75.3-cü maddələrinə uyğun olaraq, çıxan iştirakçının üçüncü şəxslər qarşısında cavab verməli olduğu ortaqlığın öhdəlikləri üzrə ortaqlığın çıxan iştirakçısından ona keçmiş əmlak həddində məsuliyyət daşıyır.
+- 78.2. Tam ortaqlığın iştirakçısı öldükdə onun vərəsəsi tam ortaqlığa, əgər ortaqlığın nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, yalnız digər iştirakçıların razılığı ilə daxil ola bilər. Tam ortaqlıqda iştirak etmiş və yenidən təşkil edilmiş hüquqi şəxsə hüquq varisi olan hüquqi şəxs, əgər ortaqlığın nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, ortaqlığa onun digər iştirakçılarının razılığı ilə daxil ola bilər. Ortaqlığa daxil olmayan vərəsə (hüquq varisi) ilə hesablaşmalar bu Məcəllənin 78.1-ci maddəsinə uyğun aparılır. Tam ortaqlıq iştirakçısının vərəsəsi (hüquq varisi) bu Məcəllənin 75.2 və 75.3-cü maddələrinə uyğun olaraq, çıxan iştirakçının üçüncü şəxslər qarşısında cavab verməli olduğu ortaqlığın öhdəlikləri üzrə ortaqlığın çıxan iştirakçısından ona keçmiş əmlak həddində məsuliyyət daşıyır.
 - 78.3. Əgər iştirakçılardan biri ortaqlıqdan çıxırsa, ortaqlığın şərikli kapitalında qalan iştirakçıların payları, əgər nizamnamədə və ya iştirakçıların başqa razılaşmasında ayrı qayda nəzərdə tutulmayıbsa, müvafiq surətdə artır.
 
 #### Maddə 79. İştirakçının tam ortaqlığın şərikli kapitalındakı payının verilməsi
@@ -440,7 +575,7 @@ Kommandit ortaqlığının nizamnaməsində bu Məcəllənin 47.2-ci maddəsind�
   - 87.5.3. bu Məcəllə və cəmiyyətin nizamnaməsi ilə nəzərdə tutulmuş cəmiyyətin idarəetmə orqanlarını təşkil edir;
   - 87.5.4. cəmiyyətin yaradılması və cəmiyyətin fəaliyyətinin başlanılması ilə əlaqədar bu Məcəlləyə, digər qanunvericilik aktlarına və təsisçilər arasında bağlanılmış müqaviləyə zidd olmayan digər məsələləri həll edir.
 - 87.6. Cəmiyyətin təsis yığıncağında cəmiyyətin təsis edilməsi, nizamnamənin təsdiq edilməsi, cəmiyyətin yaradılması zamanı nizamnamə kapitalına ödənilən pul olmayan əmanətlərin dəyərinin təsdiq edilməsi, idarəetmə orqanlarının formalaşdırılması barədə qərarlar təsisçilər tərəfindən yekdilliklə, digər məsələlər üzrə isə sadə səs çoxluğu ilə qəbul edilir.
-- 87.7. Cəmiyyətin yaradılması ilə bağlı və onun dövlət qeydiyyatına alınmasına qədər yaranmış öhdəliklərinə görə cəmiyyətin təsisçiləri birgə məsuliyyət daşıyırlar.
+- 87.7. Cəmiyyətin yaradılması ilə bağlı və onun dövlət qeydiyyatına alınmasına qədər yaranmış öhdəliklərinə görə cəmiyyətin təsisçiləri birgə məsuliyyət daşıyırlar
 - 87.8. Məhdud məsuliyyətli cəmiyyətin firma adında cəmiyyətin adı, habelə "məhdud məsuliyyətli cəmiyyət" sözləri göstərilməlidir.
 - 87.9. Məhdud məsuliyyətli cəmiyyətin hüquqi vəziyyəti, habelə onun iştirakçılarının hüquq və vəzifələri bu Məcəllə ilə müəyyənləşdirilir.
 - 87.10. Məhdud məsuliyyətli cəmiyyətin xalis aktivlərinin dəyərinin əlli faizindən artıq məbləğdə olan əqd xüsusi əhəmiyyətli əqd hesab edilir. Xüsusi əhəmiyyətli əqdin bağlanılması barədə qərar cəmiyyətinin iştirakçılarının ümumi yığıncağında qəbul edilir.
@@ -453,15 +588,12 @@ Kommandit ortaqlığının nizamnaməsində bu Məcəllənin 47.2-ci maddəsind�
 Məhdud məsuliyyətli cəmiyyətin nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstərilmiş məlumatlardan savayı, cəmiyyətin nizamnamə kapitalının miqdarı haqqında; iştirakçılardan hər birinin payının miqdarı haqqında; onların qoyduqları mayaların tərkibi və maya qoyması qaydası haqqında, maya qoyulması üzrə öhdəlikləri pozmağa görə iştirakçıların məsuliyyətləri haqqında; cəmiyyəti idarəetmə orqanlarının tərkibi və səlahiyyəti, onların qərarlar qəbul etməsi, o cümlədən barəsində yekdilliklə və ya şərtləşdirilmiş səs çoxluğu ilə qərarlar qəbul edilən məsələlərə dair qərarlar qəbul etməsi qaydası haqqında şərtlər göstərilməlidir.
 
 #### Maddə 90. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalı
-- 90.1. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalı onun iştirakçılarının mayalarının dəyərindən təşkil olunur. Cəmiyyətin nizamnamə kapitalı onun kreditorlarının mənafelərinə təminat verən əmlakının minimum miqdarını müəyyənləşdirir. Cəmiyyətin nizamnamə kapitalının miqdarı onun kreditorlarının mənafelərinə təminat verən məbləğdən az ola bilməz.
-  - Maliyyə bazarlarında nəzarət edilən subyektlərə münasibətdə nizamnamə kapitalının minimum miqdarı, onun formalaşdırılması qaydası sahəvi qanunların tələbləri nəzərə alınmaqla müəyyən edilir.
+- 90.1. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalı onun iştirakçılarının mayalarının dəyərindən təşkil olunur. Cəmiyyətin nizamnamə kapitalı onun kreditorlarının mənafelərinə təminat verən əmlakının minimum miqdarını müəyyənləşdirir. Cəmiyyətin nizamnamə kapitalının miqdarı onun kreditorlarının mənafelərinə təminat verən məbləğdən az ola bilməz. Maliyyə bazarlarında nəzarət edilən subyektlərə münasibətdə nizamnamə kapitalının minimum miqdarı, onun formalaşdırılması qaydası sahəvi qanunların tələbləri nəzərə alınmaqla müəyyən edilir.
 - 90.2. Məhdud məsuliyyətli cəmiyyətin nizamnaməsində nizamnamə kapitalının müəyyən müddətə ödənilməsi nəzərdə tutulmayıbsa, cəmiyyət dövlət qeydiyyatına alınanadək təsisçilər nizamnamə kapitalını tamamilə ödəməyə borcludurlar. Məhdud məsuliyyətli cəmiyyətin nizamnaməsində nizamnamə kapitalının ödənilməsi müddətlə şərtləndirildiyi halda, bu müddət üç aydan çox ola bilməz.
 - 90.3. Məhdud məsuliyyətli cəmiyyət iştirakçısının cəmiyyətinin nizamnamə kapitalına maya qoymaq vəzifəsindən azad edilməsinə yol verilmir.
-- 90.3-1. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalının artırılması zamanı cəmiyyət iştirakçılarının yekdil qərarı əsasında həmin cəmiyyətə qarşı pul tələbinə malik olan şəxslər pul tələblərini əvəzləşdirməklə və məhdud məsuliyyətli cəmiyyətin iştirakçısı olmaqla nizamnamə kapitalına maya qoymaq vəzifəsindən azad oluna bilərlər. Bu cür təşəbbüslə cəmiyyətə qarşı pul tələbi olan şəxslər və (və ya) cəmiyyət çıxış edə bilər.
-  - Maliyyə bazarlarında nəzarət edilən subyektlərə qarşı pul tələbi olan şəxslərin pul tələblərinin həmin subyektlərin nizamnamə kapitalında payla əvəzləşdirilməsi maliyyə bazarlarını tənzimləyən qanunlarda mühüm iştirak payının əldə olunmasına dair tələblər nəzərə alınmaqla həyata keçirilir.
+- 90.3-1. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalının artırılması zamanı cəmiyyət iştirakçılarının yekdil qərarı əsasında həmin cəmiyyətə qarşı pul tələbinə malik olan şəxslər pul tələblərini əvəzləşdirməklə və məhdud məsuliyyətli cəmiyyətin iştirakçısı olmaqla nizamnamə kapitalına maya qoymaq vəzifəsindən azad oluna bilərlər. Bu cür təşəbbüslə cəmiyyətə qarşı pul tələbi olan şəxslər və (və ya) cəmiyyət çıxış edə bilər. Maliyyə bazarlarında nəzarət edilən subyektlərə qarşı pul tələbi olan şəxslərin pul tələblərinin həmin subyektlərin nizamnamə kapitalında payla əvəzləşdirilməsi maliyyə bazarlarını tənzimləyən qanunlarda mühüm iştirak payının əldə olunmasına dair tələblər nəzərə alınmaqla həyata keçirilir.
 - 90.4. Əgər ikinci və ya hər bir növbəti maliyyə ili başa çatarkən məhdud məsuliyyətli cəmiyyətin xalis aktivlərinin dəyəri nizamnamə kapitalından az olarsa, cəmiyyət öz nizamnamə kapitalının azaldığını elan etməyə və müəyyənləşdirilmiş qaydada qeydə aldırmağa borcludur. Əgər cəmiyyətin göstərilən aktivlərinin dəyəri nizamnamə kapitalının minimum miqdarından az olarsa, cəmiyyət ləğv edilməlidir.
-- 90.4. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalı yalnız onun tam ödənilməsindən sonra bu Məcəllədə və cəmiyyətin nizamnaməsində nəzərdə tutulmuş qaydada cəmiyyətin əmlakı hesabına iştirakçıların nizamnamə kapitalındakı mayalarının dəyərinə mütənasib şəkildə artırılması və (və ya) iştirakçılar tərəfindən əlavə mayaların qoyulması vasitəsi ilə və (və ya) cəmiyyətə qarşı pul tələbi olan şəxslərin pul tələblərinin həmin cəmiyyətin nizamnamə kapitalında payla əvəzləşdirməsi yolu ilə və (və ya) cəmiyyətə qəbul edilən yeni iştirakçıların mayaları hesabına artırıla bilər.
-  - Maliyyə bazarlarını tənzimləyən qanunlarda pul tələblərinin cəmiyyətin nizamnamə kapitalındakı payla əvəzləşdirilməsi ilə bağlı müddəaların olduğu hallar istisna olmaqla, cəmiyyətin təsərrüfat fəaliyyəti nəticəsində ödənilməmiş zərəri onun nizamnamə kapitalından artıq olduğu halda, həmin artıq məbləğlə iştirak payı ilə əvəzləşdirilməsi nəzərdə tutulan borc məbləği arasındakı fərq əlavə maya qoyulması hesabına aradan qaldırıldıqda cəmiyyətə qarşı pul tələblərinin əvəzləşdirilməsinə yol verilir. Cəmiyyətin təsərrüfat fəaliyyəti nəticəsində ödənilməmiş zərəri müəyyən edilərkən əsas vəsaitlərə amortizasiya ayırmaları hesabına yaranan xərclər nəzərə alınmır.
+- 90.4. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalı yalnız onun tam ödənilməsindən sonra bu Məcəllədə və cəmiyyətin nizamnaməsində nəzərdə tutulmuş qaydada cəmiyyətin əmlakı hesabına iştirakçıların nizamnamə kapitalındakı mayalarının dəyərinə mütənasib şəkildə artırılması və (və ya) iştirakçılar tərəfindən əlavə mayaların qoyulması vasitəsi ilə və (və ya) cəmiyyətə qarşı pul tələbi olan şəxslərin pul tələblərinin həmin cəmiyyətin nizamnamə kapitalında payla əvəzləşdirməsi yolu ilə və (və ya) cəmiyyətə qəbul edilən yeni iştirakçıların mayaları hesabına artırıla bilər. Maliyyə bazarlarını tənzimləyən qanunlarda pul tələblərinin cəmiyyətin nizamnamə kapitalındakı payla əvəzləşdirilməsi ilə bağlı müddəaların olduğu hallar istisna olmaqla, cəmiyyətin təsərrüfat fəaliyyəti nəticəsində ödənilməmiş zərəri onun nizamnamə kapitalından artıq olduğu halda, həmin artıq məbləğlə iştirak payı ilə əvəzləşdirilməsi nəzərdə tutulan borc məbləği arasındakı fərq əlavə maya qoyulması hesabına aradan qaldırıldıqda cəmiyyətə qarşı pul tələblərinin əvəzləşdirilməsinə yol verilir. Cəmiyyətin təsərrüfat fəaliyyəti nəticəsində ödənilməmiş zərəri müəyyən edilərkən əsas vəsaitlərə amortizasiya ayırmaları hesabına yaranan xərclər nəzərə alınmır.
 - 90.5. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalının cəmiyyətin əmlakı hesabına artırılması cəmiyyətin nizamnaməsində nəzərdə tutulmuş qaydada cəmiyyətin ümumi yığıncağının qərarı ilə həyata keçirilir. Belə qərar yalnız cəmiyyətin ötən il üçün maliyyə hesabatlarının göstəriciləri əsasında qəbul edilə bilər. Nizamnamə kapitalının cəmiyyətin əmlakı hesabına artırılan miqdarı cəmiyyətin xalis aktivlərinin dəyəri, nizamnamə kapitalının miqdarı və cəmiyyətin ehtiyat fondu arasındakı fərqi keçməməlidir. Cəmiyyətin nizamnamə kapitalı bu maddədə müəyyən edilmiş qaydada artırıldıqda iştirakçıların mayalarının məbləği dəyişmədən bütün iştirakçıların mayalarının nominal dəyəri proporsional surətdə artır.
 - 90.6. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalının iştirakçıların əlavə payları hesabına artırılması cəmiyyətin nizamnaməsində nəzərdə tutulmuş qaydada cəmiyyətin ümumi yığıncağının qərarı ilə həyata keçirilir. Bu qərarla əlavə payların ümumi dəyəri, həmçinin iştirakçının əlavə payının dəyəri və onun payının nominal dəyərinin artırıldığı məbləğ arasındakı nisbət müəyyən edilməlidir. Həmin nisbət iştirakçının payının nominal dəyərinin onun əlavə payına bərabər və ya ondan az məbləğdə arta biləcəyi nəzərə alınmaqla müəyyən edilir. Hər bir iştirakçı əlavə payların ümumi dəyərindən artıq olmayan, həmin iştirakçının nizamnamə kapitalında olan mayasının məbləğinə proporsional olaraq əlavə pay qoymaq hüququna malikdir. İştirakçılar tərəfindən əlavə paylar, bu barədə ümumi yığıncağın qərarı qəbul edildikdən sonra nizamnamədə və ya ümumi yığıncağın qərarında müəyyən edilmiş müddətdə qoyulmalıdır. Əlavə pay qoymaq üçün müəyyən edilmiş müddətin ötürülməsi nizamnamə kapitalının qeyd edilən üsulla artırılmasının baş tutmamasına səbəb olur.
 - 90.7. Bu Məcəllənin 90.6-cı maddəsində nəzərdə tutulmuş qaydada cəmiyyətin ümumi yığıncağının cəmiyyətin nizamnamə kapitalının artırılması haqqında qərarı iştirakçının (iştirakçıların) əlavə maya qoyulması haqqında ərizəsi və (və ya) əgər nizamnamədə qadağan edilməmişdirsə, üçüncü şəxsin (şəxslərin) onun (onların) cəmiyyətə iştirakçı kimi qəbul edilməsi və maya qoyması haqqında ərizəsi əsasında qəbul edilir. Ərizədə mayaların məbləği və tərkibi, onların qoyulma qaydası və müddəti, iştirakçının və ya üçüncü şəxsin nizamnamə kapitalında malik olmaq istədikləri mayaların məbləği göstərilir. Ərizədə mayaların qoyulmasının və cəmiyyətə daxil olmanın digər şərtləri də göstərilə bilər. Cəmiyyətin ümumi yığıncağı iştirakçıların ərizəsi əsasında nizamnamə kapitalının artırılması haqqında qərarın qəbul edilməsi ilə eyni zamanda nizamnamə kapitalının məbləğinin və ərizə vermiş iştirakçının mayasının nominal dəyərinin artırılması ilə əlaqədar nizamnaməyə edilən dəyişikliklər haqqında da qərar qəbul edir. Ümumi yığıncaq üçüncü şəxsin ərizəsi əsasında nizamnamə kapitalının artırılması haqqında qərarla yanaşı üçüncü şəxsin cəmiyyətə qəbul edilməsi, onun mayasının nominal dəyərinin müəyyən edilməsi və iştirakçıların mayalarının məbləğlərinin dəyişməsi ilə əlaqədar nizamnaməyə edilən dəyişikliklər haqqında qərar qəbul edir. Cəmiyyətə qəbul edilən üçüncü şəxsin mayasının nominal dəyəri onun payının dəyərinin məbləğinə bərabər və ya ondan az olmalıdır. Əgər nizamnamə kapitalının artırılması baş tutmamışdırsa, cəmiyyət ağlabatan müddətdə iştirakçıların əlavə mayalarını və üçüncü şəxslərin mayalarını müvafiq olaraq geri qaytarmalıdır.
@@ -495,27 +627,25 @@ Məhdud məsuliyyətli cəmiyyətin nizamnaməsində bu Məcəllənin 47.2-ci ma
 - 91.5. Qanunvericilikdə nəzərdə tutulan hallar istisna olmaqla, cəmiyyətin işlərinin aparılması nəticələri haqqında cəmiyyət tərəfindən məlumatların dərc edilməsi (açıq hesabat) tələb olunmur.
 Qeyd: Bu Məcəllənin 91.1-ci, 91-4.1-ci, 107.3-cü və 107-12.1-ci maddələrində “ictimai əhəmiyyətli qurumlar” dedikdə “ ” Azərbaycan Respublikası Qanununun 2.1.9-cu maddəsində göstərilən kommersiya təşkilatları başa düşülür.
 
-- uyğun olaraq təftiş komissiyasının (müfəttişin) səlahiyyətləri direktorlar şurasına (müşahidə şurasına) verilə bilər.
+#### Maddə 91-1. Məhdud məsuliyyətli cəmiyyətin direktorlar şurası (müşahidə şurası)
+- 91-1.1. uyğun olaraq təftiş komissiyasının (müfəttişin) səlahiyyətləri direktorlar şurasına (müşahidə şurasına) verilə bilər.
 - 91-1.2. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) yaradılması və fəaliyyəti, habelə səlahiyyətlərinə xitam verilməsi qaydası nizamnamə ilə müəyyən edilir.
 - 91-1.3. Cəmiyyətin təkbaşına rəhbəri, kollegial icra orqanının rəhbəri (üzvü), kənar idarəçi direktorlar şurasının (müşahidə şurasının) üzvü ola bilməz.
-- 91-1.4. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) iclaslarını üç ayda bir dəfədən az olmayaraq çağırır və iclaslara sədrlik edir. Cəmiyyətin təftiş komissiyasının (müfəttişin), icra orqanının, şura üzvlərinin və nizamnamə ilə müəyyən edilə bilən digər şəxslərin tələbi ilə də direktorlar şurasının (müşahidə şurasının) iclası şuranın sədri tərəfindən çağırılır. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) iclası maliyyə bazarlarında nəzarət edilən subyektlərə münasibətdə həmçinin Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla çağırılır. Şuranın iclasının keçirilməsi qaydaları cəmiyyətin nizamnaməsi ilə müəyyən edilir.
+- 91-1.4. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) sədri onun iclaslarını üç ayda bir dəfədən az olmayaraq çağırır və iclaslara sədrlik edir. Cəmiyyətin təftiş komissiyasının (müfəttişin), icra orqanının, şura üzvlərinin və nizamnamə ilə müəyyən edilə bilən digər şəxslərin tələbi ilə də direktorlar şurasının (müşahidə şurasının) iclası şuranın sədri tərəfindən çağırılır. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) iclası maliyyə bazarlarında nəzarət edilən subyektlərə münasibətdə həmçinin “ ” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla çağırılır. Şuranın iclasının keçirilməsi qaydaları cəmiyyətin nizamnaməsi ilə müəyyən edilir.
 - 91-1.5. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) iclasında hər üzv bir səsə malik olmaqla, qərarlar sadə səs çoxluğu ilə qəbul edilir. Səslərin sayı bərabər bölünərsə, şuranın sədrinin səsi həlledici hesab edilir.
 - 91-1.6. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) iclasının yerini, vaxtını, iştirakçılarını, gündəliyini, çıxışların xülasəsini, səsvermənin nəticələrini və qərarlarını əks etdirən protokol tərtib edilir. Həmin protokol şuranın sədri və üzvləri tərəfindən imzalanır.
-
 #### Maddə 91-2. Məhdud məsuliyyətli cəmiyyətin icra orqanı
 - 91-2.1. Cəmiyyətin icra orqanının fəaliyyəti və onun tərəfindən qərarların qəbul edilməsi qaydası cəmiyyətin nizamnaməsi və daxili sənədləri ilə müəyyən edilir.
 - 91-2.2. Cəmiyyətin kollegial icra orqanı yalnız fiziki şəxslərdən ibarət ola bilər.
 - 91-2.3. Cəmiyyət və cəmiyyətin təkbaşına rəhbəri arasında müqavilə həmin şəxsin seçildiyi (təyin edildiyi) cəmiyyətin iştirakçılarının ümumi yığıncağında sədrlik edən şəxs və ya ümumi yığıncağın qərarı ilə müvəkkil edilən şəxs tərəfindən imzalanır. Təkbaşına rəhbərin səlahiyyətləri bu Məcəllənin 91-2.4-cü maddəsində nəzərdə tutulmuş hal istisna olmaqla, fiziki şəxs tərəfindən həyata keçirilir.
 - 91-2.4. Cəmiyyətin nizamnaməsində nəzərdə tutulduğu halda cəmiyyətin icra orqanının səlahiyyətləri müqavilə əsasında başqa fiziki və ya hüquqi şəxslərə (kənar idarəçiyə) verilə bilər. Kənar idarəçi ilə ümumi yığıncaqda təsdiq olunan və cəmiyyətin adından ümumi yığıncaqda sədrlik edən və ya ümumi yığıncağın səlahiyyət verdiyi iştirakçılardan biri tərəfindən imzalanan müqavilə bağlanır.
 - 91-2.5. Kənar idarəçi icra orqanı kimi cəmiyyətə münasibətdə idarəetməni qeyri-qənaətbəxş həyata keçirməsi nəticəsində və üçüncü şəxslərə ziyan vurduğu zərərə görə qanunvericiliklə müəyyən edilmiş qaydada məsuliyyət daşıyır.
-
 #### Maddə 91-3. Məhdud məsuliyyətli cəmiyyətin təftiş komissiyası (müfəttişi)
 - 91-3.1. Bu Məcəllənin 91-ci maddəsində nəzərdə tutulmuş halda cəmiyyətin iştirakçılarının ümumi yığıncağının qərarı ilə təftiş komissiyası (müfəttiş) seçilir (təyin edilir).
 - 91-3.2. Cəmiyyətin təftiş komissiyasının (müfəttişin) formalaşdırılması qaydaları, onun tərkibi və fəaliyyətinin qaydası cəmiyyətin nizamnaməsi ilə müəyyən edilir.
 - 91-3.3. Cəmiyyətin təftiş komissiyasının üzvlüyünə (müfəttiş kimi) fiziki şəxslər seçilir (təyin edilir). Cəmiyyətin iştirakçısı olmayan şəxslərin də təftiş komissiyasına üzv seçilməsinə (müfəttiş təyin edilməsinə) yol verilir. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) və ya kollegial icra orqanının rəhbəri (üzvü), təkbaşına rəhbər və ya kənar idarəçi təftiş komissiyasına üzv seçilə (müfəttiş təyin edilə) bilməz.
 - 91-3.4. Cəmiyyətin təftiş komissiyasının (müfəttişin) cəmiyyətin maliyyə-təsərrüfat fəaliyyətini yoxlamaq və bu məqsədlə cəmiyyətin fəaliyyətinə aid olan bütün sənədləri əldə etmək hüququ vardır. Təftiş komissiyasının (müfəttişin) tələbi ilə direktorlar şurasının (müşahidə şurasının) və ya kollegial icra orqanının rəhbəri (üzvləri), təkbaşına rəhbər, kənar idarəçi şifahi və ya yazılı formada zəruri məlumatları təqdim etməyə borcludurlar.
 - 91-3.5. Cəmiyyətin təftiş komissiyası (müfəttiş) varsa, bu nəzarət orqanının rəyi olmadan cəmiyyətin iştirakçılarının ümumi yığıncağı cəmiyyətin illik hesabatlarını və maliyyə hesabatlarını təsdiq edə bilməz, habelə mənfəət və zərərin bölüşdürülməsinə dair qərar qəbul edə bilməz.
-
 #### Maddə 91-4. Məhdud məsuliyyətli cəmiyyətin audit komitəsi
 - 91-4.1. İştirakçılarının sayı əllidən çox olan cəmiyyətlərdə, habelə ictimai əhəmiyyətli qurumlarda daxili audit siyasətinin və strategiyasının hazırlanması, həyata keçirilməsi və auditor nəzarətinin təşkili üçün direktorlar şurası (müşahidə şurası) tərəfindən audit komitəsi yaradılır. Cəmiyyətin nizamnaməsində nəzərdə tutulduğu halda iştirakçıların sayı əllidən çox olmayan cəmiyyətlərdə də audit komitəsi yaradılır.
 - 91-4.2. Cəmiyyətin audit komitəsinin formalaşdırılması qaydaları, onun tərkibi və fəaliyyətinin qaydası qanunla və cəmiyyətin nizamnaməsi ilə müəyyən edilir.
@@ -523,11 +653,9 @@ Qeyd: Bu Məcəllənin 91.1-ci, 91-4.1-ci, 107.3-cü və 107-12.1-ci maddələri
 - 91-4.4. Cəmiyyətin fəaliyyətinin daxili auditi cəmiyyətin audit komitəsinin təşəbbüsü ilə ümumi yığıncağın və ya direktorlar şurasının (müşahidə şurasının) qərarı ilə və ya cəmiyyətin paylarının on faizindən artıq hissəsinə malik olan iştirakçıların və cəmiyyətin icra orqanının tələbi ilə həyata keçirilir.
 - 91-4.5. Cəmiyyətin audit komitəsinin tələbi ilə cəmiyyətin bütün orqanları və vəzifəli şəxsləri cəmiyyətin maliyyə-təsərrüfat fəaliyyəti ilə əlaqədar olan sənədləri təqdim etməlidirlər.
 - 91-4.6. Audit komitəsi direktorlar şurasına (müşahidə şurasına) tabedir.
-
 #### Maddə 92. Məhdud məsuliyyətli cəmiyyətin yenidən təşkili və ləğvi
 - 92.1. Məhdud məsuliyyətli cəmiyyət onun iştirakçılarının yekdil qərarı ilə könüllü surətdə yenidən təşkil və ya ləğv edilə bilər. Cəmiyyətin yenidən təşkilinin və ləğvinin başqa əsasları, habelə onun yenidən təşkili və ləğvi qaydası bu Məcəllə ilə müəyyənləşdirilir.
 - 92.2. Məhdud məsuliyyətli cəmiyyət səhmdar cəmiyyətinə çevrilə bilər.
-
 #### Maddə 93. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalındakı payın keçməsi
 - 93.1. Məhdud məsuliyyətli cəmiyyətin iştirakçısı cəmiyyətin nizamnamə kapitalındakı payını və ya onun bir hissəsini həmin cəmiyyətin bir və ya bir neçə iştirakçısına sata bilər və ya başqa qaydada güzəşt edə bilər.
 - 93.2. Cəmiyyət iştirakçısının öz payını (onun bir hissəsini) üçüncü şəxslərə özgəninkiləşdirilməsinə yol verilir.
@@ -536,32 +664,27 @@ Qeyd: Bu Məcəllənin 91.1-ci, 91-4.1-ci, 107.3-cü və 107-12.1-ci maddələri
 - 93.5. İştirakçının payını (onun bir hissəsini) məhdud məsuliyyətli cəmiyyətin özünün əldə etdiyi halda cəmiyyət onu özünün nizamnaməsində nəzərdə tutulan müddətlərdə və qaydada başqa iştirakçılara və ya üçüncü şəxslərə satmağa və ya bu Məcəllənin 90.4 və 90.5-ci maddələrinə uyğun olaraq öz nizamnamə kapitalını azaltmağa borcludur.
 - 93.6. Məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalındakı paylar cəmiyyətin iştirakçısı olan fiziki şəxslərin vərəsələrinə və hüquqi şəxslərin hüquq varislərinə bu şərtlə keçir ki, cəmiyyətin nizamnaməsində payların onlara yalnız cəmiyyətin qalan iştirakçılarının razılığı ilə keçməsi nəzərdə tutulmasın. Payın keçməsinə razılıq verməkdən imtina edilməsi cəmiyyətin nizamnaməsində nəzərdə tutulan qaydada və şərtlərlə cəmiyyətin həmin payın həqiqi dəyərini iştirakçının vərəsələrinə (hüquq varislərinə) ödəməsi və ya həmin dəyərə bərabər əmlakı onlara naturada verməsi vəzifəsinin yaranmasına səbəb olur.
 - 93.7. Cəmiyyətin paylarının əlli faizini və daha çox hissəsini almaq istəyən şəxs bütün iştirakçılara rəsmi qaydada müvafiq təklif təqdim edir.
-
 #### Maddə 94. İştirakçının məhdud məsuliyyətli cəmiyyətin əmlakındakı payına tutmanın yönəldilməsi
 - 94.1. İştirakçının şəxsi borcları üzrə tutmanın onun məhdud məsuliyyətli cəmiyyətin əmlakındakı payına yönəldilməsinə yalnız onun başqa əmlakının borclarını ödəməyə kifayət etmədiyi halda yol verilir. Həmin iştirakçının kreditorları məhdud məsuliyyətli cəmiyyətdən tutmanın yönəldilməsi məqsədilə cəmiyyətin əmlakının borclunun nizamnamə kapitalındakı payına uyğun hissəsinin dəyərini ödəməyi və ya bu əmlak hissəsini ayırmağı tələb edə bilərlər. Cəmiyyətin əmlakının ayrılmalı hissəsi və ya onun dəyəri kreditorların tələb irəli sürdükləri məqamda tərtib edilmiş balans üzrə müəyyənləşdirilir.
 - 94.2. İştirakçının məhdud məsuliyyətli cəmiyyətin əmlakındakı bütün payına tutmanın yönəldilməsi onun cəmiyyətdə iştirakına xitam verir.
-
 #### Maddə 95. Məhdud məsuliyyətli cəmiyyət iştirakçısının cəmiyyətdən çıxması
 Məhdud məsuliyyətli cəmiyyətin iştirakçısı onun digər iştirakçılarının razılığından asılı olmayaraq istənilən vaxt cəmiyyətdən çıxa bilər.
-
 #### Maddə 96. Məhdud məsuliyyətli cəmiyyətin iştirakçısı cəmiyyətdən çıxarkən hesablaşmalar
 - 96.1. Məhdud məsuliyyətli cəmiyyətdən çıxan iştirakçıya, əgər cəmiyyətin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, həmin iştirakçının nizamnamə kapitalındakı payına uyğun əmlak hissəsi ödənilir. Çıxan iştirakçının cəmiyyət ilə razılaşmasına əsasən əmlakın dəyərinin ödənilməsi əmlakın naturada verilməsi ilə əvəz edilə bilər. Cəmiyyətin əmlakının çıxan iştirakçıya düşən hissəsi və ya onun dəyəri iştirakçının çıxdığı məqamda tərtib edilən balans üzrə müəyyənləşdirilir.
 - 96.2. Əgər məhdud məsuliyyətli cəmiyyətin nizamnamə kapitalına maya kimi əmlakdan istifadə hüququ verilmişdirsə, müvafiq əmlak cəmiyyətdən çıxan iştirakçıya qaytarılır. Həmin əmlakın normal aşınma nəticəsində dəyərinin azalmasının əvəzi ödənilmir.
 - 96.3. Cəmiyyət iştirakçısının vərəsəsi və ya onun iştirakçısı olan hüquqi şəxsin hüquq varisi cəmiyyətə daxil olmadıqda onunla hesablaşmalar bu maddənin qaydalarına uyğun aparılır.
-
 #### Maddə 97. Əlavə məsuliyyətli cəmiyyət
 - 97.1. Bir və ya bir neçə şəxs tərəfindən təsis edilən, nizamnamə kapitalı nizamnamə ilə müəyyənləşdirilmiş miqdarda paylara bölünən cəmiyyət əlavə məsuliyyətli cəmiyyət sayılır. Belə cəmiyyətin iştirakçıları onun öhdəlikləri üzrə öz mayalarının dəyərinin cəmiyyətin nizamnaməsi ilə müəyyənləşdirilən, hamısı üçün eyni olan misli miqdarında özlərinin əmlakı ilə birgə subsidiar məsuliyyət daşıyırlar. İştirakçılardan biri müflis olduqda cəmiyyətin öhdəlikləri üzrə onun məsuliyyəti, əgər cəmiyyətin nizamnaməsində məsuliyyətin bölünməsinin ayrı qaydası nəzərdə tutulmayıbsa, qalan iştirakçılar arasında onların mayalarına mütənasib surətdə bölünür.
 - 97.2. Əlavə məsuliyyətli cəmiyyətin firma adında cəmiyyətin adı, habelə "məhdud məsuliyyətli cəmiyyət" sözləri göstərilməlidir.
 - 97.3. Əlavə məsuliyyətli cəmiyyətə, əgər bu maddədə ayrı qayda nəzərdə tutulmayıbsa, bu Məcəllənin məhdud məsuliyyətli cəmiyyət haqqında qaydaları tətbiq edilir.
-
 #### Maddə 98. Səhmdar cəmiyyəti
 - 98.1. Nizamnamə kapitalı müəyyən sayda səhmlərə bölünmüş cəmiyyət səhmdar cəmiyyəti sayılır.
 - 98.2. Səhmlər buraxmağa yalnız səhmdar cəmiyyətlərinin hüququ vardır. Səhmdar cəmiyyətinin əmlakı onun səhmlərinin yerləşdirilməsi, maliyyə-təsərrüfat fəaliyyəti nəticəsində, habelə qanunla qadağan edilməmiş digər mənbələr hesabına yaranır.
-- 98.3. Səhmdar cəmiyyəti bu Məcəlləyə müvafiq olaraq yeni cəmiyyətin yaradılması və ya müvafiq olaraq, bu Məcəllədə, Azərbaycan Respublikasının qanunlarında müəyyən edilmiş qaydalar və məhdudiyyətlər nəzərə alınmaqla fəaliyyət göstərən hüquqi şəxsin yenidən təşkili (birləşmə, bölünmə, ayrılma, çevrilmə) yolu ilə yaradıla bilər.
+- 98.3. Səhmdar cəmiyyəti bu Məcəlləyə müvafiq olaraq yeni cəmiyyətin yaradılması və ya müvafiq olaraq, bu Məcəllədə, “ ”, “ ”, “ ” və “ ” Azərbaycan Respublikasının qanunlarında müəyyən edilmiş qaydalar və məhdudiyyətlər nəzərə alınmaqla fəaliyyət göstərən hüquqi şəxsin yenidən təşkili (birləşmə, bölünmə, ayrılma, çevrilmə) yolu ilə yaradıla bilər.
 - 98.4. Səhmdar cəmiyyətinin iştirakçıları (səhmdarlar) onun öhdəlikləri üçün cavabdeh deyildirlər və cəmiyyətin fəaliyyəti ilə bağlı zərər üçün onlara mənsub səhmlərin dəyəri həddində risk daşıyırlar.
 - 98.5. Səhmdar cəmiyyəti bir şəxs (fiziki və ya hüquqi şəxs) tərəfindən yaradıla bilər və ya cəmiyyətin bütün səhmlərini bir səhmdarın əldə etdiyi halda bir şəxsdən (fiziki və ya hüquqi şəxsdən) ibarət ola bilər. Bu barədə məlumat cəmiyyətin nizamnaməsində göstərilməli, qeydə alınmalı və hamının tanış olması üçün dərc edilməlidir. Səhmdar cəmiyyətinin yeganə iştirakçısı bir şəxsdən ibarət digər təsərrüfat cəmiyyəti ola bilməz.
 - 98.6. Səhmdar cəmiyyətinin firma adında onun adı, habelə "açıq səhmdar cəmiyyəti" və ya "qapalı səhmdar cəmiyyəti" sözləri göstərilməlidir.
-- 98.7. Səhmdar cəmiyyətinin hüquqi vəziyyəti və səhmdarların hüquq və vəzifələri, müvafiq olaraq, bu Məcəlləyə, Azərbaycan Respublikasının qanunlarına uyğun olaraq müəyyənləşdirilir.
+- 98.7. Səhmdar cəmiyyətinin hüquqi vəziyyəti və səhmdarların hüquq və vəzifələri, müvafiq olaraq, bu Məcəlləyə, “ ”, “ ” və “ ” Azərbaycan Respublikasının qanunlarına uyğun olaraq müəyyənləşdirilir.
 - 98.8. Dövlət müəssisələri özəlləşdirilərkən səhmdar cəmiyyətlərinin yaradılması xüsusiyyətləri həmin müəssisələrin özəlləşdirilməsinə dair qanunvericiliklə müəyyənləşdirilir.
 - 98.9. Səhmdar cəmiyyətinin yaradılması təsis yığıncağının keçirilməsini və müqavilənin bağlanmasını (bu Məcəllənin 45.2-ci maddəsində nəzərdə tutulmuş halda) və ya səhmdar cəmiyyətinin yaradılması haqqında qərarın qəbul edilməsini (səhmdar cəmiyyəti bir şəxs tərəfindən yaradıldıqda), səhmlərin təsisçilər arasında bölüşdürülməsini və nizamnamənin hazırlanmasını (qəbul olunmasını) əhatə edir.
 - 98.10. Səhmdar cəmiyyətinin yaradılması zamanı təsis yığıncağı təsisçilər arasında bağlanmış müqavilədə nəzərdə tutulmuş müddətdə, səhmdar cəmiyyətinin bütün səhmləri təsisçilər arasında bölüşdürüldükdə keçirilir. Təsis yığıncağı bütün təsisçilər və ya onların nümayəndələri iştirak etdikdə səlahiyyətlidir (yetərsay var). Yetərsay olmadıqda, yığıncaq təkrarən keçirilir. Yetərsay təkrarən keçirilən təsis yığıncağında da olmadıqda, səhmdar cəmiyyətinin yaradılması iclasda iştirak edən təsisçilər və ya onların nümayəndələri tərəfindən baş tutmamış hesab edilir və bu qərar bütün təsisçilərin nəzərinə yeddi gün müddətində çatdırılır.
@@ -571,10 +694,9 @@ Məhdud məsuliyyətli cəmiyyətin iştirakçısı onun digər iştirakçılar�
   - 98.11.3. müvafiq olaraq, bu Məcəllə, “Banklar haqqında”, “Sığorta fəaliyyəti haqqında”, “İnvestisiya fondları haqqında” Azərbaycan Respublikasının qanunları və səhmdar cəmiyyətinin nizamnaməsi ilə nəzərdə tutulmuş səhmdar cəmiyyətinin idarəetmə, nəzarət və icra orqanlarını təşkil edir;
   - 98.11.4. səhmdar cəmiyyətinin yaradılması və cəmiyyətin fəaliyyətinin başlanılması ilə əlaqədar bu Məcəlləyə, digər qanunvericilik aktlarına və təsisçilər arasında bağlanılmış müqaviləyə zidd olmayan digər məsələləri həll edir.
 - 98.12. Səhmdar cəmiyyətinin təsis yığıncağında cəmiyyətin təsis edilməsi, nizamnamənin təsdiq edilməsi, səhmdar cəmiyyətinin yaradılması zamanı yerləşdirilən səhmlərin ödənilməsinə yönəldilən pul olmayan əmlakın dəyərinin təsdiq edilməsi, idarəetmə, nəzarət və icra orqanlarının formalaşdırılması barədə qərarlar təsisçilər tərəfindən yekdilliklə, digər məsələlər üzrə isə sadə səs çoxluğu ilə qəbul edilir.
-- 98.13. Səhmdar cəmiyyətinin təsisi zamanı səhmlərin buraxılışı və dövlət qeydiyyatı, müvafiq olaraq, bu Məcəllə, Azərbaycan Respublikasının qanunları ilə müəyyən edilmiş qaydada həyata keçirilir.
+- 98.13. Səhmdar cəmiyyətinin təsisi zamanı səhmlərin buraxılışı və dövlət qeydiyyatı, müvafiq olaraq, bu Məcəllə, “ ”, “ ” və “ ” Azərbaycan Respublikasının qanunları ilə müəyyən edilmiş qaydada həyata keçirilir.
 - 98.14. Səhmdar cəmiyyətinin yaradılması ilə bağlı və onun dövlət qeydiyyatına alınmasına qədər yaranmış öhdəliklərinə görə cəmiyyətin təsisçiləri birgə məsuliyyət daşıyırlar.
 - 98.15. Bu Məcəllənin 98.4-cü, 98.5-ci və 98.11.1-ci maddələrində qeyd edilmiş məsələlərlə əlaqədar banklara, sığortaçılara və qiymətli kağızlar bazarında lisenziyalaşdırılan şəxslərə münasibətdə “Banklar haqqında”, “Sığorta fəaliyyəti haqqında” və “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının qanunlarının müddəaları, 98.5-ci və 98.11.1-ci maddələrində qeyd edilmiş məsələlərlə əlaqədar səhmdar investisiya fondlarına münasibətdə isə “İnvestisiya fondları haqqında” Azərbaycan Respublikasının Qanununun müddəaları tətbiq edilir.
-
 #### Maddə 99. Açıq səhmdar cəmiyyəti
 - 99.1. Səhmdar cəmiyyətinin iştirakçıları onlara mənsub səhmləri digər səhmdarların razılığı olmadan özgəninkiləşdirə bildikdə, o, açıq səhmdar cəmiyyəti sayılır. Bu cür səhmdar cəmiyyəti buraxdığı səhmlərə açıq abunə yazılışını və onların sərbəst satışını həyata keçirə bilər.
 - 99.2. Açıq səhmdar cəmiyyəti illik hesabatını və maliyyə hesabatlarını (mikro və kiçik sahibkarlıq subyektləri istisna olmaqla), habelə aşağıdakı məlumatları hamının tanış olması üçün hər il dərc etməyə borcludur:
@@ -590,24 +712,20 @@ Məhdud məsuliyyətli cəmiyyətin iştirakçısı onun digər iştirakçılar�
   - 99.2.10. cəmiyyətin qiymətli kağızlarının dövriyyəsi və gəlirliyi;
   - 99.2.11. ictimai layihələr.
 - 99.3. Açıq səhmdar cəmiyyətinin xalis aktivlərinin dəyərinin iyirmi beş faizindən artıq məbləğdə olan əqd xüsusi əhəmiyyətli əqd hesab edilir. Xüsusi əhəmiyyətli əqdin bağlanılması barədə qərar səhmdar cəmiyyətinin səhmdarlarının ümumi yığıncağında qəbul edilir və bu barədə məlumat açıqlanır. Bu məlumatın açıqlanması qaydası səhmdar cəmiyyətinin nizamnaməsində nəzərdə tutulmalıdır. Bu maddənin tələbləri banklara və xarici bankların yerli filiallarına şamil edilmir.
-
 #### Maddə 100. Qapalı səhmdar cəmiyyəti
 - 100.1. Səhmləri yalnız onun təsisçiləri arasında və ya qabaqcadan müəyyənləşdirilmiş digər şəxslər dairəsində yayılan səhmdar cəmiyyəti qapalı səhmdar cəmiyyətidir. Bu cür cəmiyyət buraxdığı səhmlərə açıq abunə yazılışı apara bilməz və ya başqa şəkildə onları əldə edilmək üçün şəxslərin qeyri-məhdud dairəsinə təklif edə bilməz.
-- 100.2. Qapalı səhmdar cəmiyyətinin iştirakçılarının sayı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş həddi keçməməlidir, əks halda o, bir il ərzində açıq səhmdar cəmiyyətinə çevrilməli, bu müddət bitdikdən sonra isə, əgər onların sayı azaldılıb müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilməmiş həddə endirilməzsə, məhkəmə qaydasında ləğv edilməlidir.
+- 100.2. Qapalı səhmdar cəmiyyətinin iştirakçılarının sayı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş həddi keçməməlidir, əks halda o, bir il ərzində açıq səhmdar cəmiyyətinə çevrilməli, bu müddət bitdikdən sonra isə, əgər onların sayı azaldılıb müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş həddə endirilməzsə, məhkəmə qaydasında ləğv edilməlidir.
 - 100.3. Qapalı səhmdar cəmiyyəti bu Məcəllənin 99-cu maddəsində göstərilən sənədləri hamının tanış olması üçün dərc etməyə borcludur.
-
 #### Maddə 101. Qapalı səhmdar cəmiyyətinin səhmlərinin başqasına keçməsi
 - 101.1. Qapalı səhmdar cəmiyyətinin səhmdarları həmin cəmiyyətin digər səhmdarlarının satdıqları səhmləri əldə etməkdə üstünlük hüququna malikdirlər. Əgər səhmdarlardan heç biri cəmiyyətin nizamnaməsində nəzərdə tutulan müddətdə, lakin satış elan olunduğu tarixdən etibarən otuz gün ərzində özünün üstünlük hüququndan istifadə etməzsə, sonrakı otuz gün ərzində səhmdar cəmiyyəti həmin səhmləri onların mülkiyyətçisi ilə razılaşdırılmış qiymətə özü əldə edə bilər. Səhmdar cəmiyyəti səhmləri əldə etməkdən imtina etdikdə və ya onların qiymətinə dair razılığa gəlinmədikdə səhmlər üçüncü şəxsə özgəninkiləşdirilə bilər. Bu zaman səhmin satış qiyməti səhmdarlara və ya səhmdar cəmiyyətinə təklif edilən qiymətdən aşağı olmamalıdır. Əks halda səhmdar cəmiyyəti həmin əqdin etibarsız hesab edilməsini və səhmin həmin qiymətə cəmiyyətə satılmasını məhkəmə qaydasında tələb edə bilər.
 - 101.2. Qapalı səhmdar cəmiyyətinin səhmləri girov qoyulduqda və sonradan onlara girov saxlayan tərəfindən tutma yönəldildikdə müvafiq olaraq bu Məcəllənin 101.1-ci maddəsinin qaydaları tətbiq edilir.
 - 101.3. Əgər cəmiyyətin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, qapalı səhmdar cəmiyyətinin səhmləri səhmdar olan fiziki şəxslərin vərəsələrinə və ya hüquqi şəxsin hüquq varislərinə keçir. Cəmiyyət səhmlərin səhmdar olan fiziki şəxsin vərəsələrinə və ya hüquqi şəxsin hüquq varislərinə keçməsinə razılıq verməkdən imtina etdikdə bu Məcəllənin 101.1-ci maddəsinin qaydaları tətbiq edilir.
-
 #### Maddə 102. Səhmdar cəmiyyətinin nizamnaməsi
 - 102.1. Səhmdar cəmiyyətinin nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstərilən məlumatlardan savayı, cəmiyyətin buraxdığı səhmlərin kateqoriyaları, onların nominal dəyəri və miqdarı haqqında; cəmiyyətin nizamnamə kapitalının miqdarı haqqında; səhmdarların hüquqları haqqında; cəmiyyəti idarəetmə orqanlarının tərkibi və səlahiyyətləri, onların qərarlar qəbul etməsi, o cümlədən barəsində qərarların yekdilliklə və ya şərtləşdirilmiş səs çoxluğu ilə qəbul olunduğu məsələlərə dair qərarlar qəbul etməsi qaydası haqqında şərtlər göstərilməlidir.
 - 102.2. Səhmdar cəmiyyətinin nizamnaməsində qanunvericiliyə zidd olmayan digər məlumatlar da nəzərdə tutula bilər.
 - 102.3. Səhmdar cəmiyyətinin nizamnaməsinin tələblərinə riayət edilməsi cəmiyyətin bütün orqanları, vəzifəli şəxsləri və səhmdarları üçün məcburidir.
 - 102.4. Səhmdar cəmiyyəti öz səhmdarlarına nizamnamə, ona edilən əlavə və dəyişikliklər ilə tanış olmaq imkanını yaratmalıdır. Səhmdarın tələbi ilə nizamnamənin surəti ona verilməlidir.
-- 102.5. Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallar istisna olmaqla, cəmiyyətin nizamnaməsində əlavə və dəyişikliklərin edilməsi qərarı səhmdarların ümumi yığıncağında, səsvermə hüququna malik olan səhmdarların üçdə iki səs çoxluğu ilə qəbul edilir.
-
+- 102.5. “ ” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallar istisna olmaqla, cəmiyyətin nizamnaməsində əlavə və dəyişikliklərin edilməsi qərarı səhmdarların ümumi yığıncağında, səsvermə hüququna malik olan səhmdarların üçdə iki səs çoxluğu ilə qəbul edilir.
 #### Maddə 103. Səhmdar cəmiyyətinin nizamnamə kapitalı
 - 103.1. Səhmdar cəmiyyətinin nizamnamə kapitalı cəmiyyətin səhmdarlar tərəfindən əldə edilmiş səhmlərinin nominal dəyərindən təşkil olunur. Səhmdar cəmiyyətinin nizamnamə kapitalına qoyuluşların formaları, müvafiq olaraq, bu Məcəllə, sahəvi qanunlar və təsisçilər arasında bağlanmış müqavilə ilə müəyyən edilir. Səhmdar cəmiyyətinin nizamnaməsinə qoyuluşlar pul vəsaitləri, tam ödənilmiş qiymətli kağızlar, digər əmlak, o cümlədən əmlak hüquqları və pul dəyəri olan digər hüquqlar ola bilər. Səhmdar cəmiyyətinin yaradılması zamanı pul olmayan əmlakın dəyəri təsis yığıncağının qərarı ilə, səhmdar cəmiyyəti yaradıldıqdan sonra isə - səhmdar cəmiyyətinin səhmdarlarının ümumi yığıncağının qərarı ilə müəyyən edilir.
 - 103.2. Cəmiyyətin nizamnamə kapitalı cəmiyyətin kreditorlarının mənafelərinə təminat verən əmlakının minimum miqdarını müəyyənləşdirir. O, müvafiq icra hakimiyyəti orqanı və maliyyə bazarlarını tənzimləyən qanunlarda nəzərdə tutulmuş hallarda Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyənləşdirilmiş miqdardan az ola bilməz.
@@ -616,18 +734,15 @@ Məhdud məsuliyyətli cəmiyyətin iştirakçısı onun digər iştirakçılar�
 - 103.4-1. Səhmdar cəmiyyətin səsvermə hüququna malik olan səhmdarlarının üçdə iki səs çoxluğu ilə həmin cəmiyyətə qarşı pul tələbinə malik olan şəxslər pul tələblərini əvəzləşdirməklə və cəmiyyətin səhmdarı olmaqla (əlavə buraxılmış səhmləri əldə etməklə) cəmiyyətin səhmlərini ödəmək vəzifəsindən azad oluna bilərlər. Bu cür təşəbbüslə cəmiyyətə qarşı pul tələbi olan şəxslər və (və ya) cəmiyyət çıxış edə bilər. Əlavə buraxılmış səhmlərin cəmiyyətə qarşı pul tələbinin əvəzləşdirilməsi ilə əldə edilməsinə qapalı yerləşdirmə üsulu ilə yol verilir. Maliyyə bazarlarında nəzarət edilən subyektlərə qarşı pul tələbi olan şəxslərin pul tələblərinin həmin subyektlərin nizamnamə kapitalında payla əvəzləşdirilməsi maliyyə bazarlarını tənzimləyən qanunlarda mühüm iştirak payının əldə olunmasına dair tələblər nəzərə alınmaqla həyata keçirilir.
 - 103.5. Əgər ikinci və hər növbəti maliyyə ili başa çatarkən cəmiyyətin xalis aktivlərinin dəyəri nizamnamə kapitalından az olarsa, cəmiyyət öz nizamnamə kapitalının azalmasını elan etməyə və müəyyənləşdirilmiş qaydada qeydə aldırmağa borcludur. Sahəvi qanunlarda nəzərdə tutulmuş hallar istisna olmaqla, əgər cəmiyyətin göstərilən aktivlərinin dəyəri nizamnamə kapitalının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş minimum miqdarından az olarsa, cəmiyyət ləğv edilməlidir.
 - 103.6. Cəmiyyətin nizamnaməsində səhmlərin sayının, məcmu nominal dəyərinin və ya bir səhmdara mənsub səslərin maksimum sayının məhdudlaşdırılması müəyyənləşdirilə bilər.
-
 #### Maddə 104. Səhmdar cəmiyyətinin nizamnamə kapitalının artırılması
 - 104.1. Səhmdarların ümumi yığıncağının qərarına əsasən səhmdar cəmiyyəti səhmlərin nominal dəyərini artırmaq və ya əlavə səhmlər buraxmaq yolu ilə nizamnamə kapitalını artıra bilər. Cəmiyyətə qarşı pul tələbi olan şəxslər pul tələbinin əvəzləşdirilməsi yolu ilə səhm əldə etmək təşəbbüsü ilə çıxış etdikdə əlavə səhmlərin buraxılması barədə qərarda həmin səhmləri əldə edəcək şəxslər göstərilməlidir. Səhmdar cəmiyyətinin səhmlərinin nominal dəyərinin artırılması və əlavə səhmlərin buraxılması qaydaları Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyən edilir.
 - 104.1-1. Maliyyə bazarlarını tənzimləyən qanunlarda pul tələblərinin cəmiyyət tərəfindən əlavə buraxılmış səhmlə əvəzləşdirilməsi ilə bağlı müddəaların olduğu hallar istisna olmaqla, cəmiyyətin təsərrüfat fəaliyyəti nəticəsində ödənilməmiş zərəri onun nizamnamə kapitalından artıq olduğu halda, həmin artıq məbləğlə əlavə buraxılmış səhmlə əvəzləşdirilməsi nəzərdə tutulan borc məbləği arasındakı fərq əlavə səhmlər buraxmaq hesabına aradan qaldırıldıqda cəmiyyətə qarşı pul tələblərinin əvəzləşdirilməsinə yol verilir. Cəmiyyətin təsərrüfat fəaliyyəti nəticəsində ödənilməmiş zərəri müəyyən edilərkən əsas vəsaitlərə amortizasiya ayırmaları hesabına yaranan xərclər nəzərə alınmır.
 - 104.2. Sadə (adi) və ya digər səsli səhmlərə sahib olan səhmdarların cəmiyyət tərəfindən əlavə buraxılan səhmləri cəmiyyətin nizamnaməsində müəyyən edilmiş qaydada satın almaqda üstünlük hüququ vardır. Cəmiyyətin səhminin əlli faiz və daha çox hissəsini almaq istəyən şəxs bütün səhmdarlara rəsmi qaydada müvafiq təklif təqdim edir.
-
 #### Maddə 105. Səhmdar cəmiyyətinin nizamnamə kapitalının azaldılması
 - 105.1. Səhmdarların ümumi yığıncağının qərarına əsasən səhmdar cəmiyyəti səhmlərin nominal dəyərini azaltmaq yolu ilə və ya səhmlərin bir hissəsini satın alıb onların ümumi miqdarını azaltmaq yolu ilə nizamnamə kapitalını azalda bilər.
 - 105.2. Səhmdar cəmiyyətinin nizamnamə kapitalının azaldılması haqqında səhmdarların ümumi yığıncağının qərarı qəbul edildiyi gündən on beş təqvim günü müddətində cəmiyyət kreditorlara bu barədə yazılı surətdə məlumat verməlidir. Cəmiyyətin kreditorları məlumatı aldıqdan sonra otuz təqvim günü ərzində cəmiyyətin müvafiq öhdəliklərinin vaxtından əvvəl icrasını və ya onlara xitam verilməsini və çəkdikləri zərərin ödənilməsini tələb edə bilərlər.
 - 105.3. Səhmlərin bir hissəsinin satın alınması və ödənilməsi yolu ilə səhmdar cəmiyyətinin nizamnamə kapitalının azaldılmasına bu şərtlə yol verilir ki, belə imkan cəmiyyətin nizamnaməsində nəzərdə tutulmuş olsun.
 - 105.4. Sahəvi qanunlarda nəzərdə tutulmuş hallar istisna olmaqla, səhmdar cəmiyyəti tərəfindən nizamnamə kapitalının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş minimum miqdardan aşağı endirilməsi cəmiyyətin ləğvinə səbəb olur.
-
 #### Maddə 105-1. Səhmdar cəmiyyətinin yerləşdirilmiş səhmlərinin geri alınması
 - 105-1.1. Səhmdar cəmiyyəti tərəfindən yerləşdirilmiş səhmlərin geri alınması bu Məcəllə və ya cəmiyyətin nizamnaməsi ilə müəyyən edilmiş hallarda səhmdarların tələbi ilə həyata keçirilir.
 - 105-1.2. Cəmiyyət nizamnamə kapitalının miqdarını və səhmlərin sayını azaltmaq məqsədi ilə, ümumi yığıncağın qərarı əsasında, əvvəl yerləşdirilmiş səhmlərinin bir hissəsini geri ala bilər. Bu zaman dövriyyədə qalan səhmlərin ümumi nominal dəyəri qanunvericiliklə nizamnamə kapitalı üçün müəyyən edilmiş məbləğin minimal həddindən aşağı olmamalıdır.
@@ -637,12 +752,10 @@ Məhdud məsuliyyətli cəmiyyətin iştirakçısı onun digər iştirakçılar�
   - 105-1.4.2. cəmiyyətin ləğvi barədə qərar qəbul edildikdə;
   - 105-1.4.3. səhmdarların tələbi əsasında onların səhmlərinin geri alınması başa çatmadıqda.
 - 105-1.5. Geri alınmış səhmlər səsvermə zamanı nəzərə alınmır və onlar üzrə dividendlər hesablanmır. Bu səhmlər geri satın alındığı tarixdən bir il müddətində ya özgəninkiləşdirilməli, ya da ümumi yığıncağın qərarı ilə dövriyyədən çıxarılmalıdır.
-
 #### Maddə 106. Səhmdar cəmiyyətinin qiymətli kağızlarının buraxılması
 - 106.1. Səhmdar cəmiyyətinin səhmlərinin, istiqrazlarının və digər növ qiymətli kağızlarının buraxılması, yerləşdirilməsi, dövriyyəsi və dövriyyədən çıxarılması bu Məcəlləyə, bu Məcəlləyə müvafiq olaraq qəbul edilmiş digər normativ hüquqi aktlara və cəmiyyətin nizamnaməsinə müvafiq olaraq həyata keçirilir.
 - 106.2. Səhmdar cəmiyyətinin adi və imtiyazlı səhmlər buraxmaq hüququ vardır. Səhmdar cəmiyyətinin nizamnamə kapitalının ümumi həcmində imtiyazlı səhmlərin payı iyirmi beş faizdən çox ola bilməz. İmtiyazlı səhm öz mülkiyyətçilərinə səhmdar cəmiyyətinin ləğvindən sonra qalan əmlak hissəsini almaqda başqa səhmdarlara nisbətən üstünlük hüququ və bu cür səhmlərin buraxılması şərtlərində nəzərdə tutulan digər hüquqları verir. Bu Məcəllədə və səhmdar cəmiyyətinin nizamnaməsində nəzərdə tutulmuş hallar istisna olunmaqla, imtiyazlı səhmlər öz mülkiyyətçilərinə cəmiyyətin işlərinin idarə olunmasında iştirak etmək hüququ vermir.
 - 106.3. Səhmdar cəmiyyətinin qiymətli kağızlarının birləşdirilməsi, xırdalanması (bölünməsi) və konvertasiyası bu Məcəllənin 1078-26-cı maddəsinə müvafiq olaraq həyata keçirilir.
-
 #### Maddə 106-1. Səhmdar cəmiyyətinin səhmdarları
 - 106-1.1. Səhmdar cəmiyyətinin səhmdarı cəmiyyətin bir və ya daha çox sayda səhmlərinin bu Məcəllə ilə müəyyən edilmiş qaydada mülkiyyətçisi olan fiziki və (və ya) hüquqi şəxsdir.
 - 106-1.2. Bir neçə şəxsə bir səhm mənsub olduğu halda, onlar səhmdar cəmiyyətinə münasibətdə bir səhmdar kimi tanınırlar və öz hüquqlarını nümayəndə vasitəsi ilə həyata keçirə bilərlər.
@@ -670,12 +783,10 @@ Məhdud məsuliyyətli cəmiyyətin iştirakçısı onun digər iştirakçılar�
   - 106-1.6.2. səhmdarların reyestrində ona dair daxil edilmiş məlumatların dəyişilməsi barədə mərkəzi depozitara on təqvim günü ərzində yazılı bildiriş vermək;
   - 106-1.6.3. qanunvericiliklə müəyyən edilmiş başqa vəzifələri yerinə yetirmək.
 - 106-1.7. Səhmdar cəmiyyətinin səhmdarlarının hüquqlarının müdafiəsi bu Məcəllə, digər qanunlar və normativ hüquqi aktlara uyğun olaraq təmin edilir.
-
 #### Maddə 106-2. Səhmdar cəmiyyətinin səhmdarlarının reyestri
 - 106-2.1. Səhmdar cəmiyyəti dövlət qeydiyyatına alındığı tarixdən otuz təqvim günündən gec olmayaraq səhmdarlarının reyestrinin aparılmasını təmin etməlidir.
 - 106-2.2. Səhmdar cəmiyyətinin səhmdarlarının reyestri mərkəzi depozitar tərəfindən aparılmalıdır.
 - 106-2.3. Səhmdar ildə bir dəfə cəmiyyətin icra orqanından səhmdarların reyestrinin ona təqdim edilməsini tələb edə bilər. Bu halda səhmdar cəmiyyətinin icra orqanı səhmdarların reyestrini beş gün ərzində həmin səhmdara təqdim etməlidir.
-
 #### Maddə 106-3. Səhmdar cəmiyyətinin mənfəəti və dividendlər
 - 106-3.1. Səhmdar cəmiyyətinin xalis mənfəəti vergilər və digər məcburi ödənişlər ödənildikdən sonra yaranır və qanunvericiliklə və cəmiyyətin nizamnaməsi ilə müəyyən edilən məqsədlərə yönəldilə bilər. Xalis mənfəətin səhmdar cəmiyyətinin maliyyə ili üzrə bölüşdürülməsi səhmdar cəmiyyətinin səhmdarlarının ümumi yığıncağının qərarı ilə qəbul edilir.
 - 106-3.2. Səhmdar cəmiyyəti nizamnamədə müəyyən edilməsindən asılı olaraq dövriyyədə olan səhmlər üzrə aralıq (rüblük, yarımillik) və illik dividendlər ödəyə bilər. Səhmdar cəmiyyətinin dividendlərin ödənilməsi barədə öhdəlikləri onların ödənilməsi haqqında qərarın qəbul edildiyi gündən etibarən yaranır və 30 (otuz) gün müddətində icra edilir. Səhmdarların tərkibinin dəyişməsi dividendlərin ödənilməsi barədə qərarın bu Məcəllə ilə müəyyən edilmiş müddətdə və qaydada icra olunmasına təsir etmir.
@@ -686,7 +797,6 @@ Məhdud məsuliyyətli cəmiyyətin iştirakçısı onun digər iştirakçılar�
 - 106-3.7. Dividendlərin hesablanmasında (bölüşdürülməsində) ilk növbəlilik hüququnu verən imtiyazlı səhmlər üzrə dividendlər digər imtiyazlı səhmlər üzrə dividendlərdən əvvəl bölüşdürülür.
 - 106-3.8. Dividendlər hesablanarkən səhmlərin hər bir növü və nominalı üzrə hər səhmə düşən məbləğ eyni olmalıdır.
 - 106-3.9. Əgər səhmdar cəmiyyətinin xalis aktivlərinin dəyəri onun nizamnamə kapitalının miqdarından azdırsa və ya dividendlərin ödənilməsi nəticəsində az olacaqsa, səhmdar cəmiyyəti dividendləri elan edə və ödəyə bilməz.
-
 #### Maddə 107. Səhmdar cəmiyyətində idarəetmə
 - 107.1. Səhmdar cəmiyyətinin ali idarəetmə orqanı onun səhmdarlarının ümumi yığıncağıdır. Səhmdarların ümumi yığıncağının müstəsna səlahiyyətinə aşağıdakılar aiddir:
   - 107.1.1. cəmiyyətin nizamnaməsini və nizamnamə kapitalının miqdarını dəyişdirmək;
@@ -697,10 +807,9 @@ Məhdud məsuliyyətli cəmiyyətin iştirakçısı onun digər iştirakçılar�
   - 107.1.6. bu Məcəllənin 49-1.2-ci və 99.3-cü maddələrində nəzərdə tutulmuş əqdlərin bağlanması haqqında qərar qəbul etmək.
 - 107.2. Bu Məcəllə ilə səhmdarların ümumi yığıncağının müstəsna səlahiyyətinə aid edilmiş məsələlər həll edilmək üçün onun tərəfindən cəmiyyətin icra orqanlarına verilə bilməz.
 - 107.3. Səhmdarlarının sayı əllidən çox olan cəmiyyətdə, habelə ictimai əhəmiyyətli qurumlarda direktorlar şurası (müşahidə şurası) yaradılır. Direktorlar şurasının (müşahidə şurasının) yaradıldığı halda cəmiyyətin nizamnaməsində onun müstəsna səlahiyyəti müəyyənləşdirilməlidir. Nizamnamə ilə direktorlar şurasının (müşahidə şurasının) müstəsna səlahiyyətinə aid edilmiş məsələlər həll edilmək üçün onun tərəfindən cəmiyyətin icra orqanlarına verilə bilməz.
-- 107.4. Cəmiyyətin icra orqanı kollegial (idarə heyəti, müdiriyyət) və ya təkbaşçı (direktor, baş direktor) ola bilər. O, cəmiyyətin fəaliyyətinə cari rəhbərliyi həyata keçirir, direktorlar şurasına (müşahidə şurasına) və səhmdarların ümumi yığıncağına hesabat verir. Bu Məcəllə ilə və ya cəmiyyətin nizamnaməsi ilə cəmiyyətin digər idarəetmə orqanlarının müstəsna səlahiyyətinə aid edilməmiş bütün məsələlərin həlli cəmiyyətin icra orqanının səlahiyyətinə aiddir. Azərbaycan Respublikasının qanunlarında nəzərdə tutulmuş hallar istisna olmaqla, səhmdarların ümumi yığıncağının qərarı ilə cəmiyyətin icra orqanının səlahiyyətləri müqaviləyə əsasən başqa kommersiya təşkilatına və ya fərdi sahibkara (idarəçiyə) verilə bilər.
+- 107.4. Cəmiyyətin icra orqanı kollegial (idarə heyəti, müdiriyyət) və ya təkbaşıçı (direktor, baş direktor) ola bilər. O, cəmiyyətin fəaliyyətinə cari rəhbərliyi həyata keçirir, direktorlar şurasına (müşahidə şurasına) və səhmdarların ümumi yığıncağına hesabat verir. Bu Məcəllə ilə və ya cəmiyyətin nizamnaməsi ilə cəmiyyətin digər idarəetmə orqanlarının müstəsna səlahiyyətinə aid edilməmiş bütün məsələlərin həlli cəmiyyətin icra orqanının səlahiyyətinə aiddir. “ ” və “ ” Azərbaycan Respublikasının qanunlarında nəzərdə tutulmuş hallar istisna olmaqla, səhmdarların ümumi yığıncağının qərarı ilə cəmiyyətin icra orqanının səlahiyyətləri müqaviləyə əsasən başqa kommersiya təşkilatına və ya fərdi sahibkara (idarəçiyə) verilə bilər.
 - 107.5. Səhmdar cəmiyyətinin idarəetmə orqanlarının səlahiyyətləri, habelə onların qərarlar qəbul etməsi və cəmiyyətin adından çıxış etməsi qaydası, müvafiq olaraq, bu Məcəlləyə, “Banklar haqqında”, “Sığorta fəaliyyəti haqqında”, “İnvestisiya fondları haqqında” Azərbaycan Respublikasının qanunlarına və cəmiyyətin nizamnaməsinə uyğun olaraq müəyyənləşdirilir.
 - 107.6. Bu Məcəllənin 99-cu maddəsində göstərilən sənədlərin dərci zamanı səhmdar cəmiyyəti illik maliyyə hesabatlarının yoxlanılması üçün müstəqil auditoru cəlb etməyə borcludur. Nizamnamə kapitalında məcmu payı on faiz və ya daha çox olan səhmdarların tələbi ilə səhmdar cəmiyyətinin fəaliyyətinin auditor yoxlanışı hər bir vaxt keçirilməlidir. Səhmdar cəmiyyətinin fəaliyyətinin auditor yoxlanışının keçirilməsi qaydası qanunvericilik və cəmiyyətin nizamnaməsi ilə müəyyənləşdirilir.
-
 #### Maddə 107-1. Səhmdarların ümumi yığıncağının çağırılması
 - 107-1.1. Səhmdarların ümumi yığıncağı növbəti və növbədənkənar ola bilər.
 - 107-1.2. Səhmdarların növbəti ümumi yığıncağı ildə bir dəfədən az olmayaraq çağırılmalıdır (illik ümumi yığıncaq).
@@ -719,236 +828,236 @@ Məhdud məsuliyyətli cəmiyyətin iştirakçısı onun digər iştirakçılar�
 - 107-1.5.2. səhmdarların ümumi yığıncağının keçirilmə tarixi, vaxtı və ünvanı;
 - 107-1.5.3. səhmdarların ümumi yığıncağının gündəliyi;
 - 107-1.5.4. səhmdarların ümumi yığıncağının gündəliyi üzrə materiallarla tanış olunma qaydası.
-- 107-1.6. Qanunda nəzərdə tutulmuş hallar istisna olmaqla, səhmdarların növbədənkənar ümumi yığıncağı direktorlar şurasının (müşahidə şurasının) öz təşəbbüsü ilə və ya təftiş komissiyasının (müfəttişin), yaxud səsli səhmlərin on faizinə malik olan səhmdarların yazılı tələbi ilə cəmiyyətin icra orqanı tərəfindən çağırılır. Cəmiyyətin direktorlar şurası (müşahidə şurası) olmadıqda səhmdarların növbədənkənar ümumi yığıncağı icra orqanının təşəbbüsü ilə çağırılır.
-- 107-1.7. Səhmdarların növbədənkənar ümumi yığıncağının çağırılması tələbində gündəliyə təklif olunan məsələlər göstərilməlidir. Həmin məsələlər yığıncağın gündəliyinə mütləq salınmalıdır.
-- 107-1.8. Səhmdarların növbədənkənar ümumi yığıncağının çağırılması haqqında tələbin (təşəbbüsün) daxil olduğu gündən etibarən icra orqanı aşağıdakıları yerinə yetirməlidir:
-  - 107-1.8.1. üç iş günü müddətində səhmdarların ümumi yığıncağının vaxtını və yerini təyin edib, qapalı səhmdar cəmiyyətinin səhmdarlarının ümumi yığıncağının çağırılması halları istisna olunmaqla, bu barədə mediada elan verməlidir;
-  - 107-1.8.2. beş iş günü müddətində səhmdarların ümumi yığıncağının çağırılması barədə bildirişləri səhmdarlara göndərməlidir;
-  - 107-1.8.3. otuz gündən tez, qırx beş gündən gec olmayaraq səhmdarların ümumi yığıncağının keçirilməsini təmin etməlidir.
+107-1.6. Qanunda nəzərdə tutulmuş hallar istisna olmaqla, səhmdarların növbədənkənar ümumi yığıncağı direktorlar şurasının (müşahidə şurasının) öz təşəbbüsü ilə və ya təftiş komissiyasının (müfəttişin), yaxud səsli səhmlərin on faizinə malik olan səhmdarların yazılı tələbi ilə cəmiyyətin icra orqanı tərəfindən çağırılır. Cəmiyyətin direktorlar şurası (müşahidə şurası) olmadıqda səhmdarların növbədənkənar ümumi yığıncağı icra orqanının təşəbbüsü ilə çağırılır.
+107-1.7. Səhmdarların növbədənkənar ümumi yığıncağının çağırılması tələbində gündəliyə təklif olunan məsələlər göstərilməlidir. Həmin məsələlər yığıncağın gündəliyinə mütləq salınmalıdır.
+107-1.8. Səhmdarların növbədənkənar ümumi yığıncağının çağırılması haqqında tələbin (təşəbbüsün) daxil olduğu gündən etibarən icra orqanı aşağıdakıları yerinə yetirməlidir:
+- 107-1.8.1. üç iş günü müddətində səhmdarların ümumi yığıncağının vaxtmı və yerini təyin edib, qapalı səhmdar cəmiyyətinin səhmdarlarının ümumi yığıncağının çağırılması halları istisna olunmaqla, bu barədə mediada elan verməlidir;
+- 107-1.8.2. beş iş günü müddətində səhmdarların ümumi yığıncağının çağırılması barədə bildirişləri səhmdarlara göndərməlidir;
+- 107-1.8.3. otuz gündən tez, qırx beş gündən gec olmayaraq səhmdarların ümumi yığıncağının keçirilməsini təmin etməlidir.
 
 #### Maddə 107-2. Səhmdarların ümumi yığıncağında yetərsay
-- 107-2.1. Səhmdarların ümumi yığıncağında səsli səhmlərin ən azı altmış faizinin mülkiyyətçiləri iştirak etdikdə ümumi yığıncaq səlahiyyətlidir.
-- 107-2.2. Səhmdarların ümumi yığıncağında yetərsay olmadıqda, ümumi yığıncaq bu Məcəllənin 107-1.8-ci maddəsində müəyyən edilmiş qaydada Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallar istisna olmaqla, yenidən çağırılmalıdır. Bu zaman ümumi yığıncağın gündəliyi dəyişdirilməməlidir. Yenidən çağırılan ümumi yığıncaq səsli səhmlərin 40 faizinin mülkiyyətçiləri iştirak etdikdə səlahiyyətlidir.
-- 107-2.3. Yenidən çağırılan yığıncaqda yetərsay olmadıqda, ümumi yığıncaq bu Məcəllənin 107-1.8-ci maddəsində müəyyən edilmiş qaydada, gündəliyi dəyişdirilmədən “Banklar haqqında Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallar istisna olmaqla, təkrarən çağırılmalıdır. Təkrarən çağırılan ümumi yığıncaq səsli səhmlərin 25 faizinin mülkiyyətçiləri iştirak etdikdə səlahiyyətlidir.
-- 107-2.4. 107-2.3-cü maddəyə əsasən təkrarən çağırılan ümumi yığıncağın keçirilməsi üçün yetərsay təmin olunmadıqda, cəmiyyət Azərbaycan Respublikasının Mərkəzi Bankına məlumat verərək yetərsaydan asılı olmadan ümumi yığıncağın qərarı ilə və ya Azərbaycan Respublikasının Mərkəzi Bankının iddiası əsasında məhkəmənin qərarı ilə ləğv edilə bilər. Səhmdarların cəmiyyətin ləğv edilməsi haqqında ümumi yığıncağın qərarından məhkəməyə şikayət etmək hüququ vardır.
+107-2.1. Səhmdarların ümumi yığıncağında səsli səhmlərin ən azı altmış faizinin mülkiyyətçiləri iştirak etdikdə ümumi yığıncaq səlahiyyətlidir.
+107-2.2. Səhmdarların ümumi yığıncağında yetərsay olmadıqda, ümumi yığıncaq bu Məcəllənin 107-1.8-ci maddəsində müəyyən edilmiş qaydada “ Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallar istisna olmaqla, yenidən çağırılmalıdır. Bu zaman ümumi yığıncağın gündəliyi dəyişdirilməməlidir. Yenidən çağırılan ümumi yığıncaq səsli səhmlərin 40 faizinin mülkiyyətçiləri iştirak etdikdə səlahiyyətlidir.
+107-2.3. Yenidən çağırılan yığıncaqda yetərsay olmadıqda, ümumi yığıncaq bu Məcəllənin 107-1.8-ci maddəsində müəyyən edilmiş qaydada, gündəliyi dəyişdirilmədən “Banklar haqqında Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallar istisna olmaqla, təkrarən çağırılmalıdır. Təkrarən çağırılan ümumi yığıncaq səsli səhmlərin 25 faizinin mülkiyyətçiləri iştirak etdikdə səlahiyyətlidir.
+107-2.4. 107-2.3-cü maddəyə əsasən təkrarən çağırılan ümumi yığıncağın keçirilməsi üçün yetərsay təmin olunmadıqda, cəmiyyət Azərbaycan Respublikasının Mərkəzi Banka məlumat verərək yetərsaydan asılı olmadan ümumi yığıncağın qərarı ilə və ya Azərbaycan Respublikasının Mərkəzi Bankın iddiası əsasında məhkəmənin qərarı ilə ləğv edilə bilər. Səhmdarların cəmiyyətin ləğv edilməsi haqqında ümumi yığıncağın qərarından məhkəməyə şikayət etmək hüququ vardır.
 
 #### Maddə 107-3. Səhmdarın ümumi yığıncaqda iştirakı qaydası
-- 107-3.1. Səhmdar ümumi yığıncaqda iştirak hüququnu bilavasitə özü və ya nümayəndəsi vasitəsi ilə həyata keçirir. Bu zaman səhmdarın nümayəndəsi qanunvericiliklə müəyyən edilmiş qaydada tərtib edilmiş etibarnaməyə malik olmalıdır.
-- 107-3.2. Cəmiyyətin nizamnaməsində nəzərdə tutulmuş halda, səhmdar ümumi yığıncağın gündəliyində olan məsələyə münasibətini dəqiq və şərtsiz bildirməklə (lehinə, əleyhinə, bitərəf), imzası qanunvericilikdə müəyyən edilmiş qaydada (notarial və sair) təsdiq edilməklə, yazılı sənəd vasitəsi ilə səsvermədə qiyabi iştirak edə bilər.
-- 107-3.3. Qiyabi səsvermənin reqlamenti cəmiyyətin nizamnaməsi ilə müəyyən edilir.
-- 107-3.4. Səhm bir neçə şəxsin ümumi birgə mülkiyyətində olduğu halda, ümumi yığıncaqda səsvermə səlahiyyəti onun mülkiyyətçilərinin birinə və ya onların ümumi nümayəndəsinə qanunvericilikdə müəyyən olunmuş qaydada həvalə edilir.
-- 107-3.5. Səhmdarların ümumi yığıncağında səsvermə "bir səsli səhm — bir səsdir" prinsipi əsasında həyata keçirilir.
+107-3.1. Səhmdar ümumi yığıncaqda iştirak hüququnu bilavasitə özü və ya nümayəndəsi vasitəsi ilə həyata keçirir. Bu zaman səhmdarın nümayəndəsi qanunvericiliklə müəyyən edilmiş qaydada tərtib edilmiş etibarnaməyə malik olmalıdır.
+107-3.2. Cəmiyyətin nizamnaməsində nəzərdə tutulmuş halda, səhmdar ümumi yığıncağın gündəliyində olan məsələyə münasibətini dəqiq və şərtsiz bildirməklə (lehinə, əleyhinə, bitərəf), imzası qanunvericilikdə müəyyən edilmiş qaydada (notarial və sair) təsdiq edilməklə, yazılı sənəd vasitəsi ilə səsvermədə qiyabi iştirak edə bilər.
+107-3.3. Qiyabi səsvermənin reqlamenti cəmiyyətin nizamnaməsi ilə müəyyən edilir.
+107-3.4. Səhm bir neçə şəxsin ümumi birgə mülkiyyətində olduğu halda, ümumi yığıncaqda səsvermə səlahiyyəti onun mülkiyyətçilərinin birinə və ya onların ümumi nümayəndəsinə qanunvericilikdə müəyyən olunmuş qaydada həvalə edilir.
+107-3.5. Səhmdarların ümumi yığıncağında səsvermə "bir səsli səhm — bir səsdir" prinsipi əsasında həyata keçirilir.
 
 #### Maddə 107-4. Hesablama komissiyası
-- 107-4.1. Səhmdarlarının sayı yüzdən çox olan cəmiyyətlərin ümumi yığıncaqlarında səsvermənin nəticələrinin müəyyən edilməsi üçün sayı üç nəfərdən az olmayan hesablama komissiyası yaradılmalıdır. Hesablama komissiyasına direktorlar şurasının (müşahidə şurasının) üzvləri, təftiş komissiyasının üzvləri (müfəttiş), icra orqanlarının üzvləri (təkbaşçı icra orqanı) və həmin vəzifələrə (vəzifəyə) seçilməyə namizədlər daxil edilməməlidir.
-- 107-4.2. Hesablama komissiyasının yaradılması qaydası cəmiyyətin nizamnaməsi ilə müəyyən edilir.
-- 107-4.3. Hesablama komissiyasının protokolu ümumi yığıncağın protokoluna əlavə olunur.
+107-4.1. Səhmdarlarının sayı yüzdən çox olan cəmiyyətlərin ümumi yığıncaqlarında səsvermənin nəticələrinin müəyyən edilməsi üçün sayı üç nəfərdən az olmayan hesablama komissiyası yaradılmalıdır. Hesablama komissiyasına direktorlar şurasının (müşahidə şurasının) üzvləri, təftiş komissiyasının üzvləri (müfəttiş), icra orqanlarının üzvləri (təkbaşçı icra orqanı) və həmin vəzifələrə (vəzifəyə) seçilməyə namizədlər daxil edilməməlidir.
+107-4.2. Hesablama komissiyasının yaradılması qaydası cəmiyyətin nizamnaməsi ilə müəyyən edilir.
+107-4.3. Hesablama komissiyasının protokolu ümumi yığıncağın protokoluna əlavə olunur.
 
 #### Maddə 107-5. Səhmdarların ümumi yığıncağının qərarı
-- 107-5.1. Səhmdarların ümumi yığıncağının qərarı, bu Məcəllə və cəmiyyətin nizamnaməsi ilə başqa hal nəzərdə tutulmadıqda, bu Məcəllənin 107-3.5-ci maddəsinin müddəaları nəzərə alınmaqla, ümumi yığıncaqda iştirak edən səhmdarların sadə səs çoxluğu ilə qəbul edilir. Cəmiyyətin yenidən təşkili, ləğvi, nizamnaməsinə əlavə və dəyişikliklərin edilməsi haqqında qərarlar “Banklar haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qayda istisna olmaqla, səhmdarların ümumi yığıncağında səsvermə hüququna malik olan səhmdarların üçdə iki səs çoxluğu ilə qəbul edilir.
-- 107-5.2. Səhmdarların ümumi yığıncağının gündəliyinə daxil edilməmiş məsələlər üzrə qərar qəbul edə bilməz.
-- 107-5.3. Səhmdarların ümumi yığıncağı tərəfindən qəbul edilmiş qərarlar on beş təqvim günündən gec olmayaraq səhmdarlara elan edilməlidir.
-- 107-5.4. Səhmdarların ümumi yığıncağının qərarından səhmdar məhkəməyə şikayət edə bilər.
+107-5.1. Səhmdarların ümumi yığıncağının qərarı, bu Məcəllə və cəmiyyətin nizamnaməsi ilə başqa hal nəzərdə tutulmadıqda, bu Məcəllənin 107-3.5-ci maddəsinin müddəaları nəzərə alınmaqla, ümumi yığıncaqda iştirak edən səhmdarların sadə səs çoxluğu ilə qəbul edilir. Cəmiyyətin yenidən təşkili, ləğvi, nizamnaməsinə əlavə və dəyişikliklərin edilməsi haqqında qərarlar “Banklar haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qayda istisna olmaqla, səhmdarların ümumi yığıncağında səsvermə hüququna malik olan səhmdarların üçdə iki səs çoxluğu ilə qəbul edilir.
+107-5.2. Səhmdarların ümumi yığıncağının gündəliyinə daxil edilməmiş məsələlər üzrə qərar qəbul edə bilməz.
+107-5.3. Səhmdarların ümumi yığıncağı tərəfindən qəbul edilmiş qərarlar on beş təqvim günündən gec olmayaraq səhmdarlara elan edilməlidir.
+107-5.4. Səhmdarların ümumi yığıncağının qərarından səhmdar məhkəməyə şikayət edə bilər.
 
 #### Maddə 107-6. Səhmdarların ümumi yığıncağının protokolu
-- 107-6.1. Səhmdarların ümumi yığıncağının protokolu yığıncaq bitdikdən sonra üç iş günündən gec olmayaraq iki nüsxədə tərtib olunur, sədrlik edən şəxs və katib tərəfindən imzalanır və möhürlənir.
-- 107-6.2. Səhmdarların ümumi yığıncağının protokolunda aşağıdakılar göstərilir:
-  - 107-6.2.1. ümumi yığıncağın keçirilmə vaxtı və yeri;
-  - 107-6.2.2. ümumi yığıncağın gündəliyi;
-  - 107-6.2.3. ümumi yığıncağın iştirakçılarının səsli səhmlərinin sayı;
-  - 107-6.2.4. iştirak edən səsvermə hüququna malik olan səhmdarların sayı;
-  - 107-6.2.5. çıxışların xülasəsi;
-  - 107-6.2.6. səsə qoyulan hər bir məsələ üzrə səsvermənin nəticələri;
-  - 107-6.2.7. ümumi yığıncaq tərəfindən qəbul edilmiş qərarın dəqiq və səlis ifadə olunmuş mətni.
-- 107-6.3. Səhmdarın tələbi ilə protokolun surəti ona təqdim edilməlidir.
+107-6.1. Səhmdarların ümumi yığıncağının protokolu yığıncaq bitdikdən sonra üç iş günündən gec olmayaraq iki nüsxədə tərtib olunur, sədrlik edən şəxs və katib tərəfindən imzalanır və möhürlənir.
+107-6.2. Səhmdarların ümumi yığıncağının protokolunda aşağıdakılar göstərilir:
+- 107-6.2.1. ümumi yığıncağın keçirilmə vaxtı və yeri;
+- 107-6.2.2. ümumi yığıncağın gündəliyi;
+- 107-6.2.3. ümumi yığıncağın iştirakçılarının səsli səhmlərinin sayı;
+- 107-6.2.4. iştirak edən səsvermə hüququna malik olan səhmdarların sayı;
+- 107-6.2.5. çıxışların xülasəsi;
+- 107-6.2.6. səsə qoyulan hər bir məsələ üzrə səsvermənin nəticələri;
+- 107-6.2.7. ümumi yığıncaq tərəfindən qəbul edilmiş qərarın dəqiq və səlis ifadə olunmuş mətni.
+107-6.3. Səhmdarın tələbi ilə protokolun surəti ona təqdim edilməlidir.
 
 #### Maddə 107-7. Səhmdar cəmiyyətinin direktorlar şurası (müşahidə şurası)
-- 107-7.1. Bu Məcəllənin 107.3-cü maddəsi ilə nəzərdə tutulmuş halda cəmiyyətin direktorlar şurası (müşahidə şurası) yaradılır. Cəmiyyətin direktorlar şurası (müşahidə şurası) öz səlahiyyətləri hüdudlarında ümumi rəhbərliyi və cəmiyyətin fəaliyyəti üzərində nəzarəti həyata keçirir.
-- 107-7.2. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvlərinin sayı və onlara olan tələblər cəmiyyətin nizamnaməsi ilə müəyyən edilir. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvləri üçün sayı və onlara dair tələblər qanunla da müəyyən edilə bilər.
-- 107-7.3. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) tərkibi nizamnamədə nəzərdə tutulmuş sayın yarısına qədər azaldıqda, otuz təqvim günü ərzində cəmiyyətin növbədənkənar ümumi yığıncağı çağırılaraq, direktorlar şurasına (müşahidə şurasına) yeni üzvlər seçilməlidir.
-- 107-7.4. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvləri ümumi yığıncaqda üç ildən artıq olmayan müddətə bu Məcəllə ilə və cəmiyyətin nizamnaməsi ilə nəzərdə tutulmuş qaydada seçilirlər.
-- 107-7.5. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvü fiziki şəxs olmalıdır. Direktorlar şurasının (müşahidə şurasının) üzvlüyünə, nizamnamədə başqa hal nəzərdə tutulmamışdırsa, cəmiyyətin səhmdarı olmayan şəxs də seçilə bilər. Cəmiyyətin icra orqanlarının üzvləri (təkbaşçı icra orqanı) direktorlar şurasına (müşahidə şurasına) üzv seçilə bilməz.
-- 107-7.6. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) və ya onun üzvünün səlahiyyətinə vaxtından əvvəl xitam verilməsi ümumi yığıncağın qərarı ilə həyata keçirilə bilər.
+107-7.1. Bu Məcəllənin 107.3-cü maddəsi ilə nəzərdə tutulmuş halda cəmiyyətin direktorlar şurası (müşahidə şurası) yaradılır. Cəmiyyətin direktorlar şurası (müşahidə şurası) öz səlahiyyətləri hüdudlarında ümumi rəhbərliyi və cəmiyyətin fəaliyyəti üzərində nəzarəti həyata keçirir.
+107-7.2. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvlərinin sayı və onlara olan tələblər cəmiyyətin nizamnaməsi ilə müəyyən edilir. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvləri üçün sayı və onlara dair tələblər qanunla da müəyyən edilə bilər.
+107-7.3. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) tərkibi nizamnamədə nəzərdə tutulmuş sayın yarısına qədər azaldıqda, otuz təqvim günü ərzində cəmiyyətin növbədənkənar ümumi yığıncağı çağırılaraq, direktorlar şurasına (müşahidə şurasına) yeni üzvlər seçilməlidir.
+107-7.4. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvləri ümumi yığıncaqda üç ildən artıq olmayan müddətə bu Məcəllə ilə və cəmiyyətin nizamnaməsi ilə nəzərdə tutulmuş qaydada seçilirlər.
+107-7.5. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvü fiziki şəxs olmalıdır. Direktorlar şurasının (müşahidə şurasının) üzvlüyünə, nizamnamədə başqa hal nəzərdə tutulmamışdırsa, cəmiyyətin səhmdarı olmayan şəxs də seçilə bilər. Cəmiyyətin icra orqanlarının üzvləri (təkbaşçı icra orqanı) direktorlar şurasına (müşahidə şurasına) üzv seçilə bilməz.
+107-7.6. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) və ya onun üzvünün səlahiyyətinə vaxtından əvvəl xitam verilməsi ümumi yığıncağın qərarı ilə həyata keçirilə bilər.
 
-#### Maddə 107-8. Səhmdar cəmiyyətinin direktorlar şurası (müşahidə şurası)
+#### Maddə 107-8. Səhmdar cəmiyyətinin direktorlar şurasının (müşahidə şurasının) sədri
 Səhmdar cəmiyyətinin direktorlar şurasının (müşahidə şurasının) sədri səhmdarların ümumi yığıncağı tərəfindən direktorlar şurasının (müşahidə şurasının) üzvləri arasından seçilir. Direktorlar şurasının (müşahidə şurasının) sədri şuraya rəhbərlik edir.
 
 #### Maddə 107-9. Səhmdar cəmiyyətinin direktorlar şurasının (müşahidə şurasının) iclası
-- 107-9.1. Səhmdar cəmiyyətinin direktorlar şurasının (müşahidə şurasının) sədri onun iclaslarını üç ayda bir dəfədən az olmayaraq çağırır və iclaslara sədrlik edir. Cəmiyyətin təftiş komissiyasının (müfəttişin), icra orqanının, şura üzvlərinin, habelə qanun və nizamnamə ilə müəyyən edilə bilən digər şəxslərin tələbi ilə də direktorlar şurasının (müşahidə şurasının) iclası şuranın sədri tərəfindən çağırılır. Şuranın iclasının keçirilməsi qaydaları cəmiyyətin nizamnaməsi ilə müəyyən edilir.
-- 107-9.2. Səhmdar cəmiyyətinin direktorlar şurasının (müşahidə şurasının) iclasında hər üzv bir səsə malik olmaqla, qərarlar sadə səs çoxluğu ilə qəbul edilir. Səslərin sayı bərabər bölünərsə, şuranın sədrinin səsi qərarın qəbul edilməsi və ya rədd edilməsi üçün həlledici hesab edilir.
-- 107-9.3. Səhmdar cəmiyyətinin direktorlar şurasının (müşahidə şurasının) iclası çağırıldıqda, iclasın yerini, vaxtını, iştirakçılarını, gündəliyini, çıxışların xülasəsini, səsvermənin nəticələrini və qərarlarını əks etdirən protokol tərtib edilir. Həmin protokol şuranın sədri tərəfindən imzalanır.
+107-9.1. Səhmdar cəmiyyətinin direktorlar şurasının (müşahidə şurasının) sədri onun iclaslarım üç ayda bir dəfədən az olmayaraq çağırır və iclaslara sədrlik edir. Cəmiyyətin təftiş komissiyasının (müfəttişin), icra orqanının, şura üzvlərinin, habelə qanun və nizamnamə ilə müəyyən edilə bilən digər şəxslərin tələbi ilə də direktorlar şurasının (müşahidə şurasının) iclası şuranın sədri tərəfindən çağırılır. Şuranın iclasının keçirilməsi qaydaları cəmiyyətin nizamnaməsi ilə müəyyən edilir.
+107-9.2. Səhmdar cəmiyyətinin direktorlar şurasının (müşahidə şurasının) iclasında hər üzv bir səsə malik olmaqla, qərarlar sadə səs çoxluğu ilə qəbul edilir. Səslərin sayı bərabər bölünərsə, şuranın sədrinin səsi qərarın qəbul edilməsi və ya rədd edilməsi üçün həlledici hesab edilir.
+107-9.3. Səhmdar cəmiyyətinin direktorlar şurasının (müşahidə şurasının) iclası çağırıldıqda, iclasın yerini, vaxtını, iştirakçılarmı, gündəliyini, çıxışların xülasəsini, səsvermənin nəticələrini və qərarlarını əks etdirən protokol tərtib edilir. Həmin protokol şuranın sədri tərəfindən imzalanır.
 
 #### Maddə 107-10. Səhmdar cəmiyyətinin icra orqanı
-- 107-10.1. Cəmiyyətin icra orqanına direktorlar şurasının (müşahidə şurasının) üzvləri seçilə bilməz.
-- 107-10.2. Cəmiyyətin icra orqanının səlahiyyətlərinə, müvafiq olaraq, bu Məcəllə, Azərbaycan Respublikasının qanunları və nizamnamə ilə cəmiyyətin idarəetmə orqanlarının müstəsna səlahiyyətlərinə aid edilməmiş bütün məsələlər daxildir.
-- 107-10.3. Cəmiyyətin kollegial icra orqanının üzvlərinin sayı və tərkibi, habelə fəaliyyətinin qaydaları, müvafiq olaraq, cəmiyyətin nizamnaməsi, “Banklar haqqında” və “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının qanunları ilə müəyyən edilir.
-- 107-10.4. Cəmiyyətin icra orqanının üzvlərinin eyni zamanda digər təşkilatda vəzifə tutmasına, qanunvericiliyə zidd olmadıqda, cəmiyyətin ümumi yığıncağının və ya direktorlar şurasının (müşahidə şurasının) razılığı ilə yol verilir.
-- 107-10.5. Cəmiyyətin icra orqanı üzvlərinin şəxsi marağı ilə cəmiyyətin maraqları arasında ziddiyyətlərə gətirib çıxara bilən, habelə bu Məcəllənin 49-1.6-cı maddəsində nəzərdə tutulmuş hallarda cəmiyyətin icra orqanının rəhbəri və ya digər üzvləri müvafiq məlumatı cəmiyyətin direktorlar şurasına (müşahidə şurasına), o olmadıqda, səhmdarların ümumi yığıncağına yazılı şəkildə təqdim etməlidirlər. Cəmiyyətin maraqlarına zidd olan əqdlərin bağlanılması, müvafiq olaraq, bu Məcəllə, “Banklar haqqında” və “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının qanunları ilə ayrı qayda nəzərdə tutulmamışdırsa, müvafiq idarəetmə orqanının qərarı əsasında həyata keçirilə bilər.
-- 107-10.6. Cəmiyyətin icra orqanının və ya direktorlar şurasının (müşahidə şurasının) üzvü mülkiyyətində olan qiymətli kağızlarla əqdi bağlamaqdan əvvəl bu barədə məlumatı mediada açıqlamalıdır.
-- 107-10.7. Cəmiyyətin səhmlərinin iyirmi faizinə malik olan səhmdar cəmiyyətinin icra orqanının üzvü seçilə bilməz.
+107-10.1. Cəmiyyətin icra orqanına direktorlar şurasının (müşahidə şurasının) üzvləri seçilə bilməz.
+107-10.2. Cəmiyyətin icra orqanının səlahiyyətlərinə, müvafiq olaraq, bu Məcəllə, “”, “”, “” Azərbaycan Respublikasının qanunları və nizamnamə ilə cəmiyyətin idarəetmə orqanlarının müstəsna səlahiyyətlərinə aid edilməmiş bütün məsələlər daxildir.
+107-10.3. Cəmiyyətin kollegial icra orqanının üzvlərinin sayı və tərkibi, habelə fəaliyyətinin qaydaları, müvafiq olaraq, cəmiyyətin nizamnaməsi, “Banklar haqqında” və “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının qanunları ilə müəyyən edilir.
+107-10.4. Cəmiyyətin icra orqanının üzvlərinin eyni zamanda digər təşkilatda vəzifə tutmasına, qanunvericiliyə zidd olmadıqda, cəmiyyətin ümumi yığıncağının və ya direktorlar şurasının (müşahidə şurasının) razılığı ilə yol verilir.
+107-10.5. Cəmiyyətin icra orqanı üzvlərinin şəxsi marağı ilə cəmiyyətin maraqları arasında ziddiyyətlərə gətirib çıxara bilən, habelə bu Məcəllənin 49-1.6-cı maddəsində nəzərdə tutulmuş hallarda cəmiyyətin icra orqanının rəhbəri və ya digər üzvləri müvafiq məlumatı cəmiyyətin direktorlar şurasına (müşahidə şurasına), o olmadıqda, səhmdarların ümumi yığıncağına yazılı şəkildə təqdim etməlidirlər. Cəmiyyətin maraqlarına zidd olan əqdlərin bağlanılması, müvafiq olaraq, bu Məcəllə, “Banklar haqqında” və “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının qanunları ilə ayrı qayda nəzərdə tutulmamışdırsa, müvafiq idarəetmə orqanının qərarı əsasında həyata keçirilə bilər.
+107-10.6. Cəmiyyətin icra orqanının və ya direktorlar şurasının (müşahidə şurasının) üzvü mülkiyyətində olan qiymətli kağızlarla əqdi bağlamaqdan əvvəl bu barədə məlumatı mediada açıqlamalıdır.
+107-10.7. Cəmiyyətin səhmlərinin iyirmi faizinə malik olan səhmdar cəmiyyətinin icra orqanının üzvü seçilə bilməz.
 
 #### Maddə 107-11. Səhmdar cəmiyyətinin təftiş komissiyası (müfəttişi)
-- 107-11.1. Səhmdarların sayı əllidən çox olan cəmiyyətlərdə maliyyə-təsərrüfat fəaliyyətinə nəzarətin həyata keçirilməsi üçün ümumi yığıncaqda təftiş komissiyası (müfəttiş) seçilir (təyin edilir). Cəmiyyətin nizamnaməsində nəzərdə tutulduğu halda səhmdarların sayı əllidən çox olmayan cəmiyyətlərdə də təftiş komissiyası (müfəttiş) seçilə (təyin edilə) bilər.
-- 107-11.2. Cəmiyyətin təftiş komissiyasının (müfəttişin) formalaşdırılması qaydaları, onun tərkibi və fəaliyyətinin qaydası cəmiyyətin nizamnaməsi ilə müəyyən edilir.
-- 107-11.3. Cəmiyyətin təftiş komissiyasının üzvlüyünə (müfəttiş kimi) fiziki şəxslər seçilir. Təftiş komissiyasının üzvü (müfəttiş) cəmiyyətin səhmdarı, direktorlar şurasının (müşahidə şurasının) və cəmiyyətin icra orqanlarının üzvü ola bilməz.
-- 107-11.4. Cəmiyyətin təftiş komissiyasının üzvlərinin (müfəttişin) səlahiyyət müddəti nizamnamə ilə üç ildən artıq olmayan müddətə müəyyən edilir.
-- 107-11.5. Cəmiyyətin maliyyə-təsərrüfat fəaliyyətinin təftişi cəmiyyətin təftiş komissiyasının (müfəttişin) təşəbbüsü ilə ümumi yığıncağın və ya direktorlar şurasının (müşahidə şurasının) qərarı ilə və ya cəmiyyətin səsli səhmlərinin on faizindən artıq hissəsinə malik olan səhmdarların və cəmiyyətin icra orqanın tələbi ilə həyata keçirilir.
-- 107-11.6. Cəmiyyətin təftiş komissiyasının (müfəttişin) tələbi ilə cəmiyyətin bütün orqanları və vəzifəli şəxsləri cəmiyyətin maliyyə-təsərrüfat fəaliyyəti ilə əlaqədar olan sənədləri təqdim etməlidirlər.
-- 107-11.7. Bu maddənin tələbləri sığortaçılara, banklara və xarici bankların yerli filiallarına şamil edilmir.
+107-11.1. Səhmdarların sayı əllidən çox olan cəmiyyətlərdə maliyyə-təsərrüfat fəaliyyətinə nəzarətin həyata keçirilməsi üçün ümumi yığıncaqda təftiş komissiyası (müfəttiş) seçilir (təyin edilir). Cəmiyyətin nizamnaməsində nəzərdə tutulduğu halda səhmdarların sayı əllidən çox olmayan cəmiyyətlərdə də təftiş komissiyası (müfəttiş) seçilə (təyin edilə) bilər.
+107-11.2. Cəmiyyətin təftiş komissiyasının (müfəttişin) formalaşdırılması qaydaları, onun tərkibi və fəaliyyətinin qaydası cəmiyyətin nizamnaməsi ilə müəyyən edilir.
+107-11.3. Cəmiyyətin təftiş komissiyasının üzvlüyünə (müfəttiş kimi) fiziki şəxslər seçilir. Təftiş komissiyasının üzvü (müfəttiş) cəmiyyətin səhmdarı, direktorlar şurasının (müşahidə şurasının) və cəmiyyətin icra orqanlarının üzvü ola bilməz.
+107-11.4. Cəmiyyətin təftiş komissiyasının üzvlərinin (müfəttişin) səlahiyyət müddəti nizamnamə ilə üç ildən artıq olmayan müddətə müəyyən edilir.
+107-11.5. Cəmiyyətin maliyyə-təsərrüfat fəaliyyətinin təftişi cəmiyyətin təftiş komissiyasının (müfəttişin) təşəbbüsü ilə ümumi yığıncağın və ya direktorlar şurasının (müşahidə şurasının) qərarı ilə və ya cəmiyyətin səsli səhmlərinin on faizindən artıq hissəsinə malik olan səhmdarların və cəmiyyətin icra orqanın tələbi ilə həyata keçirilir.
+107-11.6. Cəmiyyətin təftiş komissiyasının (müfəttişin) tələbi ilə cəmiyyətin bütün orqanları və vəzifəli şəxsləri cəmiyyətin maliyyə-təsərrüfat fəaliyyəti ilə əlaqədar olan sənədləri təqdim etməlidirlər.
+107-11.7. Bu maddənin tələbləri sığortaçılara, banklara və xarici bankların yerli filiallarına şamil edilmir.
 
 #### Maddə 107-12. Səhmdar cəmiyyətinin audit komitəsi
-- 107-12.1. Səhmdarların sayı əllidən çox olan cəmiyyətlərdə, habelə ictimai əhəmiyyətli qurumlarda daxili audit siyasətinin və strategiyasının hazırlanması, həyata keçirilməsi və auditor nəzarətinin təşkili üçün direktorlar şurası (müşahidə şurası) tərəfindən audit komitəsi yaradılır. Cəmiyyətin nizamnaməsində nəzərdə tutulduğu halda səhmdarların sayı əllidən çox olmayan cəmiyyətlərdə də audit komitəsi yaradılır.
-- 107-12.2. Cəmiyyətin audit komitəsinin formalaşdırılması qaydaları, onun tərkibi və fəaliyyətinin qaydası qanunla və cəmiyyətin nizamnaməsi ilə müəyyən edilir.
-- 107-12.3. Cəmiyyətin icra orqanının üzvləri və (və ya) cəmiyyətin iştirakçıları audit komitəsinin üzvü ola bilməzlər. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvləri audit komitəsinin üzvü ola bilərlər.
-- 107-12.4. Cəmiyyətin fəaliyyətinin daxili auditi cəmiyyətin audit komitəsinin təşəbbüsü ilə ümumi yığıncağın və ya direktorlar şurasının (müşahidə şurasının) qərarı ilə və ya cəmiyyətin səsli səhmlərinin on faizindən artıq hissəsinə malik olan səhmdarların və cəmiyyətin icra orqanının tələbi ilə həyata keçirilir.
-- 107-12.5. Cəmiyyətin audit komitəsinin tələbi ilə cəmiyyətin bütün orqanları və vəzifəli şəxsləri cəmiyyətin maliyyə-təsərrüfat fəaliyyəti ilə əlaqədar olan sənədləri təqdim etməlidirlər.
-- 107-12.6. Audit komitəsi cəmiyyətin direktorlar şurasına (müşahidə şurasına) tabedir.
+107-12.1. Səhmdarların sayı əllidən çox olan cəmiyyətlərdə, habelə ictimai əhəmiyyətli qurumlarda daxili audit siyasətinin və strategiyasının hazırlanması, həyata keçirilməsi və auditor nəzarətinin təşkili üçün direktorlar şurası (müşahidə şurası) tərəfindən audit komitəsi yaradılır. Cəmiyyətin nizamnaməsində nəzərdə tutulduğu halda səhmdarların sayı əllidən çox olmayan cəmiyyətlərdə də audit komitəsi yaradılır.
+107-12.2. Cəmiyyətin audit komitəsinin formalaşdırılması qaydaları, onun tərkibi və fəaliyyətinin qaydası qanunla və cəmiyyətin nizamnaməsi ilə müəyyən edilir.
+107-12.3. Cəmiyyətin icra orqanının üzvləri və (və ya) cəmiyyətin iştirakçıları audit komitəsinin üzvü ola bilməzlər. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvləri audit komitəsinin üzvü ola bilərlər.
+107-12.4. Cəmiyyətin fəaliyyətinin daxili auditi cəmiyyətin audit komitəsinin təşəbbüsü ilə ümumi yığıncağın və ya direktorlar şurasının (müşahidə şurasının) qərarı ilə və ya cəmiyyətin səsli səhmlərinin on faizindən artıq hissəsinə malik olan səhmdarların və cəmiyyətin icra orqanının tələbi ilə həyata keçirilir.
+107-12.5. Cəmiyyətin audit komitəsinin tələbi ilə cəmiyyətin bütün orqanları və vəzifəli şəxsləri cəmiyyətin maliyyə-təsərrüfat fəaliyyəti ilə əlaqədar olan sənədləri təqdim etməlidirlər.
+107-12.6. Audit komitəsi cəmiyyətin direktorlar şurasına (müşahidə şurasına) tabedir.
 
 #### Maddə 108. Səhmdar cəmiyyətinin yenidən təşkili və ləğvi
-- 108.1. Səhmdar cəmiyyəti səhmdarların ümumi yığıncağının qərarı ilə könüllü surətdə yenidən təşkil və ya ləğv edilə bilər. Səhmdar cəmiyyətinin yenidən təşkilinin və ləğvinin başqa əsasları və qaydası, müvafiq olaraq, bu Məcəllə, “Banklar haqqında”, “Sığorta fəaliyyəti haqqında” və “İnvestisiya fondları haqqında” Azərbaycan Respublikasının qanunları ilə müəyyənləşdirilir.
-- 108.2. “Banklar haqqında”, “Sığorta fəaliyyəti haqqında”, “Qiymətli kağızlar bazarı haqqında”, “Bank olmayan kredit təşkilatları haqqında”, “İnvestisiya fondları haqqında” və “Kredit büroları haqqında” Azərbaycan Respublikasının qanunlarında nəzərdə tutulmuş hallar istisna olmaqla, səhmdar cəmiyyəti məhdud məsuliyyətli cəmiyyətə çevrilə bilər.
+108.1. Səhmdar cəmiyyəti səhmdarların ümumi yığıncağının qərarı ilə könüllü surətdə yenidən təşkil və ya ləğv edilə bilər. Səhmdar cəmiyyətinin yenidən təşkilinin və ləğvinin başqa əsasları və qaydası, müvafiq olaraq, bu Məcəllə, “Banklar haqqında”, “Sığorta fəaliyyəti haqqında” və “İnvestisiya fondları haqqında” Azərbaycan Respublikasının qanunları ilə müəyyənləşdirilir.
+108.2. “Banklar haqqında”, “Sığorta fəaliyyəti haqqında”, “Qiymətli kağızlar bazarı haqqında”, “Bank olmayan kredit təşkilatları haqqında”, “İnvestisiya fondları haqqında” və “Kredit büroları haqqında” Azərbaycan Respublikasının qanunlarında nəzərdə tutulmuş hallar istisna olmaqla, səhmdar cəmiyyəti məhdud məsuliyyətli cəmiyyətə çevrilə bilər.
 
 #### Maddə 109. Kooperativlər haqqında əsas müddəalar
-- 109.1. Kooperativ fiziki və (və ya) hüquqi şəxslərin birgə fəaliyyət göstərmək üçün üzvlüyə əsaslanan könüllü birliyi olub iştirakçılarının maddi və başqa tələbatının onun üzvlərinin əmlak pay haqlarının birləşdirilməsi yolu ilə ödənilməsi məqsədilə yaradılır.
-- 109.2. Kooperativ üzvü bu Məcəllənin tələblərinə cavab verən və kooperativin nizamnaməsində müəyyənləşdirilən qaydada və həcmdə üzvlük haqqı, mütləq və əlavə pay haqqı ödəmiş və kooperativə qəbul edilmiş, onun fəaliyyətində iştirak edən və səs hüququ (bu Məcəllənin 49-1.2-ci və 49-1.3-cü maddələrində nəzərdə tutulmuş hallar istisna olmaqla) olan fiziki və (və ya) hüquqi şəxsdir.
-- 109.3. Kooperativin ortaq (assosiativ) üzvü bu Məcəllənin tələblərinə cavab verən və kooperativin nizamnaməsində müəyyənləşdirilən qaydada və həcmdə üzvlük haqqı və yalnız mütləq pay haqqı ödəmiş və kooperativə qəbul edilmiş, onun fəaliyyətində iştirak etmək və bu Məcəllədə nəzərdə tutulan hallar istisna olmaqla səs hüququna malik olmayan fiziki və (və ya) hüquqi şəxsdir.
-- 109.4. Kooperativ üzvünün əmlak pay haqqı nizamnamə ilə müəyyənləşdirilən qaydada və həcmdə üzvlər tərəfindən ödənilən daşınar və (və ya) daşınmaz əmlakdan, habelə pulla qiymətləndirilən əmlak hüquqlarından ibarət olan pay haqqıdır. Əmlak pay haqqı mütləq və əlavə ola bilər.
-- 109.5. Mütləq əmlak pay haqqı üzv tərəfindən mütləq qaydada ödənilən, kooperativin fəaliyyətində iştirak etmək, səs vermək və əsas kooperativ ödənişlərini almaq hüququ verən əmlak payıdır.
-- 109.6. Əlavə əmlak pay haqqı üzv tərəfindən bu Məcəllənin 109.5-ci maddəsində göstərilən pay haqqından əlavə, öz arzusu ilə ödənilən və kooperativ ödənişlərindən (əsas kooperativ ödənişlərindən) başqa, həmçinin dividend (əlavə kooperativ ödənişləri) almaq hüququ verən paydır.
-- 109.7. Üzvlük haqqı iştirakçının kooperativ üzvlüyünə daxil olması zamanı bununla bağlı xərclərin ödənilməsi üçün verilən pul məbləğidir. Kooperativ üzvünün kooperativ ödənişləri (əsas kooperativ ödənişləri) və dividend (əlavə kooperativ ödənişləri) almaq hüququ vardır.
-- 109.8. Kooperativ ödənişləri (əsas kooperativ ödənişləri) üzvlərin mütləq əmlak pay haqqına, kooperativdə şəxsi əməyinə və digər növ fəaliyyətinə mütənasib surətdə onlara ödənilən kooperativ mənfəətinin bir hissəsidir.
-- 109.9. Dividend (əlavə kooperativ ödənişləri) yalnız səs hüququna malik olan üzvlərə onların əlavə əmlak pay haqlarına və kooperativin ortaq (assosiativ) üzvlərinin mütləq əmlak pay haqlarına mütənasib surətdə ödənilən kooperativ mənfəətinin bir hissəsidir.
-- 109.10. Kooperativin nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstərilən məlumatlardan savayı kooperativ üzvlərinin pay haqlarının miqdarı haqqında; pay haqlarının verilməsi qaydası və onların verilməsi öhdəliyinin pozulmasına görə kooperativ üzvlərinin məsuliyyəti haqqında; kooperativin idarəetmə orqanlarının tərkibi və səlahiyyəti, onların qərarlar qəbul etməsi, o cümlədən barəsində qərarların yekdilliklə və ya şərtləşdirilmiş səs çoxluğu ilə qəbul olunduğu məsələlərə dair qərarlar qəbul etməsi qaydası haqqında; kooperativin düşdüyü zərərin ödənilməsi qaydası haqqında şərtləri, sənədlərin tərtibi qaydaları (kooperativə qəbulun, üzvlərin siyahısının və pay haqlarının qəbulunun rəsmiləşdirilməsi, kooperativ üzvlərinin ümumi yığıncağının və digər idarəetmə orqanlarının protokollarının tərtibi və sair) göstərilməlidir.
-- 109.11. Kooperativ qanunla qadağan olmayan istənilən sahədə qanunvericiliklə müəyyənləşdirilmiş qaydada sahibkarlıq fəaliyyətini həyata keçirə bilər. Fəaliyyət xarakterinə görə kooperativlər istehsal, istehlak, qarışıq (istehsal-istehlak) və digər növlərdə ola bilər.
-- 109.12. Kooperativ öz üzvləri ilə onların istehsal etdiyi məhsulları kooperativə satmaq, iş və xidmətləri yerinə yetirmək barədə müqavilələr bağlaya bilər.
-- 109.13. Dövlət orqanları, bələdiyyələr, digər fiziki və hüquqi şəxslər kooperativlə münasibətlərini müqavilə əsasında qururlar. Dövlət orqanları və bələdiyyələr Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallar istisna olmaqla, kooperativlərin təsərrüfat, maliyyə, təşkilati (idarəetmə orqanlarının formalaşdırılması) və digər fəaliyyətinə müdaxilə etmirlər.
-- 109.14. Kooperativdə maliyyə-təsərrüfat fəaliyyətinin operativ və mühasibat uçotu, statistika hesabatı Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş qaydada aparılır.
-- 109.15. Kooperativ öz fəaliyyətini həyata keçirmək üçün muzdla işçilər tutmaq hüququna malikdir. Kooperativin belə işçilərlə əmək münasibətləri Azərbaycan Respublikasının əmək qanunvericiliyi ilə tənzimlənir.
-- 109.16. Kooperativin, şəxsi əməyini tətbiq etməklə onun fəaliyyətində iştirak edən üzvləri ilə əmək münasibətləri Azərbaycan Respublikasının əmək qanunvericiliyi, bu Məcəllə və kooperativin nizamnaməsi ilə tənzimlənir.
-- 109.17. Kooperativin adında onun fəaliyyətinin əsas məqsədi, habelə "kooperativ" sözü olmalıdır.
-- 109.18. Kənd təsərrüfatı kooperativlərinin təşkili və fəaliyyəti bu Məcəllə və “Kənd təsərrüfatı kooperasiyası haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.
+109.1. Kooperativ fiziki və (və ya) hüquqi şəxslərin birgə fəaliyyət göstərmək üçün üzvlüyə əsaslanan könüllü birliyi olub iştirakçılarının maddi və başqa tələbatının onun üzvlərinin əmlak pay haqlarının birləşdirilməsi yolu ilə ödənilməsi məqsədilə yaradılır.
+109.2. Kooperativ üzvü bu Məcəllənin tələblərinə cavab verən və kooperativin nizamnaməsində müəyyənləşdirilən qaydada və həcmdə üzvlük haqqı, mütləq və əlavə pay haqqı ödəmiş və kooperativə qəbul edilmiş, onun fəaliyyətində iştirak edən və səs hüququ (bu Məcəllənin 49-1.2-ci və 49-1.3-cü maddələrində nəzərdə tutulmuş hallar istisna olmaqla) olan fiziki və (və ya) hüquqi şəxsdir.
+109.3. Kooperativin ortaq (assosiativ) üzvü bu Məcəllənin tələblərinə cavab verən və kooperativin nizamnaməsində müəyyənləşdirilən qaydada və həcmdə üzvlük haqqı və yalnız mütləq pay haqqı ödəmiş və kooperativə qəbul edilmiş, onun fəaliyyətində iştirak etmək və bu Məcəllədə nəzərdə tutulan hallar istisna olmaqla səs hüququna malik olmayan fiziki və (və ya) hüquqi şəxsdir.
+109.4. Kooperativ üzvünün əmlak pay haqqı nizamnamə ilə müəyyənləşdirilən qaydada və həcmdə üzvlər tərəfindən ödənilən daşınar və (və ya) daşınmaz əmlakdan, habelə pulla qiymətləndirilən əmlak hüquqlarından ibarət olan pay haqqıdır. Əmlak pay haqqı mütləq və əlavə ola bilər.
+109.5. Mütləq əmlak pay haqqı üzv tərəfindən mütləq qaydada ödənilən, kooperativin fəaliyyətində iştirak etmək, səs vermək və əsas kooperativ ödənişlərini almaq hüququ verən əmlak payıdır.
+109.6. Əlavə əmlak pay haqqı üzv tərəfindən bu Məcəllənin 109.5-ci maddəsində göstərilən pay haqqından əlavə, öz arzusu ilə ödənilən və kooperativ ödənişlərindən (əsas kooperativ ödənişlərindən) başqa, həmçinin dividend (əlavə kooperativ ödənişləri) almaq hüququ verən paydır.
+109.7. Üzvlük haqqı iştirakçının kooperativ üzvlüyünə daxil olması zamanı bununla bağlı xərclərin ödənilməsi üçün verilən pul məbləğidir. Kooperativ üzvünün kooperativ ödənişləri (əsas kooperativ ödənişləri) və dividend (əlavə kooperativ ödənişləri) almaq hüququ vardır.
+109.8. Kooperativ ödənişləri (əsas kooperativ ödənişləri) üzvlərin mütləq əmlak pay haqqına, kooperativdə şəxsi əməyinə və digər növ fəaliyyətinə mütənasib surətdə onlara ödənilən kooperativ mənfəətinin bir hissəsidir.
+109.9. Dividend (əlavə kooperativ ödənişləri) yalnız səs hüququna malik olan üzvlərə onların əlavə əmlak pay haqlarına və kooperativin ortaq (assosiativ) üzvlərinin mütləq əmlak pay haqlarına mütənasib surətdə ödənilən kooperativ mənfəətinin bir hissəsidir.
+109.10. Kooperativin nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstərilən məlumatlardan savayı kooperativ üzvlərinin pay haqlarının miqdarı haqqında; pay haqlarının verilməsi qaydası və onların verilməsi öhdəliyinin pozulmasına görə kooperativ üzvlərinin məsuliyyəti haqqında; kooperativin idarəetmə orqanlarının tərkibi və səlahiyyəti, onların qərarlar qəbul etməsi, o cümlədən barəsində qərarların yekdilliklə və ya şərtləşdirilmiş səs çoxluğu ilə qəbul olunduğu məsələlərə dair qərarlar qəbul etməsi qaydası haqqında; kooperativin düşdüyü zərərin ödənilməsi qaydası haqqında şərtləri, sənədlərin tərtibi qaydaları (kooperativə qəbulun, üzvlərin siyahısının və pay haqlarının qəbulunun rəsmiləşdirilməsi, kooperativ üzvlərinin ümumi yığıncağının və digər idarəetmə orqanlarının protokollarının tərtibi və sair) göstərilməlidir.
+109.11. Kooperativ qanunla qadağan olmayan istənilən sahədə qanunvericiliklə müəyyənləşdirilmiş qaydada sahibkarlıq fəaliyyətini həyata keçirə bilər. Fəaliyyət xarakterinə görə kooperativlər istehsal, istehlak, qarışıq (istehsal-istehlak) və digər növlərdə ola bilər.
+109.12. Kooperativ öz üzvləri ilə onların istehsal etdiyi məhsulları kooperativə satmaq, iş və xidmətləri yerinə yetirmək barədə müqavilələr bağlaya bilər.
+109.13. Dövlət orqanları, bələdiyyələr, digər fiziki və hüquqi şəxslər koopertivlə münasibətlərini müqavilə əsasında qururlar. Dövlət orqanları və bələdiyyələr Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallar istisna olmaqla, kooperativlərin təsərrüfat, maliyyə, təşkilati (idarəetmə orqanlarının formalaşdırılması) və digər fəaliyyətinə müdaxilə etmirlər.
+109.14. Kooperativdə maliyyə-təsərrüfat fəaliyyətinin operativ və mühasibat uçotu, statistika hesabatı Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş qaydada aparılır.
+109.15. Kooperativ öz fəaliyyətini həyata keçirmək üçün muzdla işçilər tutmaq hüququna malikdir. Kooperativin belə işçilərlə əmək münasibətləri Azərbaycan Respublikasının əmək qanunvericiliyi ilə tənzimlənir.
+109.16. Kooperativin, şəxsi əməyini tətbiq etməklə onun fəaliyyətində iştirak edən üzvləri ilə əmək münasibətləri Azərbaycan Respublikasının əmək qanunvericiliyi, bu Məcəllə və kooperativin nizamnaməsi ilə tənzimlənir.
+109.17. Kooperativin adında onun fəaliyyətinin əsas məqsədi, habelə "kooperativ" sözü olmalıdır.
+109.18. Kənd təsərrüfatı kooperativlərinin təşkili və fəaliyyəti bu Məcəllə və “Kənd təsərrüfatı kooperasiyası haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.
 
 #### Maddə 109-1. Kooperativin yaradılması
-- 109-1.1. Kooperativ beşdən az olmayan fiziki və (və ya) hüquqi şəxslər tərəfindən yaradılır.
-- 109-1.2. Kooperativ yaratmaq məqsədilə fiziki və (və ya) hüquqi şəxslər təşəbbüs qrupu yaradırlar. Təşəbbüs qrupunun vəzifələrinə aşağıdakılar daxildir:
-  - 109-1.2.1. pay haqqı fondunun həcmi və onun yaranma mənbələri göstərilməklə kooperativin nəzərdə tutulan fəaliyyətinin əsaslandırılması;
-  - 109-1.2.2. kooperativin nizamnamə layihəsinin hazırlanması;
-  - 109-1.2.3. kooperativin üzvlüyünə daxil olmaq barədə fiziki və (və ya) hüquqi şəxslərdən ərizələrin qəbul edilməsi;
-  - 109-1.2.4. kooperativin təsis yığıncağının hazırlanması və keçirilməsi.
-- 109-1.3. Kooperativin təsis yığıncağı kooperativin yaradılması və onun üzvlüyünə daxilolma barədə qərar qəbul edir; kooperativin nizamnaməsini təsdiq edir; bu Məcəllənin 111-ci maddəsini müddəalarını nəzərə almaqla kooperativin idarəetmə orqanlarını formalaşdırır.
-- 109-1.4. Kooperativin üzvləri öz aralarında bu Məcəllənin 45.2-ci maddəsinə uyğun olaraq təsis müqaviləsi bağlayırlar.
-- 109-1.5. Kooperativin təsis yığıncağının qərarı protokolla rəsmiləşdirilir.
+109-1.1. Kooperativ beşdən az olmayan fiziki və (və ya) hüquqi şəxslər tərəfindən yaradılır.
+109-1.2. Kooperativ yaratmaq məqsədilə fiziki və (və ya) hüquqi şəxslər təşəbbüs qrupu yaradırlar. Təşəbbüs qrupunun vəzifələrinə aşağıdakılar daxildir:
+- 109-1.2.1. pay haqqı fondunun həcmi və onun yaranma mənbələri göstərilməklə kooperativin nəzərdə tutulan fəaliyyətinin əsaslandırılması;
+- 109-1.2.2. kooperativin nizamnamə layihəsinin hazırlanması;
+- 109-1.2.3. kooperativin üzvlüyünə daxil olmaq barədə fiziki və (və ya) hüquqi şəxslərdən ərizələrin qəbul edilməsi;
+- 109-1.2.4. kooperativin təsis yığıncağının hazırlanması və keçirilməsi.
+109-1.3. Kooperativin təsis yığıncağı kooperativin yaradılması və onun üzvlüyünə daxilolma barədə qərar qəbul edir; kooperativin nizamnaməsini təsdiq edir; bu Məcəllənin 111-ci maddəsini müddəalarını nəzərə almaqla kooperativin idarəetmə orqanlarını formalaşdırır.
+109-1.4. Kooperativin üzvləri öz aralarında bu Məcəllənin 45.2-ci maddəsinə uyğun olaraq təsis müqaviləsi bağlayırlar.
+109-1.5. Kooperativin təsis yığıncağının qərarı protokolla rəsmiləşdirilir.
 
 #### Maddə 109-2. Kooperativin üzvləri
-- 109-2.1. Kooperativin nizamnaməsini qəbul edən və nizamnamə ilə müəyyənləşdirilmiş qaydada və həcmdə üzvlük haqqı və əmlak pay haqqı ödəyən 16 yaşına çatmış fiziki şəxslər və (və ya) hüquqi şəxslər kooperativin üzvü ola bilərlər.
-- 109-2.2. Kooperativin üzvü olan hüquqi şəxslə kooperativdə qanunvericiliklə müəyyənləşdirilmiş qaydada müvafiq səlahiyyət verdikləri nümayəndələri vasitəsilə təmsil olunmalıdırlar.
-- 109-2.3. Kooperativin üzvləri kooperativin işində onun fəaliyyət xarakterinə əsasən şəxsi əməyini tətbiq etməklə və ya tətbiq etməməklə iştirak edirlər.
-- 109-2.4. Kooperativin nizamnaməsində ayrı hal nəzərdə tutulmayıbsa, kooperativin üzvü başqa kooperativin də üzvü ola bilər.
-- 109-2.5. Kooperativin üzvlərinə [ortaq (assosiativ) üzvlər istisna olmaqla] onların mütləq əmlak paylarına görə dividendlər ödənilmir.
-- 109-2.6. Kooperativin üzvü yaşına və səhhətinə görə pensiyaya çıxdıqda, kooperativdən kənarda seçkili işə keçdikdə, hərbi xidmətə çağırıldıqda və kooperativin nizamnaməsində nəzərdə tutulmuş digər hallarda kooperativin ümumi yığıncağının qərarına əsasən kooperativdə ortaq (assosiativ) üzvlüyə keçə bilər.
-- 109-2.7. Kooperativin ortaq (assosiativ) üzvünün mütləq əmlak pay haqqının miqdarı və pay haqqı üzrə ödənilən dividendlərin şərtləri kooperativin nizamnaməsinə uyğun olaraq ortaq (assosiativ) üzvlə kooperativ arasında bağlanılan müqavilə əsasında müəyyənləşdirilir. Kooperativin ortaq (assosiativ) üzvünün mütləq əmlak pay haqqının miqdarı kooperativin nizamnaməsində müəyyənləşdirildikdə kooperativin digər üzvlərini mütləq pay haqqı miqdarından artıq məbləğdə müəyyənləşdirilə bilər.
-- 109-2.8. Kooperativin ortaq (assosiativ) üzvü, onun kooperativdə üzvlüyü ilə bağlı şərtlərin kooperativin nizamnaməsində dəyişdirilməsi halları istisna olmaqla səs hüququna malik deyildir.
+109-2.1. Kooperativin nizamnaməsini qəbul edən və nizamnamə ilə müəyyənləşdirilmiş qaydada və həcmdə üzvlük haqqı və əmlak pay haqqı ödəyən 16 yaşına çatmış fiziki şəxslər və (və ya) hüquqi şəxslər kooperativin üzvü ola bilərlər.
+109-2.2. Kooperativin üzvü olan hüquqi şəxslə kooperativdə qanunvericiliklə müəyyənləşdirilmiş qaydada müvafiq səlahiyyət verdikləri nümayəndələri vasitəsilə təmsil olunmalıdırlar.
+109-2.3. Kooperativin üzvləri kooperativin işində onun fəaliyyət xarakterinə əsasən şəxsi əməyini tətbiq etməklə və ya tətbiq etməməklə iştirak edirlər.
+109-2.4. Kooperativin nizamnaməsində ayrı hal nəzərdə tutulmayıbsa, kooperativin üzvü başqa kooperativin də üzvü ola bilər.
+109-2.5. Kooperativin üzvlərinə [ortaq (assosiativ) üzvlər istisna olmaqla] onların mütləq əmlak paylarına görə dividendlər ödənilmir.
+109-2.6. Kooperativin üzvü yaşına və səhhətinə görə pensiyaya çıxdıqda, kooperativdən kənarda seçkili işə keçdikdə, hərbi xidmətə çağırıldıqda və kooperativin nizamnaməsində nəzərdə tutulmuş digər hallarda kooperativin ümumi yığıncağının qərarına əsasən kooperativdə ortaq (assosiativ) üzvlüyə keçə bilər.
+109-2.7. Kooperativin ortaq (assosiativ) üzvünün mütləq əmlak pay haqqının miqdarı və pay haqqı üzrə ödənilən dividendlərin şərtləri kooperativin nizamnaməsinə uyğun olaraq ortaq (assosiativ) üzvlə kooperativ arasında bağlanılan müqavilə əsasında müəyyənləşdirilir. Kooperativin ortaq (assosiativ) üzvünün mütləq əmlak pay haqqının miqdarı kooperativin nizamnaməsində müəyyənləşdirildikdə kooperativin digər üzvlərini mütləq pay haqqı miqdarından artıq məbləğdə müəyyənləşdirilə bilər.
+109-2.8. Kooperativin ortaq (assosiativ) üzvü, onun kooperativdə üzvlüyü ilə bağlı şərtlərin kooperativin nizamnaməsində dəyişdirilməsi halları istisna olmaqla səs hüququna malik deyildir.
 
 #### Maddə 109-3. Kooperativ üzvlüyünə qəbul
 Kooperativin üzvlüyünə qəbul, üzv olmaq istəyən şəxsin kooperativə rəsmi müraciəti əsasında nizamnamə ilə müəyyənləşdirilmiş qaydada həyata keçirilir. Kooperativin üzvünə üzvlük kitabçası verilir. Kitabçada göstərilən yazıların məzmunu kooperativin nizamnaməsi ilə müəyyənləşdirilir.
 
 #### Maddə 109-4. Kooperativ üzvlərinin hüquq və vəzifələri
-- 109-4.1. Kooperativin üzvlərinin aşağıda göstərilən hüquqları vardır:
-  - 109-4.1.1. kooperativə daxil olmaq və könüllü qaydada kooperativdən çıxmaq;
-  - 109-4.1.2. kooperativin idarə edilməsində və fəaliyyətində iştirak etmək, kooperativin orqanlarını seçmək və onlara seçilmək;
-  - 109-4.1.3. kooperativin fəaliyyətinə dair məlumat almaq və onun maliyyə, eləcə də digər sənədləri ilə tanış olmaq;
-  - 109-4.1.4. kooperativin fəaliyyətinin yaxşılaşdırılması, onun orqanlarının və vəzifəli şəxslərinin işində olan nöqsanların aradan qaldırılması barədə təkliflər vermək;
-  - 109-4.1.5. mənfəətin bölüşdürülməsində iştirak etmək və digər ödənişləri almaq;
-  - 109-4.1.6. kooperativ ləğv edildikdə kreditorlarla hesablaşmalardan sonra əmlakın onun payına düşən hissəsini və ya bu hissənin dəyərini almaq;
-  - 109-4.1.7. kooperativin üzvləri üçün nəzərdə tutulmuş imtiyazlardan və güzəştlərdən istifadə etmək;
-  - 109-4.1.8. bu Məcəllə və kooperativin nizamnaməsi ilə nəzərdə tutulmuş digər hüquqları həyata keçirmək.
-- 109-4.2. Bu Məcəllənin 109-4.1.2-ci və 109-4.1.7-ci maddələrində nəzərdə tutulan hüquqlar kooperativin ortaq (assosiativ) üzvlərinə şamil olunmur.
-- 109-4.3. Kooperativin fəaliyyətində şəxsi əməyi ilə iştirak edən üzvlərin göstərilən hüquqlardan savayı, öz əməyinə görə pul və ya natura ilə əməkhaqqı almaq hüququ vardır.
-- 109-4.4. Kooperativin üzvlərinin aşağıda göstərilən vəzifələri vardır:
-  - 109-4.4.1. kooperativə daxil olduqda nizamnamədə nəzərdə tutulmuş qaydada və həcmdə üzvlük haqqı və mütləq əmlak pay haqqı vermək və kooperativin fəaliyyəti ilə əlaqədar üzərinə götürdüyü digər öhdəlikləri yerinə yetirmək;
-  - 109-4.4.2. nizamnaməyə əməl etmək, kooperativin orqanlarının qərarlarını yerinə yetirmək;
-  - 109-4.4.3. bu Məcəllənin 110.4-cü maddəsində nəzərdə tutulmuş hallarda və qaydada kooperativdə əmələ gəlmiş zərərin ödənilməsində iştirak etmək;
-  - 109-4.4.4. qanun və nizamnamə ilə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
+109-4.1. Kooperativin üzvlərinin aşağıda göstərilən hüquqları vardır:
+- 109-4.1.1. kooperativə daxil olmaq və könüllü qaydada kooperativdən çıxmaq;
+- 109-4.1.2. kooperativin idarə edilməsində və fəaliyyətində iştirak etmək, kooperativin orqanlarını seçmək və onlara seçilmək;
+- 109-4.1.3. kooperativin fəaliyyətinə dair məlumat almaq və onun maliyyə, eləcə də digər sənədləri ilə tanış olmaq;
+- 109-4.1.4. kooperativin fəaliyyətinin yaxşılaşdırılması, onun orqanlarının və vəzifəli şəxslərinin işində olan nöqsanların aradan qaldırılması barədə təkliflər vermək;
+- 109-4.1.5. mənfəətin bölüşdürülməsində iştirak etmək və digər ödənişləri almaq;
+- 109-4.1.6. kooperativ ləğv edildikdə kreditorlarla hesablaşmalardan sonra əmlakın onun payına düşən hissəsini və ya bu hissənin dəyərini almaq;
+- 109-4.1.7. kooperativin üzvləri üçün nəzərdə tutulmuş imtiyazlardan və güzəştlərdən istifadə etmək;
+- 109-4.1.8. bu Məcəllə və kooperativin nizamnaməsi ilə nəzərdə tutulmuş digər hüquqları həyata keçirmək.
+109-4.2. Bu Məcəllənin 109-4.1.2-ci və 109-4.1.7-ci maddələrində nəzərdə tutulan hüquqlar kooperativin ortaq (assosiativ) üzvlərinə şamil olunmur.
+109-4.3. Kooperativin fəaliyyətində şəxsi əməyi ilə iştirak edən üzvlərin göstərilən hüquqlardan savayı, öz əməyinə görə pul və ya natura ilə əməkhaqqı almaq hüququ vardır.
+109-4.4. Kooperativin üzvlərinin aşağıda göstərilən vəzifələri vardır:
+- 109-4.4.1. kooperativə daxil olduqda nizamnamədə nəzərdə tutulmuş qaydada və həcmdə üzvlük haqqı və mütləq əmlak pay haqqı vermək və kooperativin fəaliyyəti ilə əlaqədar üzərinə götürdüyü digər öhdəlikləri yerinə yetirmək;
+- 109-4.4.2. nizamnaməyə əməl etmək, kooperativin orqanlarının qərarlarını yerinə yetirmək;
+- 109-4.4.3. bu Məcəllənin 110.4-cü maddəsində nəzərdə tutulmuş hallarda və qaydada kooperativdə əmələ gəlmiş zərərin ödənilməsində iştirak etmək;
+- 109-4.4.4. qanun və nizamnamə ilə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 
 #### Maddə 110. Kooperativin əmlakı
-- 110.1. Kooperativin mülkiyyətində olan əmlak kooperativin nizamnaməsinə müvafiq surətdə onun üzvlərinin paylarına bölünür. Kooperativin əmlakı (vəsaitləri) onun əsas fondlarından, dövriyyə vəsaitindən və balansında göstərilən digər maddi dəyərlərdən ibarətdir. Kooperativin əmlakının formalaşdırılması mənbələri onun öz vəsaiti və cəlb edilmiş vəsait ola bilər. Kooperativin öz vəsaitini onun nizamnaməsində nəzərdə tutulmuş əmlak pay haqları, sahibkarlıq fəaliyyətindən, öz vəsaitlərinin banklarda və digər kredit təşkilatlarında, qiymətli kağızlarda yerləşdirilməsindən daxil olan gəlirlər, kreditlər, fiziki və hüquqi şəxslərin ianələri və qanunla qadağan olunmayan digər mənbələr hesabına formalaşdırır. Kooperativ tərəfindən qanunvericiliklə müəyyənləşdirilmiş qaydada cəlb edilən vəsaitin həcmi kooperativin ümumi vəsaitlərinin (əmlakının) 50 faizindən çox olmamalıdır. Kooperativin əmlakı onun xüsusi mülkiyyətindədir. Kooperativin üzvü onun mülkiyyətində olan əmlakı müqavilə əsasında istifadə edilmək üçün kooperativə verə bilər. Kooperativ ittifaqı onun mülkiyyətində olan əmlakı müqavilə əsasında istifadə edilmək üçün onun üzvü olan kooperativə verə və ittifaqın nizamnaməsində müəyyənləşdirilmiş digər məqsədlər üçün istifadə edə bilər.
-- 110.2. Əgər kooperativin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, kooperativin üzvü kooperativ qeydə alınanadək pay haqqını tamamilə verməyə borcludur.
-- 110.3. Kooperativin nizamnaməsi ilə müəyyənləşdirilə bilər ki, kooperativə mənsub əmlakın bir hissəsini nizamnamə ilə təyin edilən məqsədlər üçün istifadə olunan bölünməz fondlar təşkil edir. Bölünməz fondların yaradılmasına dair qərarı kooperativin üzvləri, əgər kooperativin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, yekdilliklə qəbul edirlər.
-- 110.4. Kooperativin üzvləri əmələ gəlmiş zərəri illik balansın təsdiqindən sonra iki ay ərzində əlavə haqlar vermək yolu ilə ödəməyə borcludurlar. Bu vəzifə yerinə yetirilmədikdə kreditorların tələbi ilə kooperativ məhkəmə qaydasında ləğv edilə bilər. Kooperativin üzvləri onun öhdəlikləri üçün kooperativin hər bir üzvünün əlavə haqqının verilməmiş hissəsi həddində birgə subsidiar məsuliyyət daşıyırlar.
-- 110.5. Kooperativin ləğvindən sonra qalan əmlak kooperativin üzvləri arasında onun nizamnaməsinə uyğun olaraq bölüşdürülür.
+110.1. Kooperativin mülkiyyətində olan əmlak kooperativin nizamnaməsinə müvafiq surətdə onun üzvlərinin paylarına bölünür. Kooperativin əmlakı (vəsaitləri) onun əsas fondlarından, dövriyyə vəsaitindən və balansında göstərilən digər maddi dəyərlərdən ibarətdir. Kooperativin əmlakının formalaşdırılması mənbələri onun öz vəsaiti və cəlb edilmiş vəsait ola bilər. Kooperativin öz vəsaitini onun nizamnaməsində nəzərdə tutulmuş əmlak pay haqları, sahibkarlıq fəaliyyətindən, öz vəsaitlərinin banklarda və digər kredit təşkilatlarında, qiymətli kağızlarda yerləşdirilməsindən daxil olan gəlirlər, kreditlər, fiziki və hüquqi şəxslərin ianələri və qanunla qadağan olunmayan digər mənbələr hesabına formalaşdırır. Kooperativ tərəfindən qanunvericiliklə müəyyənləşdirilmiş qaydada cəlb edilən vəsaitin həcmi kooperativin ümumi vəsaitlərinin (əmlakının) 50 faizindən çox olmamalıdır. Kooperativin əmlakı onun xüsusi mülkiyyətindədir. Kooperativin üzvü onun mülkiyyətində olan əmlakı müqavilə əsasında istifadə edilmək üçün kooperativə verə bilər. Kooperativ ittifaqı onun mülkiyyətində olan əmlakı müqavilə əsasında istifadə edilmək üçün onun üzvü olan kooperativə verə və ittifaqın nizamnaməsində müəyyənləşdirilmiş digər məqsədlər üçün istifadə edə bilər.
+110.2. Əgər kooperativin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, kooperativin üzvü kooperativ qeydə alınanadək pay haqqını tamamilə verməyə borcludur.
+110.3. Kooperativin nizamnaməsi ilə müəyyənləşdirilə bilər ki, kooperativə mənsub əmlakın bir hissəsini nizamnamə ilə təyin edilən məqsədlər üçün istifadə olunan bölünməz fondlar təşkil edir. Bölünməz fondların yaradılmasına dair qərarı kooperativin üzvləri, əgər kooperativin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, yekdilliklə qəbul edirlər.
+110.4. Kooperativin üzvləri əmələ gəlmiş zərəri illik balansın təsdiqindən sonra iki ay ərzində əlavə haqlar vermək yolu ilə ödəməyə borcludurlar. Bu vəzifə yerinə yetirilmədikdə kreditorların tələbi ilə kooperativ məhkəmə qaydasında ləğv edilə bilər. Kooperativin üzvləri onun öhdəlikləri üçün kooperativin hər bir üzvünün əlavə haqqının verilməmiş hissəsi həddində birgə subsidiar məsuliyyət daşıyırlar.
+110.5. Kooperativin ləğvindən sonra qalan əmlak kooperativin üzvləri arasında onun nizamnaməsinə uyğun olaraq bölüşdürülür.
 
 #### Maddə 110-1. Kooperativ üzvlərinin pay haqları və kooperativin pay fondu
-- 110-1.1. Kooperativ üzvlərinin kooperativə verdiyi əmlak pay haqları kooperativin pay fondunu təşkil edir. Kooperativin pay fondu kooperativin kreditorlarının maraqlarına təminat verən kooperativ əmlakının minimal həddini müəyyənləşdirir. Kooperativə daxil olarkən ödənilən üzvlük haqqı pay fonduna daxil deyildir və kooperativin üzvü kooperativdən çıxdıqda qaytarılmır.
-- 110-1.2. Kooperativ üzvlərinin pay haqlarına onların şəxsi borclarına görə tutma yalnız bu Məcəllənin 112.5-ci maddəsində nəzərdə tutulmuş halda və qaydada yönəldilə bilər.
-- 110-1.3. Kooperativin pay fondunun və mütləq payın həcmi, mütləq və əlavə payların ödənilmə qaydası, əmlakla (əmlak hüquqları ilə) ödənilən payların qiymətləndirilmə qaydası nizamnamə ilə müəyyənləşdirilir. Qiymətləndirməyə bu sahədə qanunvericiliklə müəyyənləşdirilmiş qaydada məşğul olan şəxslər cəlb edilə bilər.
-- 110-1.4. Əgər ikinci və sonrakı illərin sonunda kooperativin xalis aktivlərinin dəyəri pay fondunun dəyərindən az olarsa, kooperativ üzvlərinin ümumi yığıncağı pay fondunun azaldığını elan etməyə və onu qanunvericilikdə müəyyənləşdirilmiş qaydada qeydə aldırmağa borcludur.
-- 110-1.5. Kooperativ üzvlərinin ümumi yığıncağının qərarı ilə pay fondu artırıla və ya azaldıla bilər. Pay fondunun miqdarı kooperativin xalis aktivlərinin miqdarından artıq olmamalıdır. Kooperativin pay fondunun miqdarı onun xalis aktivlərinin miqdarından artıq olduqda kooperativin pay fondu göstərilən fərq məbləğində mütləq pay haqlarının proporsional azaldılması yolu ilə azaldılmalıdır.
-- 110-1.6. Kooperativin pay fondunun artırılmasına mütləq pay haqları miqdarının artırılması ilə yol verilir.
+110-1.1. Kooperativ üzvlərinin kooperativə verdiyi əmlak pay haqları kooperativin pay fondunu təşkil edir. Kooperativin pay fondu kooperativin kreditorlarının maraqlarına təminat verən kooperativ əmlakının minimal həddini müəyyənləşdirir. Kooperativə daxil olarkən ödənilən üzvlük haqqı pay fonduna daxil deyildir və kooperativin üzvü kooperativdən çıxdıqda qaytarılmır.
+110-1.2. Kooperativ üzvlərinin pay haqlarına onların şəxsi borclarına görə tutma yalnız bu Məcəllənin 112.5-ci maddəsində nəzərdə tutulmuş halda və qaydada yönəldilə bilər.
+110-1.3. Kooperativin pay fondunun və mütləq payın həcmi, mütləq və əlavə payların ödənilmə qaydası, əmlakla (əmlak hüquqları ilə) ödənilən payların qiymətləndirilmə qaydası nizamnamə ilə müəyyənləşdirilir. Qiymətləndirməyə bu sahədə qanunvericiliklə müəyyənləşdirilmiş qaydada məşğul olan şəxslər cəlb edilə bilər.
+110-1.4. Əgər ikinci və sonrakı illərin sonunda kooperativin xalis aktivlərinin dəyəri pay fondunun dəyərindən az olarsa, kooperativ üzvlərinin ümumi yığıncağı pay fondunun azaldığını elan etməyə və onu qanunvericilikdə müəyyənləşdirilmiş qaydada qeydə aldırmağa borcludur.
+110-1.5. Kooperativ üzvlərinin ümumi yığıncağının qərarı ilə pay fondu artırıla və ya azaldıla bilər. Pay fondunun miqdarı kooperativin xalis aktivlərinin miqdarından artıq olmamalıdır. Kooperativin pay fondunun miqdarı onun xalis aktivlərinin miqqdarından artıq olduqda kooperativin pay fondu göstərilən fərq məbləğində mütləq pay haqlarının proporsional azaldılması yolu ilə azaldılmalıdır.
+110-1.6. Kooperativin pay fondunun artırılmasına mütləq pay haqları miqdarının artırılması ilə yol verilir.
 
 #### Maddə 110-2. Kooperativin mənfəəti və onun bölüşdürülməsi
-- 110-2.1. Kooperativin mənfəəti Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş məcburi ödənişlər verildikdən sonra, kooperativin nizamnaməsində nəzərdə tutulmuş hallarda və qaydada kooperativin fondlarına, kreditorlarla hesablaşmaların həyata keçirilməsinə, kooperativin nizamnaməsi ilə müəyyənləşdirilmiş digər məqsədlərə və (və ya) kooperativ ödənişlərinin və dividendlərin ödənilməsinə yönəldilir.
-- 110-2.2. Kooperativin mənfəəti kooperativin üzvləri arasında onların pay (mütləq və əlavə) haqları məbləğinə, habelə kooperativin fəaliyyətində şəxsi əməyi ilə və (və ya) digər formada iştirakına uyğun olaraq bölüşdürülür.
-- 110-2.3. Kooperativ üzvlərinin ümumi yığıncağı ödənilən kooperativ ödənişlərinin və dividendlərin kooperativin mənfəətinin müəyyən miqdarı ilə məhdudlaşdırılmasını müəyyənləşdirə bilər.
+110-2.1. Kooperativin mənfəəti Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş məcburi ödənişlər verildikdən sonra, kooperativin nizamnaməsində nəzərdə tutulmuş hallarda və qaydada kooperativin fondlarına, kreditorlarla hesablaşmaların həyata keçirilməsinə, kooperativin nizamnaməsi ilə müəyyənləşdirilmiş digər məqsədlərə və (və ya) kooperativ ödənişlərinin və dividendlərin ödənilməsinə yönəldilir.
+110-2.2. Kooperativin mənfəəti kooperativin üzvləri arasında onların pay (mütləq və əlavə) haqları məbləğinə, habelə kooperativin fəaliyyətində şəxsi əməyi ilə və (və ya) digər formada iştirakına uyğun olaraq bölüşdürülür.
+110-2.3. Kooperativ üzvlərinin ümumi yığıncağı ödənilən kooperativ ödənişlərinin və dividendlərin kooperativin mənfəətinin müəyyən miqdarı ilə məhdudlaşdırılmasını müəyyənləşdirə bilər.
 
 #### Maddə 110-3. Kooperativin və onun üzvlərinin əmlak məsuliyyəti
-- 110-3.1. Kooperativ öz öhdəliklərinə görə ona məxsus olan əmlakı ilə cavabdehdir.
-- 110-3.2. Kooperativ öz üzvlərinin kooperativin fəaliyyəti ilə əlaqədar götürdükləri öhdəliklərinə və bu Məcəllənin 112.5-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla başqa öhdəliklərinə (borclarına) görə məsuliyyət daşımır.
-- 110-3.3. Kooperativ yaradıldıqdan sonra ona üzv olan şəxs üzv olmasından əvvəl kooperativin götürdüyü öhdəliklərə görə məsuliyyət daşıyır, bir şərtlə ki, nizamnamədə ayrı qayda nəzərdə tutulmasın. Kooperativə üzv olmaq istəyən şəxsə bu barədə bütün zəruri məlumatlar verilməlidir.
-- 110-3.4. Kooperativin üzvləri kooperativin öhdəliklərinə görə subsidiar məsuliyyət daşıyırlar. Kooperativ üzvlərinin kooperativin öhdəliklərinə görə subsidiar məsuliyyəti kooperativin öz öhdəliklərinin silinməsi üçün kifayət qədər vəsaitləri olmadıqda yaranır və bu Məcəllənin 110.4-cü maddəsinə müvafiq qaydada müəyyənləşdirilir.
+110-3.1. Kooperativ öz öhdəliklərinə görə ona məxsus olan əmlakı ilə cavabdehdir.
+110-3.2. Kooperativ öz üzvlərinin kooperativin fəaliyyəti ilə əlaqədar götürdükləri öhdəliklərinə və bu Məcəllənin 112.5-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla başqa öhdəliklərinə (borclarına) görə məsuliyyət daşımır.
+110-3.3. Kooperativ yaradıldıqdan sonra ona üzv olan şəxs üzv olmasından əvvəl kooperativin götürdüyü öhdəliklərə görə məsuliyyət daşıyır, bir şərtlə ki, nizamnamədə ayrı qayda nəzərdə tutulmasın. Kooperativə üzv olmaq istəyən şəxsə bu barədə bütün zəruri məlumatlar verilməlidir.
+110-3.4. Kooperativin üzvləri kooperativin öhdəliklərinə görə subsidiar məsuliyyət daşıyırlar. Kooperativ üzvlərinin kooperativin öhdəliklərinə görə subsidiar məsuliyyəti kooperativin öz öhdəliklərinin silinməsi üçün kifayət qədər vəsaitləri olmadıqda yaranır və bu Məcəllənin 110.4-cü maddəsinə müvafiq qaydada müəyyənləşdirilir.
 
 #### Maddə 111. Kooperativdə idarəetmə
-- 111.1. Kooperativin ali idarəetmə orqanı onun üzvlərinin ümumi yığıncağıdır. Üzvlərinin sayı əllidən çox olan kooperativdə onun icra orqanlarının fəaliyyətinə nəzarət edən müşahidə şurası yaradıla bilər. Müşahidə şurası üzvlərinin kooperativ adından fəaliyyət göstərmək ixtiyarı yoxdur. Kooperativin icra orqanları idarə heyəti və (və ya) onun sədridir. Onlar kooperativin fəaliyyətinə cari rəhbərliyi həyata keçirir, müşahidə şurasına və kooperativ üzvlərinin ümumi yığıncağına hesabat verirlər. Kooperativin müşahidə şurasının və idarə heyətinin üzvləri, habelə kooperativin sədri yalnız kooperativin üzvlərindən ola bilər. Müşahidə şurasının və ya icra orqanının üzvü oxşar kooperativin üzvü ola bilməz. Kooperativin üzvü eyni zamanda müşahidə şurasının üzvü və idarə heyətinin və ya kooperativin sədri ola bilməz.
-- 111.2. Kooperativin idarəetmə orqanlarının səlahiyyətləri və onların qərarlar qəbul etməsi qaydası kooperativin nizamnaməsi ilə müəyyənləşdirilir.
-- 111.3. Kooperativ üzvlərinin ümumi yığıncağının müstəsna səlahiyyətinə aşağıdakılar aiddir:
-  - 111.3.1. kooperativin nizamnaməsini dəyişdirmək;
-  - 111.3.2. kooperativin müşahidə şurasını yaratmaq və onun üzvlərinin səlahiyyətlərinə xitam vermək, habelə kooperativin icra orqanlarını yaratmaq və onların səlahiyyətlərinə xitam vermək, bir şərtlə ki, kooperativin nizamnaməsinə görə bu hüquq onun müşahidə şurasına verilmiş olmasın;
-  - 111.3.3. kooperativ üzvlərini qəbul etmək və çıxarmaq;
-  - 111.3.4. kooperativin illik hesabatlarını və maliyyə hesabatlarını təsdiq etmək və zərəri bölüşdürmək;
-  - 111.3.5. kooperativin yenidən təşkili və ləğvi haqqında qərar qəbul etmək;
-  - 111.3.5-1. bu Məcəllənin 49-1.2-ci maddəsində nəzərdə tutulmuş əqdlərin bağlanması haqqında qərar qəbul etmək;
-  - 111.3.6. kooperativin nizamnaməsi ilə ümumi yığıncağın müstəsna səlahiyyətinə başqa məsələlərin həlli də aid edilə bilər.
-- 111.4. Kooperativin ümumi yığıncağının və ya müşahidə şurasının müstəsna səlahiyyətinə aid edilmiş məsələləri onlar həll edilmək üçün kooperativin icra orqanlarına verə bilməzlər.
-- 111.5. Ümumi yığıncaqda qərarlar qəbul edilərkən kooperativ üzvünün bir səsi vardır.
-- 111.6. Üzvlərinin sayı 200-dən çox olan kooperativlərdə kooperativ üzvlərinin ümumi yığıncağı kooperativin nizamnaməsinə uyğun olaraq müvəkkillərin yığıncağı şəklində keçirilə bilər. Müvəkkillərin sayı kooperativ üzvlərinin sayı nəzərə alınaraq müəyyənləşdirilir. Müvəkkillər kooperativin nizamnaməsində, aşağıdakılar da daxil olmaqla, nəzərdə tutulmuş qaydada açıq və ya gizli səsvermə yolu ilə seçilir: müvəkkil seçilən kooperativ üzvlərinin sayı; müvəkkillərin səlahiyyətlərinin müddəti; onların seçilmə qaydası. Müvəkkillər öz səlahiyyətlərini başqa şəxslərə, o cümlədən kooperativ üzvlərinə verə bilməzlər. Bu Məcəllənin və kooperativin nizamnaməsinin kooperativ üzvlərinin ümumi yığıncağı barədə müddəaları müvəkkillərin yığıncağına da şamil edilir.
-- 111.7. Kooperativ üzvlərinin ümumi yığıncağı üzvlərin (yaxud onların nümayəndələrinin) yarıdan çoxu iştirak etdikdə səlahiyyətlidir. Müvəkkillərin yığıncağı seçilmiş müvəkkillərin yarıdan çoxu iştirak etdikdə səlahiyyətlidir.
-- 111.8. Kooperativ üzvlərinin ümumi yığıncağı idarə heyəti (sədr) tərəfindən ildə bir dəfədən az olmayaraq nizamnamə ilə müəyyənləşdirilmiş müddətlərdə və qaydada, ancaq maliyyə ilinin başa çatmasından ən geci üç ay keçənədək çağırılır. Kooperativ üzvlərinin növbədənkənar ümumi yığıncağı idarə heyətinin (sədrin), müşahidə şurasının və təftiş komissiyasının (müfəttişin) təşəbbüsü, yaxud səs hüququna malik olan üzvlərin azı dörddə birinin tələbi ilə (maliyyə bazarlarında nəzarət edilən subyektlərə münasibətdə “Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla) çağırılır. Bu halda kooperativ üzvlərinin növbədənkənar ümumi yığıncağı idarə heyəti (sədr) tərəfindən on beş gün müddətində kooperativin nizamnaməsində müəyyənləşdirilmiş qaydada çağırılır.
-- 111.9. Kooperativin müşahidə şurası yaradıldıqda onun üzvlərinin sayı və səlahiyyət müddəti kooperativ üzvlərinin ümumi yığıncağı tərəfindən müəyyənləşdirilir. Müşahidə şurasının iclası zərurət olduqda, lakin yarım ildə bir dəfədən az olmayaraq çağırılır. Müşahidə şurasının iclaslarının keçirilməsi qaydaları kooperativin nizamnaməsi ilə müəyyənləşdirilir. Nizamnamədə nəzərdə tutulmuş hallarda kooperativ üzvlərinin ümumi yığıncağı tərəfindən müşahidə şurası, yaxud onun ayrı-ayrı üzvləri onların səlahiyyət müddəti bitməzdən əvvəl geri çağırıla bilər.
-- 111.10. Kooperativin idarə heyəti və (və ya) onun sədri kooperativin cari fəaliyyətinə kooperativ üzvlərinin ümumi yığıncaqları arasındakı dövrdə rəhbərlik edir, onun işlərini aparır, kooperativi təmsil edir. Kooperativ üzvlərinin sayı əllidən çox olduqda kooperativ üzvlərinin ümumi yığıncağı tərəfindən onun üzvlərindən kooperativin idarə heyəti seçilir. İdarə heyətinə rəhbərliyi kooperativ üzvlərinin ümumi yığıncağı tərəfindən seçilən (təyin edilən) sədr həyata keçirir. Kooperativin idarə heyətinin və (və ya) onun sədrinin (təyin edilməsi), onların səlahiyyətləri və səlahiyyət müddəti, idarə heyəti sədrinin kooperativin əmlakına sərəncam vermək hüququ, onun əmək haqqı, məsuliyyəti, habelə vaxtından əvvəl vəzifədən azad edilməsi (istefa verməsi) əsasları və qaydası kooperativin nizamnaməsi ilə müəyyənləşdirilir.
-- 111.11. Əgər idarə heyəti yaradılmışdırsa, nizamnamədə sədrin və idarə heyətinin səlahiyyətləri (təkbaşına və kollegial qaydada həyata keçirilən səlahiyyətlər) ayrıca göstərilməlidir.
-- 111.12. Kooperativin maliyyə-təsərrüfat fəaliyyətinə nəzarəti həyata keçirmək məqsədi ilə kooperativ üzvlərinin ümumi yığıncağı kooperativ üzvlərinin sayı əllidən çox olduqda təftiş komissiyası (azı üç nəfərdən ibarət), kooperativ üzvlərinin sayı əllidən az olduqda isə müfəttiş seçir.
-- 111.13. Kooperativin təftiş komissiyası (müfəttişi):
-  - 111.13.1. maliyyə-təsərrüfat ilinin nəticələrinə görə kooperativin maliyyə vəziyyətini yoxlayır;
-  - 111.13.2. kooperativ üzvlərinin ümumi yığıncağının, müşahidə şurasının sayı on faizdən artıq olan üzvlərin tələbi ilə, habelə öz təşəbbüsü ilə kooperativin maliyyə-təsərrüfat fəaliyyətini növbədənkənar yoxlayır.
-- 111.14. Kooperativin təftiş komissiyası (müfəttişi) yoxlamanın nəticələrinə əsasən kooperativin idarəetmə orqanlarına rəy təqdim edir. Müşahidə şurası və ya idarə heyəti (sədr) yoxlamanın nəticələrinə nizamnamədə nəzərdə tutulmuş qaydada baxır və müvafiq qərar qəbul edir. Qərarla razılaşmadıqda təftiş komissiyası (müfəttiş) kooperativ üzvlərinin ümumi yığıncağa müraciət edə bilər.
-- 111.15. Nizamnamədə nəzərdə tutulmuş hallarda kooperativ üzvlərinin ümumi yığıncağı tərəfindən təftiş komissiyası, yaxud onun ayrı-ayrı üzvləri və ya müfəttiş səlahiyyət müddəti bitməzdən əvvəl geri çağırıla bilər.
+111.1. Kooperativin ali idarəetmə orqanı onun üzvlərinin ümumi yığıncağıdır. Üzvlərinin sayı əllidən çox olan kooperativdə onun icra orqanlarının fəaliyyətinə nəzarət edən müşahidə şurası yaradıla bilər. Müşahidə şurası üzvlərinin kooperativ adından fəaliyyət göstərmək ixtiyarı yoxdur. Kooperativin icra orqanları idarə heyəti və (və ya) onun sədridir. Onlar kooperativin fəaliyyətinə cari rəhbərliyi həyata keçirir, müşahidə şurasına və kooperativ üzvlərinin ümumi yığıncağına hesabat verirlər. Kooperativin müşahidə şurasının və idarə heyətinin üzvləri, habelə kooperativin sədri yalnız kooperativin üzvlərindən ola bilər. Müşahidə şurasının və ya icra orqanının üzvü oxşar kooperativin üzvü ola bilməz. Kooperativin üzvü eyni zamanda müşahidə şurasının üzvü və idarə heyətinin və ya kooperativin sədri ola bilməz.
+111.2. Kooperativin idarəetmə orqanlarının səlahiyyətləri və onların qərarlar qəbul etməsi qaydası kooperativin nizamnaməsi ilə müəyyənləşdirilir.
+111.3. Kooperativ üzvlərinin ümumi yığıncağının müstəsna səlahiyyətinə aşağıdakılar aiddir:
+- 111.3.1. kooperativin nizamnaməsini dəyişdirmək;
+- 111.3.2. kooperativin müşahidə şurasını yaratmaq və onun üzvlərinin səlahiyyətlərinə xitam vermək, habelə kooperativin icra orqanlarını yaratmaq və onların səlahiyyətlərinə xitam vermək, bir şərtlə ki, kooperativin nizamnaməsinə görə bu hüquq onun müşahidə şurasına verilmiş olmasın;
+- 111.3.3. kooperativ üzvlərini qəbul etmək və çıxarmaq;
+- 111.3.4. kooperativin illik hesabatlarını və maliyyə hesabatlarını təsdiq etmək və zərəri bölüşdürmək;
+- 111.3.5. kooperativin yenidən təşkili və ləğvi haqqında qərar qəbul etmək;
+- 111.3.5-1. bu Məcəllənin 49-1.2-ci maddəsində nəzərdə tutulmuş əqdlərin bağlanması haqqında qərar qəbul etmək;
+- 111.3.6. kooperativin nizamnaməsi ilə ümumi yığıncağın müstəsna səlahiyyətinə başqa məsələlərin həlli də aid edilə bilər.
+111.4. Kooperativin ümumi yığıncağının və ya müşahidə şurasının müstəsna səlahiyyətinə aid edilmiş məsələləri onlar həll edilmək üçün kooperativin icra orqanlarına verə bilməzlər.
+111.5. Ümumi yığıncaqda qərarlar qəbul edilərkən kooperativ üzvünün bir səsi vardır.
+111.6. Üzvlərinin sayı 200-dən çox olan kooperativlərdə kooperativ üzvlərinin ümumi yığıncağı kooperativin nizamnaməsinə uyğun olaraq müvəkkillərin yığıncağı şəklində keçirilə bilər. Müvəkkillərin sayı kooperativ üzvlərinin sayı nəzərə alınaraq müəyyənləşdirilir. Müvəkkillər kooperativin nizamnaməsində, aşağıdakılar da daxil olmaqla, nəzərdə tutulmuş qaydada açıq və ya gizli səsvermə yolu ilə seçilir: müvəkkil seçilən kooperativ üzvlərinin sayı; müvəkkillərin səlahiyyətlərinin müddəti; onların seçilmə qaydası. Müvəkkillər öz səlahiyyətlərini başqa şəxslərə, o cümlədən kooperativ üzvlərinə verə bilməzlər. Bu Məcəllənin və kooperativin nizamnaməsinin kooperativ üzvlərinin ümumi yığıncağı barədə müddəaları müvəkkillərin yığıncağına da şamil edilir.
+111.7. Kooperativ üzvlərinin ümumi yığıncağı üzvlərin (yaxud onların nümayəndələrinin) yarıdan çoxu iştirak etdikdə səlahiyyətlidir. Müvəkkillərin yığıncağı seçilmiş müvəkkillərin yarıdan çoxu iştirak etdikdə səlahiyyətlidir.
+111.8. Kooperativ üzvlərinin ümumi yığıncağı idarə heyəti (sədr) tərəfindən ildə bir dəfədən az olmayaraq nizamnamə ilə müəyyənləşdirilmiş müddətlərdə və qaydada, ancaq maliyyə ilinin başa çatmasından ən geci üç ay keçənədək çağırılır. Kooperativ üzvlərinin növbədənkənar ümumi yığıncağı idarə heyətinin (sədrin), müşahidə şurasının və təftiş komissiyasının (müfəttişin) təşəbbüsü, yaxud səs hüququna malik olan üzvlərin azı dörddə birinin tələbi ilə (maliyyə bazarlarında nəzarət edilən subyektlərə münasibətdə “Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla) çağırılır. Bu halda kooperativ üzvlərinin növbədənkənar ümumi yığıncağı idarə heyəti (sədr) tərəfindən on beş gün müddətində kooperativin nizamnaməsində müəyyənləşdirilmiş qaydada çağırılır.
+111.9. Kooperativin müşahidə şurası yaradıldıqda onun üzvlərinin sayı və səlahiyyət müddəti kooperativ üzvlərinin ümumi yığıncağı tərəfindən müəyyənləşdirilir. Müşahidə şurasının iclası zərurət olduqda, lakin yarım ildə bir dəfədən az olmayaraq çağırılır. Müşahidə şurasının iclaslarının keçirilməsi qaydaları kooperativin nizamnaməsi ilə müəyyənləşdirilir. Nizamnamədə nəzərdə tutulmuş hallarda kooperativ üzvlərinin ümumi yığıncağı tərəfindən müşahidə şurası, yaxud onun ayrı-ayrı üzvləri onların səlahiyyət müddəti bitməzdən əvvəl geri çağırıla bilər.
+111.10. Kooperativin idarə heyəti və (və ya) onun sədri kooperativin cari fəaliyyətinə kooperativ üzvlərinin ümumi yığıncaqları arasındakı dövrdə rəhbərlik edir, onun işlərini aparır, kooperativi təmsil edir. Kooperativ üzvlərinin sayı əllidən çox olduqda kooperativ üzvlərinin ümumi yığıncağı tərəfindən onun üzvlərindən kooperativin idarə heyəti seçilir. İdarə heyətinə rəhbərliyi kooperativ üzvlərinin ümumi yığıncağı tərəfindən seçilən (təyin edilən) sədr həyata keçirir. Kooperativin idarə heyətinin və (və ya) onun sədrinin (təyin edilməsi), onların səlahiyyətləri və səlahiyyət müddəti, idarə heyəti sədrinin kooperativin əmlakına sərəncam vermək hüququ, onun əmək haqqı, məsuliyyəti, habelə vaxtından əvvəl vəzifədən azad edilməsi (istefa verməsi) əsasları və qaydası kooperativin nizamnaməsi ilə müəyyənləşdirilir.
+111.11. Əgər idarə heyəti yaradılmışdırsa, nizamnamədə sədrin və idarə heyətinin səlahiyyətləri (təkbaşına və kollegial qaydada həyata keçirilən səlahiyyətlər) ayrıca göstərilməlidir.
+111.12. Kooperativin maliyyə-təsərrüfat fəaliyyətinə nəzarəti həyata keçirmək məqsədi ilə kooperativ üzvlərinin ümumi yığıncağı kooperativ üzvlərinin sayı əllindən çox olduqda təftiş komissiyası (azı üç nəfərdən ibarət), kooperativ üzvlərinin sayı əllidən az olduqda isə müfəttiş seçir.
+111.13. Kooperativin təftiş komissiyası (müfəttişi):
+- 111.13.1. maliyyə-təsərrüfat ilinin nəticələrinə görə kooperativin maliyyə vəziyyətini yoxlayır;
+- 111.13.2. kooperativ üzvlərinin ümumi yığıncağının, müşahidə şurasının sayı on faizdən artıq olan üzvlərin tələbi ilə, habelə öz təşəbbüsü ilə kooperativin maliyyə-təsərrüfat fəaliyyətini növbədənkənar yoxlayır.
+111.14. Kooperativin təftiş komissiyası (müfəttişi) yoxlamanın nəticələrinə əsasən kooperativin idarəetmə orqanlarına rəy təqdim edir. Müşahidə şurası və ya idarə heyəti (sədr) yoxlamanın nəticələrinə nizamnamədə nəzərdə tutulmuş qaydada baxır və müvafiq qərar qəbul edir. Qərarla razılaşmadıqda təftiş komissiyası (müfəttiş) kooperativ üzvlərinin ümumi yığıncağa müraciət edə bilər.
+111.15. Nizamnamədə nəzərdə tutulmuş hallarda kooperativ üzvlərinin ümumi yığıncağı tərəfindən təftiş komissiyası, yaxud onun ayrı-ayrı üzvləri və ya müfəttiş səlahiyyət müddəti bitməzdən əvvəl geri çağırıla bilər.
 
 #### Maddə 112. Kooperativdə üzvlüyə xitam verilməsi və payın keçməsi
-- 112.1. Kooperativ üzvünün kooperativdən çıxmaq ixtiyarı vardır. Bu halda ona payının dəyəri ödənilməli və ya payına uyğun əmlak verilməli, habelə kooperativin nizamnaməsində nəzərdə tutulan digər ödənişlər verilməlidir. Kooperativin çıxan üzvünə payın dəyərinin ödənilməsi və ya başqa əmlakın verilməsi, əgər kooperativin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, maliyyə ili qurtardıqdan və kooperativin maliyyə hesabatları təsdiq edildikdən sonra həyata keçirilir.
-- 112.2. Kooperativin üzvü kooperativin nizamnaməsi ilə ona həvalə olunmuş vəzifələri icra etmədikdə və ya lazımınca icra etmədikdə, habelə kooperativin nizamnaməsi ilə nəzərdə tutulan başqa hallarda ümumi yığıncağın qərarı ilə kooperativdən çıxarıla bilər. Kooperativdən çıxarılmış kooperativ üzvünün bu Məcəllənin 112.1-ci maddəsinə uyğun olaraq, payını və kooperativin nizamnaməsində nəzərdə tutulan digər ödənişləri almaq hüququ vardır.
-- 112.3. Əgər kooperativin nizamnaməsi ilə ayrı qayda nəzərdə tutulmayıbsa, kooperativin üzvü öz payını və ya onun bir hissəsini kooperativin digər üzvünə verə bilər. Payın (onun bir hissəsinin) kooperativ üzvü olmayan fiziki şəxsə verilməsinə yalnız kooperativin razılığı ilə yol verilir. Belə halda kooperativin digər üzvləri həmin payı (onun bir hissəsini) almaqda üstünlük hüququna malikdirlər. Əgər kooperativin üzvləri kooperativin nizamnaməsində nəzərdə tutulan müddət ərzində öz üstünlük hüququndan istifadə etməzlərsə, pay üçüncü şəxsə özgəninkiləşdirilə bilər.
-- 112.4. Kooperativin üzvü öldükdə onun vərəsələri, əgər kooperativin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, kooperativ üzvlüyünə qəbul edilə bilərlər. Əks halda kooperativin ölmüş üzvünün payının dəyəri kooperativ tərəfindən onun vərəsələrinə ödənilir.
-- 112.5. Kooperativ üzvünün şəxsi borclarına görə tutmanın kooperativ üzvünün payına yönəldilməsinə yalnız həmin borcları ödəmək üçün onun başqa əmlakı kifayət etmədikdə kooperativin nizamnaməsi ilə nəzərdə tutulan qaydada yol verilir. Kooperativ üzvünün borclarına görə tutma kooperativin bölünməz fondlarına yönəldilə bilməz.
+112.1. Kooperativ üzvünün kooperativdən çıxmaq ixtiyarı vardır. Bu halda ona payının dəyəri ödənilməli və ya payına uyğun əmlak verilməli, habelə kooperativin nizamnaməsində nəzərdə tutulan digər ödənişlər verilməlidir. Kooperativin çıxan üzvünə payın dəyərinin ödənilməsi və ya başqa əmlakın verilməsi, əgər kooperativin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, maliyyə ili qurtardıqdan və kooperativin maliyyə hesabatları təsdiq edildikdən sonra həyata keçirilir.
+112.2. Kooperativin üzvü kooperativin nizamnaməsi ilə ona həvalə olunmuş vəzifələri icra etmədikdə və ya lazımınca icra etmədikdə, habelə kooperativin nizamnaməsi ilə nəzərdə tutulan başqa hallarda ümumi yığıncağın qərarı ilə kooperativdən çıxarıla bilər. Kooperativdən çıxarılmış kooperativ üzvünün bu Məcəllənin 112.1-ci maddəsinə uyğun olaraq, payını və kooperativin nizamnaməsində nəzərdə tutulan digər ödənişləri almaq hüququ vardır.
+112.3. Əgər kooperativin nizamnaməsi ilə ayrı qayda nəzərdə tutulmayıbsa, kooperativin üzvü öz payını və ya onun bir hissəsini kooperativin digər üzvünə verə bilər. Payın (onun bir hissəsinin) kooperativ üzvü olmayan fiziki şəxsə verilməsinə yalnız kooperativin razılığı ilə yol verilir. Belə halda kooperativin digər üzvləri həmin payı (onun bir hissəsini) almaqda üstünlük hüququna malikdirlər. Əgər kooperativin üzvləri kooperativin nizamnaməsində nəzərdə tutulan müddət ərzində öz üstünlük hüququndan istifadə etməzlərsə, pay üçüncü şəxsə özgəninkiləşdirilə bilər.
+112.4. Kooperativin üzvü öldükdə onun vərəsələri, əgər kooperativin nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, kooperativ üzvlüyünə qəbul edilə bilərlər. Əks halda kooperativin ölmüş üzvünün payının dəyəri kooperativ tərəfindən onun vərəsələrinə ödənilir.
+112.5. Kooperativ üzvünün şəxsi borclarına görə tutmanın kooperativ üzvünün payına yönəldilməsinə yalnız həmin borcları ödəmək üçün onun başqa əmlakı kifayət etmədikdə kooperativin nizamnaməsi ilə nəzərdə tutulan qaydada yol verilir. Kooperativ üzvünün borclarına görə tutma kooperativin bölünməz fondlarına yönəldilə bilməz.
 
 #### Maddə 113. Kooperativin yenidən təşkili və ləğvi
-- 113.1. Kooperativ onun üzvlərinin ümumi yığıncağının qərarı ilə könüllü surətdə yenidən təşkil və ya ləğv edilə bilər.
-- 113.2. Kooperativin yenidən təşkilinin və ləğvinin başqa əsasları bu Məcəllə ilə müəyyənləşdirilir.
+113.1. Kooperativ onun üzvlərinin ümumi yığıncağının qərarı ilə könüllü surətdə yenidən təşkil və ya ləğv edilə bilər.
+113.2. Kooperativin yenidən təşkilinin və ləğvinin başqa əsasları bu Məcəllə ilə müəyyənləşdirilir.
 
-### §3. Qeyri-kommersiya təşkilatları
+## §3. Qeyri-kommersiya təşkilatları
 
 #### Maddə 114. İctimai birliklər
-- 114.1. İctimai birliyin təsisçilərinin (iştirakçılarının) ictimai birliyə verdikləri əmlak birliyin mülkiyyətidir. İctimai birlik bu əmlakdan onun nizamnaməsində müəyyənləşdirilmiş məqsədlər üçün istifadə edir.
-- 114.2. İctimai birliklərin iştirakçıları həmin birliklərin mülkiyyətinə verdikləri əmlaka, o cümlədən üzvlük haqlarına hüquqlarını saxlamırlar. Onlar ictimai birliklərin öhdəlikləri üçün, ictimai birliklər isə öz iştirakçılarının öhdəlikləri üçün məsuliyyət daşımırlar.
-- 114.3. İctimai birlik ləğv edildikdə onun borclarının ödənilməsindən sonra qalan əmlakı ictimai birliyin nizamnaməsində göstərilmiş məqsədlərə, bu mümkün olmadıqda isə dövlət büdcəsinə yönəldilir.
-- 114.4. İctimai birliklərin ayrı-ayrı növlərinin xüsusiyyətləri və hüquqi vəziyyəti bu Məcəllə ilə və qanunvericiliklə müəyyənləşdirilir.
+114.1. İctimai birliyin təsisçilərinin (iştirakçılarının) ictimai birliyə verdikləri əmlak birliyin mülkiyyətidir. İctimai birlik bu əmlakdan onun nizamnaməsində müəyyənləşdirilmiş məqsədlər üçün istifadə edir.
+114.2. İctimai birliklərin iştirakçıları həmin birliklərin mülkiyyətinə verdikləri əmlaka, o cümlədən üzvlük haqlarına hüquqlarını saxlamırlar. Onlar ictimai birliklərin öhdəlikləri üçün, ictimai birliklər isə öz iştirakçılarının öhdəlikləri üçün məsuliyyət daşımırlar.
+114.3. İctimai birlik ləğv edildikdə onun borclarının ödənilməsindən sonra qalan əmlakı ictimai birliyin nizamnaməsində göstərilmiş məqsədlərə, bu mümkün olmadıqda isə dövlət büdcəsinə yönəldilir.
+114.4. İctimai birliklərin ayrı-ayrı növlərinin xüsusiyyətləri və hüquqi vəziyyəti bu Məcəllə ilə və qanunvericiliklə müəyyənləşdirilir.
+Maddə
 
-- onun nizamnamə kapitalı on min manatdan az olmamalıdır.
+onun nizamnamə kapitalı on min manatdan az olmamalıdır.
 - 115.2. Fondun təsisçilərinin (təsisçisinin) verdiyi əmlak fondun mülkiyyətidir. Fond həmin əmlakdan onun nizamnaməsində müəyyənləşdirilmiş məqsədlər üçün istifadə edir.
 - 115.3. Fond öz əmlakından istifadə haqqında hesabatları hər il dərc etməyə borcludur.
 - 115.4. Təsisçilər yaratdıqları fondun öhdəlikləri üçün, fond isə öz təsisçilərinin öhdəlikləri üçün məsuliyyət daşımır.
 - 115.5. Fondun idarə edilməsi və onun orqanlarının formalaşdırılması qaydası fondun təsisçilər tərəfindən təsdiq edilən nizamnaməsi ilə müəyyənləşdirilir.
 - 115.6. Fondun nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstərilmiş məlumatlardan savayı, fondun "fond" sözü də daxil edilmiş adı, fondun məqsədləri haqqında məlumatlar; fondun orqanları haqqında, o cümlədən fondun fəaliyyətinə nəzarət edən himayəçilik şurası haqqında, fondun vəzifəli şəxslərinin təyin edilməsi və azad edilməsi qaydası haqqında, fondun ləğvi zamanı onun əmlakı barəsində sərəncam verilməsi qaydası haqqında məlumatlar göstərilməlidir.
 - 115.7. Fondların ayrı-ayrı növlərinin, o cümlədən xeyriyyə təşkilatlarının xüsusiyyətləri və hüquqi vəziyyəti bu Məcəllə ilə və qanunvericiliklə müəyyənləşdirilir.
-
 #### Maddə 116. Fondun nizamnaməsinin dəyişdirilməsi və onun ləğv edilməsi
 - 116.1. Fondun nizamnaməsi fondun orqanları tərəfindən bir şərtlə dəyişdirilə bilər ki, nizamnamədə onun bu qaydada dəyişdirilməsi imkanı nəzərdə tutulmuş olsun. Əgər nizamnamənin dəyişməz şəkildə saxlanılması fondun təsis edilməsi zamanı qabaqcadan nəzərə alınması mümkün olmayan nəticələrə səbəb olarsa, nizamnamədə isə nizamnamənin dəyişdirilməsi imkanı nəzərdə tutulmazsa və nizamnamə vəkil edilmiş şəxslər tərəfindən dəyişdirilməzsə, dəyişikliklər edilməsi hüququ fondun orqanlarının və ya fondun nizamnaməsi ilə onun fəaliyyətinə nəzarət etməyə vəkil edilmiş orqanın ərizəsinə əsasən məhkəməyə mənsubdur.
 - 116.2. Fondun ləğvi haqqında qərarı maraqlı şəxslərin ərizəsinə əsasən yalnız məhkəmə qəbul edə bilər. Fond aşağıdakı hallarda ləğv edilə bilər:
@@ -957,7 +1066,6 @@ Kooperativin üzvlüyünə qəbul, üzv olmaq istəyən şəxsin kooperativə r�
   - 116.2.3. öz fəaliyyətində fond nizamnamədə nəzərdə tutulan məqsədlərdən yayındıqda;
   - 116.2.4. qanunvericilikdə nəzərdə tutulan digər hallarda.
 - 116.3. Fond ləğv edildikdə onun borclarının ödənilməsindən sonra qalan əmlakı fondun nizamnaməsində göstərilən məqsədlərə, bu, mümkün olmadıqda isə dövlət büdcəsinə yönəldilir.
-
 #### Maddə 117. Hüquqi şəxslərin ittifaqları
 - 117.1. Kommersiya təşkilatları özlərinin sahibkarlıq fəaliyyətinin əlaqələndirilməsi, habelə ümumi mənafelərin (əmlak mənafeləri daxil olmaqla) təmsil və müdafiə edilməsi (o cümlədən dövlət və digər orqanlarda, beynəlxalq təşkilatlarda) məqsədi ilə ittifaqlar yarada bilərlər. Əgər iştirakçıların qərarı ilə ittifaqa sahibkarlıq fəaliyyətini həyata keçirmək həvalə edilirsə, belə ittifaq bu Məcəllə ilə nəzərdə tutulan qaydada təsərrüfat ortaqlığına və ya cəmiyyətə çevrilir və ya sahibkarlıq fəaliyyətini həyata keçirmək üçün təsərrüfat cəmiyyəti yarada bilər və ya bu cür cəmiyyətdə iştirak edə bilər.
 - 117.2. Qeyri-kommersiya təşkilatları özlərinin fəaliyyətinin əlaqələndirilməsi, habelə ümumi mənafelərinin təmsil və müdafiə edilməsi məqsədi ilə ittifaqlar yarada bilərlər.
@@ -967,23 +1075,16 @@ Kooperativin üzvlüyünə qəbul, üzv olmaq istəyən şəxsin kooperativə r�
 - 117.6. İttifaqın adında onun iştirakçılarının fəaliyyətinin əsas predmeti, habelə "ittifaq" sözü göstərilməlidir.
 - 117.7. İttifaq ləğv edildikdə onun borclarının ödənilməsindən sonra qalan əmlakı ittifaqın nizamnaməsində göstərilmiş məqsədlərə, bu mümkün olmadıqda isə dövlət büdcəsinə yönəldilir.
 - 117.8. İttifaqların ayrı-ayrı növlərinin xüsusiyyətləri və hüquqi vəziyyəti bu Məcəllə ilə və qanunvericiliklə müəyyənləşdirilir.
-
 #### Maddə 118. İttifaqın nizamnaməsi
 İttifaqın nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstərilmiş məlumatlardan savayı, ittifaq iştirakçılarının verdikləri haqların miqdarı, tərkibi və verilməsi qaydası, haqq verilməsi öhdəliyini pozmağa görə onların məsuliyyəti haqqında, ittifaqın idarəetmə orqanlarının tərkibi və səlahiyyəti, onların qərarlar qəbul etməsi, o cümlədən barəsində qərarların yekdilliklə və ya ittifaq iştirakçılarının şərtləşdirilmiş səs çoxluğu ilə qəbul olunduğu məsələlərə dair qərarlar qəbul etməsi qaydası haqqında, ittifaqın ləğv edildiyi halda onun əmlakı barəsində sərəncam verilməsi qaydası haqqında məlumatlar göstərilməlidir.
-
 #### Maddə 119. İttifaq iştirakçılarının hüquq və vəzifələri
 - 119.1. Əgər ittifaqın nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, ittifaq iştirakçılarının onun xidmətlərindən əvəzsiz istifadə etmək ixtiyarı vardır.
 - 119.2. İttifaqın iştirakçısı maliyyə ili qurtardıqda ittifaqdan çıxa bilər. Bu halda o, əgər ittifaqın nizamnaməsində ayrı müddət nəzərdə tutulmayıbsa, çıxdığı gündən bir il ərzində ittifaqın öhdəlikləri üçün öz haqqına mütənasib subsidiar məsuliyyət daşıyır. İttifaqın iştirakçısı ittifaqın nizamnaməsində müəyyənləşdirilmiş hallarda və qaydada digər iştirakçıların qərarı ilə ittifaqdan çıxarıla bilər. İttifaqın çıxarılmış iştirakçısının məsuliyyəti barəsində ittifaqdan çıxmaya aid qaydalar tətbiq edilir.
 - 119.3. İştirakçıların razılığı ilə ittifaqa yeni iştirakçı daxil ola bilər. İttifaqa yeni iştirakçının daxil olması ittifaqın o, daxil olanadək əmələ gəlmiş öhdəlikləri üçün onun subsidiar məsuliyyəti ilə şərtləndirilə bilər.
-
 ### §4. Hüquqi şəxslərin inventar siyahısı, illik balansı və auditi – çıxarılmışdır.
-
-### §5. Hüquqi şəxslərin dövlət reyestri – çıxarılmışdır.KM1
-
-## Üçüncü bölmə. ƏMLAK VƏ ƏŞYA HÜQUQU
-
+### §5. Hüquqi şəxslərin dövlət reyestri – çıxarılmışdır.
+## Üçüncü bölmə. Əmlak və əşya hüququ
 ### 5-ci fəsil. Ümumi müddəalar
-
 ### §1. Əşya hüququnun əsas anlayışları
 #### Maddə 135. Əşya hüququnun obyektləri
 - 135.1. Bu Məcəlləyə uyğun olaraq yalnız fiziki obyektlər əşya sayılırlar. Pullar və sənədli qiymətli kağızlar da əşyadır.
@@ -998,25 +1099,20 @@ Kooperativin üzvlüyünə qəbul, üzv olmaq istəyən şəxsin kooperativə r�
 - 135.10. Adi anlamda əşyanın tərkibinə daxil olan və dağıdılmadan, zədələnmədən və ya dəyişdirilmədən ondan ayrıla bilməyən hər şey əşyanın tərkib hissəsidir. Özbaşına tikinti ilə bağlı hallar istisna olmaqla, əşyanın mülkiyyətçisi onun bütün tərkib hissələrinin mülkiyyətçisidir.
 - 135.11. Ümumi anlamda və ya əsas əşya mülkiyyətçisinin aydın iradəsinə əsasən təsərrüfatın daimi aparılması, əsas əşyanın istifadəsi və ya saxlanması üçün nəzərdə tutulan və ona uyğunlaşdırılan daşınar əşyalar əşyanın ləvazimatıdır. Əgər əşya ləvazimatdırsa, onun bu keyfiyyəti əsas əşyadan müvəqqəti ayrıldığı halda da saxlanılır. Əgər ayrı razılaşma yoxdursa, əşyaya sahiblik onun ləvazimatında da şamil edilir.
 - 135.12. Əşyanın verdiyi gəlir, artım və (və ya) üstünlük əşyanın bəhəridir. Ayrılanadək bəhər əşyanın tərkib hissəsidir. Əşyanın mülkiyyətçisi kimdirsə, əşyanın təbii bəhəri də onun mülkiyyətindədir.
-
 #### Maddə 136. Əşyaların mülki dövriyyəsi
 - 136.1. Əşyalar dövriyyədən çıxarılmayıbsa və ya onların dövriyyəsi məhdudlaşdırılmayıbsa, universal hüquq varisliyi qaydasında (vərəsəlik, hüquqi şəxsin yenidən təşkili) və ya başqa üsulla əşyalar sərbəst surətdə özgəninkiləşdirilə və ya bir şəxsdən başqasına keçə bilər.
 - 136.2. Mülki dövriyyədə olmasına yol verilməyən əşyalar (mülki dövriyyədən çıxarılmış əşyalar) qanunvericilikdə birbaşa göstərilməlidir.
 - 136.3. Yalnız dövriyyənin müəyyən iştirakçılarına mənsub ola bilən və ya dövriyyədə olmasına xüsusi icazə əsasında yol verilən əşyalar (mülki dövriyyəsi məhdudlaşdırılmış əşyalar) qanunla müəyyənləşdirilmiş qaydada təyin edilir.
-
 #### Maddə 137. Qeyri-maddi əmlak nemətləri – çıxarılmışdır.
-
 #### Maddə 138. Əşyaların və hüquqların yüklülüyü
 - 138.1. Əşyanın yüklülüyü - qanun və ya əqd əsasında əşyaya mülkiyyət hüququnun hər hansı formada məhdudlaşdırılmasıdır.
 - 138.2. Hüququn yüklülüyü - qanun və ya əqd əsasında mülki hüquqların və ya tələblərin hər hansı formada məhdudlaşdırılmasıdır.
-
 ### §2. Əmlak hüquqlarının dövlət qeydiyyatı
 #### Maddə 139. Daşınar və daşınmaz əmlaka hüquqların dövlət qeydiyyatı
 - 139.1. Mülkiyyət hüququ və daşınmaz əmlaka digər hüquqlar, bu hüquqların məhdudlaşdırılması, əmələ gəlməsi, başqasına keçməsi və xitamı dövlət qeydiyyatına alınmalıdır. Mülkiyyət hüququ, istifadə hüququ, ipoteka, servitutlar, habelə daşınmaz əmlaka digər hüquqlar bu Məcəllədə və qanunvericilikdə nəzərdə tutulan hallarda qeydə alınmalıdır.
 - 139.2. Daşınar əmlaka hüquqlar yalnız qanunvericilikdə nəzərdə tutulan hallarda dövlət qeydiyyatına alınmalıdır.
 - 139.3. Daşınmaz əmlaka hüquqların dövlət qeydiyyatı müvafiq icra hakimiyyəti orqanı tərəfindən qanunvericiliklə müəyyən edilmiş qaydada tərtib edilən və aparılan daşınmaz əmlakın dövlət reyestrində həyata keçirilir.
 - 139.4. Məkana görə daşınmaz əmlak obyektlərinin xüsusi vasitələrdən istifadə edilmədən yerləşdiyi yerin müəyyənləşdirilməsini və onların fərdiləşdirilməsini təmin edən məlumat bazası olan ünvan reyestri aparılır. Daşınmaz əmlak obyektlərinin xüsusi vasitələrdən istifadə edilmədən yerləşdiyi yerin müəyyənləşdirilməsinə imkan verən ünvan verilir. Ünvan reyestrinin aparılması və daşınmaz əmlak obyektlərinə ünvan verilməsi müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada həyata keçirilir.
-
 #### Maddə 139-1. Daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatı üçün əsaslar
 - 139-1.1. Daşınmaz əmlak üzərində hüquqların əmələ gəlməsinin, başqasına keçməsinin, məhdudlaşdırılmasının (yüklülüyünün) və xitam verilməsinin dövlət qeydiyyatı üçün aşağıdakılar əsas hesab olunur:
   - 139-1.1.1. qanunla müəyyən edilmiş qaydada icra hakimiyyəti və bələdiyyə orqanları tərəfindən müvafiq olaraq dövlətə və ya bələdiyyələrə məxsus olan daşınmaz əmlakın özgəninkiləşdirilməsinə, icarəsinə, istifadəsinə, ipoteka qoyulmasına dair qəbul olunmuş aktlar;
@@ -1036,19 +1132,14 @@ Kooperativin üzvlüyünə qəbul, üzv olmaq istəyən şəxsin kooperativə r�
   - 139-1.1.11. Azərbaycan Respublikasının Mənzil Məcəlləsi qüvvəyə minənədək (2009-cu il oktyabrın 1-dək) dövlət və ya ictimai mənzil fondundan yaşayış sahəsinin verilməsinə dair müvafiq icra hakimiyyəti orqanının sərəncamı, order və ya mənzil kirayəsi müqaviləsi;
   - 139-1.1.12. 2006-cı il iyulun 6-dan 2009-cu il iyunun 24-dək müvafiq icra hakimiyyəti orqanı tərəfindən daşınmaz əmlaka dair verilmiş şəhadətnamələr;
   - 139-1.1.13. təbii fəlakət, texnogen qəza və ya hərbi əməliyyat nəticəsində (işğaldan azad edilmiş ərazilər istisna olmaqla) məhv olmuş, yaxud yararsız vəziyyətə düşmüş yaşayış sahələrinin əvəzinə dövlət vəsaiti hesabına tikilmiş yaşayış evlərinə və çoxmənzilli yaşayış binalarının mənzillərinə münasibətdə - həmin evlərin və mənzillərin təqdim edildiyi şəxslərin siyahısı (hər bir şəxsə təhvil verilən yaşayış evi və (və ya) mənzil dəqiq göstərilməklə), yaşayış evlərinin tikinti layihəsinin memarlıq-planlaşdırma bölməsi, çoxmənzilli yaşayış binasının tikinti layihəsinin memarlıq-planlaşdırma bölməsi və istismarına icazə.
-
 #### Maddə 140. Daşınmaz əmlakın dövlət reyestrinin məzmununun həqiqiliyi və tamamlığı prezumpsiyası
 Reyestrin məzmununun qeyri-dəqiqliyi sübuta yetirilməyincə, həmin məzmunun həqiqiliyi və tamamlığı prezumpsiyası qüvvədədir. Əqd əsasında özgəninkiləşdirənin adına qeydiyyata alınmış hər hansı bir hüququ əldə edən şəxsin xeyrinə reyestrdəki qeyd, bu qeydə dair etirazın reyestrə daxil edildiyi və ya əldə edən şəxsin qeydin qeyri-dəqiq olmasını bildiyi hallar istisna olmaqla, həqiqi hesab edilir.
-
 #### Maddə 141. Daşınmaz əmlakın dövlət reyestrində düzəlişin aparılması
 - 141.1. Əgər daşınmaz əmlakın dövlət reyestrinin məzmunu torpaq sahəsi üzərində hüquqa və ya həmin hüququn məhdudlaşdırılmasına dair həqiqi hüquqi vəziyyətə uyğun deyildirsə, hüququ qeydə alınmamış və ya hüququ düzgün qeydə alınmamış şəxs, yaxud mövcud olmayan yüklənmə haqqında qeydin daxil edilməsi ilə hüququ pozulmuş şəxs daşınmaz əmlakın dövlət reyestrində qeyddə düzəlişin aparılması üçün belə düzəlişlə hüququna toxunulan şəxsdən razılıq verməsini tələb edə bilər.
 - 141.2. Bu Məcəllənin 141.1-ci maddəsində nəzərdə tutulmuş hallarda daşınmaz əmlakın dövlət reyestrinin mötəbərliyinə qarşı etiraz edilə bilər.
 - 141.3. Daşınmaz əmlakın dövlət reyestrinə etirazla bağlı qeydin daxil edilməsi məhkəmənin qərarı və ya reyestrdə düzəlişin aparılması ilə hüququ toxunulan şəxsin razılığı ilə həyata keçirilir.
-
 #### Maddə 142. Daşınmaz əmlakın qeydiyyatı üçün rüsum – Çıxarılmışdır.
-
 #### Maddə 143. Daşınmaz əmlakın dövlət reyestrinin tərtibinə nəzarət – Çıxarılmışdır.
-
 #### Maddə 144. Daşınmaz əmlakın dövlət reyestri obyektlərinə dair sərəncam verilməsi haqqında müqavilələrin notariat qaydasında təsdiqlənməsi
 - 144.1. Daşınmaz əmlakın dövlət reyestri obyektlərinə dair sərəncam verilməsi haqqında müqavilələr notariat qaydasında təsdiqlənməlidir. Təsdiqləmə zamanı notarius və ya qanunla müəyyən edilmiş hallarda bu cür notarial hərəkəti etməyə hüququ çatan digər vəzifəli şəxslər əşyaya dair sərəncam verən tərəfin sərəncam hüququnu və müqavilənin qanunauyğunluğunu yoxlamalıdır. Onlar təsdiqlədikləri müqavilənin yanlışlığı üçün məsuliyyət daşıyır.
 - 144.2. Sərəncam hüququ sərəncam verən tərəfin daşınmaz əmlakın dövlət reyestrinə əsasən bu hüquqa malik olması və ya ixtiyarlı şəxsin ona həmin səlahiyyəti verməsi ilə təsdiqlənir. Bu səlahiyyət də notariat qaydasında təsdiqlənməlidir. Müqavilənin qanunauyğunluğu notariat qaydasında təsdiqləmə ilə təsbit olunur. Daşınmaz əmlakın dövlət reyestri obyektlərinə dair sərəncam verilməsi haqqında müqavilələr notarius və ya qanunla müəyyən edilmiş hallarda bu cür notarial hərəkəti etməyə hüququ çatan digər vəzifəli şəxslər tərəfindən həmin əmlakın daşınmaz əmlakın dövlət reyestrində qeydə alınmış texniki göstəricilərinə uyğun təsdiqlənir.
@@ -1056,7 +1147,6 @@ Reyestrin məzmununun qeyri-dəqiqliyi sübuta yetirilməyincə, həmin məzmunu
 - 144.3. Daşınmaz əmlak üzərində sərəncam verilməsinə dair notariat qaydasında təsdiq edilmiş müqavilənin informasiya sistemləri vasitəsilə real vaxt rejimində Elektron Hökumət İnformasiya Sistemi üzərindən ötürülmüş elektron nüsxəsi əsasında müvafiq hüquqlar daşınmaz əmlakın dövlət reyestrində dövlət qeydiyyatına alınır. Belə müqavilə ondan irəli gələn mülkiyyət və digər əşya hüquqlarının daşınmaz əmlakın dövlət reyestrində qeydiyyatının aparılması üçün ərizə hesab olunur.
 - 144.4. Əgər əldə edən qanuni qüvvəyə minmiş məhkəmə qərarına və ya ona bərabər olan sənədə, o cümlədən notariat qaydasında təsdiqləməyə istinad edirsə, notariat qaydasında təsdiqləmə tələb olunmur.
 - 144.5. Daşınmaz əmlaka mülkiyyət hüququ əmlakın fiziki cəhətdən bölünməsini nəzərdə tutmayan, lakin yaranacaq ümumi paylı mülkiyyətdə payların nisbətini faizlə müəyyənləşdirən bölünmə planı əsasında bölünə bilər. Mülkiyyətçi tərəfindən tərtib edilən belə bölünmə planı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada təsdiq edildikdən sonra mülkiyyətçinin bölünmə nəticəsində yaranan payların hər birinə mülkiyyət hüququ daşınmaz əmlakın dövlət reyestrində qeydə alınır.
-
 #### Maddə 144-1. Tikintisi başa çatmayan binanın tərkib hissələrinə sərəncam verilməsinin xüsusiyyətləri
 - 144-1.1. Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsinə müvafiq olaraq tikintisinə icazə alınmış, lakin həmin Məcəlləyə uyğun olaraq istismarına icazə verilməmiş binalar tikintisi başa çatmayan binalar hesab edilir.
 - 144-1.2. Mülkiyyətindəki torpaq sahəsində tərkib hissələrdən ibarət binanın tikintisinə icazə almış mülkiyyətçi tikiləcək binanın tərkib hissələrinin sayına və sahəsinə mütənasib olaraq həmin torpaq sahəsini bu Məcəllənin 144.5-ci maddəsində nəzərdə tutulmuş qaydada bölünmə planı əsasında paylara bölə bilər və bölünmə nəticəsində yaranan payların hər birinə mülkiyyət hüququnun qeydə alınmasını tələb edə bilər.
@@ -1064,46 +1154,40 @@ Reyestrin məzmununun qeyri-dəqiqliyi sübuta yetirilməyincə, həmin məzmunu
 - 144-1.4. Bölünmə planına əsasən mülkiyyətindəki torpaq sahəsində yaranan paylara və tikintisi başa çatmayan binanın həmin paylara bağlı olan tərkib hissələrinə sərəncam verilməsi haqqında müqavilələr notariat qaydasında təsdiqlənməli və tərkib hissələri əldə edən şəxslərin xeyrinə bu Məcəllənin 147-ci maddəsinə uyğun olaraq təminat qeydi aparılmalıdır.
 - 144-1.5. Bu Məcəllənin 144-1.4-cü maddəsində nəzərdə tutulan müqavilədə digər müddəalarla yanaşı, tikintisi başa çatmayan binanın yerləşdiyi torpaq sahəsində müvafiq tərkib hissələrin bağlı olduğu payların alqı-satqı şərtləri, təminat qeydinin aparılmasına dair torpaq sahəsi mülkiyyətçisinin və torpaq sahəsinə hüquq əldə etmək istəyən şəxsin bu Məcəllənin 178.8-ci maddəsində nəzərdə tutulan öhdəlikləri və 147.2-ci maddəsində nəzərdə tutulan razılıqları, habelə bu Məcəllənin 178.8-ci maddəsində nəzərdə tutulan öhdəliklərin yerinə yetirilməsindən sonra torpaq sahəsində müvafiq paya və tərkib hissəyə mülkiyyət hüququnun xeyrinə təminat qeydi aparılmış şəxsə keçməsinə dair torpaq sahəsi mülkiyyətçisinin razılığı açıq-aydın ifadə edilməlidir.
 - 144-1.6. Xeyrinə təminat qeydi aparılmış şəxs tikintisi başa çatmayan binanın yerləşdiyi torpaq sahəsində müvafiq tərkib hissənin bağlı olduğu pay ilə əlaqədar hüquqlarını və öhdəliklərini yazılı formada sifarişli poçt göndərişi vasitəsilə torpaq sahəsinin mülkiyyətçisini məlumatlandırmaqla notariat qaydasında təsdiq edilmiş müqavilə əsasında üçüncü şəxsə ötürə bilər. Müqavilədə digər müddəalarla yanaşı, hüquqların və öhdəliklərin ötürüldüyü məqamda mövcud olmuş həcmi və həmin həcmdə ötürülməsi, aparılmış təminat qeydində hüquqların və öhdəliklərin ötürüldüyü üçüncü şəxsin xeyrinə müvafiq dəyişikliklərin edilməsinə dair hər iki tərəfin razılıqları aydın şəkildə ifadə edilməlidir. Belə hüquqlar və öhdəliklər onların üçüncü şəxsə ötürüldüyü məqamda mövcud olmuş həcmdə və şərtlərlə ötürülməlidir. Notarius bu müqaviləni təsdiqlədikdən dərhal sonra onu elektron formada informasiya sistemləri vasitəsilə və təsdiqlənmiş yazılı formada sifarişli poçt göndərişi vasitəsilə daşınmaz əmlakın dövlət reyestrinə, habelə təsdiqlənmiş yazılı formada sifarişli poçt göndərişi vasitəsilə torpaq sahəsinin mülkiyyətçisinə göndərməlidir. Belə müqavilə daşınmaz əmlakın dövlət reyestrində aparılmış təminat qeydində müvafiq dəyişikliklərin edilməsinə dair ərizə hesab olunur və həmin müqavilə əsasında müvafiq qeydiyyat hərəkətləri aparılır.
-
 #### Maddə 145. Daşınmaz əmlakın dövlət reyestrində qeydiyyat barəsində ərizə – Çıxarılmışdır.
-
 #### Maddə 146. Daşınmaz əmlaka hüququn əmələ gəlməsi
-- 146.1. Daşınmaz əmlaka sahiblik və istifadə hüququ onun barəsində əqdin notariat qaydasında təsdiq edildiyi андan əmələ gəlir (məhkəmə qərarı və ya digər qanuni qüvvəyə malik olan və barəsində şikayət verilə bilməyən qərar əsasında yaranan hüquq istisna olmaqla).
+- 146.1. Daşınmaz əmlaka sahiblik və istifadə hüququ onun barəsində əqdin notariat qaydasında təsdiq edildiyi andan əmələ gəlir (məhkəmə qərarı və ya digər qanuni qüvvəyə malik olan və barəsində şikayət verilə bilməyən qərar əsasında yaranan hüquq istisna olmaqla).
 - 146.2. Daşınmaz əmlak üzərində sərəncam vermək hüququ həmin əmlakın daşınmaz əmlakın dövlət reyestrində ərazilər üzrə qeydiyyatı tarixindən əmələ gəlir.
 - 146.3. Daşınmaz əmlakın dövlət reyestrində qeydiyyata alınmamış daşınmaz əmlak barəsində müqavilələrin notariat qaydasında təsdiqlənməsinə yol verilmir və bu cür əmlak barəsində bağlanmış müqavilələr etibarsız sayılır. Məcəllənin 146.2-ci maddəsi və bu maddənin birinci abzası ipoteka kreditindən istifadə etməklə əldə olunan yaşayış sahəsinin üzərində alıcının mülkiyyət hüququ, daşınmaz əmlakın dövlət reyestrində qeydiyyata alınanadək həmin yaşayış sahəsinin alqı-satqısı və ipotekaya qoyulmasına dair qarışıq müqavilənin notariat qaydasında təsdiq edilməsi hallarına şamil edilmir.
 - 146.5. Daşınmaz əmlakı və ya ona dair hüquqları əldə edən şəxs məhkəmə qərarına və ya digər qanuni qüvvəyə malik olan və barəsində şikayət verilə bilməyən qərara istinad edirsə, bu halda ərizəyə həmin qərarın notariat qaydasında təsdiqlənmiş surəti və daşınmaz əmlakın texniki göstəricilərini əks etdirən sənədlər qoşulur.
 - 146.7. Daşınmaz əmlakın dövlət reyestrində daşınmaz əmlakın və ya ona dair hüquqların qeydiyyatı ərizənin daxil olduğu tarix üzrə aparılır.
-- 146.8. Daşınmaz əmlaka dair müqavilələrin daşınmaz əmlakın dövlət reyestrində qeydə alınmasına görə daşınmaz əmlaka dair müqaviləni təsdiqləyən notarius, qanunla müəyyən edilmiş hallarda bu cür notarial hərəkəti etməyə hüququ çatan digər vəzifəli şəxslər və müvafiq icra hakimiyyəti orqanının vəzifəli şəxsi məhkəmə məsuliyyəti daşıyırlar. Daşınmaz əmlakın dövlət reyestrində daşınmaz əmlaka dair müqavilələrin qeydiyatının aparılmaması və ya qeydiyyatın düzgün olmaması, qeydiyyatın natamam olması ilə bağlı iddialara görə dövlət reqressant qismində çıxış edir.
-
+- 146.8. Daşınmaz əmlaka dair müqavilələrin daşınmaz əmlakın dövlət reyestrində qeydə alınmasına görə daşınmaz əmlaka dair müqaviləni təsdiqləyən notarius, qanunla müəyyən edilmiş hallarda bu cür notarial hərəkəti etməyə hüququ çatan digər vəzifəli şəxslər və müvafiq icra hakimiyyəti orqanının vəzifəli şəxsi məhkəmə məsuliyyəti daşıyırlar. Daşınmaz əmlakın dövlət reyestrində daşınmaz əmlaka dair müqavilələrin qeydiyyatının aparılmaması və ya qeydiyyatın düzgün olmaması, qeydiyyatın natamam olması ilə bağlı iddialara görə dövlət reqressant qismində çıxış edir.
 #### Maddə 147. Torpaq sahəsi barədə təminat qeydi
 - 147.1. Torpaq sahəsi (üzərindəki tikilmiş və ya tikintisi başa çatmayan tikinti obyektləri də daxil olmaqla) ilə bağlı hər hansı hüququn əldə edilməsinə yönəlmiş tələbləri təmin etmək məqsədilə daşınmaz əmlakın dövlət reyestrində torpaq sahəsi barədə təminat qeydi aparıla bilər. Tikintisi başa çatmayan binanın yerləşdiyi torpaq sahəsində tərkib hissələrin bağlı olduğu paylarla əlaqədar təminat qeydinin aparılmasının xüsusiyyətləri bu maddənin tələbləri nəzərə alınmaqla, bu Məcəllənin 144-1-ci maddəsində müəyyən olunur.
-- 147.2. Təminat qeydinin aparılması üçün torpaq sahəsinin mülkiyyətçisi ilə torpaq sahəsinə hüquq əldə etmək istəyən şəxs arasında notarial formada bağlanılmış müqavilə tələb olunur. Müqavilədə digər müddəalarla yanaşı, torpaq sahəsinin mülkiyyətçisinin öz mülkiyyətində olan torpaq sahəsi barədə təminat qeydinin aparılmasına və torpaq sahəsinə hüquq əldə etmək istəyən şəxsin həmin torpaq sahəsi barədə öz xeyrinə təminat qeydinin aparılmasına dair razılıqları, habelə müvafiq tələblər yerinə yetirildikdən sonra müqavilədən irəli gələn hüquqların xeyrinə təminat qeydi aparılmış şəxsə keçməsinə dair torpaq sahəsi mülkiyyətçisinin razılığı aydın şəkildə ifadə edilməlidir.
+- 147.2. Təminat qeydinin aparılması üçün torpaq sahəsinin mülkiyyətçisi ilə torpaq sahəsinə hüquq əldə etmək istəyən şəxs arasında notarial formada bağlanılmış müqavilə tələb olunur. Müqavilədə digər müddəalarla yanaşı, torpaq sahəsinin mülkiyyətçisinin öz mülkiyyətində olan torpaq sahəsi barədə təminat qeydinin aparılmasına və torpaq sahəsinə hüquq əldə etmək istəyən şəxsin həmin torpaq sahəsi barədə öz xeyrinə təminat qeydinin aparılmasına dair razılıqları, habelə müvafiq tələblər yerinə yetirildikdən sonra müqavilədən irəli gələn hüquqların xeyrinə təminat qeydi aparılmış şəxsə keçməsinə dair torpaq sahəsi mülkiyyətçisinin razılığı açıq-aydın ifadə edilməlidir.
 - 147.3. Təminat qeydi daşınmaz əmlakın dövlət reyestrində qeydə alındığı vaxtdan yaranır.
 - 147.4. Torpaq sahəsi barədə daşınmaz əmlakın dövlət reyestrində aparılmış təminat qeydinin öz hüquqi qüvvəsini saxladığı müddətdə həmin torpaq sahəsi barədə növbəti təminat qeydi aparıla bilməz.
 - 147.5. Daşınmaz əmlakın dövlət reyestrini aparan orqanın və notariusların torpaq sahəsi barədə təminat qeydinin aparılması ilə bağlı hərəkətləri bu Məcəllə, “Notariat haqqında” və “Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikasının qanunları ilə tənzimlənir.
 - 147.6. Notarius təminat qeydinin aparılması üçün bağlanılması nəzərdə tutulan müqavilənin qanunauyğunluğunu müəyyən etdikdən sonra onu notariat qaydasında təsdiq edib daşınmaz əmlakın dövlət reyestrinə göndərir və daşınmaz əmlakın dövlət reyestrində 3 gün ərzində təminat qeydi aparılır.
-- 147.7. Torpaq sahəsi barədə təminat qeydinin öz hüquqi qüvvəsini saxladığı müddətdə həmin torpaq sahəsinə və ya ona olan hüquqa dair bağlanan müqavilələr və (və ya) digər formada verilən sərəncamlar təminat qeydinin əsası olmuş tələbin həyata keçirilməsinə təsir etdiyi və ya mane olduğu hissədə etibarsızdır. Həmin qayda sərəncamın məcburi icra və ya həbsin qoyulması qaydasında və ya əmlak inzibatçısı tərəfindən iflas prosesi zamanı verildiyi halda da tətbiq edilir.
+- 147.7. Torpaq sahəsi barədə daşınmaz əmlakın dövlət reyestrində aparılmış təminat qeydinin öz hüquqi qüvvəsini saxladığı müddətdə həmin torpaq sahəsinə və ya ona olan hüquqa dair bağlanan müqavilələr və (və ya) digər formada verilən sərəncamlar təminat qeydinin əsası olmuş tələbin həyata keçirilməsinə təsir etdiyi və ya mane olduğu hissədə etibarsızdır. Həmin qayda sərəncamın məcburi icra və ya həbsin qoyulması qaydasında və ya əmlak inzibatçısı tərəfindən iflas prosesi zamanı verildiyi halda da tətbiq edilir.
 - 147.8. Daşınmaz əmlakın dövlət reyestrində torpaq sahəsi barədə aparılmış təminat qeydi aşağıdakı hallarda öz hüquqi qüvvəsini itirir:
   - 147.8.1. xeyrinə təminat qeydi aparılmış şəxsin bu Məcəllənin 147.2-ci maddəsində nəzərdə tutulan müqavilədən irəli gələn hüquqları bu Məcəlləyə uyğun olaraq daşınmaz əmlakın dövlət reyestrində qeydə alındıqda;
   - 147.8.2. bu Məcəllənin 147.2-ci maddəsində nəzərdə tutulan müqavilə bu Məcəllənin 421-424-cü maddələrinə uyğun olaraq ləğv edildikdə;
-  - 147.8.3. aparılmış təminat qeydində bu Məcəllənin 144-1.6-cı maddəsində nəzərdə tutulan müqavilə əsasında hüquqların və öhdəliklərin ötürüldüyü üçüncü şəxsin xeyrinə müvafiq dəyişikliklərin edilməsinə dair.
+  - 147.8.3. aparılmış təminat qeydində bu Məcəllənin 144-1.6-cı maddəsində nəzərdə tutulan müqavilə əsasında hüquqların və öhdəliklərin ötürüldüyü üçüncü şəxsin xeyrinə müvafiq dəyişikliklər edildikdə.
 - 147.9. Torpaq sahəsinin (üzərindəki tikilmiş və ya tikintisi başa çatmayan tikinti obyektləri də daxil olmaqla) əldə edilməsi üçün bu Məcəllənin 147.2-ci maddəsinə uyğun olaraq bağlanılan müqavilədə xeyrinə təminat qeydi aparılan şəxsin ipoteka kreditindən istifadə etmək imkanı müəyyən edildiyi halda, şəxs həmin torpaq sahəsinin əldə edilməsinin maliyyələşdirilməsi məqsədi ilə ipoteka müqaviləsi bağlaya bilər. Həmin ipoteka yalnız ipoteka predmeti olan torpaq sahəsinin (üzərindəki tikilmiş və ya tikintisi başa çatmayan tikinti obyektləri də daxil olmaqla) əldə edilməsinin maliyyələşdirilməsi üçün istifadə olunan kreditin təminatına xidmət edə bilər.
-
 #### Maddə 148. Daşınmaz əmlakın dövlət reyestrinin açıqlığı
 - 148.1. Daşınmaz əmlakın təsviri, dövlət qeydiyyatına alınmış hüquqlar və onların məhdudlaşdırılmasına (yüklülüyünə) dair dövlət reyestrindən arayış qanunla müəyyən edilmiş qaydada hüquq sahibinə, onun tərəfindən vəkil edilmiş şəxsə, hüquq sahibinin əmlakına qanun və ya vəsiyyət əsasında vərəsəlik hüququ olan şəxslərə və qanunla nəzərdə tutulmuş səlahiyyətlərin yerinə yetirilməsi ilə əlaqədar müvafiq dövlət orqanlarına və bələdiyyələrə verilir.
 - 148.2. Daşınmaz əmlakın dövlət reyestrindəki qeydə əsaslanaraq mülkiyyət hüququ və ya daşınmaz əmlaka başqa hüquqlar əldə etmiş hər bir şəxsin bu hüquqları müdafiə edilməlidir.
-- 148.3. Daşınmaz əmlak barəsində notariat hərəkətlərinin aparılması ilə bağlı daşınmaz əmlakın dövlət reyestrindən daşınmaz əmlaka dair çıxarışın, həmin əmlakın təsvirinin, bu əmlak üzərində qeydiyyata alınmış hüquqlara və onların məhdudlaşdırılmasına (yüklülüyünə) dair məlumatların notarius və ya qanunla müəyyən edilmiş hallarda bu cür notarial hərəkəti etməyə hüququ çatan digər vəzifəli şəxslərlə daşınmaz əmlakın dövlət reyestri arasında elektron informasiya sistemləri vasitəsilə real vaxt rejimində məlumat və sənəd mübadiləsi imkanı, onların həmin sistemlər vasitəsilə daşınmaz əmlakın dövlət reyestrinə birbaşa çıxışı təmin olunmalıdır.
+- 148.3. Daşınmaz əmlak barəsində notariat hərəkətlərinin aparılması ilə bağlı daşınmaz əmlakın dövlət reyestrindən daşınmaz əmlaka dair çıxarışın, həmin əmlakın təsvirinin, bu əmlak üzərində qeydiyyata alınmış hüquqlara və onların məhdudlaşdırılmasına (yüklülüyünə) dair məlumatların notarius və ya qanunla müəyyən edilmiş hallarda notariat hərəkəti etməyə hüququ çatan digər vəzifəli şəxslər tərəfindən əldə edilməsini, habelə daşınmaz əmlak barəsində aparılmış notariat hərəkətinin nəticəsi olaraq tərtib və (və ya) təsdiq edilmiş və həmin əmlak barəsində qeydiyyatın aparılması üçün əsas hesab edilən sənədin təsdiqləndikdən dərhal sonra elektron formada daşınmaz əmlakın dövlət reyestrinə ötürülməsini təmin etmək məqsədilə notariuslarla və ya qanunla müəyyən edilmiş hallarda bu cür notarial hərəkəti etməyə hüququ çatan digər vəzifəli şəxslərlə daşınmaz əmlakın dövlət reyestri arasında elektron informasiya sistemləri vasitəsilə real vaxt rejimində məlumat və sənəd mübadiləsi imkanı, onların həmin sistemlər vasitəsilə daşınmaz əmlakın dövlət reyestrinə birbaşa çıxışı təmin olunmalıdır.
 - 148.4. İpoteka qoyulan daşınmaz əmlakla bağlı məlumatların əldə edilməsi məqsədi ilə Azərbaycan Respublikasının Mərkəzi Bankı, ipoteka fondları, ipoteka saxlayan banklar və digər kredit təşkilatlarının informasiya sistemləri ilə daşınmaz əmlakın dövlət reyestri arasında əlaqə yaradılır.
-
 #### Maddə 149. Daşınmaz əmlaka hüquqların əsassız qeydə alınması
 - 149.1. Çıxarılmışdır.
 - 149.2. Əgər daşınmaz əmlaka hüquqların qeydiyyatı əsassızdırsa və ya əgər düzgün qeydiyyat əsassız çıxarılmışsa və ya dəyişdirilmişsə, bunun nəticəsində daşınmaz əmlaka olan hüquqlarına toxunulmuş istənilən şəxs qeydiyyatın çıxarılması və ya dəyişdirilməsi haqqında iddia qaldıra bilər. Bunun nəticəsində vurulmuş zərərin əvəzinin ödənilməsi üçün tələblər irəli sürülməsi istisna edilmir. Bu zaman vicdanlı üçüncü şəxslərin qeydiyyatla əlaqədar əldə etdikləri hüquqları saxlanılır.
-
 #### Maddə 150. Məhv olmuş daşınmaz əmlakın qeydiyyatının ləğvi
 - 150.1. Əgər daşınmaz əmlak tam məhv olarsa və bunun nəticəsində onun qeydiyyatı hər cür hüquqi mənasını itirərsə, maraqlı şəxs məhkəmə qaydasında qeydiyatın ləğvini tələb edə bilər. Daşınmaz əmlakın məhv olması daşınmaz əmlakın dövlət reyestrini tərtib edən müvafiq icra hakimiyyəti orqanının vəzifəli şəxsi tərəfindən təsdiqlənməlidir.
 - 150.2. İstənilən maraqlı şəxs qeydiyyatın ləğvi barəsində bundan xəbər tutduğu vaxtdan on gün ərzində məhkəməyə şikayət edə bilər.
-
 ### 6-cı fəsil. Mülkiyyət hüququnun ümumi müddəaları
+### §1. Əşya hüququnun əsas anlayışları
 #### Maddə 152. Mülkiyyət hüququnun anlayışı və məzmunu
 - 152.1. Mülkiyyət hüququ - subyektin ona mənsub əmlaka (əşyaya) öz istədiyi kimi sahib olmaq, ondan istifadə etmək və ona dair sərəncam vermək üzrə dövlət tərəfindən tanınan və qorunan hüququdur.
 - 152.2. Sahiblik hüququ - əmlaka (əşyaya) faktik sahibliyi həyata keçirməyin hüquqi cəhətdən təmin edilmiş imkanıdır.
@@ -1116,28 +1200,23 @@ Reyestrin məzmununun qeyri-dəqiqliyi sübuta yetirilməyincə, həmin məzmunu
 - 152.9. Əşyaya mülkiyyət hüququ həmin əşyanın mühüm tərkib hissələrinə də şamil edilir.
 - 152.10. Əmlakın təsadüfən məhv olması və ya təsadüfən zədələnməsi riski, əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, mülkiyyətçisinin üzərinə düşür.
 - 152.11. Əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, mülkiyyətçi ona mənsub əmlakın saxlanması yükünü daşıyır.
-
 #### Maddə 153. Mülkiyyət hüququnun subyektləri
 - 153.1. Bütün növlərdən olan daşınar və daşınmaz əmlaka mülkiyyət hüququnun subyektləri hüquqi və fiziki şəxslər, bələdiyyələr və Azərbaycan Respublikası ola bilər.
 - 153.2. Qanunvericiliklə yalnız dövlət mülkiyyətində və ya bələdiyyələrin mülkiyyətində ola bilən əmlak növləri müəyyənləşdirilir.
 - 153.3. Əmlakın fiziki və ya hüquqi şəxsin mülkiyyətində, Azərbaycan Respublikasının və ya bələdiyyələrin mülkiyyətində olmasından asılı olaraq əmlaka mülkiyyət hüququnun, əmlaka sahiblik, ondan istifadə və ona dair sərəncam hüququnun əldə edilməsi və ona xitam verilməsi xüsusiyyətləri yalnız qanunla müəyyənləşdirilə bilər.
 - 153.4. Bütün mülkiyyətçilərin hüquqları eyni bərabərdə müdafiə edilir.
-
 #### Maddə 154. Fiziki və hüquqi şəxslərin mülkiyyət hüququ
 - 154.1. Qanunvericiliyə uyğun olaraq fiziki və ya hüquqi şəxslərə mənsub ola bilməyən əmlakın ayrı-ayrı növləri istisna edilməklə, fiziki və hüquqi şəxslərin mülkiyyətində istənilən əmlak ola bilər.
 - 154.2. Bu Məcəllənin 6.3-cü maddəsində nəzərdə tutulan məqsədlər üçün qanunvericilik yolu ilə məhdudiyyətlərin müəyyənləşdirildiyi hallar istisna olmaqla, fiziki və hüquqi şəxslərin mülkiyyətində olan əmlakın miqdarı və dəyəri məhdudlaşdırılmır.
 - 154.3. Kommersiya və qeyri-kommersiya hüquqi şəxsləri onların təsisçilərinin (iştirakçılarının, üzvlərinin) maya və ya haqq kimi onlara verdikləri əmlakın, habelə həmin hüquqi şəxslərin başqa əsaslar üzrə əldə etdikləri əmlakın mülkiyyətçiləridir.
-
 #### Maddə 155. Dövlət mülkiyyəti hüququ
 - 155.1. Azərbaycan Respublikasına mülkiyyət hüququ ilə mənsub olan əmlak dövlət mülkiyyətidir.
 - 155.2. Fiziki, hüquqi şəxslərin və ya bələdiyyələrin mülkiyyətində olmayan torpaq və digər təbii ehtiyatlar dövlət mülkiyyətidir.
 - 155.3. Dövlət büdcəsinin vəsaiti Azərbaycan Respublikasının mülkiyyətidir.
 - 155.4. Dövlət əmlakının özəlləşdirilməsi haqqında qanunda nəzərdə tutulmuş qaydada dövlət öz mülkiyyətində olan əmlakı fiziki və hüquqi şəxslərin mülkiyyətinə verə bilər.
-
 #### Maddə 156. Bələdiyyələrin mülkiyyət hüququ
 - 156.1. Bələdiyyələrə mülkiyyət hüququ ilə mənsub olan əmlak onların mülkiyyətidir.
 - 156.2. Yerli büdcənin vəsaiti bələdiyyənin mülkiyyətidir.
-
 #### Maddə 157. Mülkiyyətin müdafiəsi
 - 157.1. Mülkiyyətçinin mülkiyyət hüququnun tanınmasını tələb etmək ixtiyarı vardır.
 - 157.2. Mülkiyyətçi özgəsinin qanunsuz sahibliyindən öz əmlakını geri tələb edə bilər.
@@ -1148,8 +1227,6 @@ Reyestrin məzmununun qeyri-dəqiqliyi sübuta yetirilməyincə, həmin məzmunu
 - 157.7. Vicdanlı sahib əmlaka zərər yetirmədən ondan ayrıla bilən öz yaxşılaşdırmalarını özündə saxlaya bilər. Yaxşılaşdırmaları bu cür ayırmaq mümkün olmadıqda vicdanlı sahib əmlakın dəyərindən artıq olmamaq şərti ilə, onu yaxşılaşdırmaq üçün çəkdiyi məsrəflərin əvəzinin ödənilməsini tələb edə bilər.
 - 157.8. Mülkiyyətçi hüquqları mülkiyyətçi olmasa da, bu Məcəllədə və ya müqavilədə nəzərdə tutulan əsasla əmlaka sahiblik edən şəxsə də mənsubdur.
 - 157.9. Dövlət ehtiyacları tələb etdikdə, dövlət tərəfindən mülkiyyət yalnız “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanunu ilə nəzərdə tutulmuş hallarda dövlət əhəmiyyətli yolların və digər kommunikasiya xətlərinin çəkilməsi və quraşdırılması, sərhədboyu zolaqda dövlət sərhədinin etibarlı mühafizəsinin təmin edilməsi, müdafiə və təhlükəsizlik əhəmiyyətli obyektlərin tikilməsi, dövlət əhəmiyyətli dağ-mədən sənayesi obyektlərinin tikilməsi məqsədi ilə alınır.
-
-#### Maddə
 
 #### Maddə 158. Mülkiyyətçi olmayan şəxslərin hüquqları
 - 158.1. Mülkiyyət hüququ ilə yanaşı aşağıdakılar da əmlak hüquqları sayılır:
@@ -1192,11 +1269,9 @@ Sahiblik əşyaya faktik sahibliyə nail olmaqla əldə edilir.
 - 166.2. Daşınar əşyanın mülkiyyətçisi olmaq istəməyən sahibi ehtimal edə bilər ki, bu əşya kimdən arxayın alınmışdırsa, həmin şəxsin mülkiyyətindədir. Sahiblik hüququ olmadığını bilən və ya bilməli olan sahib vicdansız sahibdir. Daşınar əşya üzərində məhdud əşya hüququna və ya şəxsi hüquqa iddia edən daşınar əşya sahibinin bu cür hüququnun olduğu ehtimal edilir. Lakin o həmin əşyanı aldığı şəxsin bu cür hüququ olduğunu ehtimal edə bilməz.
 - 166.3. Yalnız o şəxsin torpaq sahəsinə mülkiyyət hüququnun və sahiblik haqqında iddia hüququnun olduğu ehtimal edilir ki, onun sahiblik hüququ torpaq sahəsinin daşınmaz əmlakın dövlət reyestrində qeydə alınmasından irəli gəlir. Lakin torpaq sahəsinin faktik sahibi sahiblikdən özbaşına məhrumedilmə və ya sahibliyin pozulması barədə iddia verə bilər.
 
-#### Maddə 167. Vicdansız sahibin əşyanı qaytarmaq vəzifəsi
-– Çıxarılmışdır.
+#### Maddə 167. Vicdansız sahibin əşyanı qaytarmaq vəzifəsi – Çıxarılmışdır.
 
-#### Maddə 168. Vicdanlı sahibin mülkiyyətçi qarşısında məsuliyyətinin olmaması
-– Çıxarılmışdır.
+#### Maddə 168. Vicdanlı sahibin mülkiyyətçi qarşısında məsuliyyətinin olmaması – Çıxarılmışdır.
 
 ### 8-ci fəsil. Mülkiyyət hüququnun məhdudlaşdırılması
 
@@ -1252,8 +1327,8 @@ Sahiblik əşyaya faktik sahibliyə nail olmaqla əldə edilir.
 #### § 1. Daşınmaz əşyalara mülkiyyət hüququnun əldə edilməsi
 
 #### Maddə 178. Daşınmaz əmlaka mülkiyyət hüququnun əldə edilməsi
-- 178.1. Daşınmaz əmlaka mülkiyyət hüququ qanunla müəyyənləşdirilmiş əsaslarla onun verilməsinin daşınmaz əmlakın dövlət reyestrində qeydə alındığı Andan əldə edənə keçir. Əgər qanuna müvafiq olaraq daşınmaz əmlak üzərində mülkiyyət hüququnun dövlət reyestrində qeydə alınmadan başqa şəxsə keçməsi mümkündürsə, onda şəxs bu barədə dövlət reyestrinə məlumat verməlidir.
-- 178.2. Yeni yaranmış daşınmaz əmlaka mülkiyyət hüququ onun daşınmaz əmlakın dövlət reyestrində qeydə alındığı Andan əmələ gəlir.
+- 178.1. Daşınmaz əmlaka mülkiyyət hüququ qanunla müəyyənləşdirilmiş əsaslarla onun verilməsinin daşınmaz əmlakın dövlət reyestrində qeydə alındığı andan əldə edənə keçir. Əgər qanuna müvafiq olaraq daşınmaz əmlak üzərində mülkiyyət hüququnun dövlət reyestrində qeydə alınmadan başqa şəxsə keçməsi mümkündürsə, onda şəxs bu barədə dövlət reyestrinə məlumat verməlidir.
+- 178.2. Yeni yaranmış daşınmaz əmlaka mülkiyyət hüququ onun daşınmaz əmlakın dövlət reyestrində qeydə alındığı andan əmələ gəlir.
 - 178.3. Əgər daşqın, torpağın səpələnməsi və ya yerdəyişməsi, çayın yatağının və ya səviyyəsinin dəyişməsi nəticəsində, yaxud başqa şəkildə yeni ərazi meydana gəlmişsə, o, bitişik torpaq sahəsində birləşdirilir.
 - 178.4. Torpağın bir torpaq sahəsindən digərinə yerdəyişməsi sahələrin hüdudlarının dəyişməsinə səbəb olmur.
 - 178.5. Əgər daşınmaz əmlakın dövlət reyestrində əsassız qeydə alınmış mülkiyyətçi qeydəalmanın əsassız olduğunu bilməyərək, torpaq sahəsinə 10 il ərzində fasiləsiz və etirazsız sahiblik etmişsə, həmin şəxs bu torpaq sahəsinin mülkiyyətçisi sayılır.
@@ -1265,13 +1340,13 @@ Sahiblik əşyaya faktik sahibliyə nail olmaqla əldə edilir.
 - 179.1. Çıxarılmışdır.
 - 179.2. Daşınmaz əmlaka sahiblik müddətinə əsaslanan şəxs hüquq varisi olduğu şəxsin bu əmlaka sahiblik etdiyi bütün müddəti öz sahiblik müddətinə birləşdirə bilər.
 - 179.3. Əmlaka öz əmlakı kimi sahiblik edən şəxs əldə etmə müddəti ilə əlaqədar daşınmaz əmlaka mülkiyyət hüququnu əldə edənə qədər öz sahibliyini əmlakın mülkiyyətçisi olmayan və bu Məcəllədə və ya müqavilədə nəzərdə tutulmuş digər əsasa görə ona sahiblik hüquqları olmayan üçüncü şəxslərdən müdafiə etmək hüququna malikdir.
-- 179.4. Əldə etmə müddəti ilə əlaqədar daşınmaz əmlakı əldə etmiş şəxsin həmin əmlaka mülkiyyət hüququ bu hüququn daşınmaz əmlakın dövlət reyestrində qeydə alındığı Andan əmələ gəlir.
+- 179.4. Əldə etmə müddəti ilə əlaqədar daşınmaz əmlakı əldə etmiş şəxsin həmin əmlaka mülkiyyət hüququ bu hüququn daşınmaz əmlakın dövlət reyestrində qeydə alındığı andan əmələ gəlir.
 
 #### Maddə 180. Özbaşına tikinti və onun nəticələri
 - 180.1. Tikinti məqsədləri üçün ayrılmayan torpaq sahəsində və ya buna lazımi icazələr almadan və ya şəhərsalma və tikinti normalarını və qaydalarını ciddi surətdə pozmaqla tikilmiş yaşayış evi, digər tikili, qurğu və ya başqa daşınmaz əmlak özbaşına tikinti sayılır.
 - 180.2. Özbaşına tikinti aparmış şəxs ona mülkiyyət hüququ əldə etmir. Onun tikintiyə dair sərəncam vermək - onu satmaq, bağışlamaq, icarəyə vermək, digər əqdlər bağlamaq ixtiyarı yoxdur.
 - 180.3. Özbaşına tikintiyə mülkiyyət hüququ məhkəmə tərəfindən o şəxs üçün tanına bilər ki, tikinti aparılmış torpaq sahəsi onun mülkiyyətində olsun. Əgər tikintinin saxlanması digər şəxslərin hüquqlarını və qanunla qorunan mənafelərini pozursa və ya fiziki şəxslərin həyatı və sağlamlığı üçün təhlükə yaradırsa, göstərilən şəxsin özbaşına tikintiyə mülkiyyət hüququ tanına bilməz.
-- 180.4. Tikinti məqsədləri üçün ayrılmayan torpaq sahəsində və ya buna lazımi icazələr almadan və ya şəhərsalma və tikinti normalarım və qaydalarını ciddi surətdə pozmaqla tikilmiş bina və qurğular müvafiq icra hakimiyyəti orqanlarının və ya maraqlı tərəfin müraciəti üzrə qəbul edilmiş məhkəmənin qərarı əsasında sökülə bilər.
+- 180.4. Tikinti məqsədləri üçün ayrılmayan torpaq sahəsində və ya buna lazımi icazələr almadan və ya şəhərsalma və tikinti normalarını və qaydalarını ciddi surətdə pozmaqla tikilmiş bina və qurğular müvafiq icra hakimiyyəti orqanlarının və ya maraqlı tərəfin müraciəti üzrə qəbul edilmiş məhkəmənin qərarı əsasında sökülə bilər.
 
 #### § 2. Daşınar əşyalara mülkiyyət hüququnun əldə edilməsi
 
@@ -1304,7 +1379,7 @@ Mülkiyyətin əldə edənə keçməsi üçün əşyanın verilməsi əvəzinə 
 #### Maddə 186. Tapıntı
 - 186.1. İtirilmiş əşyanı tapan şəxs tapıntı barədə onu itirmiş şəxsə, onun mülkiyyətçisinə, səlahiyyətli şəxsə və ya əgər mülkiyyətçi məlum deyilsə, polisə dərhal xəbər verməli və həmin əşyanı verməlidir.
 - 186.2. Əşyanı tapan şəxsə mülkiyyətçinin məlum olduğu və ya mülkiyyətçinin əşyaya hüququnun artıq polisə bildirildiyi hallar istisna olmaqla, əşyanı tapan şəxs bu barədə xəbər verdiyi vaxtdan bir illik müddət keçdikdən sonra tapıntıya mülkiyyət hüququ əldə edir. Mülkiyyət hüququnun əldə edilməsi ilə bir vaxtda həmin əşyaya bütün başqa hüquqlara xitam verilir.
-- 186.3. Səlahiyyətli şəxs tapılmış əşyanı qəbul edirsə, onu tapan şəxs tapılmış əşyanın dəyərinin beş faizədək miqdarda bəxşiş tələb edə bilər. Bundan başqa, əşyanı tapan şəxs səlahiyyətli şəxsdən həmin əşyanın saxlanması xərclərinin əvəzini ödəməyi də tələb edə bilər. Əmlakı tapan tapıntı barədə məlumat verməmişsə və ya onu gizlətməyə cəhd göstərmişsə, bəxşiş almaq hüququ əmələ gəlmir.
+- 186.3. Səlahiyyətli şəxs tapılmış əşyanı qəbul edirsə, onu tapan şəxs tapılmış əşyanın dəyərinin beş faizinədək miqdarda bəxşiş tələb edə bilər. Bundan başqa, əşyanı tapan şəxs səlahiyyətli şəxsdən həmin əşyanın saxlanması xərclərinin əvəzini ödəməyi də tələb edə bilər. Əmlakı tapan tapıntı barədə məlumat verməmişsə və ya onu gizlətməyə cəhd göstərmişsə, bəxşiş almaq hüququ əmələ gəlmir.
 - 186.4. Əşyanı tapan şəxs mülkiyyətdən imtina edirsə, səlahiyyətli orqan bir il keçdikdən sonra əşyanı auksionda sataraq fayda götürə bilər və ya söhbət azqiymətli əşyadan gedirsə, onu pulsuz özgəninkiləşdirə bilər və ya məhv edə bilər.
 - 186.5. Əgər tapıntı heyvan və ya tez xarab olan əşyadırsa, yaxud saxlanması böyük xərc tələb edən əşyadırsa, bir illik müddət tətbiq olunmur və onların özgəninkiləşdirilməsi nəticəsində əldə edilmiş məbləğ mülkiyyətçiyə qaytarılır.
 
@@ -1373,11 +1448,9 @@ Tələbin güzəşti barədə borcluya məlumat verilənə qədər o, tələbin 
 - 199.1. Borclu öhdəlik üzrə tələblərin yeni kreditora güzəşt edildiyi barədə bildirişi aldığı məqamda ilkin kreditora qarşı malik olduğu etirazları yeni kreditorun tələbinə qarşı irəli sürə bilər.
 - 199.2. Əgər borclu borc öhdəliyi barədə sənəd vermişsə, borc öhdəliyinin təqdim edilməsi üzrə tələbin güzəşti zamanı o, yeni kreditor qarşısında buna istinad edə bilməz ki, öhdəlik münasibətlərinə girməsi və onların təsdiqi yalnız görüntü yaratmaq üçün edilmişdir və ya ilkin kreditorla razılaşmaya görə güzəşt istisna edilmişdir, amma güzəşt zamanı yeni kreditorun işin təfsilatını bildiyi və ya bilməli olduğu hallar istisna təşkil edir.
 
-#### Maddə 200. Yeni borclunun vəzifələri
-– Çıxarılmışdır.
+#### Maddə 200. Yeni borclunun vəzifələri – çıxarılmışdır.
 
-#### Maddə 201. Borc keçirildikdə təminat vasitələrinə xitam verilməsi
-– Çıxarılmışdır.
+#### Maddə 201. Borc keçirildikdə təminat vasitələrinə xitam verilməsi – çıxarılmışdır.
 
 #### Maddə 202. Qanuna, məhkəmənin və ya digər səlahiyyətli dövlət orqanının qərarına əsasən tələbin güzəşti
 Hüquqlara və tələblərə mülkiyyət hüququnun əldə edilməsi qaydaları qanuna, məhkəmənin və ya digər səlahiyyətli dövlət orqanının qərarına əsasən həyata keçirilən tələbin güzəştinə də müvafiq surətdə tətbiq olunur.
@@ -1407,34 +1480,25 @@ Hüquqlara və tələblərə mülkiyyət hüququnun əldə edilməsi qaydaları 
 
 #### Maddə 206. Şəxsin ona mənsub ola bilməyən əmlaka mülkiyyət hüququna xitam verilməsi
 - 206.1. Əgər qanunun yol verdiyi əsaslara görə şəxsin mülkiyyətinə qanunla ona mənsub ola bilməyən əmlak düşmüşsə, həmin əmlakı mülkiyyətçi, qanunla ayrı müddət müəyyənləşdirilməyibsə, əmlaka mülkiyyət hüququnun əmələ gəldiyi andan bir il ərzində özgəninkiləşdirməlidir.
-- 206.2. Mülkiyyətçi əmlakı bu Məcəllənin 206.1-ci maddəsində göstərilən müddətlərdə özgəninkiləşdirmədikdə, belə əmlak, onun xarakterini və təyinatını nəzərə almaqla, dövlət orqanının ərizəsi üzrə məhkəmənin çıxardığı qərarə əsasən məcburi satılaraq satış pulu keçmiş mülkiyyətçiyə verilməli və ya dövlət mülkiyyətinə verilərək dəyəri keçmiş mülkiyyətçiyə ödənilməlidir. Bu zaman əmlakın özgəninkiləşdirilməsinə çəkilən xərclər çıxılır.
+- 206.2. Mülkiyyətçi əmlakı bu Məcəllənin 206.1-ci maddəsində göstərilən müddətlərdə özgəninkiləşdirmədikdə, belə əmlak, onun xarakterini və təyinatını nəzərə almaqla, dövlət orqanının ərizəsi üzrə məhkəmənin çıxardığı qərara əsasən məcburi satılaraq satış pulu keçmiş mülkiyyətçiyə verilməli və ya dövlət mülkiyyətinə verilərək dəyəri keçmiş mülkiyyətçiyə ödənilməlidir. Bu zaman əmlakın özgəninkiləşdirilməsinə çəkilən xərclər çıxılır.
 - 206.3. Əgər qanunun yol verdiyi əsaslara görə fiziki və ya hüquqi şəxsin mülkiyyətinə əldə edilməsinə xüsusi icazə tələb olunan və mülkiyyətçiyə belə icazənin verilməsindən imtina edilən əmlak düşərsə, bu əmlak həmin mülkiyyətçiyə mənsub ola bilməyən əmlak üçün müəyyənləşdirilmiş qaydada özgəninkiləşdirilməlidir.
-
 #### Maddə 207. Torpaq sahəsinin alınması ilə əlaqədar orada olan daşınmaz əmlakın özgəninkiləşdirilməsi
 - 207.1. Torpaq sahəsində olan binalara, qurğulara və ya digər daşınmaz əmlaka mülkiyyət hüququna xitam verilmədən həmin sahənin dövlət ehtiyacları üçün alınmasının mümkün olmadığı hallarda dövlət bu əmlakı satınalma yolu ilə ala bilər.
 - 207.2. Çıxarılmışdır.
-
 #### Maddə 208. Təsərrüfatsızcasına saxlanan mədəni sərvətlərin satın alınması
 - 208.1. Qanuna uyğun olaraq xüsusilə qiymətli və dövlət tərəfindən qorunan sərvətlər sırasına daxil edilmiş mədəni sərvətlərin mülkiyyətçisi həmin sərvətləri təsərrüfatsızcasına saxlayırsa, bu isə onların öz əhəmiyyətini itirəcəyi qorxusunu törədirsə, belə sərvətlər məhkəmənin qərarına əsasən dövlət tərəfindən satınalma yolu ilə mülkiyyətçidən alına bilər.
 - 208.2. Mədəni sərvətlər satın alınarkən onların dəyəri mülkiyyətçiyə tərəflərin razılaşması ilə, mübahisə olduqda isə məhkəmə tərəfindən müəyyənləşdirilmiş miqdarda ödənilir.
-
 #### Maddə 209. Rekvizisiya
 - 209.1. Təbii fəlakətlər, texnoloji qəzalar, epidemiyalar baş verdikdə və fövqəladə xarakter daşıyan digər hallarda müvafiq dövlət orqanlarının qərarı ilə mülkiyyətçidən əmlak qanunla müəyyənləşdirilmiş qaydada və şərtlərlə, dəyəri mülkiyyətçiyə ödənilməklə cəmiyyətin mənafeləri üçün alına bilər (rekvizisiya).
 - 209.2. Əmlakı rekvizisiya edilmiş şəxs rekvizisiya üçün əsas götürülmüş halların təsiri qurtardıqda, əmlakından qalanın qaytarılmasını məhkəmə yolu ilə tələb edə bilər.
-
 #### Maddə 210. Mülkiyyət hüququna qanun üzrə xitam verilməsinin nəticələri
 Mülkiyyət hüququna xitam verən Azərbaycan Respublikası qanunu qəbul edildikdə bu qanunun qəbulu nəticəsində mülkiyyətçiyə dəyən zərərin əvəzi, o cümlədən əmlakın dəyəri dövlət tərəfindən ödənilir. Zərərin əvəzinin ödənilməsinə dair mübahisələri məhkəmə həll edir.
-
 #### Maddə 211. Mülkiyyət hüququna xitam verildikdə əmlakın qiymətləndirilməsi
 Mülkiyyət hüququna xitam verildikdə əmlak onun bazar qiymətinə əsasən qiymətləndirilir.
-
 #### Maddə 212. Müsadirə
 Müsadirə Azərbaycan Respublikasının Cinayət Məcəlləsində və Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində nəzərdə tutulmuş hallarda məhkəmə qərarı ilə əmlakın məcburi qaydada və əvəzsiz olaraq dövlət nəfinə alınmasıdır.
-
 ### 10-cu fəsil. Mülkiyyət hüququnun xüsusi növləri
-
-### § 1. Ümumi mülkiyyət
-
+#### § 1. Ümumi mülkiyyət
 #### Maddə 213. Ümumi mülkiyyət anlayışı və onun əmələ gəlməsi əsasları
 - 213.1. İki və ya bir neçə şəxsin mülkiyyətində olan əşya onlara ümumi mülkiyyət hüququ əsasında mənsubdur.
 - 213.2. Əşya mülkiyyət hüququnda mülkiyyətçilərin hər birinin payı müəyyənləşdirilməklə (paylı mülkiyyət) və ya belə paylar müəyyənləşdirilmədən (birgə mülkiyyət) ümumi mülkiyyətdə ola bilər.
@@ -1443,45 +1507,38 @@ Müsadirə Azərbaycan Respublikasının Cinayət Məcəlləsində və Azərbayc
 - 213.5. Birgə mülkiyyət iştirakçılarının razılaşması ilə, razılaşma əldə edilmədikdə isə məhkəmənin qərarına əsasən ümumi əşyaya bu şəxslərin paylı mülkiyyəti müəyyənləşdirilə bilər.
 - 213.6. Ümumi mülkiyyətin hər bir mülkiyyətçisi ümumi mülkiyyətdə olan əşya barəsində üçüncü şəxslərə qarşı tələblər irəli sürə bilər. Ümumi mülkiyyətin hər bir mülkiyyətçisi əmlakı yalnız bütün mülkiyyətçilərin xeyrinə tələb edə bilər.
 - 213.7. Ümumi mülkiyyətdə olan əşya digər mülkiyyətçilərlə razılaşma əsasında mülkiyyətçilərdən birinin xeyrinə və mənafeyi üçün girov qoyula bilər və ya başqa şəkildə yüklü edilə bilər.
-- 213.8. Ümumi mülkiyyətdə olan əşyaya qulluq edilməsi və onun saxlanması xərcləri, bu Məcəllədə və ya müqavilədə ayrı qayda müəyyənləşdirilməyibsə, mülkiyyətçilərin üzərinə bərabər şəkildə qoyulur.
-
+- 213.8. Ümumi mülkiyyətin hər bir mülkiyyətçisi əmlakı yalnız bütün mülkiyyətçilərin xeyrinə tələb edə bilər. Ümumi mülkiyyətdə olan əşyaya qulluq edilməsi və onun saxlanması xərcləri, bu Məcəllədə və ya müqavilədə ayrı qayda müəyyənləşdirilməyibsə, mülkiyyətçilərin üzərinə bərabər şəkildə qoyulur.
 #### Maddə 214. Paylı ümumi mülkiyyət hüququnda payların müəyyənləşdirilməsi
 - 214.1. Əgər paylı mülkiyyət mülkiyyətçilərinin payları bu Məcəlləyə əsasən təyin edilə bilmirsə və bütün mülkiyyətçilərin razılaşması ilə müəyyənləşdirilməyibsə, paylar bərabər sayılır.
 - 214.2. Paylı mülkiyyətin bütün mülkiyyətçilərinin razılaşması ilə, ümumi mülkiyyətin yaradılmasına və artırılmasına onlardan hər birinin qoyduğu mayadan asılı olaraq, onların paylarının müəyyənləşdirilməsi və dəyişdirilməsi qaydası təyin edilə bilər.
 - 214.3. Paylı mülkiyyətin mülkiyyətçisi ümumi mülkiyyətdən istifadənin müəyyənləşdirilmiş qaydasına əməl etməklə öz hesabına bu əmlakı yaxşılaşdıran əlavələr etmişsə və həmin əlavələr əmlakdan ayrıla bilməzsə, ümumi mülkiyyət hüququnda öz payının müvafiq surətdə artırılması hüququna malikdir.
 - 214.4. Paylı mülkiyyət mülkiyyətçilərinin razılaşması ilə ayrı qayda nəzərdə tutulmayıbsa, ümumi mülkiyyəti yaxşılaşdıran və ayrıla bilən əlavələr onları etmiş mülkiyyətçinin mülkiyyətinə daxil olur.
-
 #### Maddə 215. Paylı mülkiyyətdə olan əmlaka sahiblik, ondan istifadə və ona dair sərəncam verilməsi
 - 215.1. Paylı mülkiyyətdə olan əşyaya sahiblik və ondan istifadə onun bütün mülkiyyətçilərinin razılaşması əsasında, razılaşma əldə edilmədikdə isə məhkəmənin müəyyənləşdirdiyi qaydada həyata keçirilir.
 - 215.2. Paylı mülkiyyətin mülkiyyətçisi ümumi əşyanın öz payına uyğun hissəsinin onun sahibliyinə və istifadəsinə verilməsi hüququna malikdir, bu mümkün olmadıqda isə onun payına düşən əşyaya sahiblik və ondan istifadə edən digər mülkiyyətçilərdən müvafiq əvəz ödəməyi tələb edə bilər.
 - 215.3. Paylı ümumi mülkiyyətin mülkiyyətçiləri ümumi mülkiyyətdə olan əşyaya sahiblik və ondan istifadə qaydası haqqında razılığa gələ bilərlər. Lakin onlar mülkiyyətçilərdən hər birinə mənsub olan aşağıdakı səlahiyyətləri ləğv edə və ya məhdudlaşdıra bilməzlər:
-    - 215.3.1. əşyanın dəyərini və işlənməyə yararlığını saxlamaq üçün ondan istifadə üzrə hərəkətlərin yerinə yetirilməsini tələb etmək, belə hərəkətlər yerinə yetirilmədikdə isə onların yerinə yetirilməsi barədə məhkəmənin qərar çıxarmasını tələb etmək səlahiyyəti;
-    - 215.3.2. əşyaya dəymək qorxusu olan və ya dəyə biləcək zərərin qarşısını almaq üçün dərhal görülməli olan tədbirləri bütün şərikli sahiblər hesabına müstəqil həyata keçirmək səlahiyyəti.
+  - 215.3.1. əşyanın dəyərini və işlənməyə yararlığını saxlamaq üçün ondan istifadə üzrə hərəkətlərin yerinə yetirilməsini tələb etmək, belə hərəkətlər yerinə yetirilmədikdə isə onların yerinə yetirilməsi barədə məhkəmənin qərar çıxarmasını tələb etmək səlahiyyəti;
+  - 215.3.2. əşyaya dəymək qorxusu olan və ya dəyə biləcək zərərin qarşısını almaq üçün dərhal görülməli olan tədbirləri bütün şərikli sahiblər hesabına müstəqil həyata keçirmək səlahiyyəti.
 - 215.4. Hər bir mülkiyyətçi qalan mülkiyyətçilərin hüquqları ilə bir araya sığan dərəcədə əşyaya sahiblik, ondan istifadə və ona dair sərəncam vermək ixtiyarına malikdir. Əşyanı özgəninkiləşdirmək və ya yüklü etmək, habelə onun təyinatını dəyişmək üçün bütün iştirakçıların razılığı tələb olunur, bu şərtlə ki, onlar yekdilliklə ayrı qayda barədə razılaşmasınlar. Əgər ümumi mülkiyyətdəki paylar üzrə ipotekalar və ya torpaq sahələrinə yüklülüklər varsa, daha iştirakçılar əşyanın özünü həmin hüquqlarla yüklü edə bilməzlər.
 - 215.5. Paylı mülkiyyətdə olan əşyaya dair sərəncam verilməsi əşyanın bütün mülkiyyətçilərinin razılaşması əsasında həyata keçirilir.
 - 215.6. Paylı mülkiyyətin mülkiyyətçisi öz payını sata, bağışlaya, vəsiyyət edə, girov qoya bilər və ya ona dair başqa sərəncam verə bilər; onu əvəzi ödənilməklə özgəninkiləşdirdikdə bu Məcəllədə nəzərdə tutulmuş qaydalara əməl etməlidir.
-
 #### Maddə 216. Paylı mülkiyyətdə olan əşyanın istifadəsindən bəhər, məhsul və gəlir
 Mülkiyyətçilər arasında razılaşma ilə ayrı qayda nəzərdə tutulmayıbsa, paylı mülkiyyətdə olan əşyanın istifadəsindən götürülən bəhər, məhsul və gəlir ümumi əmlakın tərkibinə daxil olur və paylı mülkiyyətin mülkiyyətçilərinin paylarına uyğun surətdə onlar arasında bölüşdürülür.
-
 #### Maddə 217. Paylı mülkiyyətdə olan əmlakın saxlanması xərcləri
 - 217.1. Paylı mülkiyyətin hər bir mülkiyyətçisi vergilərin, rüsumların ödənilməsində və ümumi əmlak üzrə digər ödənişlərin verilməsində, habelə həmin əmlakın saxlanması və qorunması xərclərinin çəkilməsində öz payına uyğun surətdə iştirak etməlidir.
 - 217.2. Mülkiyyətçilərdən birinin zərurət olmadan və qalan mülkiyyətçilərin razılığını almadan çəkdiyi xərclərin əvəzi qalan mülkiyyətçilər tərəfindən ödənilməməlidir. Bu zaman yaranan mübahisələr məhkəmə qaydasında həll olunur.
 - 217.3. Mülkiyyətçilərin əksəriyyətinin razılığı ilə əşyanın dəyərini və işlənməyə yararlığını qorumaq üçün saxlama, təmir (bərpa) və təzələmə işləri aparıla bilər.
 - 217.4. Əşyanın dəyərini artırmaq və ya sərfəliyini və işlənməyə yararlığını yüksəltmək məqsədi ilə aparılan təzələmə və yenidənqurma işləri üçün eyni zamanda əşyadakı payların çox hissəsini təmsil edən mülkiyyətçilərin əksəriyyətinin razılığı zəruridir. Əşyanın əvvəlki təyinatı üzrə işlədilməsini və ya istifadəsini iştirakçılardan biri üçün əhəmiyyətli dərəcədə və həmişəlik çətinləşdirən və ya sərfəsiz edən dəyişikliklər onun razılığı olmadan aparıla bilməz. Əgər dəyişiklik iştirakçıların birindən onun imkanları xaricində olan, o cümlədən payının əmlak dəyəri ilə tənasübsüzlüyünə görə imkanları xaricində olan xərclər tələb edirsə, dəyişiklik onun razılığı olmadan yalnız o halda həyata keçirilə bilər ki, qalan iştirakçıların hamısı onun payına düşən məsrəfləri, bunlar onun üçün mümkün olan məbləğdən çoxdursa, öz öhdələrinə götürsünlər.
 - 217.5. Əşyanın yalnız xarici görünüşünün yaxşılaşdırılması və ya ondan istifadənin əlverişliyinin artırılması üçün nəzərdə tutulan tikinti işlərini və ya başqa işləri ancaq bütün mülkiyyətçilərin razılığı ilə görməyə icazə verilir. Əgər eyni zamanda əşyadakı payların çox hissəsini təmsil edən mülkiyyətçilərin əksəriyyətinin razılığı ilə bu cür işlərin görülməsi haqqında sərəncam verilirsə, həmin işlər bununla razılaşmamış iştirakçının istəyindən asılı olmayaraq da görülə bilər, bu şərtlə ki, həmin işlərlə əlaqədar onun istifadə və sərəncam hüququ həmişəlik məhdudlaşdırılmasın və qalan iştirakçılar yalnız müvəqqəti məhdudiyyət üçün ona əvəz ödəsinlər və xərclərin onun payına düşən hissəsini öz üzərlərinə götürsünlər.
-
 #### Maddə 218. Satın almaqda üstünlük hüququ
 - 218.1. Ümumi paylı mülkiyyət hüququndakı pay üçüncü şəxsə satılarkən paylı mülkiyyətin qalan mülkiyyətçiləri satılan payı, açıq hərracdan satış halı istisna olmaqla, satıldığı qiymətə və digər bərabər şərtlər əsasında almaqda üstünlük hüququna malikdirlər. Ümumi mülkiyyət hüququndakı payın satışı üçün açıq hərraca paylı mülkiyyətin bütün mülkiyyətçiləri razılıq vermədikdə belə hərrac bu Məcəllənin 224.2-ci maddəsində nəzərdə tutulan hallarda keçirilə bilər.
 - 218.2. Payın satıcısı öz payını üçüncü şəxsə satmaq niyyəti barəsində payın qiymətini və digər satış şərtlərini göstərməklə paylı mülkiyyətin qalan mülkiyyətçilərinə yazılı bildiriş verməlidir. Əgər paylı mülkiyyətin qalan mülkiyyətçiləri daşınmaz əmlaka mülkiyyət hüququndakı satılan payı satın almaqdan imtina edərlərsə və ya bildirişin verildiyi gündən 45 gün ərzində onu əldə etməzlərsə, daşınar əmlaka mülkiyyət hüququndakı payı isə 15 gün ərzində əldə etməzlərsə, satıcı öz payını istədiyi şəxsə sata bilər.
 - 218.3. Pay satın almaqda üstünlük hüququ pozulmaqla satıldıqda paylı mülkiyyətin hər hansı digər iştirakçısının üç ay ərzində hüququ vardır ki, alıcının hüquq və vəzifələrinin ona keçirilməsini məhkəmə qaydasında tələb etsin.
 - 218.4. Payı satın almaqda üstünlük hüququnun güzəşt edilməsinə yol verilmir.
 - 218.5. Bu maddənin qaydaları pay dəyişmə müqaviləsinə əsasən özgəninkiləşdirildikdə də tətbiq edilir.
-
 #### Maddə 219. Ümumi paylı mülkiyyət hüququndakı payın müqavilə üzrə əldə edənə keçməsi anı
 - 219.1. Ümumi mülkiyyət hüququndakı pay, əgər tərəflərin razılaşmasında ayrı vaxt nəzərdə tutulmayıbsa, müqavilənin bağlandığı andan müqavilə üzrə əldə edənə keçir.
 - 219.2. Doğurduğu hüquqlar dövlət qeydiyyatına alınmalı olan müqavilə üzrə ümumi mülkiyyət hüququndakı payın keçməsi anı həmin hüquqların dövlət qeydiyyatına alındığı vaxtdan müəyyənləşdirilir.
-
 #### Maddə 220. Paylı mülkiyyətdə olan əşyanın bölünməsi və ondan payın ayrılması
 - 220.1. Paylı mülkiyyətdə olan əşya mülkiyyətçiləri arasındakı razılaşmaya əsasən onlar arasında bölünə bilər.
 - 220.2. Paylı mülkiyyətin mülkiyyətçisi öz payının ayrılmasını tələb edə bilər.
@@ -1489,27 +1546,21 @@ Mülkiyyətçilər arasında razılaşma ilə ayrı qayda nəzərdə tutulmayıb
 - 220.4. Bu maddəyə əsasən paylı mülkiyyətin mülkiyyətçisinə naturada ayrılan əşyanın onun mülkiyyət hüququndakı payına tənasübsüzlüyü müvafiq pul məbləğinin ödənilməsi və ya başqa kompensasiya ilə aradan qaldırılır. Paylı mülkiyyətin mülkiyyətçisinə naturada pay ayrılması əvəzinə qalan mülkiyyətçilər tərəfindən kompensasiya ödənilməsinə onun öz razılığı ilə yol verilir. Mülkiyyətçinin payı cüzi olduqda, real surətdə ayrıla bilmədikdə və ümumi əmlakdan istifadə edilməsində onun mühüm mənafeyi olmadıqda, məhkəmə həmin mülkiyyətçinin razılığı olmadan da paylı mülkiyyətin qalan iştirakçılarının öhdəsinə ona kompensasiya ödənilməsi vəzifəsini qoya bilər.
 - 220.5. Mülkiyyətçi bu maddəyə uyğun kompensasiya aldığı andan ümumi əmlakdakı paya hüququnu itirir.
 - 220.6. Bu Məcəllənin 220.3-220.5-ci maddələrində müəyyənləşdirilmiş qaydalara əsasən ümumi əmlakın bölünməsi və ya ondan pay ayrılması açıq-aşkar məqsədəuyğun olmadıqda, məhkəmə əmlakın açıq hərracdan satılması və satış pulunun ümumi mülkiyyətin mülkiyyətçiləri arasında onların paylarına mütənasib surətdə bölüşdürülməsi haqqında qərar qəbul edə bilər.
-
 #### Maddə 221. Ümumi paylı mülkiyyət hüquqlarına xitam verilməsi
 Ümumi paylı mülkiyyət hüquqlarına fiziki bölgü, öz istəyi ilə satış və ya hərracdan satış və satış pulunun bölünməsi və ya bütün əşyanın bir və ya bir neçə iştirakçının adına qeydə alınması və qalan iştirakçılara əvəz verilməsi ilə xitam verilir. Əgər iştirakçılar hüquqa xitam verilməsi növünə dair razılığa gəlməsələr, əşya məhkəmənin qərarı ilə fiziki bölünür, bu, əşyanın dəyəri əhəmiyyətli dərəcədə azalmadan mümkün olmadıqda isə açıq hərracdan və ya iştirakçılar üçün hərracdan satılır. Fiziki bölgü bərabər olmayan payların əvəzinin pulla ödənilməsi ilə birləşdirilə bilər.
-
 #### Maddə 222. Birgə mülkiyyətdə olan əşyaya sahiblik, ondan istifadə və ona dair sərəncam verilməsi
 - 222.1. Birgə mülkiyyətin əmələ gəlməsi üçün əsas olmuş ümumiliyin iştirakçıları birgə mülkiyyətin mülkiyyətçiləridir. Əgər birgə mülkiyyətin mülkiyyətçiləri arasındakı razılaşmada ayrı qayda nəzərdə tutulmayıbsa, onlar ümumi əmlaka birgə sahiblik edir və ondan birgə istifadə edirlər.
 - 222.2. Birgə mülkiyyətdə olan əşyaya dair sərəncamçılıq bütün mülkiyyətçilərin razılığı ilə həyata keçirilir və əmlaka dair sərəncam verilməsi haqqında əqdi mülkiyyətçilərdən hansının bağlamasından asılı olmayaraq bu razılıq ehtimal edilir.
 - 222.3. Birgə mülkiyyətin hər bir mülkiyyətçisi, əgər bütün mülkiyyətçilərin razılaşmasından ayrı qayda irəli gəlmirsə, ümumi əşyaya dair sərəncam verilməsi haqqında əqdlər bağlaya bilər. Birgə mülkiyyətin mülkiyyətçilərindən birinin ümumi əmlaka dair sərəncam verilməsi ilə əlaqədar bağladığı əqd həmin mülkiyyətçinin lazımi səlahiyyətlərinin olmaması mülahizələrinə əsasən qalan iştirakçıların tələbi ilə yalnız o halda etibarsız sayıla bilər ki, əqdin başqa tərəfinin bunu bildiyi və ya bilməli olduğu sübuta yetirilsin.
 - 222.4. Birgə mülkiyyətin digər mülkiyyətçiləri razılıq vermədikdə borclu ayrıca birgə mülkiyyətçiyə olan tələbini əvəzləşdirə bilməz.
-
 #### Maddə 223. Birgə mülkiyyət hüququna xitam verilməsi, birgə mülkiyyətdə olan əşyanın bölünməsi və ondan pay ayrılması
 - 223.1. Birgə mülkiyyət hüququna əşyanın özgəninkiləşdirilməsi və ya birgə mülkiyyətin əmələ gəlməsinə əsas vermiş ümumiliyin mövcudluğuna son qoyulması ilə xitam verilir.
 - 223.2. Birgə mülkiyyətin mülkiyyətçiləri tərəfindən ümumi əşyanın bölünməsi və ya onlardan birinin payının ayrılması mülkiyyətçilərdən hər birinin payı qabaqcadan müəyyənləşdirildikdən sonra həyata keçirilə bilər.
 - 223.3. Ümumi əşya bölünərkən və ondan pay ayrılarkən mülkiyyətçilərin payları, əgər onların razılaşmasında ayrı qayda nəzərdə tutulmayıbsa, bərabər sayılır.
 - 223.4. Ümumi əşyanın bölünməsi və ondan pay ayrılması əsasları və qaydası bu Məcəllənin 220-ci maddəsinin müddəalarına əsasən müəyyənləşdirilir.
-
 #### Maddə 224. Ümumi mülkiyyətdəki paya tutmanın yönəldilməsi
 - 224.1. Paylı və ya birgə mülkiyyət mülkiyyətçisinin başqa əmlakı kifayət etmədikdə onun kreditoru borclunun ümumi əşyadakı payına tutmanın yönəldilməsi üçün həmin payın ayrılmasını tələb edə bilər.
-- 224.2. Əgər payın naturada ayrılması mümkün deyildirsə və ya paylı və ya birgə mülkiyyətin qalan iştirakçıları buna etiraz edirlərsə, kreditorun ixtiyarı var ki, borclunun öz payını bazar qiyməti ilə ümumi mülkiyyətin qalan iştirakçılarına satmasını və satışdan əldə edilmiş vəsaitin borcun ödənilməsinə yönəldilməsini tələb etsin. Ümumi mülkiyyətin qalan mülkiyyətçiləri borclunun payını almaqdan imtina etdikdə kreditorun ixtiyarı var ki, tutmanın borclunun ümumi mülkiyyət hüququndakı payına onun açıq hərracdan satılması yolu ilə yönəldilməsini məhkəmə qaydasında tələb etsin.
-Borclunun ümumi mülkiyyət hüququndakı payı ipoteka predmeti olduqda, həmin paya tutmanın yönəldilməsi “İpoteka haqqında” və “İcra haqqında” Azərbaycan Respublikasının qanunları ilə müəyyən olunmuş qaydada həyata keçirilir.
-
+- 224.2. Əgər payın naturada ayrılması mümkün deyildirsə və ya paylı və ya birgə mülkiyyətin qalan iştirakçıları buna etiraz edirlərsə, kreditorun ixtiyarı var ki, borclunun öz payını bazar qiyməti ilə ümumi mülkiyyətin qalan iştirakçılarına satmasını və satışdan əldə edilmiş vəsaitin borcun ödənilməsinə yönəldilməsini tələb etsin. Ümumi mülkiyyətin qalan mülkiyyətçiləri borclunun payını almaqdan imtina etdikdə kreditorun ixtiyarı var ki, tutmanın borclunun ümumi mülkiyyət hüququndakı payına onun açıq hərracdan satılması yolu ilə yönəldilməsini məhkəmə qaydasında tələb etsin. Borclunun ümumi mülkiyyət hüququndakı payı ipoteka predmeti olduqda, həmin paya tutmanın yönəldilməsi “İpoteka haqqında” və “İcra haqqında” Azərbaycan Respublikasının qanunları ilə müəyyən olunmuş qaydada həyata keçirilir.
 #### Maddə 225. Ərlə arvadın ümumi mülkiyyəti
 - 225.1. Ərlə arvadın nikah dövründə qazandıqları əmlak, əgər nikah kontraktında və ya onlar arasındakı razılaşmada ayrı qayda nəzərdə tutulmayıbsa, onların ümumi mülkiyyətidir.
 - 225.2. Nikaha girənədək ər-arvaddan hər birinə mənsub olmuş əmlak, habelə onlardan birinin nikah dövründə hədiyyə kimi və ya vərəsəlik qaydasında aldığı əmlak onun mülkiyyətidir.
@@ -1517,105 +1568,86 @@ Borclunun ümumi mülkiyyət hüququndakı payı ipoteka predmeti olduqda, həmi
 - 225.4. Ər-arvaddan hər birinin əmlakı o halda onların birgə mülkiyyəti sayıla bilər ki, nikah dövründə ərlə arvadın ümumi əmlakı və ya ərin (arvadın) şəxsi əmlakı hesabına həmin əmlakın dəyərini əhəmiyyətli dərəcədə artıran vəsait qoyulduğu (əsaslı təmir, yenidənqurma, yeni avadanlıqla təchizetmə və i.a.) müəyyənləşdirilsin. Əgər nikah kontraktında və ya ərlə arvadın razılaşmasında ayrı qayda nəzərdə tutulubsa, bu qayda tətbiq edilmir.
 - 225.5. Ərin (arvadın) öhdəlikləri üzrə tutma onun mülkiyyətində olan əmlaka, habelə onun ərlə arvadın ümumi əmlakındakı payına bu şərtlə yönəldilə bilər ki, nikah kontraktında ayrı qayda nəzərdə tutulmuş olmasın.
 - 225.6. Daşınmaz əmlaka birgə hüququ olan ərin (arvadın) razılığı olmadan daşınmaz əmlakın dövlət reyestrində qeydə alınmış hüquq barədə bağlanmış müqavilə etibarsız hesab edilir. Bu, həmçinin əldə edənin belə hüququn yalnız müqavilə tərəfinə məxsus olması barədə vicdanlı olduğu hallara da aiddir. Əgər müqavilə üzrə tərəf müqavilənin etibarsızlığını bilirdisə və ya bilməli idisə, əldə edən həmin tərəfdən etibarsızlıqdan irəli gələn zərərin əvəzinin ödənilməsini tələb edə bilər.
-
-### § 2. Yaşayış binasının tərkib hissəsinə mülkiyyət hüququ
-
+#### § 2. Yaşayış binasının tərkib hissəsinə mülkiyyət hüququ
 #### Maddə 226. Yaşayış binasının tərkib hissəsinə mülkiyyət hüququ anlayışı
 - 226.1. Yaşayış binasının tərkib hissəsinə mülkiyyət hüququ ümumi paylı daşınmaz mülkiyyətə olan hüquqdur, yəni binanın müəyyən hissələrindən müstəsna istifadə etmək və onların içərisində bəzək-tamamlama işləri aparmaq üçün mülkiyyətçinin xüsusi hüquq əldə etməsidir. Yaşayış binasının tərkib hissəsinin mülkiyyətçisi öz otaqlarını idarə etməkdə, onlardan istifadə etməkdə və bəzək-tamamlama işləri aparmaqda sərbəstdir, lakin o, digər belə mülkiyyətçinin eyni hüquqları həyata keçirməsini çətinləşdirməməli və ümumi tikinti elementlərini, qurğuları zədələməməli və ya onların funksiyasını və ya zahiri görkəmini pisləşdirməməlidir. O öz otaqlarını bütün binanın qüsursuz vəziyyətdə saxlanması və ya onun yaxşı zahiri görkəminin qorunması üçün tələb edilən tərzdə saxlamalıdır.
-- 226.2. Yaşayış binasının tərkib hissəsi mülkiyyətçisinin ona mənsub yaşayış otağına sahiblik, ondan istifadə və ona dair sərəncam hüquqlarını otağın təyinatına uyğun həyata keçirir.
+- 226.2. Yaşayış binasının tərkib hissəsinin mülkiyyətçisi ona mənsub yaşayış otağına sahiblik, ondan istifadə və ona dair sərəncam hüquqlarını otağın təyinatına uyğun həyata keçirir.
 - 226.3. Yaşayış binasının tərkib hissəsinin mülkiyyətçisi müqavilə əsasında onu icarəyə verə bilər.
 - 226.4. Yaşayış binalarında sənaye istehsalatlarının yerləşdirilməsinə yol verilmir.
-
 #### Maddə 227. Yaşayış binasının tərkib hissəsi mülkiyyətçilərinin ümumi mülkiyyəti
 - 227.1. Yaşayış binasının mənzildən kənarda və ya mənzil daxilində yerləşən, birdən çox mənzilə xidmət edən ümumi otaqları, dayaq konstruksiyaları, mexaniki, elektrik, sanitariya-texniki və digər avadanlığı, habelə yerləşdiyi torpaq sahəsi ümumi paylı mülkiyyət hüququ ilə yaşayış binasının tərkib hissəsi mülkiyyətçilərinə mənsubdur.
 - 227.2. Yaşayış binasının tərkib hissəsi mülkiyyətçisinin ixtiyarı yoxdur ki, yaşayış binasının ümumi əmlakına mülkiyyət hüququndakı payını özgəninkiləşdirsin, habelə həmin payın yaşayış binasının tərkib hissəsinə mülkiyyət hüququndan ayrılıqda verilməsinə səbəb olan digər hərəkətləri yerinə yetirsin.
-
 #### Maddə 228. Yaşayış binasının tərkib hissəsindən istifadə hüququ
 - 228.1. Yaşayış binasının tərkib hissəsi mülkiyyətçisinin ailə üzvləri və digər şəxslər yaşayış binasından istifadə hüququna bu şərtlə malikdirlər ki, həmin hüquq daşınmaz əmlakın dövlət reyestrində qeydə alınsın.
 - 228.2. Yaşayış binasının tərkib hissəsindən istifadə hüququnun əmələ gəlməsi, həyata keçirilməsi şərtləri və xitamı mülkiyyətçi ilə bağlanan, notariat qaydasında təsdiqlənən yazılı razılaşma ilə müəyyənləşdirilir. Yaşayış binasının tərkib hissəsindən istifadə hüququna xitam verilməsi haqqında razılaşma olmadıqda bu hüquqa mülkiyyətçinin məhkəmə qaydasında tələbinə əsasən bazar qiyməti ilə müvafiq kompensasiya verməsi yolu ilə xitam verilə bilər.
 - 228.3. Yaşayış binasının tərkib hissəsindən istifadə hüququ alğı-satqının, girovun və icarənin müstəqil predmeti ola bilməz. Yaşayış binasının tərkib hissəsindən istifadə hüququ olan şəxs, mülkiyyətçi də daxil olmaqla istənilən şəxsdən həmin yaşayış binasına olan hüququnun pozulmasını aradan qaldırmağı tələb edə bilər.
 - 228.4. Yaşayış evinə və ya mənzilə mülkiyyət hüququnun keçməsi yaşayış binasının tərkib hissəsindən istifadə hüququna xitam verilməsi üçün əsas deyildir, amma yaşayış otağından istifadə hüququ olan şəxsin mülkiyyət hüququndan imtina barəsində həmin hüquq keçənədək notariat qaydasında təsdiqlənmiş öhdəlik verdiyi hal istisna təşkil edir.
 - 228.5. Yaşayış binasının tərkib hissəsinin mülkiyyətçisinin onunla birgə yaşayan ailə üzvləri (əri, arvadı, valideynləri, uşaqları) yaşayış sahəsindən onunla bərabər istifadə etmək hüququna malikdirlər. Yaşayış binasının tərkib hissəsinin mülkiyyətçisinin ailə üzvləri öz yetkinlik yaşına çatmayan uşaqlarını həmin yaşayış binasına köçürmək ixtiyarına malikdirlər. Digər ailə üzvlərinin (ərin, arvadın) köçürülməsinə yalnız mülkiyyətçinin razılığı ilə yol verilir. Həmin şəxslərin yaşayış binasının tərkib hissəsindən istifadə hüququ mülkiyyətçi ilə ailə münasibətlərinə xitam verildiyi halda da saxlanılır. Yaşayış binasının tərkib hissəsindən mülkiyyətçinin ailə üzvlərinin istifadə etmək hüququ bu Məcəllənin qüvvəyə mindiyi gündən yaranır.
-
 #### Maddə 229. Yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağı
 - 229.1. Yaşayış binasının tərkib hissələrinin fərdi mülkiyyətçilərinin toplusu yaşayış binasının tərkib hissələri mülkiyyətçilərinin hüquqi şəxs olmayan yığıncağını təşkil edir.
 - 229.2. Yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağının ləğvini tələb etmək yolverilməzdir.
-
 #### Maddə 230. Yaşayış binasının tərkib hissələrinin vahidləri
 Yaşayış binasının ayrı-ayrı tərkib hissələri və ya onların bölümləri xüsusi hüquqların obyekti ola bilər; bu hissələr və bölümlər mənzil kimi və ya işgüzar və ya digər məqsədlər üçün otaq vahidləri kimi qapalı olmalı və onların öz girişi olmalıdır, lakin tərkiblərində ayrı-ayrı yardımçı otaqlar ola bilər. Bu cür vahidlər aşağıda "yaşayış binasının tərkib hissələrinin vahidləri" adlandırılır.
-
 #### Maddə 231. Yaşayış binasının tərkib hissələri mülkiyyətçilərinin ümumi paylı mülkiyyətdə hüquqları
 - 231.1. Əgər daşınmaz əmlakın dövlət reyestrində yaşayış binasının tərkib hissəsinin müəyyən mülkiyyətçisinin xeyrinə heç bir xüsusi hüquq qeydə alınmayıbsa, aşağıdakı predmetlər və hüquqlar yaşayış binasının tərkib hissələri mülkiyyətçilərinin ümumi paylı mülkiyyətindədir:
-    - 231.1.1. torpaq və bina tikilməsinə əsas verəcək tikintiyə vərəsəlik hüququ;
-    - 231.1.2. yaşayış binasının və onun tərkib hissələrinin digər mülkiyyətçilərinin otaqlarının konstruksiyası, konstruktiv strukturu və möhkəmliyi üçün əhəmiyyət daşıyan və binanın zahiri simasını və görkəmini müəyyənləşdirən tikinti elementləri;
-    - 231.1.3. digər bu cür mülkiyyətçilərin öz otaqlarından istifadəsinə xidmət üçün nəzərdə tutulan qurğular.
+  - 231.1.1. torpaq və bina tikilməsinə əsas verəcək tikintiyə vərəsəlik hüququ;
+  - 231.1.2. yaşayış binasının və onun tərkib hissələrinin digər mülkiyyətçilərinin otaqlarının konstruksiyası, konstruktiv strukturu və möhkəmliyi üçün əhəmiyyət daşıyan və binanın zahiri simasını və görkəmini müəyyənləşdirən tikinti elementləri;
+  - 231.1.3. digər bu cür mülkiyyətçilərin öz otaqlarından istifadəsinə xidmət üçün nəzərdə tutulan qurğular.
 - 231.2. binanın digər tikinti konstruksiyaları yaşayış binasının tərkib hissələri mülkiyyətçilərinin sonrakı razılaşması ilə əsaslandırma aktında birgə konstruksiyalar elan edilə bilər. Belə edilmədikdə ehtimal olunur ki, onlar xüsusi hüquqlara aid edilmişdir.
-
 #### Maddə 232. Yaşayış binasının tərkib hissəsini əldə etməkdə üstünlük hüququnun məhdudlaşdırılması
 Yaşayış binasının tərkib hissəsinin mülkiyyətçisi yaşayış binasının tərkib hissəsinin digər mülkiyyətçisindən onun payını əldə etmiş və ya sonrakı razılaşma yolu ilə bu cür üstünlük hüququnu başqasına vermiş və daşınmaz əmlakın dövlət reyestrində xeyrinə təminat qeydi aparılmış üçüncü şəxs barəsində əldə etmədə üstünlük hüququna malik deyildir. Eynilə bu şəkildə müəyyənləşdirilə bilər ki, yaşayış binasının tərkib hissəsinin özgəninkiləşdirilməsi, onun istifadə hüququ və ya mənzil hüququ ilə yüklü edilməsi, habelə kirayəyə verilməsi yalnız o halda hüquqi qüvvəyə malikdir ki, yaşayış binasının tərkib hissəsinin qalan mülkiyyətçiləri müvafiq qərar qəbul edərək, onlara məlumat verildiyi andan 14 gün ərzində buna etiraz etməsinlər. Əgər etiraz tutarlı əsas olmadan verilmişdirsə, etibarlı deyildir. Belə etiraza baxarkən məhkəmə etirazın əleyhdarının xahişi ilə onun iddiasının təmin edilməsi barədə sərəncam verir.
-
 #### Maddə 233. Yaşayış binasının tərkib hissəsinə mülkiyyət hüququnun qeydə alınması
 - 233.1. Yaşayış binasının tərkib hissəsinə mülkiyyət hüququ daşınmaz əmlakın dövlət reyestrində qeydiyyatla təsbit edilir. Qeydiyyat aşağıdakılar əsasında tələb edilə bilər:
-    - 233.1.1. mülkiyyətçilərin yaşayış binasının tərkib hissəsinə mülkiyyət hüququndakı paylarının rəsmiləşdirilməsinə dair müqavilə;
-    - 233.1.2. daşınmaz əmlak mülkiyyətçisinin və ya müstəqil və sürəkli tikinti hüququ sahibinin belə mülkiyyətin paylarının yaradılması və onların yaşayış binasının tərkib hissəsinə mülkiyyət hüququna rəsmiləşdirilməsi barədə ərizəsi.
+  - 233.1.1. mülkiyyətçilərin yaşayış binasının tərkib hissəsinə mülkiyyət hüququndakı paylarının rəsmiləşdirilməsinə dair müqavilə;
+  - 233.1.2. daşınmaz əmlak mülkiyyətçisinin və ya müstəqil və sürəkli tikinti hüququ sahibinin belə mülkiyyətin paylarının yaradılması və onların yaşayış binasının tərkib hissəsinə mülkiyyət hüququna rəsmiləşdirilməsi barədə ərizəsi.
 - 233.2. Əqdin etibarlı olması üçün onun notariat qaydasında təsdiqlənməsi və ya əgər vəsiyyətnamə və ya miras bölgüsü haqqında müqavilə varsa, müvafiq forma zəruridir.
 - 233.3. Yaşayış binasının tərkib hissəsinə mülkiyyət hüququnun əsaslandırılması aktında ərazi bölgüsündən başqa, yaşayış binasının hər bir tərkib hissəsinin payı daşınmaz əmlakın və ya tikinti hüququnun yüzdə bir və ya mində bir misli ilə göstərilməlidir. Payların dəyərinin dəyişdirilməsi üçün yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağının razılığı və icazəsi tələb olunur; lakin əgər mülkiyyətçinin payı yanlış müəyyənləşdirilmişsə və ya binada və ya onun həndəvərində tikinti dəyişiklikləri nəticəsində yanlış olmuşdursa, mülkiyyətçilərdən hər birinin düzəliş hüququ vardır.
-
 #### Maddə 234. Yaşayış binasının tərkib hissəsinə mülkiyyət hüququna xitam verilməsi
 Yaşayış binasının tərkib hissəsinə mülkiyyət hüququna daşınmaz əmlakın və ya tikinti hüququnun məhvi ilə və daşınmaz əmlakın dövlət reyestrində qeydlə xitam verilir. Əgər bina onun dəyərinin yarısından çox ölçüdə dağılmışdırsa və mülkiyyətçi özü üçün, demək olar, dözülməz yüklülüklər olmadan binanın bərpasına qadir deyildirsə, yaşayış binasının tərkib hissəsinin istənilən mülkiyyətçisindən mülkiyyət hüququna xitam verilməsi tələb edilə bilər, lakin yaşayış binasının tərkib hissələrinin mülkiyyətçiləri ümumi mülkiyyətə sahibliyi davam etdirmək niyyətindədirlərsə, qalan mülkiyyətçilərə peşman haqqı ödəmək yolu ilə hüquqa xitam verilməsinin qarşısını ala bilərlər.
-
 #### Maddə 235. Birgə idarəetmə xərcləri
 - 235.1. Yaşayış binasının tərkib hissələrinin mülkiyyətçiləri birgə mülkiyyətin yüklülüklərinin ödənilməsində və birgə idarəetmə xərclərində öz dəyər paylarına mütənasib surətdə iştirak etməlidirlər. Mülkiyyətçilərin haqları hesabına ödənilməli olan yüklülüklərə və xərclərə o cümlədən aşağıdakılar aiddir:
-    - 235.1.1. torpaq sahəsinin və yaşayış binasının birgə hissələrinin, habelə birgə konstruksiyalarının və qurğularının saxlanmasına, cari təmirinə və yeniləşdirməsinə çəkilən xərclər;
-    - 235.1.2. idarəçiyə haqq ödənilməsi də daxil olmaqla, idarəetmə fəaliyyətinə çəkilən xərclər;
-    - 235.1.3. bütövlükdə yaşayış binasının tərkib hissələrinin mülkiyyətçilərindən tutulan ödənişlər və vergilər.
+  - 235.1.1. torpaq sahəsinin və yaşayış binasının birgə hissələrinin, habelə birgə konstruksiyalarının və qurğularının saxlanmasına, cari təmirinə və yeniləşdirilməsinə çəkilən xərclər;
+  - 235.1.2. idarəçiyə haqq ödənilməsi də daxil olmaqla, idarəetmə fəaliyyətinə çəkilən xərclər;
+  - 235.1.3. bütövlükdə yaşayış binasının tərkib hissələrinin mülkiyyətçilərindən tutulan ödənişlər və vergilər.
 - 235.2. Əgər birgə istifadə edilən müəyyən tikinti konstruksiyaları, qurğular mülkiyyətin ayrı-ayrı tərkib hissələrinə xidmət etmirsə və ya əhəmiyyətsiz dərəcədə xidmət edirsə, bunu xərclərin bölgüsündə nəzərə almaq lazımdır.
 - 235.3. Yaşayış binasının tərkib hissəsinin hər hansı mülkiyyətçisi xərclər üçün haqları üç il ərzində ödəmədikdə yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağı:
-    - 235.3.1. yaşayış binasının tərkib hissələrinə mülkiyyətdə onun payı üçün ipotekanı qeydə aldırmaq hüququna malikdir. İpotekanın qeydə alınmasını idarəçi və ya əgər o təyin edilməyibsə, əksəriyyətin qərarı ilə və ya məhkəmə tərəfindən vəkil edilmiş yaşayış binasının tərkib hissələrinin mülkiyyətçilərindən hər hansı biri və ödənilməmiş haqların girov kimi verildiyi kreditor tələb edə bilər;
-    - 235.3.2. yaşayış binasının tərkib hissəsi mülkiyyətçisinin otaqlarında olan və onların avadanlıqla təchiz edilməsi və istifadəsi üçün nəzərdə tutulan daşınar əşyaları girov qoymaq hüququna malikdir.
-
+  - 235.3.1. yaşayış binasının tərkib hissələrinə mülkiyyətdə onun payı üçün ipotekanı qeydə aldırmaq hüququna malikdir. İpotekanın qeydə alınmasını idarəçi və ya əgər o təyin edilməyibsə, əksəriyyətin qərarı ilə və ya məhkəmə tərəfindən vəkil edilmiş yaşayış binasının tərkib hissələrinin mülkiyyətçilərindən hər hansı biri və ödənilməmiş haqların girov kimi verildiyi kreditor tələb edə bilər;
+  - 235.3.2. yaşayış binasının tərkib hissəsi mülkiyyətçisinin otaqlarında olan və onların avadanlıqla təchiz edilməsi və istifadəsi üçün nəzərdə tutulan daşınar əşyaları girov qoymaq hüququna malikdir.
 #### Maddə 236. Yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağının səlahiyyətləri
 - 236.1. Yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağı öz idarəetmə fəaliyyətindən, o cümlədən haqq ödənilməsi tələbindən irəli gələn əmlakı və haqlardan əmələ gələn nağd vəsaiti, məsələn, yeniləşdirmə fondunu öz adından əldə edir. Yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağı öz adından iddia qaldıra və icranı tələb edə bilər, əşyanın olduğu yer üzrə cavabdeh ola bilər.
 - 236.2. Yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağının bu Məcəllədə göstərilən səlahiyyətlərindən savayı, aşağıdakı səlahiyyətləri də vardır:
-    - 236.2.1. yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağı tərəfindən idarəçinin səlahiyyətinə aid edilməmiş bütün idarəetmə məsələlərini həll etmək;
-    - 236.2.2. idarəçini təyin etmək və onun fəaliyyətinə nəzarət etmək;
-    - 236.2.3. idarəetmə məsələlərinin həllini, o cümlədən idarəçiyə məsləhət verilməsini, onun idarəetmə fəaliyyətinin yoxlanılmasını, bu barədə yığıncağa hesabat verilməsini və ərizələr təqdim edilməsini tapşıra biləcəyi komissiyanı və ya nümayəndəni seçmək;
-    - 236.2.4. hər il xərclər smetasına, mülkiyyətçilər arasında xərclərin hesablanmasına və bölgüsünə icazə vermək;
-    - 236.2.5. səliqə-sahmanın qorunması və yeniləşdirmə işlərinin aparılması üçün yeniləşdirmə fondunun yaradılması haqqında qərar qəbul etmək;
-    - 236.2.6. binanı yanğından və digər təhlükələrdən, habelə məsuliyyəti sığorta etdirmək.
+  - 236.2.1. yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağı tərəfindən idarəçinin səlahiyyətinə aid edilməmiş bütün idarəetmə məsələlərini həll etmək;
+  - 236.2.2. idarəçini təyin etmək və onun fəaliyyətinə nəzarət etmək;
+  - 236.2.3. idarəetmə məsələlərinin həllini, o cümlədən idarəçiyə məsləhət verilməsini, onun idarəetmə fəaliyyətinin yoxlanılmasını, bu barədə yığıncağa hesabat verilməsini və ərizələr təqdim edilməsini tapşıra biləcəyi komissiyanı və ya nümayəndəni seçmək;
+  - 236.2.4. hər il xərclər smetasına, mülkiyyətçilər arasında xərclərin hesablanmasına və bölgüsünə icazə vermək;
+  - 236.2.5. səliqə-sahmanın qorunması və yeniləşdirmə işlərinin aparılması üçün yeniləşdirmə fondunun yaradılması haqqında qərar qəbul etmək;
+  - 236.2.6. binanı yanğından və digər təhlükələrdən, habelə məsuliyyəti sığorta etdirmək.
 - 236.3. Əgər idarəçi təyin edilirsə və ayrı qərar qəbul olunmursa, yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağını idarəçi çağırır və aparır. Əgər idarəçi təyin olunmursa, yaxud o, təyinatdan imtina edirsə, yığıncağı yaşayış binasının ümumi dəyərinin azı 10 faizini təmsil edən hər hansı mülkiyyətçi (və ya mülkiyyətçilərin hər hansı çoxluğu) çağıra bilər. Yığıncaqda sadə çoxluqla ona sədrlik edən seçilir. Qərarlar barəsində protokol tərtib edilir. Protokolu idarəçi və ya yaşayış binasının tərkib hissəsinin sədrlik edən mülkiyyətçisi saxlamalıdır.
 - 236.4. Yaşayış binasının tərkib hissəsi bir neçə şəxsə birlikdə mənsubdursa, onların yalnız bir səsi vardır. Bu səsi onlar özlərinin təmsilçisi vasitəsilə verirlər. Səsvermə hüququnun həyata keçirilməsi barədə yaşayış binasının tərkib hissələri vahidinin mülkiyyətçisi və uzufruktuarı da razılığa gəlməlidirlər; əks halda uzufruktuar, sadəcə, faydalı olan və ya bəzəklər və ya rahatlıqlar yaradılmasına yönəldilən tikinti tədbirlərindən başqa, bütün idarəetmə məsələlərində səsvermə hüququ olan şəxs sayılır.
 - 236.5. Yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağının qərarlar çıxarmağa o halda ixtiyarı vardır ki, eyni zamanda payların yarısına sahib olan mülkiyyətçilərin yarısı, lakin onların azı ikisi yığıncaqda iştirak etsin və ya təmsil olunsun. Yetərsay olmadıqda yığıncaq ikinci dəfə çağırılır, həm də o, birinci yığıncaqdan azı on gün keçəndən sonra keçirilməlidir. İkinci yığıncağın qərarlar çıxarmağa o halda ixtiyarı vardır ki, yaşayış binasının tərkib hissələrinin bütün mülkiyyətçilərinin üçdə bir hissəsi, lakin onların azı ikisi yığıncaqda iştirak etsin və ya təmsil olunsun.
 - 236.6. Əgər yaşayış binasının tərkib hissələri mülkiyyətçilərinin yığıncağı idarəçini təyin edə bilməzsə, yaşayış binasının tərkib hissəsinin hər hansı mülkiyyətçisi idarəçinin məhkəmə tərəfindən təyin olunmasını tələb edə bilər. Bunda əsaslı marağı olan şəxs, məsələn, girov saxlayan və sığortaçı da həmin hüquqa malikdir.
 - 236.7. Yığıncağın qərarı ilə idarəçi onun əvəz ödənilmək barədə irəli sürə biləcəyi iddiaları saxlanılmaqla istənilən vaxt geri çağırıla bilər. Əgər mülkiyyətçilərin yığıncağı mühüm səbəblərə etinasızlıq göstərərək idarəçinin geri çağırılmasını rədd edərsə, yaşayış binasının tərkib hissəsinin istənilən mülkiyyətçisi bir ay ərzində onun məhkəmə qaydasında geri çağırılmasını tələb edə bilər. Məhkəmənin təyin etdiyi idarəçi təyin edildiyi müddət qurtaranadək məhkəmənin razılığı olmadan geri çağırıla bilməz.
-
 #### Maddə 237. Yaşayış binasının tərkib hissələrinə birgə mülkiyyətin idarəçisi
 - 237.1. İdarəçi qanunun göstərişlərinə və mülkiyyətçilər yığıncağının qərarlarına uyğun olaraq birgə mülkiyyətin idarə edilməsi üzrə bütün hərəkətləri yerinə yetirir, mümkün zərərin qarşısının alınması və ya aradan qaldırılması üçün özü tədbirlər görür. O, birgə xərcləri və yaşayış binasının tərkib hissələrinin ayrı-ayrı mülkiyyətçilərinin yüklülüklərini bölüşdürür, onlara hesab təqdim edir, haqlar alır, nağd pul vəsaitini idarə edir və ondan təyinatı üzrə istifadə edir. O, xüsusi hüquqların həyata keçirilməsi, torpaq sahəsinin və yaşayış binasının birgə hissələrindən, habelə birgə qurğulardan istifadə zamanı qanunun göstərişlərinin və evdə yaşayış qaydalarının gözlənilməsinə nəzarət edir.
-- 237.2. İdarəçi birgə mülkiyyətin idarə edilməsi sahəsində onun qanuni vəzifələri dairəsinə daxil olan bütün işlərdə yaşayış binasının tərkib hissələrinin həm bütün mülkiyyətçilərini, həm də ayrı-ayrı mülkiyyətçilərini kənarda təmsil edir. Özünün və ya qarşı tərəfin başladığı məhkəmə proseslərini aparmaq üçün ona iddianın təmin edilməsi barədə sərəncamdan başqa, mülkiyyətçilər yığıncağının qabaqcadan verdiyi səlahiyyət də lazımdır. Bütövlükdə yaşayış binasının tərkib hissələrinin mülkiyyətçilərinə ünvanlanmış ərizələr, tələblər, məhkəmə qərarları və sərəncamlar idarəçiyə onun yaşayış yeri üzrə və ya əşyanın olduğu yer üzrə çatdırıla bilər və həmin addan qüvvəyə minir.
-
-### § 3. Torpağa mülkiyyət hüququnun xüsusiyyətləri
-
+- 237.2. İdarəçi birgə mülkiyyətin idarə edilməsi sahəsində onun qanuni vəzifələri dairəsinə daxil olan bütün işlərdə yaşayış binasının tərkib hissələrinin həm bütün mülkiyyətçilərini, həm də ayrı-ayrı mülkiyyətçilərini kənarda təmsil edir. Özünün və ya qarşı tərəfin başladığı məhkəmə proseslərini aparmaq üçün ona iddianın təmin edilməsi barədə sərəncamdan başqa, mülkiyyətçilər yığıncağının qabaqcadan verdiyi səlahiyyət də lazımdır. Bütövlükdə yaşayış binasının tərkib hissələrinin mülkiyyətçilərinə ünvanlanmış ərizələr, tələblər, məhkəmə qərarları və sərəncamlar idarəçiyə onun yaşayış yeri üzrə və ya əşyanın olduğu yer üzrə çatdırıla bilər və həmin анддан qüvvəyə minir.
+#### § 3. Torpağa mülkiyyət hüququnun xüsusiyyətləri
 #### Maddə 238. Torpaq mülkiyyət hüququnun obyekti kimi
 - 238.1. Daşınmaz əmlak kimi torpaq mülkiyyət hüququnun obyektidir. Torpaq sahəsinin ərazi sərhədləri daşınmaz əmlakın dövlət reyestrinin ixtiyarlı şəxsinin mülkiyyətçiyə verdiyi sənədlər əsasında təyin edilir.
 - 238.2. Əgər qanunla ayrı qayda müəyyənləşdirilməyibsə, torpaq sahəsinə mülkiyyət hüququ həmin sahənin sərhədləri daxilində yerləşən səth (torpaq) qatına və qapalı sututarlara, meşələrə və bitkilərə də şamil edilir.
 - 238.3. Torpaq sahəsinin mülkiyyətçisi, əgər qanunla ayrı qayda nəzərdə tutulmayıbsa və digər şəxslərin hüquqlarını pozmursa, həmin sahənin üstündə və altında olan hər şeydən istifadə edə bilər. Əgər qanunla ayrı qayda nəzərdə tutulmayıbsa, yerin təki və faydalı qazıntılar Azərbaycan Respublikasının mülkiyyətidir.
 - 238.4. Başqa məqsədlər üçün istifadəsinə yol verilməyən və ya məhdudiyyət qoyulan kənd təsərrüfatı təyinatlı və digər təyinatlı torpaq sahələri qanunla müəyyənləşdirilir.
-
 #### Maddə 239. Torpaq sahəsinə buraxılma
 - 239.1. Fiziki şəxslər dövlət və bələdiyyə mülkiyyətində olan, hamının buraxılması üçün açıq torpaq sahələrində heç bir icazə almadan sərbəst ola bilər və həmin sahələrdə olan təbiət obyektlərindən qanunvericiliyin, habelə müvafiq torpaq sahəsi mülkiyyətçisinin yol verdiyi hədlərdə istifadə edə bilər.
 - 239.2. Fiziki və ya hüquqi şəxsin mülkiyyətində olan torpaq sahəsinə onun mülkiyyətçisinin icazəsi olmadan girməyə, qanunla nəzərdə tutulan hallar istisna olmaqla, icazə verilmir.
-
 #### Maddə 240. Torpaq sahəsində tikinti
 - 240.1. Torpaq sahəsinin mülkiyyətçisi şəhərsalma və tikinti normalarını və qaydalarını, habelə torpaq sahəsinin təyinatı ilə bağlı tələbləri gözləmək şərti ilə sahədə binalar və qurğular ucalda bilər, onları yenidən qura və ya uçura bilər, öz sahəsində başqa şəxslərin tikinti aparmasına icazə verə bilər.
 - 240.2. Torpaq sahəsinin mülkiyyətçisi özünə mənsub sahədə ucaldılmış və ya yaradılmış binaya, qurğuya və digər daşınmaz əmlaka mülkiyyət hüququ əldə edir.
 - 240.3. Mülkiyyətçinin özünə mənsub torpaq sahəsində özbaşına tikinti aparmasının nəticələri bu Məcəllənin 180-ci maddəsi ilə müəyyənləşdirilir.
-
 #### Maddə 241. Torpaq sahəsindən istifadə hüququnun əldə edilməsi əsasları
 - 241.1. Torpaq sahəsinin mülkiyyətçisi onu başqa şəxslərin istifadəsinə, o cümlədən icarəsinə verə bilər.
 - 241.2. Dövlət və ya bələdiyyə mülkiyyətində olan torpaq sahəsindən istifadə hüququ fiziki və hüquqi şəxslərə torpaq sahələrini bu cür istifadəyə verməyə vəkil edilmiş dövlət orqanının və ya yerli özünüidarə orqanının qərarına əsasən, qanunla müəyyənləşdirilmiş qaydada verilir.
 - 241.3. Bu Məcəllənin 243-cü maddəsində nəzərdə tutulan hallarda torpaq sahəsindən istifadə hüququnu binanın, qurğunun və digər daşınmaz əmlakın mülkiyyətçisi də əldə edə bilər.
 - 241.4. Hüquqi şəxs yenidən təşkil edilərkən ona mənsub torpaq sahəsindən istifadə hüququ onun hüquq varisinə keçir.
-
 #### Maddə 242. Torpaq sahəsinə sahiblik və ondan istifadə
 - 242.1. Çıxarılmışdır.
 - 242.2. İstifadəsinə torpaq sahəsi verilmiş şəxs bu sahəni yalnız onun mülkiyyətçisinin razılığı ilə icarəyə və ya əvəzsiz istifadəyə verə bilər.
@@ -1624,13 +1656,10 @@ Yaşayış binasının tərkib hissəsinə mülkiyyət hüququna daşınmaz əml
 - 243.1. Başqa şəxsə mənsub torpaq sahəsində olan daşınmaz əmlakın mülkiyyətçisi həmin əmlakın yerləşdiyi torpaq sahəsi hissəsindən istifadə hüququna malikdir.
 - 243.2. Özgə torpaq sahəsində yerləşən daşınmaz əmlaka mülkiyyət hüququ başqa şəxsə keçərkən, o, torpaq sahəsinin müvafiq hissəsindən istifadə hüququnu daşınmaz əmlakın əvvəlki mülkiyyətçisi ilə eyni şərtlərlə və eyni həcmdə əldə edir. Torpaq sahəsinə mülkiyyət hüququnun başqa şəxsə keçməsi həmin torpaq sahəsində yerləşən daşınmaz əmlakın mülkiyyətçisinin sahədən istifadə hüququnun xitamı və ya dəyişdirilməsi üçün əsas deyildir.
 - 243.3. Özgə torpaq sahəsində yerləşən daşınmaz əmlakın mülkiyyətçisi həmin əmlaka sahiblik, ondan istifadə və ona dair sərəncam hüququna, habelə müvafiq binaları və qurğuları uçurmaq hüququna malikdir.
-
 #### Maddə 244. Torpaq sahəsindən istifadə hüququna xitam verilməsinin nəticələri
 Əgər torpaq sahəsinin mülkiyyətçisi ilə torpaq istifadəçisi arasındakı müqavilədə ayrı qayda nəzərdə tutulmayıbsa, torpaq sahəsindən istifadə hüququna xitam verildikdə torpaq istifadəçisinin həmin torpaq sahəsində tikdiyi binalara, qurğulara və başqa daşınmaz əmlaka mülkiyyət hüququ torpaq sahəsinin mülkiyyətçisinə keçir.
-
 #### Maddə 245. Torpaq sahəsində olan binalar və ya qurğular özgəninkiləşdirilərkən torpaq sahəsinə hüququn keçməsi
 Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləşən binaya və ya qurğuya mülkiyyət hüququ keçərkən tərəflərin razılaşması ilə müəyyənləşdirilən torpaq sahəsinə hüquqlar binanı (qurğunu) əldə edənə keçir. Torpaq sahəsinin bina (qurğu) yerləşən və ondan istifadə üçün zəruri olan hissəsinə mülkiyyət hüququ əldə edənə keçir.
-
 #### Maddə 246. Torpaqların dövlət ehtiyacları üçün alınması
 - 246.1. Bu Məcəllənin 157.9-cu maddəsinə uyğun olaraq, torpaqların dövlət ehtiyacları üçün alınması haqqında qərar müvafiq icra hakimiyyəti orqanı tərəfindən “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada qəbul edilir.
 - 246.2. Torpaqların dövlət ehtiyacları üçün alınması haqqında müvafiq icra hakimiyyəti orqanının qərarı daşınmaz əmlakın dövlət reyestrində qeydə alınmalıdır.
@@ -1639,10 +1668,9 @@ Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləş�
   - 246.4.1. mülkiyyətçiyə torpağın dəyərini tam ödəyir;
   - 246.4.2. torpaqla bağlı hüquqların dövlətə verilməsi (keçməsi) üçün öz xərcləri hesabına lazımi tədbirləri görür;
   - 246.4.3. satılan torpaq mülkiyyətçinin, onun ailəsinin yaşayış yeri olduğu halda, torpağın dəyəri mülkiyyətçiyə tam ödənildikdən sonra “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikası Qanununun V fəslinə uyğun olaraq mülkiyyətçiyə torpağı boşaltmaqda və yeni yaşayış yerinə köçməkdə köməklik göstərir.
-- 246.5. Bu Məcəllənin 246-249-cu maddələrinin müddəaları dövlət ehtiyacları üçün alınan torpaqla yanaşı həmin torpaqda yerləşən və ya yerləşməyən, eyni məqsədlərlə alınan torpaqla möhkəm bağlı olan (ondan ayrıla bilməyən) əşyalara da şamil edilir.
+- 246.5. Bu Məcəllənin 246-249-cu maddələrinin müddəaları dövlət ehtiyacları üçün alınan torpaqla yanaşı həmin torpaqda yerləşən və ya yerləşməyən, eyni məqsədlərlə alınan _torpaqla möhkəm bağlı olan (ondan ayrıla bilməyən) əşyalara_ da şamil edilir.
 - 246.6. Torpağın alınmasından imtina hesab edilən hallarda, imtina edilmiş alınmanın obyekti olan torpağın ən azı 3 (üç) il ərzində alınmasına təkrar başlanıla bilməz.
 - 246.7. Torpaqların dövlət ehtiyacları üçün alınması, bununla bağlı kompensasiya məbləğinin hesablanması və ödənilməsi qaydaları, habelə bu sahədə tərəflər arasında yaranan digər münasibətlər “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.
-
 #### Maddə 247. Torpaqların alınması və ya torpağa dair hüquqları ilə bağlı alınmanın təsirinə məruz qalan şəxslərə verilən kompensasiya
 - 247.1. “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanununa əsasən alınan torpaq üçün kompensasiyanın məbləği aşağıdakı üsullarla hesablanır:
   - 247.1.1. torpağın bazar qiymətinin müəyyən edilməsi;
@@ -1671,7 +1699,6 @@ Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləş�
   - 247.4.8. yerdəyişmə nəticəsində itirilmiş iş imkanlarının əvəz edilməsi məqsədi ilə iş əldə etmək üçün alınmanın təsirinə məruz qalan şəxslərə yeni vərdişləri aşılamaqla və ya torpağın alınması layihəsi nəticəsində açılan iş imkanlarından istifadə etməklə əlaqədar təlimin təmin edilməsi;
   - 247.4.9. alınmanın təsirinə məruz qalan şəxslərlə alan orqan arasında müəyyən edilən və ya razılaşdırılan digər kompensasiya formaları.
 - 247.5. Alınmanın təsirinə məruz qalan şəxs ona ödənilməli kompensasiyanın bir və ya daha çox növünü seçə bilər.
-
 #### Maddə 248. Məhkəmə təsdiqi
 - 248.1. Alınmanın təsirinə məruz qalan şəxsdən alınan torpaqla bağlı sahibliyin əldə edilməsi yalnız məhkəmə tərəfindən müvafiq qərar qəbul edildikdən sonra həyata keçirilə bilər.
 - 248.2. Alınan torpağın yerləşdiyi ərazi vahidi üzrə məhkəməyə müraciət alan orqan tərəfindən aşağıdakıların təsdiq olunması üçün edilir:
@@ -1685,7 +1712,6 @@ Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləş�
   - 248.3.4. alan orqanın müvafiq səlahiyyətlərə malik olmaması;
   - 248.3.5. “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş prosedurlara riayət edilməməsi və ya düzgün və ədalətli riayət edilməməsi.
 - 248.4. Torpaq üzərində hüquqların alınma prosedurlarını başa çatdırmaq üçün tələb olunan hər hansı hərəkətlərlə əlaqədar alınmanın təsirinə məruz qalan şəxsin üzərinə heç bir xərc, ödəmə, yaxud başqa maliyyə tələbləri qoyula və ya alına bilməz.
-
 #### Maddə 249. Torpağın alınması barədə qərarın hüquqi qüvvəsi
 - 249.1. Torpağın alınması barədə qərarın qəbul edildiyi tarixdən:
   - 249.1.1. həmin torpaq alınan torpaq kimi tanınır;
@@ -1698,39 +1724,32 @@ Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləş�
 - 249.2. Torpağın alınması barədə qərarın qəbul edildiyi tarixdən sonra həmin tarixədək mülkiyyətində alınan torpaq olan şəxslərin sahiblik və istifadə hüquqları istisna olmaqla, həmin torpaqla bağlı bütün hüquqları kompensasiya almaq hüququna çevrilir. “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanununa əsasən dövlətin hüquqları alınmamış hər hansı torpağın alınmasından imtina etdiyi hallar və torpağın alınmasından imtina hesab edilən hallar istisna olmaqla, bu hüquq qanunla müəyyən olunmuş qaydada digər şəxslərə keçə bilər.
 - 249.3. Müvafiq icra hakimiyyəti orqanı torpağın alınması barədə qərarın qəbul edildiyi tarixdən sonra alınan torpaqda başlanılmış tikintinin (inşaat işlərinin) dayandırılması və (və ya) tikilinin sökülməsi məqsədi ilə qanunvericilikdə nəzərdə tutulmuş qaydada zəruri tədbirləri həyata keçirə bilər.
 - 249.4. Alan orqan torpağın alınması haqqında qərarın və həmin qərarın hüquqi qüvvəsinə dair arayışın surətini alınmanın təsirinə məruz qalan şəxslərin diqqətinə çatdırmaq vəzifəsini daşıyır.
-
 ### 11-ci fəsil. Əşya istifadə hüquqları
-### § 1. Tikintiyə vərəsəlik hüququ
-
+#### § 1. Tikintiyə vərəsəlik hüququ
 #### Maddə 250. Tikintiyə vərəsəlik hüququ anlayışı
 - 250.1. Torpaq sahəsi elə yüklü ola bilər ki, onun üstündə və ya altındakı binaya malik olmaq hüququ - özgəninkiləşdirilən və vərəsəlik üzrə keçən hüquq xeyrinə yükləmə aparılan şəxsə mənsub olar. Tikintiyə vərəsəlik hüququ daşınmaz əmlakın dövlət reyestrində qeydə alınır.
 - 250.2. Tikintiyə vərəsəlik hüququ tikinti üçün zəruri olmayan, lakin binadan daha yaxşı istifadə etməyə imkan verən torpaq sahəsi hissəsinə şamil edilə bilər.
-- 250.3. Tikintiyə vərəsəlik hüququnun müddəti tərəflərin razılaşması ilə müəyyənləşdirilir, lakin xüsusi mülkiyyətdə olan torpaq sahələri üçün - doxsan doqquz ildən, dövlət və bələdiyyə mülkiyyətində olan torpaqlar üçün isə - qırx doqquz ildən çox ola bilməz.
-
+- _250.3. Tikintiyə vərəsəlik hüququnun müddəti tərəflərin razılaşması ilə müəyyənləşdirilir, lakin xüsusi mülkiyyətdə olan torpaq sahələri üçün - doxsan doqquz ildən, dövlət və bələdiyyə mülkiyyətində olan torpaqlar üçün isə - qırx doqquz ildən çox ola bilməz._
 #### Maddə 251. Tikintiyə vərəsəlik hüququ haqqında müqavilə
 - 251.1. Tikintiyə vərəsəlik hüququ haqqında müqavilə notariat qaydasında təsdiqləndikdə etibarlıdır.
 - 251.2. Tikintiyə hüququn məzmunu və həcmi haqqında, məsələn, binaların mövqeyi, forması, genişləndirilməsi və təyinatı haqqında, habelə tikinti aparılmamış və həmin hüququn həyata keçirilməsi üçün istifadə edilə bilən sahələrdən istifadə haqqında müqavilə müddəaları tikintiyə vərəsəlik hüququnu əldə edən hər bir şəxs üçün məcburidir. Eyni qayda tikintiyə vərəsəlik hüququ subyektinin müəyyən şərtlər yarandıqda bu hüququ daşınmaz əmlakın mülkiyyətçisinə vermək öhdəliyi üçün də etibarlıdır.
-
 #### Maddə 252. Tikintiyə vərəsəlik hüququ haqqında müqaviləyə xitam verilməsi
 - 252.1. Əgər tikintiyə vərəsəlik hüququ haqqında müqavilənin qüvvəsinə xitam verilirsə, mövcud binalar torpaq sahəsinin mülkiyyətçisinə keçir (mülkiyyətçiyə qayıtma) və onun torpaq sahəsinin tərkib hissələrinə çevrilir.
 - 252.2. Tikintiyə vərəsəlik hüququ onun verildiyi müddət qurtardıqda və ya tərəflər qarşılıqlı razılaşmaya gəldikdə ləğv edilir.
 - 252.3. Əgər tikintiyə vərəsəlik hüququnu əldə etmiş şəxs öz əşya hüququnu kobudcasına aşırsa və ya müqavilə öhdəliklərini pozursa, torpaq sahəsinin mülkiyyətçisi tikintiyə vərəsəlik hüququnun ondan irəli gələn bütün hüquq və yüklülüklərlə birlikdə ona keçməsini tələb edərək həmin hüquqa vaxtından əvvəl xitam verilməsinə nail ola bilər.
-- 252.4. Torpaq sahəsinin mülkiyyətçisi müqaviləyə xitam verildikdən sonra ona keçən binalar üçün tikintiyə vərəsəlik hüququ olmuş şəxsə ağlabatan kompensasiya ödəməlidir. hüquq vaxtından əvvəl qayıtdıqda kompensasiya tikintiyə vərəsəlik hüququ subyektinin təqsirli davranışı kompensasiyanın azaldılması üçün əsas kimi nəzərə alınmaqla hesablanır. Tikintiyə vərəsəlik hüququ yalnız o halda torpaq sahəsinin mülkiyyətçisinə keçir və ya ona xitam verilir ki, kompensasiya ödənilmiş olsun və ya girov qoyulsun. Bu kompensasiya tikintiyə vərəsəlik hüququnun girov kimi verildiyi kreditorlar üçün qarantiya sayılır, onların razılığı olmadan tikintiyə vərəsəlik hüququnun əvvəlki subyektinə kompensasiya ödəmək olmaz.
+- 252.4. Torpaq sahəsinin mülkiyyətçisi müqaviləyə xitam verildikdən sonra ona keçən binalar üçün tikintiyə vərəsəlik hüququ olmuş şəxsə ağlabatan kompensasiya ödəməlidir. hüquq vaxtından əvvəl qayıtdıqda kompensasiya tikintiyə vərəsəlik hüququ subyektinin təqsirli davranışı kompensasiyanın azaldılması üçün əsas kimi nəzərə alınmaqla hesablanır. Tikintiyə vərəsəlik hüququ yalnız o halda torpaq sahəsinin mülkiyyətçisinə keçir və ya ona xitam verilir ki, kompensasiya ödənilmiş olsun və ya girov qoyulsa. Bu kompensasiya tikintiyə vərəsəlik hüququnun girov kimi verildiyi kreditorlar üçün qarantiya sayılır, onların razılığı olmadan tikintiyə vərəsəlik hüququnun əvvəlki subyektinə kompensasiya ödəmək olmaz.
 - 252.5. Əgər kompensasiya ödənilmirsə və ya girov qoyulmursa, tikintiyə vərəsəlik hüququnun əvvəlki subyekti və ya tikintiyə vərəsəlik hüququnun girov kimi verildiyi kreditor tələb edə bilər ki, tikintiyə vərəsəlik hüququnun ləğv edilməsi əvəzinə kompensasiya barədə tələbin təmin edilməsi üçün eyni dərəcəli ipoteka qeydə alınsın. Qeydiyyat tikintiyə vərəsəlik hüququna xitam verilməsindən ən geci üç ay keçənədək aparılmalıdır.
-- 252.6. Kompensasiyanın miqdarı və müəyyənləşdirilməsi proseduru haqqında, habelə kompensasiya vermək vəzifəsinin ləğvi və torpaq sahəsinin əvvəlki vəziyyətinin bərpası haqqında tikintiyə vərəsəlik hüququnun əsaslandırılması üçün zəruri olan formada razılaşmalar qəbul edilə və daşınmaz əmlakın dövlət reyestrində təminat qeydi aparıla bilər.
+- 252.6. Kompensasiyanın miqdarı və müəyyənləşdirilməsi proseduru haqqında, habelə kompensasiya vermək vəzifəsinin ləğvi və torpaq sahəsinin əvvəlki vəziyyətinin bərpası haqqında tikintiyə vərəsəlik hüququnun əsaslandırılması üçün zəruri olan formada razılaşmalar qəbul edilə və daşınmaz əmlakın dövlət reyestrində _təminat qeydi aparıla_ bilər.
 - 252.7. Binanın məhvi tikintiyə vərəsəlik hüququna xitam verilməsinə səbəb olmur, tikintiyə vərəsəlik hüququ olan şəxs ondan imtina edə bilər ki, bunun da nəticəsində ona xitam verilir.
-
 #### Maddə 253. Tikintiyə vərəsəlik hüququ üçün haqq
 - 253.1. Daşınmaz əmlakın mülkiyyətçisi tikintiyə vərəsəlik hüququ üçün haqq almaq hüququna malikdir.
 - 253.2. Tikintiyə vərəsəlik hüququna birtərəfli qaydada mülkiyyətçi yalnız iki il ərzində ödənişlərin verilməməsi ilə əlaqədar xitam verə bilər.
 - 253.3. Tikintiyə vərəsəlik hüququ üçün haqq ödənilməsinin təmin edilməsi məqsədilə torpaq sahəsi mülkiyyətçisinin tikintiyə vərəsəlik hüququnun həmin subyekti barəsində ixtiyarı var ki, daşınmaz əmlakın dövlət reyestrində qeydə alınmış tikintiyə vərəsəlik hüququ üçün girov hüququnu ən çoxu üç illik haqq həcmində qeydə aldırsın. Əgər qarşılıqlı öhdəlik bərabər illik haqlar şəklində müəyyənləşdirilməyibsə, bərabər bölgü zamanı üç ilə düşən məbləğin girovu üçün qanuni hüquq tələb edilə bilər.
 - 253.4. Girov hüququ tikintiyə vərəsəlik hüququnun mövcud olduğu dövrdə istənilən vaxt qeydə alına bilər və hərracdan açıq satış vasitəsilə onun ləğvinə yol verilmir.
-
 #### Maddə 254. Tikintiyə vərəsəlik hüququ olan şəxsin torpaq sahəsini satın almaqda üstünlük hüququ
 Tikintiyə vərəsəlik hüququ olan şəxs torpaq sahəsini satın almaqda üstünlük hüququna malikdir. Torpaq sahəsinin mülkiyyətçisi tikintiyə vərəsəlik hüququnu satın almaqda üstünlük hüququna malikdir.
-
-### § 2. Özgəsinin daşınmaz əşyasından məhdud istifadə hüququ
-#### I. Servitut
+#### § 2. Özgəsinin daşınmaz əşyasından məhdud istifadə hüququ
+##### I. Servitut
 #### Maddə 255. Servitut anlayışı
 - 255.1. Servitut daşınmaz əşyanın digər daşınmaz əşya mülkiyyətçisinin xeyrinə elə yüklü edilməsidir ki, bu zaman ona (digər daşınmaz əşyanın mülkiyyətçisinə) ayrı-ayrı hallarda əşyadan istifadə etməyə icazə verilir və ya daşınmaz əşyanın mülkiyyətçisinə müəyyən hərəkətləri yerinə yetirməyə və ya mülkiyyət hüququndan irəli gələn digər hüquqları həyata keçirməyə icazə verilmir.
 - 255.2. Daşınmaz əşyanın servitutla yüklülüyü həmin əşyanın mülkiyyətçisini sahiblik, istifadə, sərəncam hüquqlarından məhrum etmir.
@@ -1740,36 +1759,29 @@ Tikintiyə vərəsəlik hüququ olan şəxs torpaq sahəsini satın almaqda üst
 - 255.6. Servitut yalnız o zaman baş tuta bilər ki, bu, servitutu almış şəxsə öz daşınmaz əşyasından istifadə etməkdə lazımi güzəştlər və imkanlar yaratsın.
 - 255.7. Servitutla yüklü edilmiş daşınmaz əşyaya hüquqlar başqa şəxsə keçdikdə servitut saxlanılır.
 - 255.8. Daşınmaz əşya müəyyən şəxsin xeyrinə servitutla yüklü edilə bilər. Bu cür yüklülük şəxsi servitut adlanaraq ondan ibarət olur ki, mülkiyyətçidən başqa, həmin şəxs binadan və ya onun bir hissəsindən özü və ya ailəsi üçün mənzil kimi istifadə edə bilir. Şəxsi servitut başqa şəxslərə verilmir.
-
 #### Maddə 256. Servitutun qeydə alınması
 - 256.1. Servitutun verilməsi üçün daşınmaz əmlakın dövlət reyestrində onun qeydə alınması zəruridir. Servitutun əldə edilməsi və qeydə alınması üçün torpağa mülkiyyət haqqında müddəalar qüvvədədir.
 - 256.2. Servitut verilməsinə dair müqavilə notariat qaydasında təsdiqləndikdə etibarlıdır.
-
 #### Maddə 257. Servitut tərəflərinin vəzifələri
 - 257.1. Servitut almış şəxs (ixtiyarlı şəxs) servitutun saxlanması və həyata keçirilməsi üçün tələb olunan hər şeyi edə bilər, lakin o öz hüququndan imkan daxilində elə istifadə etməlidir ki, bu, yüklü olan mülkiyyətçinin mənafelərinə zidd olmasın və ona lüzumsuz narahatlıq yaratmasın.
 - 257.2. Servitutla yüklü olan mülkiyyətçi servitutun həyata keçirilməsinin qarşısını alan və ya onu çətinləşdirən heç bir hərəkət etməməlidir.
-
 #### Maddə 258. Servitutun məzmunu
 - 258.1. Servitutun məzmununa servitutun qüvvədə olma müddəti və şərtləri daxildir. Servitutla yüklü olan daşınmaz əmlakın planı servitutun yeri göstərilməklə müqaviləyə qoşulur.
 - 258.2. Servitutun məzmunu daşınmaz əmlakın dövlət reyestrindəki qeydiyyat yazısında qeyd olunmalıdır.
 - 258.3. Qeydiyyat yazısında servitutla yüklü olan daşınmaz əşyanın planı servitutun yeri ilə birlikdə göstərilməlidir.
-
 #### Maddə 259. İxtiyarlı şəxsin və yüklü olan mülkiyyətçinin hüquqlarının müdafiəsi
 - 259.1. Əgər servitutun həyata keçirilməsi zamanı ixtiyarlı şəxs hüquqlarının həyata keçirilməsində maneələrlə qarşılaşarsa, bunların aradan qaldırılması üçün o, vicdanlı sahib ilə eyni hüquqlara malikdir.
 - 259.2. Əgər servitutun həyata keçirilməsi zamanı ixtiyarlı şəxsin və onun daşınmaz əşyasının tələbatı dəyişərsə, yüklü olan mülkiyyətçini əlavə yüklü etmək imkanına yol verilmir.
 - 259.3. Əgər servitutun həyata keçirilməsi üçün qurğu varsa, ixtiyarlı şəxs onun saxlanması xərclərini çəkməlidir. Qurğu həm də yüklü olan mülkiyyətçinin mənafelərinə xidmət üçün nəzərdə tutulduqda onların hər ikisi qurğunun saxlanması xərclərini öz mənafelərinə mütənasib surətdə çəkirlər.
 - 259.4. Yüklü olan mülkiyyətçi ixtiyarlı şəxsin tələbatını nəzərə alaraq servitutun bir yerdən başqa yerə keçirilməsini bu şərtlə tələb edə bilər ki, özünün yerdəyişmədə maraqlı olduğunu sübuta yetirsin və yerdəyişmə xərclərini öz öhdəsinə götürsün.
-
 #### Maddə 260. İxtiyarlı şəxsin daşınmaz əşyasının bölünməsinin nəticələri
 - 260.1. Əgər ixtiyarlı şəxsin servitut qoyulmuş daşınmaz əşyası bölünərsə, hər bir bölünmüş hissə üçün ayrılıqda servitut müəyyənləşdirilməlidir. Lakin bu qaydaya yalnız yüklü olan mülkiyyətçinin vəziyyətini pisləşdirməmək şərti ilə yol verilə bilər.
 - 260.2. Əgər yüklü olan daşınmaz əşyanın bölünməsi nəticəsində servitut hissələrdən yalnız birinə şamil edilirsə, onda servitutun şamil edilmədiyi hissəyə bölgüdən sonra servitut təsir göstərmir.
 - 260.3. Servitutda edilən bütün dəyişikliklər daşınmaz əmlakın dövlət reyestrində qeyd edilir.
 - 260.4. Daşınmaz əmlakın dövlət reyestrinin əməkdaşları ixtiyarlı şəxsə həmin servitutun ləğv edilməsi xahişi barəsində məlumat verməli və əgər o buna bir ay ərzində etiraz etməzsə, ləğvetməni həyata keçirməlidirlər.
-
 #### Maddə 261. Servitut üçün haqq
 - 261.1. Əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, servitutla yüklü olan daşınmaz əşyanın mülkiyyətçisi xeyrinə servitut qoyulmuş ixtiyarlı şəxslərdən sahədən istifadə üçün haqq tələb edə bilər.
 - 261.2. Haqqın miqdarı tərəflərin razılaşması ilə, razılaşmaya gəlmək mümkün olmadıqda isə məhkəmənin qərarı ilə müəyyənləşdirilir.
-
 #### Maddə 262. Servituta xitam verilməsi
 - 262.1. Yüklü olan və ya ixtiyarı verilmiş daşınmaz əşya tamamilə məhv olarkən hər cür servituta xitam verilir.
 - 262.2. Yüklü olan mülkiyyətçinin tələbi ilə servituta onun qoyulduğu əsaslar aradan qalxdığına görə xitam verilə bilər.
@@ -1777,21 +1789,18 @@ Tikintiyə vərəsəlik hüququ olan şəxs torpaq sahəsini satın almaqda üst
 - 262.4. Servituta xitam verilməsi daşınmaz əmlakın dövlət reyestrində qeyd edilməlidir.
 - 262.5. Əgər ixtiyarı verilmiş daşınmaz əşyanın mülkiyyətçisi yüklü olan daşınmaz əşyanın mülkiyyətçisi olursa, o, servituta xitam verə bilər. Xitam verilənədək servitut əşya hüququ kimi saxlanılır.
 - 262.6. Əgər ixtiyarı verilmiş daşınmaz əşya üçün servituta hər cür maraq itmişdirsə, yüklü olan daşınmaz əşyanın mülkiyyətçisi ona xitam verilməsini tələb edə bilər. Əgər ixtiyarı verilmiş daşınmaz əşyanın mülkiyyətçisinin hələ də marağı varsa, lakin bu marağı yüklülüyə nisbətən cüzidirsə, onda kompensasiya müqabilində servitut qismən və ya tamamilə əvəz edilə bilər.
-
-#### II. Uzufrukt
+##### II. Uzufrukt
 #### Maddə 263. Uzufrukt anlayışı
 - 263.1. Uzufrukt əşyanın və ya hüquqların elə yüklülüyüdür ki, bu zaman xeyrinə yüklülük müəyyənləşdirilən şəxs (uzufruktuar) onlardan istifadə etmək və fayda götürmək hüququna malikdir, lakin mülkiyyətçidən fərqli olaraq bu əşyanı və hüquqları girov qoymaq, özgəninkiləşdirmək və ya vərəsəlik üzrə vermək hüququna malik deyildir. Uzufrukt ayrı-ayrı faydaların istisna edilməsi ilə məhdudlaşdırıla bilər.
 - 263.2. Uzufrukt pullu və pulsuz ola bilər.
 - 263.3. Uzufrukt müvəqqəti və ya uzufruktuarın bütün ömrü boyu mövcud ola bilər.
-
 #### Maddə 264. Uzufruktun verilməsi şərtləri
 Uzufruktun verilməsi üçün daşınar əşyalar və ya hüquqlar ilə bağlı halda onların uzufruktuara keçməsi, daşınmaz əşyalarla bağlı halda isə onların daşınmaz əmlakın dövlət reyestrində qeydə alınması zəruridir. Uzufrukt verilərkən mülkiyyət hüququ haqqında müddəalar qüvvədə olur. Uzufruktun verilməsi bunu nəzərdə tutur ki, onun tərkib hissələri müəyyənləşdirilə biləndir.
-
 #### Maddə 265. Uzufruktuarın hüquq və vəzifələri
 - 265.1. Uzufruktdan əvvəl mülkiyyətçi və uzufruktuar uzufrukt üzrə verilən obyektlərin vəziyyətini təsvir edə bilərlər.
 - 265.2. Mülkiyyətçinin razılığı olmadan uzufruktuar istifadə məqsədini dəyişdirə bilməz.
 - 265.3. Uzufruktuarın ixtiyarı var ki, əşyadan onun adi təsərrüfat tətbiqi nəticəsində əldə edilməmiş bəhəri və faydanı da əldə etsin. Bu halda o, belə tətbiq nəticəsində əşyaya dəymiş ziyanın əvəzini mülkiyyətçiyə ödəməyə borcludur.
-- 265.4. Əgər uzufruktuar etməyə borclu olmadığı xərclər çəkmişsə və ya yeniliklər tətbiq etmişsə, qaytarma zamanı tapşırıqsız idarəçi kimi onlar üçün kompensasiya tələb edə bilər. Əgər onun yaratdığı qurğular üçün mülkiyyətçi kompensasiya vermək niyyətində deyilsə, o həmin qurğuları geri götürə bilər, lakin əşyanın əvvəlki vəziyyətini bərpa etməyə borcludur.
+- 265.4. Əgər uzufruktuar etməyə borclu olmadığı xərclər çəkmişsə və ya yeniliklər tətbiq etmişsə, qaytarma zamanı tapşırıqsız idarəçi kimi onlar üçün kompensasiya tələb edə bilər. Əgər onun yaratdığı qurğular üçün mülkiyyətçi kompensasiya vermək niyyətində deyildirsə, o həmin qurğuları geri götürə bilər, lakin əşyanın əvvəlki vəziyyətini bərpa etməyə borcludur.
 - 265.5. Uzufruktuar əşyaya sahiblik, ondan istifadə və əşyadan fayda götürmək hüququna malikdir. O, əşyanın idarə olunmasını təmin edir. Öz hüququnu həyata keçirərkən o, vicdanlı təsərrüfatçılıq qaydalarına uyğun hərəkət etməlidir. Uzufruktuar əşyanın normal aşınması üçün məsuliyyət daşımır. O, cari xərcləri ödəməyə, əşyanı təmir etməyə, habelə ona normal təsərrüfat qulluğunun qayğısına qalmağa borcludur.
 - 265.6. Mülkiyyətçinin əşyanın dəyişdirilməsi və ya dəyərinin azaldılması nəticəsində kompensasiya iddiaları, habelə uzufruktuarın xərclər üçün kompensasiya və ya qurğuların geri götürülməsi iddiaları əşyanın qaytarılmasından bir il sonra müddətin keçməsinə görə qüvvədən düşür.
 - 265.7. Bəhərlər uzufruktuarın ixtiyarlı olduğu dövrdə təsərrüfatın lazımınca aparılması çərçivəsində yetişdirilmişsə, uzufruktuara mənsubdur.
@@ -1804,7 +1813,6 @@ Uzufruktun verilməsi üçün daşınar əşyalar və ya hüquqlar ilə bağlı 
 - 265.14. Daşınmaz əşyanın uzufruktuarı göz qoymalıdır ki, daşınmaz əşyadan həddən artıq istifadə edilməsin. Bu həddən artıq əldə edilmiş bəhərlər mülkiyyətçiyə mənsubdur.
 - 265.15. Uzufruktuara torpaq sahəsinin təsərrüfat təyinatında mülkiyyətçi üçün mühüm zərərə səbəb ola biləcək hər hansı dəyişikliklər etməyə icazə verilmir. O, torpaq sahəsini əhəmiyyətli dərəcədə dəyişdirə bilməz.
 - 265.16. Əgər ayrı qayda müəyyənləşdirilməyibsə, uzufruktuar işlətdiyi əşyalara mülkiyyət hüququ əldə edir, lakin istifadə hüququ qüvvəyə minənədək onların mövcud olmuş dəyərinin əvəzini ödəməyə borcludur.
-
 #### Maddə 266. Uzufruktla yüklü edilmiş əşyanın mülkiyyətçisinin hüquq və vəzifələri
 - 266.1. Mülkiyyətçi əşyadan hər bir qanunsuz istifadəyə və ya təyinatından kənar istifadəyə etiraz edə bilər. Əgər uzufruktuar etiraza məhəl qoymursa, mülkiyyətçi vurulmuş ziyanın əvəzinin ödənilməsini və ya uzufrukta xitam verilməsini məhkəmə qaydasında tələb edə bilər.
 - 266.2. Mülkiyyətçi əşyasının və ya hüquqlarının təhlükədə olduğunu sübuta yetirərsə, uzufruktuardan girov tələb edə bilər. Əgər uzufruktun predmeti istehlak edilən əşyalardan və ya qiymətli kağızlardan ibarətdirsə, o, qarantiyanı sübut gətirmədən və əşya verilənədək tələb edə bilər. Qiymətli kağızlarla bağlı halda onların depozitə qoyulması yetərli qarantiyadır. Qarantiya alınması üçün iddia istifadə hüququnu saxlamaqla predmeti mülkiyyətçiyə bağışlamış şəxs barəsində irəli sürülə bilməz.
@@ -1812,21 +1820,17 @@ Uzufruktun verilməsi üçün daşınar əşyalar və ya hüquqlar ilə bağlı 
 - 266.4. Mülkiyyətçi və uzufruktuar istənilən vaxt əşyanın onların hesabına qiymətləndirilməsini tələb edə bilərlər.
 - 266.5. Uzufruktuar özü əşyanı saz saxlamalı və əşyanın adi qaydada saz saxlanmasına aid yaxşılaşdırmaları və yeniləşdirmələri müstəqil həyata keçirməlidir. Əgər əşyanın qorunması üçün daha mürəkkəb işlərin və ya tədbirlərin görülməsi zəruridirsə, uzufruktuar bu barədə mülkiyyətçiyə məlumat verməli və lazım gəldikdə bunların mülkiyyətçinin qüvvəsi ilə həyata keçirilməsinə icazə verməlidir. Əgər mülkiyyətçi bunu etməzsə, uzufruktuar həmin işləri və tədbirləri mülkiyyətçinin hesabına özü görə bilər.
 - 266.6. Adi saxlama və təsərrüfat istifadəsi xərclərini, bununla bağlı müvafiq borclar üzrə faizləri, habelə vergiləri və rüsumları uzufruktuar ixtiyarlı olduğu müddətə uyğun ödəyir. Əgər vergilər və ayırmalar mülkiyyətçidən tutulursa, uzufruktuar onların əvəzini eyni həcmdə ödəməlidir. Bütün başqa xərcləri mülkiyyətçi çəkir.
-
 #### Maddə 267. Mənzilə uzufruktun xüsusiyyətləri
 - 267.1. Mənzilə uzufrukt binada və ya onun bir hissəsində mənzilə malik olmaq ixtiyarından ibarətdir. O, üçüncü şəxslərə verilə bilməz və vərəsəlik üzrə keçmir. Ona istifadə hüququ haqqında müddəalar şamil edilir.
 - 267.2. Mənzilə uzufrukt adətən uzufruktuarın şəxsi tələbatı ilə müəyyənləşdirilir. Lakin o, əgər mülkiyyətçi birbaşa şərt qoymayıbsa, öz ailəsinin üzvlərini və ya binada onunla birgə yaşayanları öz mənzilinə götürə bilər. Əgər mənzil hüququ binanın bir hissəsi ilə məhdudlaşıbsa, uzufruktuar birgə istifadə üçün nəzərdə tutulan predmetlərdən istifadə edə bilər.
 - 267.3. Əgər uzufruktuarın müstəsna mənzil hüququ varsa, o, mənzilin adi saxlanması xərclərini çəkir. Əgər onun birgə istifadəyə hüququ varsa, mənzilin saxlanması xərclərini mülkiyyətçi çəkir.
-
 #### Maddə 268. Uzufrukta xitam verilməsi
 - 268.1. Uzufrukta əşya tamamilə məhv olduqda, uzufruktun müddəti bitdikdə, uzufruktuar uzufruktdan imtina etdikdə, habelə uzufruktuarın ölümü ilə əlaqədar olaraq, hüquqi şəxslər üçün isə onların buraxılması ilə əlaqədar olaraq xitam verilir.
 - 268.2. Uzufrukt qurtardıqda uzufruktuar əşyanı mülkiyyətçiyə qaytarmağa borcludur.
 - 268.3. Əgər uzufrukt mülkiyyətlə birlikdə bir şəxsin əlinə düşərsə, uzufrukta xitam verilir.
 - 268.4. Mülkiyyətçi məhv olmuş əşyanı bərpa etməyə borclu deyildir. Əgər o, əşyanı bərpa edərsə, əşyaya uzufrukt da bərpa olunur. Əgər məhv olmuş əşyanın əvəzi verilirsə, uzufrukt əvəz kimi verilmiş əşyaya keçir.
-
 ### 12-ci fəsil. Əşya təminat hüququ. Girov və ipoteka hüququ
-### § 1. Ümumi müddəalar
-
+#### § 1. Ümumi müddəalar
 #### Maddə 269. Girov və ipoteka hüququ anlayışı
 - 269.1. Girov və ipoteka hüququ girov qoyanın əşyası barəsində girov saxlayanın əşya hüququdur və eyni zamanda borclunun girov saxlayan qarşısında pul və ya başqa öhdəliyinin icrasının təmin edilməsi üsuludur.
 - 269.2. Girov və ipoteka hüququ əşya hüquqlarının məhdudlaşdırılmasından ibarətdir.
@@ -1839,43 +1843,33 @@ Uzufruktun verilməsi üçün daşınar əşyalar və ya hüquqlar ilə bağlı 
 - 269.9. Girov və ipoteka hüququ başqasına verilə bilən bütün əşyalar və hüquqlar üçün verilir.
 - 269.10. Girov qoyulmuş və ya ipoteka ilə yüklü edilmiş əşya məhv olduqda və ya zədələndikdə, yaxud girov saxlayanın (ipoteka saxlayanın) yanında girov qoyulmuş hüquqa xitam verildikdə və ya bu hüquq pozulduqda əvəz almaq tələbinin irəli sürülməsi hüququ irəli gəlir.
 - 269.11. Girov və ipoteka hüququ həm mövcud, həm də gələcək tələb üçün verilə bilər. Tələb adlı, orderli və ya adsız ola bilər. O həm girov qoyana (ipoteka qoyana) və ya mülkiyyətçinin özünə qarşı, həm də başqa şəxsə qarşı tələb ola bilər. Girov və ya ipoteka hüququnun verildiyi tələb yetərli dərəcədə aydın olmalıdır.
-
 #### Maddə 270. Girovun və ipotekanın əmələ gəlməsi əsasları
 - 270.1. Girov və ipoteka müqavilə üzrə əmələ gəlir.
 - 270.2. Bu Məcəllənin müqaviləyə əsasən əmələ gələn girov və ipoteka haqqında qaydaları müvafiq surətdə digər əsaslara görə əmələ gələn girova və ipotekaya da tətbiq edilir.
-
 #### Maddə 271. Girov qoyan (ipoteka qoyan)
 - 271.1. Əşyanı girov qoyan (ipoteka qoyan) yalnız onun mülkiyyətçisi ola bilər. Mülkiyyətçi olmayan şəxsdən ipoteka (girov) hüququnun əldə edilməsinin hüquqi nəticələri bu Məcəllənin 140-cı və 182-ci maddələrinin müddəalarına uyğun olaraq müəyyən edilir.
 - 271.2. Girov qoyan (ipoteka qoyan) həm borclu, həm də üçüncü şəxs ola bilər.
 - 271.3. Hüququ girov qoyan həmin hüququn mənsub olduğu şəxs ola bilər.
-
 #### Maddə 272. Girov saxlayan (ipoteka saxlayan)
 Girov saxlayan (ipoteka saxlayan) borclunun onun qarşısında pul və ya başqa öhdəliyinin icrasının təmin edilməsi üçün girov qoyanın əşyası barəsində müqavilədə göstərilmiş əsaslar üzrə girov və ya ipoteka hüququ olan şəxsdir.
-
 #### Maddə 273. Girov qoyulmuş və ya ipoteka ilə yüklü edilmiş əşyanın mənimsənilməsinin yolverilməzliyi
 Girov saxlayana və ya ipoteka saxlayana girov qoyulmuş və ya ipoteka ilə yüklü edilmiş əşyanı mənimsəmək hüququ verən hər cür razılaşma etibarsızdır.
-
 #### Maddə 274. Girov qoyulmuş və ya ipoteka ilə yüklü edilmiş əşyanın mülkiyyətçisinin dəyişməsinin nəticələri
-- 274.1. İpoteka ilə yüklü edilmiş əşyanın mülkiyyətçisinin dəyişməsi ipoteka hüququnu dəyişdirmir.
-- 274.2. “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikası Qanunu ilə müəyyən edilmiş hallar istisna olmaqla, girov qoyulmuş əşyanın mülkiyyətçisinin dəyişməsi girov hüququnu dəyişdirmir.
-
-#### Maddə 275. Girov və ya ipoteka hüququna xitam verilməsi – çıxarılmışdır.
-
-### § 2. Girov
-
+- _274.1. İpoteka ilə yüklü edilmiş əşyanın mülkiyyətçisinin dəyişməsi ipoteka hüququnu dəyişdirmir._
+- _274.2. “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikası Qanunu ilə müəyyən edilmiş hallar istisna olmaqla, girov qoyulmuş əşyanın mülkiyyətçisinin dəyişməsi girov hüququnu dəyişdirmir._
+#### Maddə 275. Girov və ya ipoteka hüququna xitam verilməsi
+_çıxarılmışdır._
+#### § 2. Girov
 #### Maddə 276. Girov predmeti
 - 276.1. İpoteka predmeti olan əşyalar, habelə mülki dövriyyədən çıxarılmış əşyalar və kreditorun şəxsiyyəti ilə qırılmaz bağlı olan tələblər, o cümlədən alimentlər, həyata və ya sağlamlığa vurulmuş zərərin əvəzinin ödənilməsi haqqında tələblər və digər şəxsə güzəşt olunması qanunla qadağan edilmiş sair hüquqlar istisna olmaqla, istənilən əşyalar və tələblər girov predmeti ola bilər.
 - 276.2. Bölünməz əşyalar hissə-hissə girov qoyula bilməz.
 - 276.3. Əşyanın mülkiyyətçisinin razılığı olmadan icarə hüququnun girov qoyulmasına yol verilmir.
 - 276.4. Azərbaycan Respublikasının dövlətə məxsus aktivləri, onun beynəlxalq ehtiyatları və gələcəkdə yarana biləcək aktivləri dövlət borcu və ya dövlət tərəfindən zəmanət verilmiş borc üzrə öhdəliklərinin yerinə yetirilməsinin təminatı məqsədilə girov qoyula bilməz.
-
 #### Maddə 277. Ümumi mülkiyyətdə olan əşyanın girov qoyulması
 - 277.1. Ümumi birgə mülkiyyətdə olan əşya yalnız bütün mülkiyyətçilərin yazılı razılığı olduqda girov qoyula bilər.
-- 277.2. Ümumi paylı mülkiyyətin mülkiyyətçilərindən hər hansı biri ümumi əşyaya hüquqdakı payını digər mülkiyyətçilərin razılığı olmadan girov qoya bilər. Girov saxlayanın tələbi ilə həmin paya tutma yönəldikdə və o satıldıqda bu Məcəllənin satın almaqda üstünlük hüququ haqqında qaydaları tətbiq edilir.
-
+- 277.2. Ümumi paylı mülkiyyətin mülkiyyətçilərindən hər hansı biri ümumi əşyaya hüquqdakı payını digər mülkiyyətçilərin razılığı olmadan girov qoya bilər. Girov saxlayanın tələbi ilə həmin paya tutma yönəldildikdə və o satıldıqda bu Məcəllənin satın almaqda üstünlük hüququ haqqında qaydaları tətbiq edilir.
 #### Maddə 278. Girov hüququnun şamil edildiyi əşya
-Girov saxlayanın girov predmeti olan əşyaya girov hüququ, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, onun ləvazimatına, habelə “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulan digər əmlaka da şamil edilir.
-
+_Girov saxlayanın girov predmeti olan əşyaya girov hüququ, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, onun ləvazimatına, habelə “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulan digər əmlaka da şamil edilir._
 #### Maddə 279. Girovla təmin edilən tələb
 Əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, girov saxlayanın tələbini girov faktik təminat məqamında malik olduğu həcmdə təmin edir. Bu tələbə həmçinin faizlər, dəbbə pulu, icranın gecikdirilməsi ilə vurulmuş zərərin əvəzinin ödənilməsi, habelə girov qoyulmuş əşyanın saxlanması və salamatlığı üçün girov saxlayanın zəruri xərcləri və tutma xərcləri daxildir.
 
@@ -1921,7 +1915,7 @@ Girov predmeti məhv olduqda və ya zədələndikdə və ya ona mülkiyyət hüq
 
 #### Maddə 288. Girov saxlayanın girov predmetinə hüquqlarını müdafiə etməsi
 - 288.1. Girov qoyulmuş əşyanı saxlayan və ya saxlamalı olan girov saxlayan onu özgəsinin qanunsuz sahibliyindən, o cümlədən girov qoyanın sahibliyindən tələb edə bilər.
-- 288.2. Müqavilə şərtlərindən görə girov saxlayana ona verilmiş girov predmetindən istifadə hüququ verildikdə o digər şəxslərdən, o cümlədən girov qoyandan onun hüququnun hər cür pozuntularını aradan qaldırmağı, bu pozuntular sahiblikdən məhrumetmə ilə birləşdirilmədikdə belə, tələb edə bilər.
+- 288.2. Müqavilə şərtlərinə görə girov saxlayana ona verilmiş girov predmetindən istifadə hüququ verildikdə o digər şəxslərdən, o cümlədən girov qoyandan onun hüququnun hər cür pozuntularını aradan qaldırmağı, bu pozuntular sahiblikdən məhrumetmə ilə birləşdirilmədikdə belə, tələb edə bilər.
 
 #### Maddə 289. Girov qoyulmuş əşyaya mülkiyyət hüququ keçərkən girovun saxlanması
 - 289.1. Bu Məcəllənin 274.2-ci maddəsi nəzərə alınmaqla, girov qoyulmuş əşyaya mülkiyyət hüququ həmin əşyanın əvəzli və ya əvəzsiz özgəninkiləşdirilməsi nəticəsində və ya universal hüquq varisliyi qaydasında girov qoyandan başqa şəxsə keçdikdə girov hüququ qüvvədə qalır. Girov qoyanın hüquq varisi girov qoyanın yerini tutur və əgər girov saxlayanla razılaşmada ayrı qayda nəzərdə tutulmayıbsa, girov qoyanın bütün vəzifələrini daşıyır.
@@ -1962,7 +1956,7 @@ Girovla təmin edilmiş öhdəlik üzrə borc başqa şəxsə keçirildikdə, ə
 Girov saxlayanın (kreditorun) tələblərinin ödənilməsi üçün tutma girov qoyulmuş əşyaya borclu girovla təmin edilmiş öhdəliyi onun cavabdeh olduğu səbəblərdən icra etmədikdə və ya lazımınca icra etmədikdə yönəldilə bilər.
 
 #### Maddə 296. Girov qoyulmuş əşyaya tutmanın yönəldilməsi qaydası
-- 296.1. Girov saxlayanın tələbinin məhkəməyə müraciət edilmədən, girov qoyulmuş əşya hesabına ödənilməsinə girov saxlayanla girov qoyanın notariat qaydasında təsdiqlənmiş razılaşması əsasında yol verilir. Belə razılaşma ilə hüquqları pozulmuş şəxsin iddiası üzrə məhkəmə həmin razılaşmanı etibarsız saya bilər. Bu cür razılaşma olmadıqda girov saxlayanın (kreditorun) tələbinin girov qoyulmuş əşyanın dəyərindən ödənilməsi məhkəmənin qərarı ilə həyata keçirilir. “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikası Qanununun şamil edildiyi yüklülük predmetinə tutmanın yönəldilməsi həmin Qanunla müəyyən edilmiş qaydada həyata keçirilir.
+- 296.1. Girov saxlayanın tələbinin məhkəməyə müraciət edilmədən, girov qoyulmuş əşya hesabına ödənilməsinə girov saxlayanla girov qoyanın notariat qaydasında təsdiqlənmiş razılaşması əsasında yol verilir. Belə razılaşma ilə hüquqları pozulmuş şəxsin iddiası üzrə məhkəmə həmin razılaşmanı etibarsız saya bilər. Bu cür razılaşma olmadıqda girov saxlayanın (kreditorun) tələbinin girov qoyulmuş əşyanın dəyərindən ödənilməsi məhkəmənin qərarı ilə həyata keçirilir. “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanununun şamil edildiyi yüklülük predmetinə tutmanın yönəldilməsi həmin Qanunla müəyyən edilmiş qaydada həyata keçirilir.
 - 296.2. Girov predmetinə tutma aşağıdakı hallarda yalnız məhkəmənin qərarı ilə yönəldilə bilər:
   - 296.2.1. girov müqaviləsinin bağlanması üçün başqa şəxsin razılığı və icazəsi tələb olunduqda;
   - 296.2.2. girov predmeti cəmiyyət üçün mühüm tarixi, bədii və ya mədəni dəyərli əşya olduqda.
@@ -1980,7 +1974,7 @@ Girov qoyulmuş əşya hərracda (açıq auksionda) və ya “Daşınar əmlakı
 - 298.3. Əgər girov qoyulmuş əşyanın satışından götürülən məbləğ girov saxlayanın tələbini ödəmək üçün yetərli deyildirsə, girov saxlayan çatışmayan məbləği, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, borclunun başqa əşyasından almaq hüququna malikdir. Bu halda girov saxlayanın girova əsaslanan üstünlük hüququ yoxdur.
 
 #### Maddə 299. Girov qoyulmuş əşyaya tutmanın yönəldilməsinə və onun satışına xitam verilməsi
-- 299.1. Tutma yönəldilməsi ilə bağlı girov predmetinin satışı həyata keçirilənə (alqı-satqı müqaviləsi bağlanana dək, tərəflərin razılığı əsasında həyata keçirilən hərracın nəticələri üzrə protokol imzalanana dək və ya elektron hərracın nəticələri haqqında protokol tərtib olunana dək, yaxud “Notariat haqqında” Azərbaycan Respublikası Qanununun 63-cü maddəsinə əsasən şəhadətnamə verilənə dək), yaxud “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq girov predmeti girov saxlayanın mülkiyyətinə keçənə qədər girov qoyan və (və ya) borclu girovla təmin edilmiş öhdəliyi və ya öhdəliyin gecikdirilmiş hissəsini icra edərək girov predmetinə tutmanın yönəldilməsinə xitam verə bilər. Bu hüququ məhdudlaşdıran razılaşma əhəmiyyətsizdir.
+- 299.1. Tutma yönəldilməsi ilə bağlı girov predmetinin satışı həyata keçirilənə (alqı-satqı müqaviləsi bağlananadək, tərəflərin razılığı əsasında həyata keçirilən hərracın nəticələri üzrə protokol imzalananadək və ya elektron hərracın nəticələri haqqında protokol tərtib olunanadək, yaxud “Notariat haqqında” Azərbaycan Respublikasının Qanununun 63-cü maddəsinə əsasən şəhadətnamə verilənədək), yaxud “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq girov predmeti girov saxlayanın mülkiyyətinə keçənə qədər girov qoyan və (və ya) borclu girovla təmin edilmiş öhdəliyi və ya öhdəliyin gecikdirilmiş hissəsini icra edərək girov predmetinə tutmanın yönəldilməsinə xitam verə bilər. Bu hüququ məhdudlaşdıran razılaşma əhəmiyyətsizdir.
 - 299.2. Girov qoyulmuş əşyaya tutmanın yönəldilməsinə və ya onun satışına xitam verilməsini tələb edən şəxs həmin əşyaya tutmanın yönəldilməsi və onun satışı ilə bağlı çəkilmiş xərclərin əvəzini girov saxlayana ödəməyə borcludur.
 
 #### Maddə 300. Girovun növləri
@@ -2028,8 +2022,7 @@ Sabit girov elə girovdur ki, onun predmeti girov saxlayanın qıfılı altında
   - 306.3.2. girov qoyan girov qoyulmuş malların qeydiyyatı kitabını tərtib etməyə borcludur. Həmin kitaba malların girov qoyulması şərtləri haqqında və girov qoyulmuş malların tərkibinin və ya natural formasının dəyişməsinə səbəb olan bütün əməliyyatlar, o cümlədən onların emalı haqqında sonuncu əməliyyat günü üçün qeydlər daxil edilir.
 - 306.4. Girov qoyan dövriyyədəki malların girovu şərtlərini pozduqda girov saxlayan girov qoyulmuş mallara öz nişanlarını vurmaq yolu ilə onlarla bağlı əməliyyatları pozuntu aradan qaldırılanadək dayandıra bilər.
 
-§ 3. İpoteka
-
+### § 3. İpoteka
 #### Maddə 307. İpoteka müqaviləsi
 - 307.1. İpoteka müqaviləsində tərəflərin adı və yaşayış yeri (olduqları yer), ipotekanın predmeti, onun adı, olduğu yer və eyniləşdirilməsi üçün yetərli olan digər təsviri, əsas öhdəliyin mahiyyəti, ölçüsü (məbləği), əmələ gəlməsi əsasları və icra müddəti, bu öhdəliyin əsaslandığı müqavilənin tərəfləri, bağlandığı yer, tarix, həmçinin qanunla müəyyən edilmiş imperativ normalar nəzərə alınmaqla ipoteka saxlayanın tələbinin ipoteka predmeti hesabına yönəldilməsi barədə şərtlər, ipoteka predmetinin satılmasından əldə olunacaq gəlirlərin bölüşdürülməsi qaydası və növbəliliyi, ipoteka qoyanın elektron poçt ünvanı göstərilməlidir.
 - 307.3. İpoteka müqaviləsində ipotekanın predmeti olan əşyanın hansı hüquqa əsasən ipoteka verənə mənsub olduğu və ipoteka verənin bu hüququnu qeydə almış dövlət orqanı göstərilməlidir.
@@ -2084,7 +2077,7 @@ Eyni bir əşya ipoteka ilə bir neçə dəfə yüklü edilə bilər. Yüklü ed
 
 #### Maddə 319. Borclunun öhdəlikləri yerinə yetirməyi gecikdirməsinin nəticələri
 - 319.1. Əgər borclu icrasını təmin etmək üçün əşyanın ipotekaya verildiyi öhdəliklərin yerinə yetirilməsini gecikdirmişsə, ipoteka saxlayan ipoteka ilə yüklü edilmiş obyekti açıq hərracdan satmaq hüququna malikdir. Borclunun ipoteka ilə təmin olunmuş öhdəliklərini yerinə yetirmədiyi və ya yerinə yetirilməsini gecikdirdiyi hallarda daşınmaz əmlaka mülkiyyət hüququnun bilavasitə kreditora keçməsi barədə razılaşma etibarsızdır.
-- 319.2. İpoteka ilə təmin edilən tələb icra edilmədikdə, ipoteka saxlayan və borclu ipoteka tələbi təmin edilən anda satışın açıq hərracdan fərqli olan başqa formaları barədə razılığa gələ bilərlər. Razılıqda həmçinin nəzərdə tutula bilər ki, ipoteka predmeti borclunun borclarının tam hesablanması şərtilə bazar qiymətinə satılsın və (və ya) satış zamanı ipoteka predmeti olmuş mənzili (yaşayış sahəsinin) əldə edən şəxs qarşısında gələcəkdə borcluya və onun ailə üzvlərinə həmin mənzilin (yaşayış sahəsinin) kirayəçisi olmaq hüququ verən şərt qoyulsun.
+- 319.2. İpoteka ilə təmin edilən tələb icra edilmədikdə, ipoteka saxlayan və borclu ipoteka tələbi təmin edilən anda satışın açıq hərracdan fərqli olan başqa formaları barədə razılığa gələ bilərlər. Razılıqda həmçinin nəzərdə tutula bilər ki, ipoteka predmeti borclunun borclarının tam hesablanması şərtilə bazar qiymətinə satılsın və (və ya) satış zamanı ipoteka predmeti olmuş mənzili (yaşayış sahəsini) əldə edən şəxs qarşısında gələcəkdə borcluya və onun ailə üzvlərinə həmin mənzilin (yaşayış sahəsinin) kirayəçisi olmaq hüququ verən şərt qoyulsun.
 - 319.3. İpoteka ilə yüklü edilmiş obyektin alıcısı satınalma qiymətini ödəməyə borcludur. İpoteka ilə yüklü edilmiş obyektin tutmaya yönəldilməsi xərcləri satınalma qiymətindən tutulur.
 - 319.5. Tərəflərin notariat qaydasında təsdiqlənmiş razılaşması əsasında məhkəməyə müraciət edilmədən tutma yönəldilən ipoteka predmeti satılarkən satış üsulu və satışı həyata keçirməli olan şəxs, hərracların keçirilməsi qaydası, habelə hərrac baş tutmadıqda sonrakı prosedurlar, tərəflərin hüquq və vəzifələri, əmlakın satış qiyməti tərəflərin ipoteka predmetinə tutmanın yönəldilməsi hüququ yarandıqdan sonra müəyyən edilən razılaşması ilə müəyyən olunur.
 - 319.6. İpoteka predmetinin satışından götürülən məbləğ ipoteka saxlayanın tələbinin ödənilməsi üçün yetərli deyildirsə, o, çatışmayan məbləği, əgər ipoteka müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, borclunun başqa əmlakından almaq hüququna malikdir. Bu halda ipoteka saxlayanın ipotekaya əsaslanan üstünlük hüququ yoxdur. Əgər satışdan götürülən məbləğ ipoteka saxlayanın tələblərindən artıqdırsa, artıq məbləğ ipoteka verənə qaytarılmalıdır.
@@ -2106,9 +2099,7 @@ Daşınmaz əşya elə yüklü edilə bilər ki, xeyrinə yüklülük müəyyən
 Daşınmaz əmlakın mülkiyyətçisi eyni zamanda ipoteka ilə təmin edilmiş tələbin şəxsi borclusu olmasa da, o, ipoteka saxlayana yalnız şəxsi borcluya məxsus olan qarşılıqlı tələb irəli sürə bilər; xüsusi olaraq bu pul öhdəliklərinin əvəzləşdirilməsi və tələbdən şikayətin verilməsi ilə bağlı qarşılıqlı tələblərdir. Bu, həmçinin mülkiyyətçinin ipoteka saxlayanın şəxsi borclusu olduğu hala da aiddir.
 
 ## Dördüncü bölmə. ƏQDLƏR
-
 ### 13-cü fəsil. Əqdlər haqqında ümumi müddəalar
-
 #### Maddə 324. Əqd anlayışı və onun növləri
 - 324.1. Əqd mülki hüquq münasibətinin əmələ gəlməsinə, dəyişdirilməsinə və ya xitamına yönəldilmiş birtərəfli, ikitərəfli və ya çoxtərəfli iradə ifadəsidir.
 - 324.2. Əqdlər birtərəfli və müqavilə şəklində (ikitərəfli və ya çoxtərəfli) ola bilər.
@@ -2118,7 +2109,7 @@ Daşınmaz əmlakın mülkiyyətçisi eyni zamanda ipoteka ilə təmin edilmiş 
 - 324.6. Əgər nə zahiri ifadəyə görə, nə də başqa hallara görə iradənin məzmunu dəqiq müəyyənləşdirilə bilmirsə, əqd mövcud deyildir.
 
 #### Maddə 325. Birtərəfli iradə ifadəsinin etibarlığı
-- 325.1. Başqa tərəfin qəbul etməsi tələb olunan iradə ifadəsi başqa tərəfə çatdığı andan etibarlı olur.
+- 325.1. Başqa tərəfin qəbul etməsi tələb olunan iradə ifadəsi başqa tərəfə çatdığı анддан etibarlı olur.
 - 325.2. Çıxarılmışdır.
 - 325.3. Əqdi bağlamış şəxsin ölümü və ya fəaliyyət qabiliyyətini itirməsi iradə ifadəsindən sonra baş verərsə, iradə ifadəsinin etibarlığına təsir göstərməyə bilər.
 
@@ -2171,6 +2162,7 @@ Birtərəfli əqdlərə öhdəliklər və ya müqavilələr haqqında ümumi mü
 - 336.2. Zərərin əvəzinin ödənilməsi ilə bağlı digər hüquqlar toxunulmaz qalır.
 
 ### 14-cü fəsil. Əqdlərin etibarsızlığı
+#### Maddə
 
 #### Maddə 337. Əqdlərin etibarsızlığı anlayışı və onun nəticələri. Mübahisə edilən və əhəmiyyətsiz əqdlər
 - 337.1. Bu Məcəllədə müəyyənləşdirilmiş şərtləri pozmaqla bağlanmış əqd etibarsızdır. Etibarsız əqdlər mübahisə edilən əqdlər və ya əhəmiyyətsiz əqdlər ola bilər.
@@ -2193,7 +2185,7 @@ Birtərəfli əqdlərə öhdəliklər və ya müqavilələr haqqında ümumi mü
 - 341.1. Qeyri-ciddiliyin seziləcəyi ümidi ilə qeyri-ciddi (zarafatla) edilmiş iradə ifadəsi etibarsızdır.
 - 341.2. Qeyri-ciddi əqd nəticəsində digər tərəfə zərər dəydikdə, əgər digər tərəf əqdin qeyri-ciddiliyindən xəbərdar olmamışdırsa və xəbərdar ola bilməzdisə, zərərin əvəzi ödənilməlidir.
 #### Maddə 342. Fəaliyyət qabiliyyəti olmayan fiziki şəxsin bağladığı əqdin etibarsızlığı
-- 342.1. Psixi pozuntu nəticəsində fəaliyyət qabiliyyəti olmayan sayılmış fiziki şəxsin bağladığı əqd etibarsızdır. Belə əqdin tərəflərindən hər biri aldıqlarının hamısını digər tərəfə eyni ilə qaytarmalı, alınanları eyni ilə qaytarmaq mümkün olmadıqda isə (o cümlədən alınanlar əmlakdan istifadədə, görülmüş işdə və ya göstərilmiş xidmətdə ifadə olunduqda) onun dəyərini pulla ödəməlidir. Bundan başqa, əgər fəaliyyət qabiliyyətli tərəf digər tərəfin fəaliyyət qabiliyyəti olmadığını bilirdisə və ya bilməli idisə, ona dəymiş real zərərin əvəzini də ödəməlidir.
+- 342.1. Psixi pozuntu nəticəsində fəaliyyət qabiliyyəti olmayan sayılmış fiziki şəxsin bağladığı əqd etibarsızdır. Belə əqdin tərəflərindən hər biri aldıqlarının hamısını digər tərəfə eyni ilə qaytarmalı, alınanları eyni ilə qaytarmaq mümkün olmadıqda isə onun dəyərini pulla ödəməlidir. Bundan başqa, əgər fəaliyyət qabiliyyətli tərəf digər tərəfin fəaliyyət qabiliyyəti olmadığını bilirdisə və ya bilməli idisə, ona dəymiş real zərərin əvəzini də ödəməlidir.
 - 342.2. Psixi pozuntu nəticəsində fəaliyyət qabiliyyəti olmayan sayılmış fiziki şəxsin bağladığı əqd onun xeyrinə olduqda qəyyumunun razılığı ilə etibarlı sayıla bilər.
 #### Maddə 343. Fəaliyyət qabiliyyəti məhdudlaşdırılmış fiziki şəxsin bağladığı əqdin etibarsızlığı
 - 343.1. Spirtli içkilərdən, narkotik vasitələrdən və ya psixotrop maddələrdən sui-istifadə etməsi, habelə qumara qurşanması nəticəsində fəaliyyət qabiliyyəti məhkəmə tərəfindən məhdudlaşdırılmış fiziki şəxsin öz himayəçisindən razılıq almadan əmlaka dair sərəncam verilməsi barədə bağladığı əqd himayəçinin iddiası ilə məhkəmə tərəfindən etibarsız sayıla bilər.
@@ -2244,7 +2236,7 @@ Tərəflər əqdin etibarsızlığını bildikdən sonra etibarlı olmasını ar
 - 355.1. Əgər əqdin etibarlığı üçüncü şəxsin razılığından asılıdırsa, onda həm razılıq, həm də razılıqdan imtina istər bir tərəfin, istərsə də digər tərəfin qarşısında ifadə edilə bilər.
 - 355.2. Razılıq üçün müəyyənləşdirilmiş əqd formasına riayət edilməsi tələb olunmur.
 #### Maddə 356. İcazə (qabaqcadan verilmiş razılıq)
-Əqdin bağlanmasına verilmiş icazə (qabaqcadan verilmiş icazə), əgər tərəflər ayrı qayda haqqında razılığa gəlməyiblərsə, əqd bağlananadək ləğv edilə bilər. İcazənin (qabaqcadan verilmiş razılığın) ləğv edilməsi barədə hər iki tərəfə məlumat verilməlidir.
+Əqdin bağlanmasına verilmiş icazə (qabaqcadan verilmiş icazə), əgər tərəflər ayrı qayda haqqında razılığa gəlməyiblərsə, əqd bağlanana dək ləğv edilə bilər. İcazənin (qabaqcadan verilmiş razılığın) ləğv edilməsi barədə hər iki tərəfə məlumat verilməlidir.
 #### Maddə 357. Bəyənmə (sonradan verilən razılıq)
 Əqd bağlanmasının bəyənilməsi (sonradan verilən razılıq), əgər bu Məcəllə ilə və ya tərəflərin razılaşması ilə ayrı qayda müəyyənləşdirilməyibsə, əqdin bağlandığı andan geriyə təsir qüvvəsinə malikdir.
 #### Maddə 358. Səlahiyyətsiz şəxsin əşyaya və ya hüquqa dair sərəncam verməsi
@@ -2326,7 +2318,7 @@ Vaxt dövrü ilə müəyyənləşdirilmiş müddətin axımı təqvim tarixində
 - 371.2. Müddətin sonuncu günündə saat iyirmi dördədək rabitə təşkilatına təhvil verilmiş yazılı ərizələr və bildirişlər vaxtında verilmiş sayılır.
 ### 18-ci fəsil. İddia müddəti
 #### Maddə 372. İddia müddəti anlayışı
-- 372.1. Başqa şəxsdən hər hansı hərəkəti yerinə yetirməyi və ya yerinə yetirməkdən çəkinməyi tələb etmək hüququna müddət şamil edilir.
+- 372.1. Hüququn müdafiəsi haqqında tələb iddia müddətinin keçməsindən asılı olmayaraq məhkəmə tərəfindən baxılmağa qəbul edilir.
 - 372.2. Hüququ pozulmuş şəxsin iddiası ilə hüququn müdafiəsi üçün müddət iddia müddəti sayılır.
 #### Maddə 373. İddia müddətləri
 - 373.1. Ümumi iddia müddəti on il təşkil edir.
@@ -2383,6 +2375,7 @@ Borclu və ya digər mükəlləfiyyətli şəxs vəzifəsini iddia müddəti bit
   - 384.0.6. bu Məcəllə ilə müəyyənləşdirilmiş hallarda digər tələblər.
 ## Altıncı bölmə. ÖHDƏLİK HÜQUQUNUN ÜMUMİ HİSSƏSİ
 ### 19-cu fəsil. Öhdəliklər haqqında ümumi müddəalar
+#### §1. Müqavilə anlayışı və şərtləri
 #### Maddə 385. Öhdəlik anlayışı
 - 385.1. Öhdəliyə əsasən bir şəxs (borclu) başqa şəxsin (kreditorun) xeyrinə müəyyən hərəkəti etməlidir, məsələn, pul ödəməli, əmlak verməli, iş görməli, xidmətlər göstərməli və i.a. və ya müəyyən hərəkətdən çəkinməlidir, kreditorun isə borcludan vəzifəsinin icrasını tələb etmək hüququ vardır.
 - 385.2. Öz məzmunundan və xarakterindən asılı olaraq, öhdəlik tərəflərdən hər birinin üzərinə istər müqavilə münasibətləri zamanı, istərsə də belə münasibətlərdən sonra digər tərəfin hüquqlarına və əmlakına xüsusi qayğı göstərmək vəzifəsini qoya bilər.
@@ -2444,7 +2437,7 @@ Bir tərəfin daşınmaz əşyaya mülkiyyəti və ya digər əşya hüquqların
 - 398.3. Əvəzli müqavilədə qiymət nəzərdə tutulmayıbsa və müqavilə şərtlərinə əsasən müəyyənləşdirilə bilməzsə, müqavilənin icrası üçün pul müqayisəyə gələ bilən hallarda oxşar mallar, işlər və ya xidmətlər üçün adətən alınan qiymət üzrə ödənilməlidir.
 
 #### Maddə 399. Müqavilənin qüvvəsi
-- 399.1. Müqavilə bağlandığı андan qüvvəyə minir və tərəflər üçün məcburi olur.
+- 399.1. Müqavilə bağlandığı andan qüvvəyə minir və tərəflər üçün məcburi olur.
 - 399.2. Tərəflər müəyyənləşdirə bilərlər ki, bağladıqları müqavilənin şərtləri onların müqavilə bağlanana qədər yaranmış münasibətlərinə də tətbiq edilir.
 - 399.3. Müqavilədə nəzərdə tutula bilər ki, müqavilənin qüvvədə olma müddətinin qurtarması tərəflərin müqavilə üzrə öhdəliklərinin xitamına səbəb olur. Belə şərtin olmadığı müqavilə öhdəliyin icrasının qurtarmasının həmin müqavilədə müəyyənləşdirilmiş anına qədər qüvvədə sayılır.
 - 399.4. Müqavilənin qüvvədə olma müddətinin qurtarması tərəfləri müqavilənin həmin müddət qurtarana qədər yol verilmiş pozulmasına görə məsuliyyətdən azad etmir.
@@ -2471,7 +2464,7 @@ Bir tərəfin daşınmaz əşyaya mülkiyyəti və ya digər əşya hüquqların
   - 403.3.2. bu hüquq dərhal, yoxsa müəyyən ilkin şərtlər olduqda əmələ gəlir;
   - 403.3.3. üçüncü şəxsin razılığı olmadan onun hüququna xitam verməyə və ya hüququnu dəyişməyə müqavilənin tərəflərinin ixtiyarı var, yoxsa yox.
 - 403.4. Müqavilədə üçüncü şəxsin xeyrinə qeyd-şərt qoymuş tərəf, kontragentin razılığından asılı olmayaraq, müqavilədə göstərilən üçüncü şəxsi dəyişmək hüququnu saxlayır.
-- 403.5. Əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, üçüncü şəxsin müqavilə üzrə öz hüququndan istifadə etmək niyyətini borcluya bildirdiyi andan tərəflər bağladıqları müqaviləni üçüncü şəxsin razılığı olmadan ləğv edə və ya dəyişdirə bilməzlər.
+- 403.5. Əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, üçüncü şəxsin müqavilə üzrə öz hüququndan istifadə etmək niyyətini borcluya bildirdiyi анддан tərəflər bağladıqları müqaviləni üçüncü şəxsin razılığı olmadan ləğv edə və ya dəyişdirə bilməzlər.
 - 403.6. Borclu kreditora qarşı irəli sürə biləcəyi etirazları müqavilədə üçüncü şəxsin tələbinə qarşı irəli sürə bilər.
 - 403.7. Üçüncü şəxs müqavilə üzrə ona verilmiş hüquqdan imtina etdikdə, kreditor həmin hüquqdan, əgər bu Məcəlləyə və müqaviləyə zidd deyilsə, istifadə edə bilər.
 
@@ -2494,6 +2487,7 @@ Bir tərəfin daşınmaz əşyaya mülkiyyəti və ya digər əşya hüquqların
 Dövlət satınalmaları müqaviləsinə dair münasibətlər Azərbaycan Respublikasının dövlət satınalmaları haqqında qanunvericiliyinə uyğun tənzimlənir.
 
 ## § 2. Müqavilənin bağlanması
+
 #### Maddə 405. Müqavilənin mühüm şərtləri barəsində razılaşma
 - 405.1. Tərəflər müqavilənin bütün mühüm şərtləri barəsində tələb olunan formada razılığa gəldikdə müqavilə bağlanmış sayılır. Müqavilənin predmetinə dair şərtlər, bu Məcəllədə həmin növ müqavilələr üçün mühüm və ya zəruri adlandırılmış şərtlər, habelə tərəflərdən birinin müraciəti ilə barəsində razılaşma əldə edilməli olan bütün şərtlər mühüm sayılır.
 - 405.2. Müqavilə tərəflərdən birinin oferta (müqavilə bağlamaq təklifi) göndərməsi və digər tərəfin onu aksept etməsi (təklifin qəbulu) vasitəsi ilə bağlanır.
@@ -2565,6 +2559,7 @@ Dövlət satınalmaları müqaviləsinə dair münasibətlər Azərbaycan Respub
 - 416.2. Hərracın etibarsız sayılması hərracı udmuş şəxslə bağlanan müqavilənin etibarsızlığına səbəb olur.
 
 ## § 3. Müqavilənin standart şərtləri
+
 #### Maddə 417. Müqavilənin standart şərtləri anlayışı
 - 417.1. Müqavilənin standart şərtləri əvvəlcədən ifadə edilmiş, dəfələrlə istifadə üçün nəzərdə tutulan elə şərtlərdir ki, bunları bir tərəf (təklif edən) digər tərəfə təqdim edir və əvvəlcədən müəyyənləşdirilmiş normalardan fərqlənən və bu normaları tamamlayan qaydalar onların vasitəsilə müəyyənləşdirilir.
 - 417.2. Əgər tərəflər müqavilənin şərtlərini müfəssəl müəyyənləşdirmişlərsə, bunlar müqavilənin standart şərtləri sayılmır.
@@ -2598,8 +2593,9 @@ Dövlət satınalmaları müqaviləsinə dair münasibətlər Azərbaycan Respub
   - 420.3.9. təklif etmiş tərəfin yeni mallar göndərilərkən və işlər görülərkən əşyanın qüsurları üçün məsuliyyətini nəzərdə tutan qaydalardan fərqli olaraq məhdudlaşdıran müddəalar.
 
 ## § 4. Müqavilənin dəyişdirilməsi və ləğv edilməsi
+
 #### Maddə 421. Müqavilənin dəyişdirilməsi və ləğv edilməsi əsasları
-- 421.1. Müqavilənin dəyişdirilməsi və ləğv edilməsi, əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, tərəflərin razılaşması ilə mümkündür.
+- 421.1. Müqavilənin dəyişdirilməsi və ya ləğv edilməsi, əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, tərəflərin razılaşması ilə mümkündür.
 - 421.2. Tərəflərdən birinin tələbi ilə müqavilə yalnız digər tərəf müqaviləni əhəmiyyətli dərəcədə pozduqda və ya bu Məcəllədə və ya müqavilədə nəzərdə tutulan digər hallarda dəyişdirilə və ya ləğv edilə bilər. Tərəflərdən birinin müqaviləni pozması o zaman əhəmiyyətli pozuntu sayılır ki, bunun digər tərəfə vurduğu zərər nəticəsində o, müqavilə bağlanarkən ümid etməyə haqqı çatanlardan xeyli dərəcədə məhrum olur.
 - 421.3. Müqavilənin tamamilə və ya hissə-hissə icrasından birtərəfli imtina edildikdə və belə imtinaya bu Məcəllə ilə və ya tərəflərin razılaşması ilə yol verildikdə müqavilə müvafiq surətdə ləğv edilmiş və ya dəyişdirilmiş sayılır.
 
@@ -2625,6 +2621,7 @@ Dövlət satınalmaları müqaviləsinə dair münasibətlər Azərbaycan Respub
 - 424.5. Əgər müqavilənin dəyişdirilməsinə və ya ləğvinə onu tərəflərdən birinin əhəmiyyətli dərəcədə pozması əsas vermişdirsə, digər tərəf müqavilənin dəyişdirilməsi və ya ləğv edilməsi nəticəsində dəyən zərərin əvəzinin ödənilməsini tələb edə bilər.
 
 ### 21-ci fəsil. Öhdəliklərin icrası
+
 #### Maddə 425. Öhdəliklərin icrası zamanı vicdanlılıq
 - 425.1. Öz hüquqlarını həyata keçirərkən və vəzifələrini icra edərkən tərəflərdən hər biri vicdanlılığın tələb etdiyi tərzdə, yəni şərtləşdirilmiş vaxtda və yerdə lazımi şəkildə, öhdəliyin şərtlərinə və bu Məcəllənin tələblərinə müvafiq surətdə, belə şərtlər və tələblər olmadıqda isə işgüzar adətlərə və ya adətən irəli sürülən digər tələblərə müvafiq surətdə hərəkət etməlidir.
 - 425.2. Öhdəlikləri icra edərkən tərəflər müqavilənin yerinə yetirilməsinə zəmin yaratmaq üçün birgə hərəkət etməli və müqavilənin məqsədinə çatmağa maneçilik törədə biləcək və ya öhdəliklərin icrasını təhlükəyə məruz qoya biləcək hər cür hərəkətlərdən çəkinməlidirlər.
@@ -2649,7 +2646,7 @@ Dövlət satınalmaları müqaviləsinə dair münasibətlər Azərbaycan Respub
 - 428.1. Əgər kreditor icranı almaqdan üzrlü səbəbə görə imtina etməzsə, borclu öhdəliyi vaxtından əvvəl icra edə bilər.
 - 428.2. Öhdəliyin tərəflərinin sahibkarlıq fəaliyyəti ilə məşğul olması ilə bağlı öhdəliyin vaxtından əvvəl icrasına yalnız öhdəliyin vaxtından əvvəl icrasının mümkünlüyü bu Məcəllədə və ya öhdəlik şərtlərində nəzərdə tutulduqda və ya işgüzar dövriyyə adətlərindən və ya öhdəliyin mahiyyətindən irəli gəldikdə yol verilir.
 - 428.3. Əgər icra vaxtı müəyyənləşdirilibsə, şübhələr yarandıqda ehtimal edilir ki, kreditor həmin müddətə qədər tələbin icrasını tələb edə bilməz, borclu isə öhdəliyi vaxtından əvvəl icra edə bilər.
-- 428.4. Öhdəliyin icrası üçün borclunun xeyrinə hər hansı müddət təyin edildikdə, əgər borclu ödəniş qabiliyyətini itirərsə və ya şərtləşdirilmiş təminatı azaldarsa, yaxud ümumiyyətlə, belə təminat verə bilməzsə, kreditor, qanunda və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, dərhal icranı tələb edə bilər.
+- 428.4. Öhdəliyin icrası üçün borclunun xeyrinə hər hansı müddət təyin edildikdə, əgər borclu ödəniş qabiliyyətini itirərsə və ya şərtləşdirilmiş təminatı azaldarsa, yaxud ümumiyyətlə, belə təminat verə bilməzsə, kreditor, qanunda və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa dərhal icranı tələb edə bilər.
 
 #### Maddə 429. Öhdəliklərin icrası müddətlərinin müəyyənləşdirilməsi – çıxarılmışdır.
 
@@ -2674,7 +2671,6 @@ Dövlət satınalmaları müqaviləsinə dair münasibətlər Azərbaycan Respub
 - 433.1. Borclu öz öhdəliyini kreditora və ya qanunla və ya məhkəmənin qərarı ilə icranı qəbul etməyə ixtiyarı çatan şəxsə ödəməlidir.
 - 433.2. Əgər öhdəliyin icrasını ixtiyarsız şəxs qəbul edərsə, öhdəlik kreditorun buna razılıq verməsi və ya bu icradan fayda götürməsi şərti ilə icra olunmuş sayılır.
 - 433.3. Öhdəliyin icrası zamanı borclu icranı kreditorun özünün və ya ixtiyarlı şəxsin qəbul etməsinə dair sübutların təqdim olunmasını tələb edə bilər və bu cür tələb irəli sürülməməsi nəticələrinin riskini daşıyır.
-Maddə
 
 seçmək hüququ, əgər müqavilədən, bu Məcəllədən və ya öhdəliyin mahiyyətindən ayrı qayda irəli gəlmirsə, borcluya mənsubdur. Seçmək hüququ kreditora mənsubdursa, borclu ona ağlabatan müddət təyin edərək öhdəliyi seçməsini tələb edə bilər. Kreditor öhdəliyi vaxtında seçməzsə, həmin müddət keçdikdən sonra seçmək hüququ borcluya keçir.
 - 434.2. Əgər borclunun icra edilməli iki hərəkətin birindən imtina etməyə ixtiyarı çatırsa, digər hərəkəti icra etmək öhdəliyi qüvvədə qalır.
@@ -2805,7 +2801,7 @@ Borclunun öhdəliyini icra etmək üçün onun işçilərinin yerinə yetirdikl
 - 459.6. Qabaqcadan razılaşmaya əsaslanaraq, öhdəliyin pozulması nəticəsində dəyən zərərin əvəzinin ödənilməsini tələb etmək hüququndan imtina etmək yolverilməzdir.
 - 459.7. Zərərin həcmi müəyyənləşdirilərkən öhdəliyin lazımınca icrası barəsində kreditorun mənafeləri də nəzərə alınmalıdır. Zərərin həcminin müəyyənləşdirilməsi üçün müqavilənin icrası yeri və vaxtı da nəzərə alınmalıdır.
 ### 24-cü fəsil. Öhdəliklərin icrasının təmin edilməsi
-### § 1. Öhdəliklərin icrasının təmin edilməsi haqqında ümumi müddəalar
+#### § 1. Öhdəliklərin icrasının təmin edilməsi haqqında ümumi müddəalar
 #### Maddə 460. Öhdəliklərin icrasının təmin edilməsi üsulları
 - 460.1. Öhdəliklərin icrası girov, dəbbə pulu, borclunun əmlakının saxlanması, zaminlik, qarantiya, beh ilə və bu Məcəllədə və ya müqavilədə nəzərdə tutulan digər üsullarla təmin edilə bilər.
 - 460.2. Öhdəliyin icrasının təmin edilməsi barədə razılaşmanın etibarsızlığı əsas öhdəliyin etibarsızlığına səbəb olmur.
@@ -2813,7 +2809,7 @@ Borclunun öhdəliyini icra etmək üçün onun işçilərinin yerinə yetirdikl
 #### Maddə 461. Öhdəliyin icrası təminatının əvəz edilməsi
 - 461.1. Öhdəliklərin icrası üçün təminat vermiş şəxs kreditorun razılığı ilə onu başqa təminatla əvəz edə bilər.
 - 461.2. Çıxarılmışdır.
-### § 2. Dəbbə pulu
+#### § 2. Dəbbə pulu
 #### Maddə 462. Dəbbə pulu anlayışı
 - 462.1. Dəbbə pulu (cərimə, penya) qanun və ya müqavilə ilə müəyyənləşdirilən, öhdəliyin icra edilmədiyi və ya lazımınca icra edilmədiyi, o cümlədən icranın gecikdirildiyi halda borclunun kreditora ödəməli olduğu pul məbləğidir. Əgər öhdəliyin məzmununu hərəkətdən çəkinmək təşkil edirsə, dəbbə pulu hərəkətin edildiyi andan tutulmalıdır. Dəbbə pulunun ödənilməsi tələbi üzrə kreditor ona zərər vurulduğunu sübuta yetirməyə borclu deyildir.
 - 462.2. Əgər borclu öhdəliyin icra edilməməsi və ya lazımınca icra edilməməsi üçün məsuliyyət daşımırsa, kreditor dəbbə pulunun ödənilməsini tələb edə bilməz.
@@ -2839,7 +2835,7 @@ Borclunun öhdəliyini icra etmək üçün onun işçilərinin yerinə yetirdikl
 - 466.3. Öhdəliyin icra edilməməsi və ya lazımınca icra edilməməsi üçün məhdud məsuliyyətin müəyyənləşdirildiyi hallarda dəbbə pulu çatmayan və ya dəbbə pulundan yuxarı hissədə və ya onun əvəzinə ödənilməli olan zərər həmin məhdudiyyətlə müəyyənləşdirilmiş həddə qədər tutula bilər.
 #### Maddə 467. Məhkəmə tərəfindən dəbbə pulunun azaldılması
 Məhkəmə işin hallarını nəzərə alaraq tənasübsüz surətdə yüksək dəbbə pulunu azalda bilər. Tənasüb müəyyənləşdirilərkən kreditorun həm əmlak mənafeləri, həm də bütün əsaslı mənafeləri nəzərə alınır. Dəbbə pulu ödənildikdən sonra onun miqdarının azaldılması istisna edilir.
-### § 3. Saxlama
+#### § 3. Saxlama
 #### Maddə 468. Saxlama anlayışı və onun əsasları
 - 468.1. Borcluya və ya borclunun göstərdiyi şəxsə verilməli əmlak kreditorda olduqda, əgər borclu həmin əmlakı ödəmək və ya kreditora bununla bağlı xərclərin və digər zərərin əvəzini ödəmək öhdəliyini vaxtında icra etməzsə, kreditorun həmin əmlakı müvafiq öhdəlik icra edilənədək saxlamaq ixtiyarı vardır.
 - 468.2. Əmlakın və ya ona çəkilən xərclərin və digər zərərin əvəzinin ödənilməsi ilə bağlı olmasa da, tərəfləri sahibkarlar kimi fəaliyyət göstərən öhdəlikdən əmələ gələn tələblər də əmlakın saxlanması ilə təmin edilə bilər.
@@ -2847,7 +2843,7 @@ Məhkəmə işin hallarını nəzərə alaraq tənasübsüz surətdə yüksək d
 - 468.4. Bu maddənin qaydaları, əgər müqavilədə ayrı şərt nəzərdə tutulmayıbsa, tətbiq edilir.
 #### Maddə 469. Tələblərin saxlanan əmlak hesabına ödənilməsi
 Əmlakı saxlayan kreditorun tələbləri girovla təmin edilmiş tələblərin ödənilməsi üçün nəzərdə tutulan həcmdə və qaydada əmlakın dəyərindən ödənilir.
-### § 4. Zaminlik
+#### § 4. Zaminlik
 #### Maddə 470. Zaminlik müqaviləsi
 - 470.1. Zaminlik müqaviləsi üzrə zamin başqa şəxsin kreditoru qarşısında həmin şəxsin öz öhdəliyini tamamilə və ya hissə-hissə icra etməsi üçün məsuliyyəti öz üzərinə götürür.
 - 470.2. Zaminlik müqaviləsi gələcəkdə yaranacaq öhdəliyin təmin edilməsi üçün də bağlana bilər.
@@ -2876,12 +2872,12 @@ Zaminliklə təmin edilən öhdəliyi icra etmiş borclu bu barədə dərhal zam
   - 477.0.2. əgər zamin yeni borclu üçün cavabdeh olmaq barəsində kreditora razılıq verməmişsə, zaminliklə təmin edilmiş öhdəlik üzrə borc başqa şəxsə keçirildikdə;
   - 477.0.3. kreditor borclunun və ya zaminin təklif etdiyi lazımi icranı qəbul etməkdən imtina etdikdə;
   - 477.0.4. zaminlik müqaviləsində göstərilmiş onun verilmə müddəti qurtardıqda. Belə müddət təyin edilmədikdə zaminliyə onun təmin etdiyi öhdəliyin icrası vaxtının çatdığı gündən bir il ərzində kreditorun zaminə qarşı iddia irəli sürmədiyi halda xitam verilir. Əsas öhdəliyin icrası müddəti göstərilmədikdə və müəyyənləşdirilə bilmədikdə və ya tələbetmə məqamı ilə müəyyənləşdirilə bildikdə zaminliyə zaminlik müqaviləsinin bağlandığı gündən iki il ərzində kreditorun zaminə qarşı iddia irəli sürmədiyi halda xitam verilir.
-### § 5. Qarantiya
+#### § 5. Qarantiya
 #### Maddə 478. Qarantiya anlayışı
 Qarantiyaya əsasən qarant (bank, digər kredit təşkilatı və ya sığorta təşkilatı) digər şəxsin (prinsipalın) xahişi ilə prinsipalın kreditoruna (benefisiara) qarantiya öhdəliyinin şərtlərinə uyğun olaraq benefisiar pul məbləğinin ödənilməsi barədə yazılı tələb təqdim etdikdə həmin məbləği ödəyəcəyi barədə yazılı öhdəlik verir.
-#### Maddə 479. Prinsipalın öhdəliyinin qarantiya ilə təmin edilməsi
-- 479.1. Qarantiya prinsipalın benefisiar qarşısında öhdəliyini (əsas öhdəliyi) lazımınca icra etməsini təmin edir.
-- 479.2. Qarantiya verilməsinə görə prinsipal qaranta şərtləşdirilmiş muzd ödəyir.
+#### Maddə 479. Prinsipialın öhdəliyinin qarantiya ilə təmin edilməsi
+- 479.1. Qarantiya prinsipialın benefisiar qarşısında öhdəliyini (əsas öhdəliyi) lazımınca icra etməsini təmin edir.
+- 479.2. Qarantiya verilməsinə görə prinsipial qaranta şərtləşdirilmiş muzd ödəyir.
 #### Maddə 480. Qarantiyanın əsas öhdəlikdən asılı olmaması
 Qarantın benefisiar qarşısında qarantiya ilə nəzərdə tutulan öhdəliyi müstəqil öhdəlikdir və icrasının təminatı üçün verildiyi əsas öhdəlikdən, hətta qarantiyada bu öhdəliyə istinad edilsə belə, asılı deyildir.
 #### Maddə 481. Qarantiyanın geri götürülməzliyi
@@ -2891,14 +2887,14 @@ Qarantın benefisiar qarşısında qarantiya ilə nəzərdə tutulan öhdəliyi 
 #### Maddə 483. Qarantiyanın qüvvəyə minməsi
 Əgər qarantiyada ayrı müddət nəzərdə tutulmayıbsa, qarantiya verildiyi gündən qüvvəyə minir.
 #### Maddə 484. Qarantiya üzrə tələbin təqdim edilməsi
-- 484.1. Benefisiarın qarantiya üzrə pul məbləği ödənilməsinə dair tələbi qarantiyada göstərilmiş sənədlər qoşulmaqla, qaranta yazılı formada təqdim edilməlidir. Tələbdə və ya ona qoşmada benefisiar prinsipalın təminatı üçün qarantiya verilmiş əsas öhdəliyi pozmasının nədən ibarət olduğunu göstərməlidir.
+- 484.1. Benefisiarın qarantiya üzrə pul məbləği ödənilməsinə dair tələbi qarantiyada göstərilmiş sənədlər qoşulmaqla, qaranta yazılı formada təqdim edilməlidir. Tələbdə və ya ona qoşmada benefisiar prinsipialın təminatı üçün qarantiya verilmiş əsas öhdəliyi pozmasının nədən ibarət olduğunu göstərməlidir.
 - 484.2. Benefisiarın tələbi qaranta qarantiyada müəyyənləşdirilmiş verilmə müddəti qurtaranadək təqdim edilməlidir.
 #### Maddə 485. Benefisiarın tələbinə baxarkən qarantın vəzifələri
-- 485.1. Benefisiarın tələbini aldıqda qarant bu barədə ləngimədən prinsipalda məlumat verməli və tələbin surətini ona aid bütün sənədlərlə birlikdə prinsipalda təqdim etməlidir.
+- 485.1. Benefisiarın tələbini aldıqda qarant bu barədə ləngimədən prinsipiala məlumat verməli və tələbin surətini ona aid bütün sənədlərlə birlikdə prinsipiala təqdim etməlidir.
 - 485.2. Qarant qoşulmuş sənədlərlə birlikdə benefisiarın tələbinə qarantiyada göstərilmiş müddətdə, müddət göstərilmədikdə isə ağlabatan müddətdə baxmalı, həmin tələbin və ona qoşulmuş sənədlərin qarantiya şərtlərinə uyğun gəlib-gəlmədiyini müəyyənləşdirməyə ciddi diqqət göstərməlidir.
 #### Maddə 486. Benefisiarın tələbini ödəməkdən qarantın imtina etməsi
 - 486.1. Əgər benefisiarın tələbi və ya ona qoşulmuş sənədlər qarantiya şərtlərinə uyğun deyildirsə və ya qarantiyada təyin edilmiş müddət qurtardıqdan sonra qaranta təqdim edilmişdirsə, qarant bu tələbi ödəməkdən imtina edir. Qarant benefisiarın tələbini ödəməkdən imtina etdiyi barədə benefisiara dərhal məlumat verməlidir.
-- 486.2. Əgər benefisiarın tələbini ödəyənə qədər qaranta məlum olsa ki, qarantiya ilə təmin edilmiş əsas öhdəlik tamamilə və ya müvafiq hissədə artıq icra edilmişdir, digər əsaslara görə xətm edilmişdir və ya etibarsızdır, bu barədə o dərhal benefisiara və prinsipalda məlumat verməlidir. Bu cür məlumat verildikdən sonra qarant benefisiardan təkrarən aldığı tələbi ödəməlidir.
+- 486.2. Əgər benefisiarın tələbini ödəyənə qədər qaranta məlum olsa ki, qarantiya ilə təmin edilmiş əsas öhdəlik tamamilə və ya müvafiq hissədə artıq icra edilmişdir, digər əsaslara görə xətm edilmişdir və ya etibarsızdır, bu barədə o dərhal benefisiara və prinsipiala məlumat verməlidir. Bu cür məlumat verildikdən sonra qarant benefisiardan təkrarən aldığı tələbi ödəməlidir.
 #### Maddə 487. Qarantın öhdəliyinin hədləri
 - 487.1. Qarantın benefisiar qarşısında qarantiyada nəzərdə tutulan öhdəliyi qarantiya verilmiş məbləğin ödənilməsi ilə məhdudlaşır.
 - 487.2. Qarantın qarantiya üzrə öhdəliyi yerinə yetirməməsi və ya lazımınca yerinə yetirməməsi üçün benefisiar qarşısında məsuliyyəti, əgər qarantiyada ayrı hal nəzərdə tutulmayıbsa, qarantiya verilmiş məbləğlə məhdudlaşmır.
@@ -2909,14 +2905,14 @@ Qarantın benefisiar qarşısında qarantiya ilə nəzərdə tutulan öhdəliyi 
   - 488.1.3. benefisiar qarantiya üzrə hüquqlarından imtina etdikdə və onu qaranta qaytardıqda;
   - 488.1.4. benefisiar qarantı onun öhdəliyindən azad etməsi barədə yazılı ərizə vermək yolu ilə qarantiya üzrə hüquqlarından imtina etdikdə.
 - 488.2. Bu Məcəllənin 488.1.1, 488.1.2 və 488.1.4-cü maddələrində nəzərdə tutulan əsaslar üzrə qarantın öhdəliyinə xitam verilməsi qarantiyanın ona qaytarıb-qaytarılmadığından asılı deyildir.
-- 488.3. Qarantiyaya xitam verildiyindən xəbər tutan qarant bu barədə ləngimədən prinsipalda məlumat verməlidir.
-#### Maddə 489. Qarantın prinsipalda qarşı reqres tələbləri
-- 489.1. Qarantın qarantiya üzrə benefisiara ödənilmiş məbləğlərin əvəzinin ödənilməsini prinsipaldan reqres qaydasında tələb etmək hüququ qarantla prinsipalın icrası üçün qarantiya verilmiş razılaşması ilə müəyyənləşdirilir.
-- 489.2. Əgər qarantın prinsipalda razılaşmasında ayrı qayda nəzərdə tutulmayıbsa, qarant prinsipaldan qarantiya şərtlərinə uyğun olmadan və ya qarantın benefisiar qarşısında öhdəliyinin pozulmasına görə benefisiara ödənilmiş məbləğlərin əvəzini tələb edə bilməz.
+- 488.3. Qarantiyaya xitam verildiyindən xəbər tutan qarant bu barədə ləngimədən prinsipiala məlumat verməlidir.
+#### Maddə 489. Qarantın prinsipiala qarşı reqres tələbləri
+- 489.1. Qarantın qarantiya üzrə benefisiara ödənilmiş məbləğlərin əvəzinin ödənilməsini prinsipaldan reqres qaydasında tələb etmək hüququ qarantla prinsipialın icrası üçün qarantiya verilmiş razılaşması ilə müəyyənləşdirilir.
+- 489.2. Əgər qarantın prinsipialla razılaşmasında ayrı qayda nəzərdə tutulmayıbsa, qarant prinsipialdan qarantiya şərtlərinə uyğun olmadan və ya qarantın benefisiar qarşısında öhdəliyinin pozulmasına görə benefisiara ödənilmiş məbləğlərin əvəzini tələb edə bilməz.
 #### Maddə 490. Borclunun qarantiyası – çıxarılmışdır.
-### § 6. Beh
+#### § 6. Beh
 
-490. Borclunun qarantiyası – çıxarılmışdır.
+## § 6. Beh
 #### Maddə 491. Beh anlayışı
 - 491.1. Beh müqavilənin bağlanmasını təsdiq etmək və icrasını təmin etmək məqsədilə razılığa gələn tərəflərdən birinin müqavilə üzrə digər tərəfə verəcəyi ödənişlər hesabına verdiyi pul məbləğidir.
 - 491.2. Behin məbləğindən asılı olmayaraq beh haqqında razılaşma yazılı formada bağlanmalıdır. Beh haqqında razılaşma daşınmaz əmlaka sərəncam verilməsi barədə müqavilənin bağlanması ilə bağlı olduqda, notariat qaydasında təsdiq edilməlidir. Daşınmaz əmlaka sərəncam verilməsi barədə müqavilənin bağlanması ilə bağlı beh haqqında razılaşmanın notariat qaydasında təsdiq edilməsi zamanı behi alana münasibətdə bu Məcəllənin 225.6-cı maddəsində nəzərdə tutulmuş qaydalar tətbiq edilir.
@@ -2924,6 +2920,7 @@ Qarantın benefisiar qarşısında qarantiya ilə nəzərdə tutulan öhdəliyi 
 #### Maddə 492. Behlə təmin edilmiş öhdəliyə xitam verilməsinin və onun icra edilməməsinin nəticələri
 - 492.1. Öhdəliyin icrasına başlanana qədər ona tərəflərin razılaşması üzrə və ya icranın mümkün olmaması nəticəsində xitam verildikdə beh qaytarılmalıdır.
 - 492.2. Əgər müqavilənin icra edilməməsi üçün beh vermiş tərəf məsuliyyət daşıyırsa, beh digər tərəfdə qalır. Əgər müqavilənin icra edilməməsi üçün beh almış tərəf məsuliyyət daşıyırsa, o, digər tərəfə behin iki mislini ödəməlidir. Bundan əlavə, müqavilənin icra edilməməsi üçün məsuliyyət daşıyan tərəf, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, beh məbləği hesaba alınmaqla, zərərin əvəzini digər tərəfə ödəməyə borcludur.
+
 ### 25-ci fəsil. Öhdəlikdə kreditorların və ya borcluların çoxluğu
 #### Maddə 493. Birgə kreditorlar və birgə səlahiyyətlər
 - 493.1. Əgər bir neçə şəxs onlardan hər birinin tam icranı tələb edə biləcəyi şəkildə icranı tələb etməyə səlahiyyətlidirlərsə, borcluya isə yalnız birdəfəlik icra həvalə edilirsə, onlar birgə kreditorlardır.
@@ -2971,9 +2968,10 @@ Birgə borclulardan biri barəsində iddia verilməsi kreditoru qalan borclular 
 Əgər birgə borclu birgə öhdəlikdən fayda götürmüşsə, belə fayda götürməmiş birgə borclu öz öhdəliyinin icrası üçün ondan təminat tələb edə bilər.
 #### Maddə 512. Müddətin keçməsinin nəticələri
 Birgə borclulardan biri barəsində müddətin axımının dayandırılmasının və ya xitamının digər borclular barəsində qüvvəsi yoxdur.
+
 ### 26-cı fəsil. Öhdəliklərin verilməsi
-#### § 1. Tələblərin güzəşti – çıxarılmışdır.
-#### § 2. Öhdəliklərin verilməsi – paraqrafın adı çıxarılmışdır.
+## § 1. Tələblərin güzəşti – çıxarılmışdır.
+## § 2. Öhdəliklərin verilməsi – paraqrafın adı çıxarılmışdır.
 #### Maddə 522. Öhdəliklərin verilməsi əsasları və qaydası
 - 522.1. Kreditor ilə müqaviləyə əsasən öhdəlik üçüncü şəxsə verilə bilər; bunun nəticəsində o, əvvəlki borclunu əvəz edir.
 - 522.2. Əgər borclu ilə öhdəliyin üçüncü şəxsə veriləcəyi barədə razılaşma əldə edilərsə, bu yalnız kreditorun icazəsi ilə etibarlı olur.
@@ -2990,11 +2988,13 @@ Birgə borclulardan biri barəsində müddətin axımının dayandırılmasını
 Tələb üçün verilmiş zaminlik və girov hüququ öhdəliyin verilməsi nəticəsində ləğv edilir. Əgər tələb üçün ipoteka mövcuddursa, kreditorun ipotekadan etiraz etdiyi zaman baş verən eyni nəticələr baş verir. Əgər zamin və ya öhdəliyin verildiyi məqamda yüklü əşyanın mənsub olduğu şəxs razılıq verərlərsə, bu göstərişlər tətbiq edilmir. Müflisolma halı üçün tələblə bağlı üstünlük hüququ müflisolma zamanı öhdəliyi qəbul edənin əmlakı barəsində həyata keçirilə bilməz.
 #### Maddə 526. Öhdəliyi qəbul etmiş şəxsin məsuliyyəti
 Əgər kimsə müqaviləyə əsasən başqa şəxsin əmlakını qəbul edirsə, həmin şəxsin kreditorları əvvəlki borclunun məsuliyyətinin davam etməsinə baxmayaraq, müqavilənin bağlandığı andan özlərinin həmin vaxtadək mövcud olmuş pretenziyalarını əmlakı qəbul edənə qarşı irəli sürə bilərlər. Əmlakı qəbul edənin məsuliyyəti alınmış əmlakın tərkibi və müqavilə üzrə ona mənsub olan tələblər ilə məhdudlaşır. Əmlakı qəbul edənin məsuliyyəti onunla əvvəlki borclu arasındakı razılaşmaya əsasən istisna edilə və ya məhdudlaşdırıla bilməz.
+
 ### 27-ci fəsil. Öhdəliklərə xitam verilməsi
 #### Maddə 527. Öhdəliklərə xitam verilməsi əsasları
 - 527.1. Öhdəliyə icra, depozitə qoyma, qarşılıqlı əvəzləşdirmə, borcu bağışlama, müddətin keçməsi nəticəsində və bu Məcəllədə və ya müqavilədə nəzərdə tutulan digər əsaslar üzrə tamamilə və ya qismən xitam verilir.
 - 527.2. Öhdəliyə tərəflərdən birinin tələbi ilə xitam verilməsinə yalnız bu Məcəllədə və ya müqavilədə nəzərdə tutulan hallarda yol verilir.
-#### § 1. Öhdəliklərə icra nəticəsində xitam verilməsi
+
+## § 1. Öhdəliklərə icra nəticəsində xitam verilməsi
 #### Maddə 528. Öhdəliyə kreditorun xeyrinə icra nəticəsində xitam verilməsi
 Öhdəliyə onun kreditorun xeyrinə lazımınca icrası (icra) nəticəsində xitam verilir.
 #### Maddə 529. Öhdəliyin icrasının qəbulu
@@ -3011,9 +3011,10 @@ Tələb üçün verilmiş zaminlik və girov hüququ öhdəliyin verilməsi nət
 - 530.2. Əgər kreditor yaşayış yerini dəyişdirərsə və ya vəfat edərsə və başqa yaşayış yerində onun vərəsələri qalarsa, icra haqqında sənədin verilməsi ilə bağlı artmış xərclər kreditorun və ya onun vərəsələrinin öhdəsinə qoyulur.
 #### Maddə 531. Öhdəliyə novasiya nəticəsində xitam verilməsi
 - 531.1. Öhdəliyə tərəflər arasında mövcud olmuş ilkin öhdəliyin eyni şəxslər arasında digər predmet və ya icra üsulu (novasiya) nəzərdə tutan başqa öhdəliklə əvəz edilməsi haqqında tərəflərin razılaşması ilə xitam verilir.
-- 531.1. Həyata və ya sağlamlığa vurulmuş zərərin əvəzinin və alimentlərin ödənilməsi üzrə öhdəliklər barəsində novasiyaya yol verilmir.
+- 531.2. Həyata və ya sağlamlığa vurulmuş zərərin əvəzinin və alimentlərin ödənilməsi üzrə öhdəliklər barəsində novasiyaya yol verilmir.
 - 531.3. Əgər ayrı qayda nəzərdə tutulmayıbsa, novasiya ilkin öhdəliklə bağlı olan əlavə öhdəliklərə xitam verir.
-#### § 2. Öhdəliyə depozitə qoyma nəticəsində xitam verilməsi
+
+## § 2. Öhdəliyə depozitə qoyma nəticəsində xitam verilməsi
 #### Maddə 532. Öhdəliyə depozitə qoyma nəticəsində xitam verilməsi anlayışı
 - 532.1. Əgər kreditor icranın qəbulunu yubandırırsa və ya onun olduğu yer məlum deyildirsə, borclu icra predmetini saxlanmaq üçün məhkəməyə və ya notariata verə bilər, pulları və ya sənədli qiymətli kağızları isə notariusun depozit hesabına qoya bilər. Depozitə qoyma barəsində borclu ləngimədən kreditora bildiriş göndərməlidir.
 - 532.3. Əgər depozitə qoyulmuş əşyanın qaytarılması istisnadırsa, borclu öz öhdəliyindən azad edilir, çünki bu halda depozitə qoyma öhdəliyin kreditora icra edilməsinə bərabər tutulur.
@@ -3037,10 +3038,11 @@ Saxlama ilə bağlı bütün xərclər kreditorun üzərinə düşür.
 - 538.3. Borclu predmeti geri götürürsə, saxlama xərcləri onun üzərinə düşür.
 #### Maddə 539. İcra predmetinin saxlanma müddəti
 Məhkəmə və ya notarius icra predmetini üç ilədək müddətə saxlayır. Əgər həmin müddət ərzində kreditor predmeti qəbul etməzsə, bu barədə borcluya məlumat verilməklə, ondan təhvil verdiyi predmeti geri götürməsi tələb olunur. Borclu predmeti geri götürülmə üçün zəruri olan müddət ərzində almazsa, o, dövlət əmlakı sayılır.
-#### § 3. Öhdəliyə qarşılıqlı tələblərin əvəzləşdirilməsi ilə xitam verilməsi (əvəzləşdirmə)
+
+## § 3. Öhdəliyə qarşılıqlı tələblərin əvəzləşdirilməsi ilə xitam verilməsi (əvəzləşdirmə)
 #### Maddə 540. Öhdəliklərin əvəzləşdirilməsinin mümkünlüyü
 - 540.1. Əgər iki şəxs arasında mövcud olan qarşılıqlı tələblərin icra müddəti çatmışsa, həmin tələblərə onların əvəzləşdirilməsi yolu ilə xitam verilə bilər.
-- 540.2. Tələblərin əvəzləşdirilməsi tələblərdən birinin icra müddətinin hələ çatmadığı, lakin bu tələbə hüququ olan tərəfin əvəzləşdirməyə tərəfdar olduğu halda da mümkündür. Tələblərin əvəzləşdirilməsi bu barədə digər tərəfə məlumat verməklə həyata keçirilir. Məlumat hər hansı şərtlə və ya müddətin müəyyənləşdirilməsi ilə bağlı olduqda etibarsızdır.
+- 540.2. Tələblərin əvəzləşdirilməsi tələblərdən birinin icra müddətinin hələ çatmadığı, lakin bu tələbə hüququ olan tərəfin əvəzləşdirməyə tərəfdar olduğu halda da mümkündür. Tələblərin əvəzləşdirilməsi bu barədə digər tərəfə məlumat verməklə həyata keçirilir. məlumat hər hansı şərtlə və ya müddətin müəyyənləşdirilməsi ilə bağlı olduqda etibarsızdır.
 #### Maddə 541. Tələbin güzəşti zamanı əvəzləşdirmə
 - 541.1. Tələb güzəşt edilərkən borclu ilk kreditora qarşı özünün qarşılıqlı tələbini yeni kreditorun tələbi ilə əvəzləşdirə bilər.
 - 541.2. Əvəzləşdirmə bu şərtlə aparıla bilər ki, tələb, onun güzəşt edilməsi barədə borclunun bildiriş aldığı anda mövcud olmuş əsasa görə əmələ gəlsin və tələbin müddəti o alınana qədər çatsın və ya həmin müddət göstərilməsin və ya tələbetmə anı ilə müəyyənləşdirilsin.
@@ -3059,7 +3061,8 @@ Məhkəmə və ya notarius icra predmetini üç ilədək müddətə saxlayır. �
   - 545.0.5. alimentlərin tutulması ilə bağlı olduqda;
   - 545.0.6. bu, Azərbaycan Respublikasının və ya bələdiyyənin tələbidirsə; digər tərəfin qarşılıqlı əvəzləşdirmə tələbi hansı orqanın vəsaitindən ödənilməlidirsə, öhdəliyin də həmin orqanın xeyrinə icra edilməli olduğu hallar istisna təşkil edir.
   - 545.0.7. bu Məcəllədə nəzərdə tutulmuş digər hallarda.
-#### § 4. Borcun bağışlanması ilə öhdəliyin xitamı
+
+## § 4. Borcun bağışlanması ilə öhdəliyin xitamı
 #### Maddə 546. Borcun bağışlanması anlayışı
 Kreditorun borclunu onun üzərinə düşən vəzifədən azad etməsi (borcun bağışlanması) ilə öhdəliyə xitam verilir, bu şərtlə ki, həmin hərəkət kreditorun əmlakı barəsində başqa şəxslərin hüquqlarını pozmasın.
 #### Maddə 547. Borcun bağışlanmasının digər birgə borclular üçün nəticələri
@@ -3070,7 +3073,8 @@ Birgə borclulardan birinə borcun bağışlanması digər birgə borcluları da
 - 548.3. Zaminlərdən birinin borcu ödəməkdən azad edilməsi digər borcluları da azad edir.
 #### Maddə 549. İkitərəfli müqavilə üzrə tələblərdən imtinanın nəticələri
 İkitərəfli müqavilənin tərəflərindən birinin öz tələbindən imtina etməsi öhdəliyin xitamına səbəb olmur. Həmin tərəf digər tərəfin də öz tələbindən imtina etməsinə qədər müqavilədə nəzərdə tutulmuş öhdəliklərini icra etməlidir.
-#### § 5. Müddətin keçməsinə görə öhdəliyin xitamı
+
+## § 5. Müddətin keçməsinə görə öhdəliyin xitamı
 #### Maddə 550. Tələblər üçün müddət
 Tələbə, yəni digər şəxsdən hərəkətin edilməsini və ya edilməməsini tələb etmək hüququna müddətin keçməsinə görə xitam verilə bilər.
 #### Maddə 551. Öhdəliklərin xitamı üçün müddətlər
@@ -3081,7 +3085,7 @@ Tələbə, yəni digər şəxsdən hərəkətin edilməsini və ya edilməməsin
   - 551.2.3. zavod tikintisi, mallar satışı, daşımalar üzrə tələblər, sərbəst peşə adamlarının (məsələn, həkimlərin, vəkillərin və ya məsləhətçilərin) tələbləri, habelə işçilərin əmək münasibətləri üzrə tələbləri;
   - 551.2.4. məhkəmə qərarına əsasən əmələ gələn tələb otuz il keçdikdən sonra qüvvəsini itirir. Bu qayda tələbin daha qısa müddətlə bağlı olduğu halda da tətbiq edilir.
 #### Maddə 552. Öhdəliklərin xitamı üçün müddətin axımının başlanması
-- 552.1. Müddətin axımı tələbin icra müddətinin çatması ilə başlanır. Müddət hesablanarkən müddətin başlandığı gün nəzərə alınmır. Öhdəliyin məzmunu hərəkətsizlikdirsə, müddət bu öhdəliyin yerinə yetirilmədiyi andan başlanır.
+- 552.1. Müddətin axımı tələbin icra müddətinin çatması ilə başlanır. Müddət hesablanarkən müddətin başlandığı gün nəzərə alınmır. Öhdəliyin məzmunu hərəkətsizlikdirsə, müddət bu öhdəliyin yerinə yetirilmədiyi андan başlanır.
 - 552.2. Aşağıdakı hallarda müddətin axımı başlanmır və müddət dayandırılır:
   - 552.2.1. öhdəliyin icrasına möhlət verildikdə və ya öhdəlik götürən başqa halla əlaqədar onun icrasından müvəqqəti imtina etmək hüququna malik olduqda;
   - 552.2.2. müddətin son altı ayı ərzində məhkəmə baxışının dayandırılması nəticəsində ixtiyarlı şəxs öz hüququnun məhkəmə müdafiəsini həyata keçirmək imkanından məhrum olana qədər. Bu cür imkansızlıq qarşısıalınmaz qüvvə nəticəsində baş verdikdə də eyni qayda qüvvədə olur.
@@ -3098,7 +3102,8 @@ Tələbə, yəni digər şəxsdən hərəkətin edilməsini və ya edilməməsin
 - 554.2. Öhdəlik müddətin keçdiyini bilmədən icra olunduqda belə, müddətin keçməsinə görə qüvvəsini itirmiş tələbin ödənilməsi üçün icra olunmuşları geri istəmək olmaz.
 - 554.3. Əsas tələblə birlikdə ondan asılı olan əlavə öhdəliklərin icrasına dair tələb də müddətin keçməsinə görə qüvvəsini itirir.
 - 554.4. Müddətin keçməsi tərəflərin razılaşması ilə istisna edilə və ya çətinləşdirilə bilməz. Tərəflər müddətin keçməsinin sadələşdirilməsi, o cümlədən onun qısaldılması barədə razılaşa bilərlər.
-#### § 6. Öhdəliyin xitamının digər əsasları
+
+## § 6. Öhdəliyin xitamının digər əsasları
 #### Maddə 555. Borclu və kreditor eyni şəxs olduqda öhdəliyin xitamı
 Borclu və kreditor eyni şəxs olduqda öhdəliyə xitam verilir.
 #### Maddə 556. İcra mümkün olmadığına görə öhdəliyin xitamı
@@ -3112,6 +3117,7 @@ Borclu və kreditor eyni şəxs olduqda öhdəliyə xitam verilir.
 - 558.2. İcra şəxsən kreditor üçün nəzərdə tutulmuşdursa, onun ölümü öhdəliyin xitamına səbəb olur.
 #### Maddə 559. Hüquqi şəxsin ləğvi nəticəsində öhdəliyin xitamı
 Hüquqi şəxsin (borclunun və ya kreditorun) ləğvinin qeydə alındığı andan onun öhdəliklərinə xitam verilir.
+
 ### 28-ci fəsil. Mülki hüquqların həyata keçirilməsi
 #### Maddə 560. Hüquqdan sui-istifadənin qadağan edilməsi
 - 560.1. Mülki hüquqlar hüquqa uyğun həyata keçirilməlidir. Hüquqdan yalnız başqalarına ziyan vurmaq məqsədi ilə istifadə edilməsi yolverilməzdir.
@@ -3162,9 +3168,10 @@ Mülki hüquqların həyata keçirilməsinin təmin edilməsi, güc və ya məcb
   - 566.2.3. gəlir və xərclərlə bağlı idarəetmə barədə hesabat verməli olan şəxs.
 - 566.3. Əgər məlumat verməli olan şəxs məlumatı yalnız böyük xərc çəkməklə verə bilərsə, xərci kreditor çəkir.
 - 566.4. Verilmiş məlumatın lazımi vicdanlılıqla tərtib olunmadığını ehtimal etməyə əsas olduqda, kreditorun tələbi ilə borclu və ya vəkil edilmiş şəxs məlumatın vicdanla tərtib olunduğuna yazılı surətdə inandırmalıdır. Məhkəmə mübahisəsi əmələ gəldikdə, bu cür yazılı inandırmanın sübutetmə qüvvəsi vardır.
+
 ## Yeddinci bölmə. Müqavilələrdən əmələ gələn öhdəliklər
 ### 29-cu fəsil. Alğı-satqı
-#### § 1. Alğı-satqı haqqında ümumi müddəalar
+## § 1. Alğı-satqı haqqında ümumi müddəalar
 #### Maddə 567. Alğı-satqı müqaviləsi
 Alğı-satqı müqaviləsinə görə satıcı əşyanı alıcının mülkiyyətinə verməyi, alıcı isə əşyanı qəbul edib əvəzində müəyyənləşdirilmiş pul məbləğini (qiyməti) ödəməyi öhdəsinə götürür.
 #### Maddə 568. Satıcının əşyanı vermək vəzifəsi
@@ -3218,10 +3225,10 @@ Alğı-satqı müqaviləsinə görə satıcı əşyanı alıcının mülkiyyəti
 #### Maddə 580. Əşyaların çeşidi haqqında şərtin pozulmasının nəticələri
 - 580.1. Satıcı alğı-satqı müqaviləsində nəzərdə tutulan əşyaları müqaviləyə uyğun gəlməyən çeşiddə verdikdə alıcı onları qəbul etməkdən və ödəməkdən imtina edə bilər, ödəmiş olduqda isə ödədiyi pul məbləğinin qaytarılmasını tələb edə bilər.
 - 580.2. Əgər satıcı alıcıya alğı-satqı müqaviləsinə uyğun çeşiddə əşyalarla yanaşı çeşid haqqında şərti pozmaqla əşyalar verərsə, alıcının ixtiyarı var ki, öz seçimi ilə:
-  - 580.2.1. çeşid haqqında şərtə uyğun gələn əşyaları qəbul etsin, qalan əşyalardan isə imtina etsin;
-  - 580.2.2. verilmiş əşyaların hamısından imtina etsin;
-  - 580.2.3. çeşid haqqında şərtə uyğun gəlməyən əşyaların müqavilədə nəzərdə tutulan çeşiddə əşyalarla əvəz olunmasını tələb etsin;
-  - 580.2.4. verilmiş əşyaların hamısını qəbul etsin.
+    - 580.2.1. çeşid haqqında şərtə uyğun gələn əşyaları qəbul etsin, qalan əşyalardan isə imtina etsin;
+    - 580.2.2. verilmiş əşyaların hamısından imtina etsin;
+    - 580.2.3. çeşid haqqında şərtə uyğun gəlməyən əşyaların müqavilədə nəzərdə tutulan çeşiddə əşyalarla əvəz olunmasını tələb etsin;
+    - 580.2.4. verilmiş əşyaların hamısını qəbul etsin.
 - 580.3. Alğı-satqı müqaviləsinin şərtinə uyğun gəlməyən çeşiddə əşyalardan imtina edərkən və ya çeşid haqqında şərtə uyğun gəlməyən malların əvəz olunması tələbini irəli sürərkən alıcı həmin malları ödəməkdən imtina edə də bilər, onları ödəmiş olduqda isə ödədiyi pul məbləğinin qaytarılmasını tələb edə bilər.
 - 580.4. Alğı-satqı müqaviləsinin çeşid haqqında şərtinə uyğun gəlməyən əşyalar o halda qəbul edilmiş sayılır ki, alıcı onları qəbul etdikdən sonra ağlabatan müddətdə satıcıya öz imtinasını bildirməsin.
 - 580.5. Əgər alıcı çeşidi alğı-satqı müqaviləsinə uyğun gəlməyən əşyalardan imtina etməzsə, onları satıcı ilə razılaşdırılmış qiymətlə ödəməlidir. Satıcı qiymətin razılaşdırılması üçün ağlabatan müddətdə zəruri tədbirlər görmədikdə, alıcı əşyaları müqavilənin bağlandığı an müqayisəyə gələn şəraitdə oxşar əşyalar üçün adətən alınan qiymətlə ödəyir.
@@ -3253,18 +3260,18 @@ Alğı-satqı müqaviləsinə görə satıcı əşyanı alıcının mülkiyyəti
 
 #### Maddə 586. Əşyanın keyfiyyətinin yoxlanması
 - 586.1. Qanunvericilikdə, dövlət standartlarının məcburi tələblərində və ya alğı-satqı müqaviləsində əşyanın keyfiyyətinin yoxlanması nəzərdə tutula bilər.
-- 586.2. Əgər bu Məcəllənin 586.1-ci maddəsinə uyğun olaraq əşyanın keyfiyyətinin yoxlanması qaydası müəyyənləşdirilməyibsə, əşyanın keyfiyyəti işgüzar dövriyyə adətlərinə və ya alğı-satqı müqaviləsi üzrə verilməli əşyanın yoxlanmasının adətən tətbiq edilən digər şərtlərinin müvafiq surətdə yoxlanılır.
+- 586.2. Əgər bu Məcəllənin 586.1-ci maddəsinə uyğun olaraq əşyanın keyfiyyətinin yoxlanması qaydası müəyyənləşdirilməyibsə, əşyanın keyfiyyəti işgüzar dövriyyə adətlərinə və ya alğı-satqı müqaviləsi üzrə verilməli əşyanın yoxlanmasının adətən tətbiq edilən digər şərtlərinə müvafiq surətdə yoxlanılır.
 - 586.3. Əgər qanunvericilikdə, dövlət standartlarının məcburi tələblərində və ya alğı-satqı müqaviləsində satıcının alıcıya verilən əşyanın keyfiyyətini yoxlamaq vəzifəsi (sınama, analiz, müayinə və i.a.) nəzərdə tutulmuşdursa, satıcı əşyanın keyfiyyətinin yoxlanıldığına dair alıcıya sübutlar təqdim etməlidir.
 - 586.4. İstər satıcı, istərsə də alıcı tərəfindən əşyanın keyfiyyətinin yoxlanmasının qaydası, habelə digər şərtləri eyni olmalıdır.
 
 #### Maddə 587. Lazımi keyfiyyətli olmayan əşyanın verilməsinin nəticələri
 - 587.1. Əgər satıcı əşyanın qüsurları barəsində qabaqcadan məlumat verməmişsə, lazımi keyfiyyətli olmayan əşyanın verildiyi alıcının ixtiyarı var ki, satıcının təqsiri olub-olmamasından asılı olmayaraq, satıcıdan öz seçimi ilə aşağıdakıları tələb etsin:
-  - 587.1.1. alış qiymətinin mütənasib azaldılması;
-  - 587.1.2. əşyanın qüsurlarının ağlabatan müddətdə əvəzsiz aradan qaldırılması;
-  - 587.1.3. əşyanın qüsurlarının aradan qaldırılması üçün özünün çəkdiyi xərclərin əvəzinin ödənilməsi.
+    - 587.1.1. alış qiymətinin mütənasib azaldılması;
+    - 587.1.2. əşyanın qüsurlarının ağlabatan müddətdə əvəzsiz aradan qaldırılması;
+    - 587.1.3. əşyanın qüsurlarının aradan qaldırılması üçün özünün çəkdiyi xərclərin əvəzinin ödənilməsi.
 - 587.2. Əşyanın keyfiyyətinə aid tələblər əhəmiyyətli dərəcədə pozulduqda (aradan qaldırıla bilməyən qüsurlar, tənasübsüz xərclər və ya vaxt sərf etmədən aradan qaldırıla bilməyən qüsurlar aşkar edildikdə və ya dəfələrlə aşkar edilən və ya aradan qaldırıldıqdan sonra yenidən üzə çıxan və digər bu cür qüsurlar olduqda) alıcının ixtiyarı var ki, öz seçimi ilə:
-  - 587.2.1. alğı-satqı müqaviləsinin icrasından imtina etsin və əşya üçün ödədiyi pul məbləğinin qaytarılmasını tələb etsin;
-  - 587.2.2. lazımi keyfiyyətli olmayan əşyanın müqaviləyə uyğun əşya ilə əvəz olunmasını tələb etsin.
+    - 587.2.1. alğı-satqı müqaviləsinin icrasından imtina etsin və əşya üçün ödədiyi pul məbləğinin qaytarılmasını tələb etsin;
+    - 587.2.2. lazımi keyfiyyətli olmayan əşyanın müqaviləyə uyğun əşya ilə əvəz olunmasını tələb etsin.
 - 587.3. Bu Məcəllənin 587.1 və 587.2-ci maddələrində göstərilmiş qüsurların aradan qaldırılması və ya əşyanın əvəz edilməsi tələbini alıcı, əgər əşyanın xarakterindən və ya öhdəliyin mahiyyətindən ayrı qayda irəli gəlmirsə, irəli sürə bilər.
 - 587.4. Komplektə daxil olan əşya hissələri lazımi keyfiyyətli olmadıqda alıcı əşyanın həmin hissəsi barədə bu Məcəllənin 587.1 və 587.2-ci maddələrində nəzərdə tutulan hüquqları həyata keçirə bilər.
 - 587.5. Əgər alıcı əşyanın qüsurları ilə əlaqədar alğı-satqı müqaviləsinin ləğvini və ya alınmış əşyanın müqaviləyə uyğun əşya ilə əvəz edilməsini tələb edərsə, o, qüsurlu əşyanı satıcıya onun hesabına qaytarmağa borcludur. Bu zaman tərəflərin müqavilə üzrə əldə etdiklərinin geri qaytarılması bu Məcəllənin 157-ci maddəsi ilə müəyyən edilmiş qaydada həyata keçirilir.
@@ -3292,11 +3299,11 @@ Alğı-satqı müqaviləsinə görə satıcı əşyanı alıcının mülkiyyəti
 
 #### Maddə 592. Komplektsiz əşya verilməsinin nəticələri
 - 592.1. Komplektsiz əşya verildiyi halda alıcı satıcıdan öz seçimi ilə aşağıdakıları tələb edə bilər:
-  - 592.1.1. alış qiymətinin mütənasib surətdə azaldılması;
-  - 592.1.2. əşyanın komplektinin ağlabatan müddətdə tamamlanması.
+    - 592.1.1. alış qiymətinin mütənasib surətdə azaldılması;
+    - 592.1.2. əşyanın komplektinin ağlabatan müddətdə tamamlanması.
 - 592.2. Əgər satıcı əşyanın komplektinin tamamlanması barədə alıcının tələbini ağlabatan müddətdə yerinə yetirməzsə, alıcının ixtiyarı var ki, öz seçimi ilə:
-  - 592.2.1. komplektsiz əşyanın komplektli əşya ilə əvəz olunmasını tələb etsin;
-  - 592.2.2. alğı-satqı müqaviləsinin icrasından imtina etsin və ödədiyi pul məbləğinin qaytarılmasını tələb etsin.
+    - 592.2.1. komplektsiz əşyanın komplektli əşya ilə əvəz olunmasını tələb etsin;
+    - 592.2.2. alğı-satqı müqaviləsinin icrasından imtina etsin və ödədiyi pul məbləğinin qaytarılmasını tələb etsin.
 - 592.3. Bu Məcəllənin 592.1 və 592.2-ci maddələrində nəzərdə tutulan nəticələr satıcının alıcıya əşya komplekti vermək vəzifəsini pozduğu halda da, əgər alğı-satqı müqaviləsində ayrı qayda nəzərdə tutulmayıbsa və öhdəliyin mahiyyətindən ayrı qayda irəli gəlmirsə, tətbiq edilir.
 
 #### Maddə 593. Alğı-satqı müqaviləsinin predmeti olan əşyaların tarası və qabı
@@ -3352,7 +3359,8 @@ Alğı-satqı müqaviləsinə görə satıcı əşyanı alıcının mülkiyyəti
 - 602.1. Alğı-satqı müqaviləsində satıcının və ya alıcının əşyanı sığorta etdirmək vəzifəsi nəzərdə tutula bilər.
 - 602.2. Əşyanı sığorta etdirməyə borclu olan tərəf müqavilənin şərtlərinə uyğun sığortanı həyata keçirmədikdə digər tərəf əşyanı sığorta etdirə və borclu tərəfdən sığortaya çəkdiyi xərclərin əvəzini ödəməyi tələb edə bilər və ya müqavilənin icrasından imtina edə bilər.
 
-#### Maddə 603. Mülkiyyət hüququnun satıcıda saxlanması – çıxarılmışdır.
+#### Maddə 603. Mülkiyyət hüququnun satıcıda saxlanması
+– çıxarılmışdır.
 
 #### Maddə 604. Oxşar müqavilələr
 Hazırlanmalı və ya istehsal edilməli malların göndərilməsinə dair müqavilələr, əgər sifarişçi həmin malların hazırlanması və ya istehsalı üçün zəruri materialların mühüm hissəsini göndərməyi öz öhdəsinə götürürsə, habelə əgər mal göndərən tərəfin vəzifələrinin daha böyük hissəsi işlərin görülməsindən və ya başqa xidmətlərin göstərilməsindən ibarət deyildirsə, alğı-satqı müqavilələrinə bərabər tutulur.
@@ -3370,22 +3378,21 @@ Hazırlanmalı və ya istehsal edilməli malların göndərilməsinə dair müqa
 - 607.1. Əgər icraat çərçivəsində satış həyata keçirilirsə, satışı həyata keçirməyə və ya ona rəhbərlik etməyə ixtiyarı çatan şəxsə və onun cəlb etdiyi köməkçilərə, o cümlədən protokolu tərtib edən katibə satışa çıxarılmış obyekti nə şəxsən və ya başqa şəxs vasitəsilə özü üçün, nə də təmsil etdiyi digər şəxslər üçün almağa icazə verilmir. İcraat çərçivəsindən kənarda satış həyata keçirilərkən eyni qayda tətbiq edilir. Bu zaman satış tapşırığı zaminə obyektin satışını üçüncü şəxsin hesabına həyata keçirmək səlahiyyəti verən qanuni göstəriş əsasında verilir. Eyni qayda ödəniş qabiliyyətinin olmadığı halda icraat zamanı idarəçinin həyata keçirdiyi satışda da tətbiq edilir.
 - 607.2. Bu Məcəllənin 607.1-ci maddəsinin tələbləri pozulmaqla həyata keçirilmiş alğı bu şərtlə etibarlıdır ki, satışın borclular, mülkiyyətçilər və ya kreditorlar kimi çıxış edən iştirakçıları onunla razılaşsınlar.
 
-### § 2. Heyvanların, quşların və balıqların alğı-satqısı
-
+## § 2. Heyvanların, quşların və balıqların alğı-satqısı
 #### Maddə 608. Alğı-satqı haqqında müddəaların tətbiqi
 Əgər bu paraqrafın aşağıdakı müddəalarından ayrı qayda irəli gəlmirsə, heyvanların, quşların və balıqların alğı-satqısına əşyaların alğı-satqısı haqqında ümumi müddəalar tətbiq edilir.
 
 #### Maddə 609. Heyvan, quş və balıq satıcısının məsuliyyətinin başlıca qüsurlarla məhdudlaşdırılması
 - 609.1. Heyvan, quş və balıq satıcısı yalnız müqaviləyə aşağıda müəyyənləşdirilmiş uyğunsuzluqlar (başlıca qüsurlar) üçün və yalnız bu qüsurların konkret müddətlər (qarantiya müddətləri) ərzində aşkara çıxdığı halda məsuliyyət daşıyır.
 - 609.2. Faydalı və damazlıq heyvanların satıldığı halda aşağıdakılar başlıca qüsurlar sayılır:
-  - 609.2.1. cıdır və yük heyvanlarında - manqo, şüurun azalması ilə baş beyinin sağalmaz xəstəliyi, qırtlağın və ya traxeyanın və ya ağ ciyərlərin və ya ürəyin sağalmaz xəstəliyi nəticəsində tənəffüsün çətinləşməsi, habelə gözün daxili orqanlarının iltihablı dəyişməsi - 14 günlük qarantiya müddəti ilə;
-  - 609.2.2. qaramalda - heyvanın vəziyyəti ümumən pisləşməklə vərəm xəstəliyi - 14 günlük qarantiya müddəti ilə, habelə ağ ciyərlərin tam iltihabı - 28 günlük qarantiya müddəti ilə;
-  - 609.2.3. davarda - qoturluq - 14 günlük qarantiya müddəti ilə, qızıl yel - 3 günlük qarantiya müddəti ilə; taun - 10 günlük qarantiya müddəti ilə.
+    - 609.2.1. cıdır və yük heyvanlarında - manqo, şüurun azalması ilə baş beyinin sağalmaz xəstəliyi, qırtlağın və ya traxeyanın və ya ağ ciyərlərin və ya ürəyin sağalmaz xəstəliyi nəticəsində tənəffüsün çətinləşməsi, habelə gözün daxili orqanlarının iltihablı dəyişməsi - 14 günlük qarantiya müddəti ilə;
+    - 609.2.2. qaramalda - heyvanın vəziyyəti ümumən pisləşməklə vərəm xəstəliyi - 14 günlük qarantiya müddəti ilə, habelə ağ ciyərlərin tam iltihabı - 28 günlük qarantiya müddəti ilə;
+    - 609.2.3. davarda - qoturluq - 14 günlük qarantiya müddəti ilə, qızıl yel - 3 günlük qarantiya müddəti ilə; taun - 10 günlük qarantiya müddəti ilə.
 - 609.3. Qida məhsulları əldə etmək məqsədilə heyvanların kəsilmək üçün satıldığı halda aşağıdakılar başlıca qüsurlar sayılır:
-  - 609.3.1. cıdır və yük heyvanlarında - manqo - 14 günlük qarantiya müddəti ilə;
-  - 609.3.2. qaramalda - heyvanın çəkisinin yarıdan çoxunu insanın qidalanması üçün yararsız etmiş vərəm xəstəliyi - 14 günlük qarantiya müddəti ilə;
-  - 609.3.3. qoyunlarda və keçilərdə - ümumi hidropos - 14 günlük qarantiya müddəti ilə;
-  - 609.3.4. donuzlarda - heyvanın çəkisinin yarıdan çoxunu insanın qidalanması üçün yararsız etmiş vərəm xəstəliyi - 14 günlük qarantiya müddəti ilə, habelə trixin - 14 günlük qarantiya müddəti ilə.
+    - 609.3.1. cıdır və yük heyvanlarında - manqo - 14 günlük qarantiya müddəti ilə;
+    - 609.3.2. qaramalda - heyvanın çəkisinin yarıdan çoxunu insanın qidalanması üçün yararsız etmiş vərəm xəstəliyi - 14 günlük qarantiya müddəti ilə;
+    - 609.3.3. qoyunlarda və keçilərdə - ümumi hidropos - 14 günlük qarantiya müddəti ilə;
+    - 609.3.4. donuzlarda - heyvanın çəkisinin yarıdan çoxunu insanın qidalanması üçün yararsız etmiş vərəm xəstəliyi - 14 günlük qarantiya müddəti ilə, habelə trixin - 14 günlük qarantiya müddəti ilə.
 - 609.4. Digər heyvanlar, quşlar və balıqlar satılarkən başlıca qüsurlar müvafiq icra hakimiyyəti orqanı tərəfindən, normativ hüquqi aktlar olmadıqda isə müqavilə ilə müəyyənləşdirilir.
 - 609.5. Qarantiya müddəti riskin alıcıya keçdiyi günün sonundan başlanır.
 
@@ -3397,9 +3404,9 @@ Qarantiya müddəti ərzində hər hansı başlıca qüsur aşkar edildikdə eht
 
 #### Maddə 612. Heyvan, quş və balıq alıcısının hüquqi müdafiəsi vasitələri
 - 612.1. Heyvanlarda, quşlarda və balıqlarda başlıca qüsurların olması nəticəsində alıcı yalnız müqavilənin ləğvini tələb edə bilər, qiymətin azaldılmasını isə tələb edə bilməz.
-  - 612.1.1. Bu halda alıcı cavabdeh olmadığı hallarla əlaqədar heyvanı, quşu və ya balığı qaytara bilmədikdə, o cümlədən başqasına satması, onun tələf olması, xəstələnməsi və ya kəsilməsi nəticəsində qaytara bilmədikdə də müqavilənin ləğvini tələb edə bilər. Heyvanın, quşun və ya balığın kəsildiyi halda alıcı onu qaytarmaq əvəzinə dəyərini ödəyir.
-  - 612.1.2. Əgər müqavilə ləğv edilənədək alıcının cavabdeh olduğu hallar nəticəsində heyvanın, quşun və ya balığın vəziyyəti əhəmiyyətsiz dərəcədə pisləşmişdirsə, alıcı onun dəyərinin azalmasını kompensasiya etməlidir. Heyvandan, quşdan və ya balıqdan istifadə nəticəsində hər hansı faydanın əvəzini alıcı yalnız bu cür faydanı əldə etmiş olduğu halda ödəyir.
-  - 612.1.3. Müqavilənin ləğv edildiyi halda satıcı alıcıya heyvanın yemlənməsinə və bəslənməsinə, baytarlıq müayinələrinə və qulluğuna çəkilmiş xərclərin, habelə heyvanın məcburən öldürülməsinə və uzaqlaşdırılmasına çəkilmiş xərclərin əvəzini ödəməlidir.
+    - 612.1.1. Bu halda alıcı cavabdeh olmadığı hallarla əlaqədar heyvanı, quşu və ya balığı qaytara bilmədikdə, o cümlədən başqasına satması, onun tələf olması, xəstələnməsi və ya kəsilməsi nəticəsində qaytara bilmədikdə də müqavilənin ləğvini tələb edə bilər. Heyvanın, quşun və ya balığın kəsildiyi halda alıcı onu qaytarmaq əvəzinə dəyərini ödəyir.
+    - 612.1.2. Əgər müqavilə ləğv edilənədək alıcının cavabdeh olduğu hallar nəticəsində heyvanın, quşun və ya balığın vəziyyəti əhəmiyyətsiz dərəcədə pisləşmişdirsə, alıcı onun dəyərinin azalmasını kompensasiya etməlidir. Heyvandan, quşdan və ya balıqdan istifadə nəticəsində hər hansı faydanın əvəzini alıcı yalnız bu cür faydanı əldə etmiş olduğu halda ödəyir.
+    - 612.1.3. Müqavilənin ləğv edildiyi halda satıcı alıcıya heyvanın yemlənməsinə və bəslənməsinə, baytarlıq müayinələrinə və qulluğuna çəkilmiş xərclərin, habelə heyvanın məcburən öldürülməsinə və uzaqlaşdırılmasına çəkilmiş xərclərin əvəzini ödəməlidir.
 - 612.2. Müəyyən cins əlamətləri olan heyvan, quş və ya balıq alıcısı müqavilənin ləğvi əvəzinə tələb edə bilər ki, müqaviləyə uyğun gəlməyən heyvanın, quşun və ya balığın əvəzinə ona müqaviləyə uyğun gələn heyvan verilsin.
 - 612.3. Əgər satıcı heyvanın, quşun və ya balığın hər hansı başlıca qüsurlarının olmadığına və ya hər hansı konkret xassələrinin olduğuna xüsusi qarantiya verirsə və onlar bu qarantiyaya uyğun gəlmirsə, alıcı müqavilənin ləğvini və ya icra edilməmə nəticəsində dəyən zərərin əvəzinin ödənilməsini tələb edə bilər.
 
@@ -3407,15 +3414,14 @@ Qarantiya müddəti ərzində hər hansı başlıca qüsur aşkar edildikdə eht
 - 613.1. Alıcı hər hansı başlıca qüsur əsasında ona mənsub hüquqlardan o halda məhrum olur ki, qarantiya müddəti qurtardıqdan sonra üç gündən gec olmayaraq və ya əgər heyvan, quş və ya balıq həmin müddət bitənədək öldürülərsə və ya digər şəkildə tələf olarsa, heyvanın, quşun və ya balığın ölümündən sonra satıcıya bu qüsur barəsində məlumat vermir və ya ona bu barədə bildiriş göndərmir və ya qüsur əsasında ona qarşı iddia irəli sürmür. Əgər satıcı bu qüsur barəsində qəsdən susmuşdursa, hüquq itmir.
 - 613.2. Satıcının müqavilənin ləğv edilməsi, dəyişdirmə üçün göndərilmə və ya zərərin əvəzinin ödənilməsi hüquqları qarantiya müddəti qurtardıqdan iki ay sonra müddətin keçməsinə görə qüvvədən düşür.
 
-### § 3. Pərakəndə alğı-satqı
-
+## § 3. Pərakəndə alğı-satqı
 #### Maddə 614. Pərakəndə alğı-satqı müqaviləsi
 - 614.1. Pərakəndə alğı-satqı müqaviləsinə görə malların pərakəndə satışı üzrə sahibkarlıq fəaliyyətini həyata keçirən satıcı sahibkarlıq fəaliyyəti ilə bağlı olmayan şəxsi, ailə, ev və ya digər istifadə üçün nəzərdə tutulan malı alıcıya verməyi öhdəsinə götürür.
 - 614.2. Çıxarılmışdır.
 - 614.3. Fiziki şəxs olan alıcının iştirakı ilə pərakəndə alğı-satqı müqaviləsi ilə əlaqədar bu Məcəllə ilə tənzimlənməyən münasibətlərə istehlakçıların hüquqlarının qorunması haqqında qanun və ona uyğun qəbul edilmiş digər normativ hüquqi aktlar tətbiq edilir.
 
 #### Maddə 615. Pərakəndə alğı-satqı müqaviləsinin forması
-Əgər pərakəndə alğı-satqı müqaviləsində, o cümlədən alıcının qoşulduğu standart formaların şərtlərində ayrı qayda nəzərdə tutulmayıbsa, pərakəndə alğı-satqı müqaviləsi satıcının alıcıya kassa və ya əmtəə çekini və ya malın ödənildiyini təsdiq edən digər sənədi verdiyi andan lazımi formada bağlanmış sayılır.
+Əgər pərakəndə alğı-satqı müqaviləsində, o cümlədən alıcının qoşulduğu standart formaların şərtlərində ayrı qayda nəzərdə tutulmayıbsa, pərakəndə alğı-satqı müqaviləsi satıcının alıcıya kassa və ya əmtəə çekini və ya malın ödənildiyini təsdiq edən digər sənədi verdiyi андan lazımi formada bağlanmış sayılır.
 
 #### Maddə 616. Malın ümumi ofertası
 - 616.1. Malın qeyri-müəyyən şəxslər dairəsinə ünvanlanmış reklamda, kataloqlarda və malların təsvirlərində təklif edilməsi, əgər bu, pərakəndə alğı-satqı müqaviləsinin bütün mühüm şərtlərini əhatə edirsə, ümumi oferta (maddə 408.8) sayılır.
@@ -3423,7 +3429,7 @@ Qarantiya müddəti ərzində hər hansı başlıca qüsur aşkar edildikdə eht
 
 #### Maddə 617. Mal haqqında informasiya verilməsi
 - 617.1. Satıcı satışa təklif edilən mal haqqında alıcıya qanunvericilikdə müəyyənləşdirilmiş və pərakəndə ticarətdə adətən irəli sürülən tələblərə uyğun olan zəruri və düzgün informasiya verməyə borcludur.
-- 617.2. Pərakəndə alğı-satqı müqaviləsi bağlananadək alıcının malı gözdən keçirmək, öz yanında malın xassələrinin yoxlanılmasını və ya ondan istifadənin nümayiş olunmasını tələb etmək ixtiyarı vardır, bir şərtlə ki, bu, malın xarakterinə görə istisna edilməsin və pərakəndə ticarətdə qəbul edilmiş qaydalara zidd olmasın.
+- 617.2. Pərakəndə alğı-satqı müqaviləsi bağlananaDƏK alıcının malı gözdən keçirmək, öz yanında malın xassələrinin yoxlanılmasını və ya ondan istifadənin nümayiş olunmasını tələb etmək ixtiyarı vardır, bir şərtlə ki, bu, malın xarakterinə görə istisna edilməsin və pərakəndə ticarətdə qəbul edilmiş qaydalara zidd olmasın.
 - 617.3. Alıcıya bu Məcəllənin 617.1 və 617.2-ci maddələrində göstərilmiş mala dair məlumatı satış yerində dərhal almaq imkanı verilmədikdə o, satıcıdan pərakəndə alğı-satqı müqaviləsinin bağlanmasından əsassız boyun qaçırılması nəticəsində dəyən zərərin əvəzini ödəməyi tələb edə bilər, müqavilə bağlanmış olduqda isə ağlabatan müddətdə müqavilənin icrasından imtina edə bilər, mal üçün ödədiyi məbləğin geri qaytarılmasını və digər zərərin əvəzinin ödənilməsini tələb edə bilər.
 - 617.4. Alıcıya mal haqqında müvafiq informasiya almaq imkanı verməyən satıcı malın alıcıya verilməsindən sonra əmələ gəlmiş qüsurları üçün də məsuliyyət daşıyır, bu şərtlə ki, alıcı həmin qüsurların onda belə informasiyanın olmaması ilə əlaqədar əmələ gəldiyini sübuta yetirsin.
 
@@ -3470,8 +3476,7 @@ Qarantiya müddəti ərzində hər hansı başlıca qüsur aşkar edildikdə eht
 - 625.3. Malın alış qiymətinin mütənasib surətdə azaldılması tələbinin irəli sürüldüyü halda malın həmin tələbin irəli sürüldüyü an üçün qiyməti, alıcının tələbi könüllü surətdə yerinə yetirilmədikdə isə məhkəmə tərəfindən qiymətin mütənasib surətdə azaldılmasına dair qərarın çıxarıldığı gün üçün qiyməti hesaba alınır.
 - 625.4. Lazımi keyfiyyətli olmayan malı satıcıya qaytararkən alıcı malın pərakəndə alğı-satqı müqaviləsində müəyyənləşdirilmiş qiyməti ilə onun tələbinin könüllü surətdə yerinə yetirildiyi an üçün, tələb könüllü surətdə yerinə yetirilmədikdə isə məhkəmə qərarının çıxarıldığı gün üçün müvafiq malın qiyməti arasındakı fərqin ödənilməsini tələb edə bilər.
 #### Maddə 626. Satıcının məsuliyyəti və öhdəliyin naturada icrası – çıxarılmışdır.
-
-### § 4. Malların göndərilməsi
+## § 4. Malların göndərilməsi
 #### Maddə 627. Göndərmə müqaviləsi
 - 627.1. Göndərmə müqaviləsinə görə mal göndərən - sahibkarlıq fəaliyyətini həyata keçirən satıcı istehsal etdiyi və ya satın aldığı malları sahibkarlıq fəaliyyətində və ya şəxsi, ailə, ev və digər bu cür istifadə ilə bağlı olmayan başqa məqsədlər üçün istifadə edilməkdən ötrü şərtləşdirilmiş müddətdə və ya müddətlərdə alıcıya verməyi öhdəsinə götürür.
 - 627.2. Çıxarılmışdır.
@@ -3538,8 +3543,7 @@ Malların tam göndərilməməsi və ya göndərilməsinin gecikdirilməsi üç�
 - 645.3. Əgər bu Məcəllənin 645.1. və 645.2-ci maddələrində nəzərdə tutulan əsaslar üzrə müqavilə ləğv edildikdən sonra onun əvəzinə başqa əqd bağlanmamışsa və həmin malın cari qiyməti varsa, tərəf müqavilədə müəyyənləşdirilmiş qiymətlə müqavilənin ləğv edildiyi məqamdakı cari qiymət arasındakı fərq şəklində zərərin əvəzinin ödənilməsi tələbini irəli sürə bilər.
 - 645.4. Malın verilməli olduğu yerdə oxşar mal üçün müqayisəyə gələn şəraitdə adətən alınmış qiymət cari qiymət sayılır. Əgər həmin yerdə cari qiymət yoxdursa, başqa yerdə tətbiq edilən, ağlabatan əvəz ola bilən cari qiymət, malın nəql edilməsi xərclərindəki fərq nəzərə alınmaqla, tətbiq edilə bilər.
 - 645.5. Bu Məcəllənin 645.1.-645.4-cü maddələrində nəzərdə tutulan tələblərin yerinə yetirilməsi öhdəliyi icra etməmiş və ya lazımınca icra etməmiş tərəfi digər tərəfə vurulmuş başqa zərərin əvəzini ödəməkdən azad etmir.
-
-### § 5. Daşınmaz əşyaların alğı-satqısı
+## § 5. Daşınmaz əşyaların alğı-satqısı
 #### Maddə 646. Daşınmaz əşyaların alğı-satqısı müqaviləsi
 - 646.1. Daşınmaz əşyaların alğı-satqısı müqaviləsinə görə satıcı torpaq sahəsini, evi, binanı, qurğunu, mənzili və ya digər daşınmaz əşyanı alıcının mülkiyyətinə verməyi öhdəsinə götürür.
 - 646.2. Əgər bu Məcəllənin bu paraqrafının aşağıdakı müddəalarından ayrı qayda irəli gəlmirsə, daşınmaz əşyaların alğı-satqısına əşyaların alğı-satqısı haqqında ümumi müddəalar müvafiq surətdə tətbiq edilir.
@@ -3553,19 +3557,17 @@ Alğı-satqı müqaviləsinin notariat qaydasında təsdiqlənməsi və daşınm
 Satılmış daşınmaz əşyanın uyğunsuzluğu müqaviləyə uyğun olmamasından savayı həmin əşyaya aid artıq mövcud olmayan hüquqların daşınmaz əmlakın dövlət reyestrində göstərildiyi halda da baş verir.
 #### Maddə 650. Daşınmaz əşyaların alğı-satqısı haqqında müddəaların rəsmi reyestrlərdə qeydə alınması tələb edilən daşınar əşyaların alğı-satqısına tətbiqi
 Rəsmi reyestrlərdə qeydə alınması tələb edilən daşınar əşyalara daşınmaz əşyaların alğı-satqısı haqqında göstərişlər müvafiq surətdə tətbiq edilir.
-
-### § 6. Tələblərin və digər hüquqların alğı-satqısı
+## § 6. Tələblərin və digər hüquqların alğı-satqısı
 #### Maddə 651. Əşyaların alğı-satqısı haqqında müddəaların tələblərin və digər hüquqların alğı-satqısına tətbiqi
 Tələblərin və digər hüquqların alğı-satqısına əşyaların alğı-satqısı haqqında göstərişlər müvafiq surətdə tətbiq edilir. Rəsmi reyestrlərdə qeydə alınmış daşınmaz əşyalara və obyektlərə hüquqların satıldığı hallarda bu Məcəllənin 646 - 650-ci maddələri müvafiq surətdə tətbiq edilir.
 #### Maddə 652. Hüququn keçirilməsi (tələbin güzəşti)
 Hüququn satıldığı halda göndərmə və qəbul hüququn keçirilməsindən (tələbin güzəştindən) ibarət olur. Satıcıda olan hüququn əsaslandırılması və alıcıya keçirilməsi xərclərini satıcı çəkir.
 #### Maddə 653. Əşyaya sahiblik hüquqlarının satılması
-Əşyaya sahiblik səlahiyyəti verən hüququn satıldığı halda satıcı alıcıya qüsurlardan, habelə üçüncü şəxslərin hüquqlarından və iddialarından azad əşya göndərməyə borcdur.
+Əşyaya sahiblik səlahiyyəti verən hüququn satıldığı halda satıcı alıcıya qüsurlardan, habelə üçüncü şəxslərin hüquqlarından və iddialarından azad əşya göndərməyə borcludur.
 #### Maddə 654. Hüquqların və tələblərin alğı-satqısı zamanı satıcının məsuliyyəti
 - 654.1. Hər hansı tələbin və hər hansı digər hüququn satıcısı həmin tələbin və ya hüququn həqiqətən mövcud olmasına cavabdehdir. Qiymətli kağızın satıcısı belə bir məsuliyyət də daşıyır ki, həmin qiymətli kağızın etibarsızlığına səbəb ola biləcək hansısa icraata başlanılmayacaqdır.
 - 654.2. Əgər hər hansı tələbin satıcısı borclunun ödəniş qabiliyyəti üçün məsuliyyəti öz öhdəsinə götürürsə, hesab edilir ki, həmin məsuliyyət bu tələbin güzəşt edildiyi an üçün ödəniş qabiliyyətinə aiddir.
-
-### § 7. Faktorinq
+## § 7. Faktorinq
 #### Maddə 655. Faktorinq müqaviləsi
 - 655.1. Faktorinq pul tələbinin güzəşt edilməsi müqabilində maliyyələşdirmədir. Faktorinq müqaviləsinə görə bir tərəf (faktor) üçüncü şəxs (borclu) barəsində müştərinin (kreditorun) üçüncü şəxsə mal verməsindən, işlər görməsindən və ya xidmətlər göstərməsindən irəli gələn pul tələbinin hesabına digər tərəfə (müştəriyə) pul vəsaiti verir və ya verməyi öhdəsinə götürür, müştəri isə bu pul tələbini faktora güzəşt edir və ya güzəşt etməyi öhdəsinə götürür.
 - 655.2. Pul tələblərinin güzəşti barəsində borcluya bildiriş verilməlidir.
@@ -3586,14 +3588,12 @@ Hüququn satıldığı halda göndərmə və qəbul hüququn keçirilməsindən 
 - 657.8. Mal göndərənin alğı-satqı müqaviləsi üzrə öhdəlikləri icra etməməsi, lazımınca icra etməməsi və ya icranı gecikdirməsi özlüyündə borcluya faktora ödədiyi məbləğin qaytarılmasını tələb etmək hüququ vermir. Əgər borclu hər hansı tələb üzrə faktora ödədiyi məbləğin qaytarılmasını tələb etmək hüququna malikdirsə, faktordan həmin məbləğin qaytarılmasını yalnız o halda tələb edə bilər ki, faktor bu tələb üzrə mal göndərənə ödəmə öhdəliyini icra etməsin və ya borclunun ödənişinin aid edildiyi mallar barəsində müqavilənin müştəri tərəfindən yerinə yetirilmədiyini, lazımınca yerinə yetirilmədiyini və ya yerinə yetirilməsinin gecikdirildiyini bildiyi məqamda icra etsin.
 - 657.9. Əgər müştəri faktorinq müqaviləsi əsasında hər hansı tələbi faktora güzəşt edirsə, onda əvvələn, faktor tərəfindən tələbin hər hansı növbəti güzəştinə və ya hər hansı sonrakı tələb alana bu Məcəllənin 657.4 - 657.8-ci maddələri elə tərzdə tətbiq edilir ki, sonrakı tələb alan sanki faktordur, ikincisi isə, növbəti güzəşt haqqında borcluya ünvanlanmış bildiriş həm də faktora ünvanlanmış bildiriş olur.
 - 657.10. Bu Məcəllənin bu paraqrafının müddəaları faktorinq müqaviləsi ilə qadağan olunmuş sonrakı güzəştə tətbiq edilmir.
-
-### § 8. Sınama üçün alğı-satqı
+## § 8. Sınama üçün alğı-satqı
 #### Maddə 658. Sınama üçün alğı-satqı müqaviləsi
 - 658.1. Sınama və ya yoxlama üçün alğı-satqı müqaviləsi alıcının həmin predmeti almağa razılıq verdiyi vaxtadək təxirəsalıcı şərtlə bağlanan alğı-satqı müqaviləsidir.
 - 658.2. Sınama üçün alğı-satqı müqaviləsinə görə satıcı alıcıya predmeti gözdən keçirməyə icazə verməlidir.
 - 658.3. Çıxarılmışdır.
 - 658.4. Alıcı sınama və ya yoxlama üçün aldığı predmet barəsində razılığını yalnız müəyyənləşdirilmiş müddət ərzində, bu müddət müəyyənləşdirilmədikdə isə yalnız satıcının alıcı üçün müəyyənləşdirdiyi ağlabatan müddət bitənədək bildirə bilər. Əgər əşya sınama və ya gözdən keçirmə üçün artıq alıcıya verilmişdirsə, onun susması razılıq kimi qiymətləndirilir.
-
 ### 30-cu fəsil. Satın almaqda üstünlük hüququ və digər üstünlük hüquqları
 #### Maddə 659. Satın almaqda üstünlük hüququ və digər üstünlük hüquqları haqqında ümumi müddəalar
 - 659.1. Satın almaqda üstünlük hüququ və hər hansı əşyaya və ya hər hansı hüquqa digər üstünlük hüquqları qanuna görə və ya müqavilə əsasında əmələ gələ bilər. Əgər belə hüquqlar müqaviləyə əsaslanırsa, yalnız müqavilə iştirakçılarını mükəlləfiyyətli edir və həmin əşyanı və ya həmin hüququ arxayın əldə etmiş üçüncü şəxslərə qarşı qoyula bilməz.
@@ -3601,7 +3601,7 @@ Hüququn satıldığı halda göndərmə və qəbul hüququn keçirilməsindən 
 - 659.3. Satın almaqda üstünlük hüququnun və digər üstünlük hüquqlarının aşağıdakı hallarda qüvvəsi yoxdur:
   - 659.3.1. onlar başqasına verilməsi normativ hüquqi aktlarda nəzərdə tutulmuş xüsusi prosedurlarla tənzimlənən obyektlərə və ya hüquqlara aid olduqda;
   - 659.3.2. icraat çərçivəsində, o cümlədən məcburi auksion satışı çərçivəsində satış halında.
-- 659.4. Əgər satın almaqda hər hansı üstünlük hüququnun və digər üstünlük hüququnun qüvvəsi yoxdursa, belə hüququn verilməsi üçün ödənilmiş haqqın əvəzi, o cümlədən onun ödənildiyi gündən qanunla müəyyənləşdirilmiş faizlər ödənilməlidir.
+- 659.4. Əgər satın almaqda hər hansı üstünlük hüququ və müqaviləyə əsaslanan digər üstünlük hüquqları qıt olan ən zəruri əşyalara və hüquqlara aiddirsə, maraqlı şəxslər onların etibarlığı barəsində mübahisə edə bilərlər.
 - 659.5. Əgər satın almaqda hər hansı üstünlük hüququnun və digər üstünlük hüququnun qüvvəsi yoxdursa, belə hüququn verilməsi üçün ödənilmiş haqqın əvəzi, o cümlədən onun ödənildiyi gündən qanunla müəyyənləşdirilmiş faizlər ödənilməlidir.
 #### Maddə 660. Satın almaqda üstünlük hüququ
 - 660.1. Hər hansı obyekti üstün satın almağa ixtiyar verilmiş şəxs bu hüququnu satın almaqda üstünlük hüququ üzrə mükəlləfiyyətli olan şəxs həmin obyektin alğı-satqısı barədə hər hansı üçüncü şəxslə müqavilə bağladıqdan sonra həyata keçirə bilər.
@@ -3614,7 +3614,6 @@ Hüququn satıldığı halda göndərmə və qəbul hüququn keçirilməsindən 
 - 660.8. Ayrı şərt qoyulmayıbsa, satın almaqda üstünlük hüququ ixtiyarlı şəxsin vərəsələrinə verilmir və keçmir. Hüquq konkret müddətlə məhdudlaşdırıldıqda, o, şübhə halında vərəsəlik üzrə verilir.
 #### Maddə 661. Digər üstünlük hüquqları
 Tətbiq edilə bildiyi halda bu Məcəllənin 659 və 660-cı maddələrinin müddəaları müvafiq olaraq digər üstünlük hüquqları, o cümlədən satılmış əşyanın yenidən alınması (satın alınması) hüququ və kirayəyə və ya icarəyə götürməkdə üstünlük hüquqları üçün etibarlıdır.
-
 ### 31-ci fəsil. Dəyişdirmə
 #### Maddə 662. Dəyişdirmə müqaviləsi
 - 662.1. Dəyişdirmə müqaviləsinə görə tərəflərdən hər biri başqa tərəfin mülkiyyətinə bir əşyanın müqabilində digər əşyanı verməyi öhdəsinə götürür.
@@ -3627,7 +3626,6 @@ Tətbiq edilə bildiyi halda bu Məcəllənin 659 və 660-cı maddələrinin mü
 Dəyişdirmə müqaviləsinə uyğun olaraq dəyişdirilən malların verilməsi müddətləri üst-üstə düşmədikdə digər tərəf malı verdikdən sonra malı verməli olan tərəfin malı vermək öhdəliyinin icrasına öhdəliklərin qarşılıqlı icrası haqqında qaydalar tətbiq edilir.
 #### Maddə 665. Dəyişdirilən mallara mülkiyyət hüququnun keçməsi
 Əgər dəyişdirmə müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, dəyişdirilən mallara mülkiyyət hüququ dəyişdirmə müqaviləsi üzrə alıcı kimi çıxış edən tərəflərə hər iki tərəf müvafiq malları vermək öhdəliklərini icra etdikdən sonra eyni vaxtda keçir.
-
 ### 32-ci fəsil. Bağışlama
 #### Maddə 666. Bağışlama müqaviləsi
 - 666.1. Bağışlama müqaviləsi sağ ikən bağlanan elə müqavilədir ki, onun əsasında hədiyyə verən öz əmlakının bir hissəsini bağışlamaqla hədiyyə alanı zənginləşdirir, həm də bu cür bağışlama hədiyyə alan tərəfindən heç bir cavab xidməti ilə şərtləndirilmir. Bağışlama müqaviləsi hədiyyə alanın hədiyyəni qəbul etməsi ilə bağlanmış sayılır. Əgər bağışlama öhdəliklə şərtləndirilməyibsə, hədiyyənin qəbul edildiyi ehtimal olunur.
@@ -3695,7 +3693,7 @@ Hədiyyə verən hədiyyə alanın ondan qabaq ölməsi halı üçün bağışla
   - 677.1.1. əgər müqaviləyə uyğunsuzluğu nəticəsində əşya məhv olarsa və ya onun müqavilə üzrə müəyyənləşdirilmiş istifadəyə yararlığı azalarsa, əşyanın yararlığının itdiyi müddət üçün kirayəçi kirayə haqqını ödəməkdən azad edilir, onun yararlığının azaldığı müddət üçün isə yalnız kirayə haqqının bir hissəsini ödəməyə borclu olur. Yararlığın əhəmiyyətsiz dərəcədə azalması hesaba alınmır. Yaşayış otağının kirayəsi müqaviləsində kirayəçinin ziyanına olaraq bundan kənaraçıxmaların qüvvəsi yoxdur;
   - 677.1.2. əgər müqaviləyə hər hansı uyğunsuzluq onun bağlandığı məqamda məlum olarsa və ya belə uyğunsuzluq kirayəyə verənin cavabdeh olduğu hansısa hal nəticəsində sonradan əmələ gələrsə və ya kirayəyə verən həmin uyğunsuzluğun aradan qaldırılmasını gecikdirərsə, kirayəçi bu Məcəllənin 677.1.1-ci maddəsinə əlavə olaraq öhdəliyin icra edilməməsi nəticəsində dəyən zərərin əvəzini ödəməyi tələb edə bilər;
   - 677.1.3. bundan savayı, kirayəyə verənin gecikdirməsi halında kirayəçi qüsuru özü aradan qaldıra bilər və çəkdiyi zəruri xərclərin əvəzini ödəməyi tələb edə bilər;
-  - 677.1.4. əgər kirayəçi kirayəyə götürdüyü əşyanı tamamilə və ya qismən müqavilə üzrə istifadəyə müəyyənləşdirilmiş müddətdə almırsa və ya əşya ondan götürülürsə və ya əhəmiyyətli dərəcədə pisləşirsə, kirayəyə verən isə gecikdirməyə yol verirsə, kirayəçi xəbərdarlıq müddətini gözləmədən müqaviləni ləğv edə bilər. İstifadəyə əhəmiyyətsiz maneə və ya istifadədən məhrumetmə nəticəsində müqavilənin ləğvinə yalnız o halda yol verilir ki, kirayəçinin xüsusi mənafeləri buna haqq qazandırsın. Əgər kirayəyə verən əşyanı vaxtında istifadəyə verdiyinə və ya qüsuru müəyyənləşdirilmiş müddət bitənədək aradan qaldırdığına əsaslanaraq müqavilənin ləğvinə yol verilə bilməsi barədə mübahisə edirsə, o bunları sübut etməlidir. Yaşayış otağının kirayəsi üzrə hüquq münasibətlərində müqaviləni ləğv etmək hüququnu istisna edən və ya məhdudlaşdıran razılaşmanın qüvvəsi yoxdur.
+  - 677.1.4. əgər kirayəçi kirayəyə götürdüyü əşyanı tamamilə və ya qismən müqavilə üzrə istifadəyə müəyyənləşdirilmiş müddətdə almırsa və ya əşya ondan götürülürsə və ya əhəmiyyətli dərəcədə pisləşirsə, kirayəyə verən isə gecikdirməyə yol verirsə, kirayəçi xəbərdarlıq müddətini gözləmədən müqaviləni ləğv edə bilər. İstifadəyə əhəmiyyətsiz maneə və ya istifadədən məhrumetmə nəticəsində müqavilənin ləğvinə yalnız o halda yol verilir ki, kirayəçinin xüsusi mənafeləri buna haqq qazandırsın. Əgər kirayəyə verən əşyanı vaxtında istifadəyə verdiyinə və ya qüsuru müəyyənləşdirilmiş müddət bitənədək aradan qaldırdığına əsaslanaraq müqavilənin ləğvinə yol verilə bilməsi barədə mübahisə edirsə, o bunları sübut etməlidir. Yaşayış otağının kirayəsi müqaviləsində kirayəçinin ziyanına olaraq bundan kənaraçıxmaların qüvvəsi yoxdur.
 - 677.2. Əgər kirayəyə götürülən əşyanın müqaviləyə uyğunsuzluğu kirayəçiyə müqavilə bağlanarkən məlum olmuşsa, o bu Məcəllənin 677.1-ci maddəsində müəyyənləşdirilmiş hüquqlardan istifadə edə bilməz. Əgər kirayəçi qüsuru bilə-bilə müqavilənin şərtlərinə uyğun gəlməyən əşyanı qəbul edirsə, bu hüquqlardan yalnız o halda istifadə edə bilər ki, əşyanı qəbul edərkən onları həyata keçirmək hüququnu özündə saxlamış olsun. Bu (677.2) maddənin müddəaları bu Məcəllənin 677.1.4-cü maddəsinə uyğun olaraq, müqavilənin pozuntularına tətbiq edilmir.
 - 677.3. Kirayəçi kirayə müddəti ərzində aşkar etdiyi müqaviləyə hər hansı uyğunsuzluqlar barəsində və ya əşyanı və ya onun istifadəçilərini gözlənilməz təhlükədən qorumaq üçün tədbirlər görülməsi zərurəti barəsində kirayəyə verənə dərhal bildiriş verməlidir. Bu, əşya barəsində üçüncü şəxslərin hüquqlarının bəyan edildiyi hallarda da qüvvədədir. Əgər kirayəçi bildiriş vermirsə, bunun nəticəsində əmələ gələn zərərin əvəzini ödəməyə borcludur; kirayəyə verən kirayəçinin bildiriş verməməsi üzündən hər hansı qüsuru aradan qaldıra bilmədikdə, kirayəçinin bu Məcəllənin 677.1-ci maddəsində müəyyənləşdirilmiş hüquqları həyata keçirmək hüququ yoxdur.
 - 677.4. Kirayəyə verəni kirayəyə verilmiş əşyanın qüsurları üçün məsuliyyətdən azad edən və ya bu məsuliyyəti məhdudlaşdıran razılaşmanın qüvvəsi yoxdur, bu şərtlə ki, kirayəyə verən həmin qüsurlar barəsində qəsdən susmuş olsun.
@@ -3709,7 +3707,7 @@ Hədiyyə verən hədiyyə alanın ondan qabaq ölməsi halı üçün bağışla
 - 678.3. Bu Məcəllənin 678.2-ci maddəsinə uyğun hallarda kirayəçi bildirişin daxil olduğu tarixdən iki ay ərzində müqaviləni növbəti ayın sonu üçün ləğv etmək hüququna malikdir. Əgər kirayəçi müqavilənin ləğv olunduğunu bəyan edərsə, tədbirlərin görülməsi kirayə müddətinin sonunadək təxirə salınır.
 - 678.4. Yaşayış otağının kirayəsi müqaviləsində kirayəçinin ziyanına olan kənaraçıxmalar barəsində razılaşmanın qüvvəsi yoxdur.
 
-#### Maddə 679. Əmlak kirayəsi müqaviləsi üzrə yüklülüklərin, dövlət vergilərinin və yerli vergilərin ödənilməsi
+#### Maddə 679. Əmlak kirayəsi üzrə yüklülüklərin, dövlət vergilərinin və yerli vergilərin ödənilməsi
 Kirayəyə verilmiş əşya ilə bağlı yüklülükləri, dövlət vergilərini və yerli vergiləri, ayrı razılaşma olmadıqda, kirayəyə verən ödəməlidir.
 
 #### Maddə 680. Kirayəçinin zəruri məsrəfləri
@@ -3805,7 +3803,7 @@ Yaşayış otağını kirayəyə verənə müqavilənin ləğvi müddətini göz
   - 693.1.2. əgər yaşayış otağının kirayəsi müqaviləsi üzrə hüquq münasibətlərinin müddəti bir ildən çoxdursa və hüquq münasibətlərinə xitam verilməsinə ən geci iki ay qalmış kirayəçi yazılı bildiriş əsasında kirayəyə verəndən bu münasibətlərin qeyri-müəyyən müddətə davam etdirilməsini tələb edirsə və münasibətlərə xitam verilməsində kirayəyə verənin əsaslı marağı yoxdursa. Kirayə hüquq münasibətlərinə xitam verilməsi haqqında kirayəyə verənin tələbinə bu Məcəllənin 692-ci maddəsi müvafiq surətdə tətbiq edilir.
 - 693.2. Yaşayış otağının kirayəsi haqqında qüvvədə olma müddəti müəyyənləşdirilmiş müqavilə üzrə hüquq münasibətləri aşağıdakı hallarda qeyri-müəyyən müddətə uzadılır:
   - 693.2.1. əgər kirayə müddəti bitdikdən sonra kirayəçi otaqdan istifadəni davam etdirirsə və iki həftə ərzində kirayəyə verən və ya kirayəçi əks niyyətdə olduğu barədə müvafiq olaraq digər tərəfə bildiriş vermirsə. Kirayəçi üçün müddət istifadənin davam etdiyi andan, kirayəyə verən üçün bu davametmənin ona məlum olduğu andan başlanır;
-  - 693.2.2. əgər ləğvetmə bu Məcəllənin 692-ci maddəsinin göstərişlərinə uyğun həyata keçirilmirə.
+  - 693.2.2. əgər ləğvetmə bu Məcəllənin 692-ci maddəsinin göstərişlərinə uyğun həyata keçirilmir.
 - 693.3. Yaşayış otağının kirayəsi haqqında təxirəsalıcı şərtlə bağlanmış müqavilə üzrə hüquq münasibətlərində hesab edilir ki, həmin şərt baş verdikdə hüquq münasibətləri qeyri-müəyyən müddətə uzadılır. Əgər həmin şərt baş verdikdə kirayəyə verən müqavilənin ləğvinə dair bildiriş verərsə və bu Məcəllənin 693.1-ci maddəsinə uyğun olaraq kirayəçi hüquq münasibətlərinin davam etdirilməsini tələb edərsə, onun xeyrinə yalnız kirayə müqaviləsi bağlandıqdan sonra baş vermiş hallar nəzərə alınmalıdır.
 - 693.4. Bu Məcəllənin 693.3-cü maddəsində nəzərdə tutulan tələblərdən kirayəçinin ziyanına olan kənaraçıxmalar barəsində razılaşmanın yalnız yaşayış otağı müvəqqəti istifadə üçün kirayəyə verildikdə qüvvəsi vardır.
 
@@ -3845,7 +3843,7 @@ Yaşayış otağını kirayəyə verənə müqavilənin ləğvi müddətini göz
 - 698.5. Əgər kirayəyə verənin girov hüququnun şamil edildiyi hər hansı əşya başqa kreditor üçün girov götürülürsə, həbs qoyulmasından bir il əvvəldən çox müddət üçün kirayə haqqı ilə bağlı girov hüququ həmin kreditora qarşı irəli sürülə bilməz.
 
 #### Maddə 699. Kirayəyə verilmiş əşyaların özgəninkiləşdirilməsi
-- 699.1. Kirayəyə verilən əşya kirayəçiyə verildikdən sonra ona mülkiyyət hüququ kirayəyə verəndən hər hansı üçüncü şəxsə (əldə edənə) keçdikdə əldə edən mülkiyyəti əldə etdiyi andan kirayəyə verəni əvəz edərək kirayə hüquq münasibətlərindən irəli gələn bütün hüquq və vəzifələrə malik olur. Əldə edən öz öhdəliklərini yerinə yetirmədikdə kirayəyə verən əldə edən tərəfindən əvəzi ödənilməli zərər üçün zamin kimi məsuliyyət daşıyır. Bu cür məsuliyyət mülkiyyət hüququnun keçməsinin kirayəyə verənə məlum olmasından altı ay keçənədək mövcud olur.
+- 699.1. Kirayəyə verilən əşya kirayəçiyə verildikdən sonra ona mülkiyyət hüququ kirayəyə verəndən hər hansı üçüncü şəxsə (əldə edənə) keçdikdə əldə edən mülkiyyəti əldə etdiyi andan kirayə hüquq münasibətlərindən irəli gələn bütün hüquq və vəzifələrə malik olur. Əldə edən öz öhdəliklərini yerinə yetirmədikdə kirayəyə verən əldə edən tərəfindən əvəzi ödənilməli zərər üçün zamin kimi məsuliyyət daşıyır. Bu cür məsuliyyət mülkiyyət hüququnun keçməsinin kirayəyə verənə məlum olmasından altı ay keçənədək mövcud olur.
 - 699.2. Kirayəlik əşya kirayəçiyə verilənədək ona mülkiyyət hüququ kirayəyə verəndən hər hansı üçüncü şəxsə (əldə edənə) keçdikdə, əgər əldə edən kirayə müqaviləsindən irəli gələn öhdəliklərin icrasını öz üzərinə götürürsə, bu Məcəllənin 699.1-ci maddəsi müvafiq surətdə tətbiq edilir.
 - 699.3. Əgər kirayəyə verilən əşya yaşayış otağıdırsa və kirayəçiyə verildikdən sonra kirayəyə verən tərəfindən onun ailəsinə mənsub olmayan hər hansı üçüncü şəxsə satılırsa, kirayəçi satın almaqda üstünlük hüququna malikdir.
 - 699.4. Kirayəyə verilən əşya kirayəçiyə verildikdən sonra üçüncü şəxslərin hüquqları və ya iddiaları ilə yüklü edildikdə, əgər bunların həyata keçirilməsi nəticəsində kirayəçi müqaviləyə uyğun istifadədən məhrum olarsa, bu Məcəllənin 699.1-ci maddəsi müvafiq surətdə tətbiq edilir. Əgər üçüncü şəxslərin hüquqları və iddiaları müqaviləyə uyğun istifadəyə mane olursa, kirayəçi bu hüquqların və iddiaların həyata keçirilməsinin qadağan olunmasını tələb etmək hüququna malikdir.
@@ -3877,8 +3875,7 @@ Hər hansı torpaq sahəsinin və ya müəssisənin icarəçisinin öhdəsinə l
 - 704.2. İcarəçinin bu Məcəllənin 691-ci maddəsinə uyğun olaraq müqaviləni ləğv etmək hüququ yoxdur.
 #### Maddə 705. İcarəyə verilmiş əşyanın qaytarılmasının gecikdirilməsi
 Əgər icarə üzrə hüquq münasibətlərinə xitam verildikdən sonra icarəçi icarəyə götürdüyü obyekti qaytarmırsa, icarəyə verən obyektin saxlandığı müddət üçün kompensasiya kimi müəyyənləşdirilmiş illik icarə haqqından icarəçinin həmin il ərzində əldə etdiyi və ya əldə edə biləcəyi icarə faydaları hissəsinə uyğun olan hissənin verilməsini tələb edə bilər. Digər zərərin əvəzinin ödənilməsi barədə iddia da istisna edilmir.
-
-## § 2. Torpaq icarəsi müqaviləsi
+#### § 2. Torpaq icarəsi müqaviləsi
 #### Maddə 706. Torpaq icarəsi müqaviləsinin məzmunu
 - 706.1. Torpaq icarəsi müqaviləsinə əsasən icarəyə dövlət, bələdiyyə və xüsusi mülkiyyətdə olan bütün kateqoriyalara aid torpaqlar verilə bilər.
 - 706.2. Torpaqlar torpaq qanunvericiliyi ilə müəyyənləşdirilmiş qaydada mülkiyyətçilərin və ya onların vəkil etdiyi orqanların qərarı (razılığı) ilə bilavasitə və ya torpaq müsabiqələri və ya hərracları vasitəsi ilə icarəyə verilə bilər.
@@ -3905,7 +3902,7 @@ Hər hansı torpaq sahəsinin və ya müəssisənin icarəçisinin öhdəsinə l
   - 712.1.1. torpağı üçüncü şəxslərin istifadəsinə versin, o cümlədən ikinci əldən icarəyə versin;
   - 712.1.2. birgə istifadə üçün torpağı tamamilə və ya qismən hər hansı kənd təsərrüfatı birliyinə versin.
 - 712.2. Əgər icarəçi icarəyə götürdüyü torpağı hər hansı üçüncü şəxsə ikinci əldən icarəyə verirsə, həmin üçüncü şəxsin istifadə zamanı baş vermiş təqsiri üçün, hətta icarəyə verənin ikinci əldən icarəyə razılıq verdiyi halda da məsuliyyət daşıyır.
-- 712.3. İcarəçi icarəyə götürdüyü torpağın təyinatını yalnız icarəyə verənin qabaqcadan icazəsini almaqla dəyişdirə bilər. İcarəyə götürülmüş torpaqdan istifadənin əvvəlki növünü dəyişdirmək üçün icarəyə verənin qabaqcadan razılığını almaq yalnız o halda tələb edilir ki, bu dəyişiklik icarə müddətindən sonra istifadə növünə təsir göstərsin. İcarəçinin binalar ucaltmasına yalnız icarəyə verənin qabaqcadan icazəsini almaqla yol verilir. İcarəyə verən icazə verməkdən imtina etdikdə icarəçinin müraciəti ilə bu icazə məhkəmənin qərarı ilə əvəz edilə bilər, bu şərtlə ki, dəyişiklik müəssisənin rentabelliyinin qorunması və ya sürəkli yaxşılaşdırılması üçün yararlı olsun və icarəyə verənin əsaslı mənafeləri nəzərə alınmaqla onun üçün yolverilən olsun. Əgər icarə müqaviləsi ləğv edilərsə və ya icarə hüquq münasibətlərinə üç ildən də tez xitam verilərsə, bu müddəa tətbiq edilmir. İcazə məhkəmənin müəyyən şərtlərinin və ya öhdəliklərinin yerinə yetirilməsi ilə bağlı qərarı ilə əvəz edilə bilər, məsələn, məhkəmə təminat verilməsi barəsində sərəncam verə bilər, habelə təminatın növünü və həcmini müəyyənləşdirə bilər. Əgər təminatın verilməsi üçün əsas aradan qalxarsa, tərəfin müraciəti ilə məhkəmə təminatın qaytarılması barədə qərar qəbul edə bilər.
+- 712.3. İcarəçi icarəyə götürdüyü torpağın təyinatını yalnız icarəyə verənin qabaqcadan icazəsini almaqla dəyişdirə bilər. İcarəyə götürülmüş torpaqdan istifadənin əvvəlki növünü dəyişdirmək üçün icarəyə verənin qabaqcadan razılığını almaq yalnız o halda tələb edilir ki, bu dəyişiklik icarə müddətindən sonra istifadə növünə təsir göstərsin. İcarəçinin binalar ucaltmasına yalnız icarəyə verənin qabaqcadan icazəsini almaqla yol verilir. İcarəyə verən icazə verməkdən imtina etdikdə icarəçinin müraciəti ilə bu icazə məhkəmənin qərarı ilə əvəz edilə bilər, bu şərtlə ki, dəyişiklik müəssisənin rentabelliyinin qorunması və ya sürəkli yaxşılaşdırılması üçün yararlı olsun və icarəyə verənin əsaslı mənafeləri nəzərə alınmaqla onun üçün yolverilən olsun. Əgər icarə müqaviləsi ləğv edilərsə və ya icarə hüquq münasibətlərinə üç ildən də tez xitam verilərsə, bu müddəa tətbiq edilmir. İcazə məhkəmənin müəyyən şərtlərin və ya öhdəliklərin yerinə yetirilməsi ilə bağlı qərarı ilə əvəz edilə bilər, məsələn, məhkəmə təminat verilməsi barəsində sərəncam verə bilər, habelə təminatın növünü və həcmini müəyyənləşdirə bilər. Əgər təminatın verilməsi üçün əsas aradan qalxarsa, tərəfin müraciəti ilə məhkəmə təminatın qaytarılması barədə qərar qəbul edə bilər.
 - 712.4. Əgər icarəçi bu Məcəllənin 701.2-ci maddəsinə uyğun qiymətləndirmə dəyəri üzrə qəbul etdiyi ləvazimatı icarəyə götürdüyü torpaqdan istifadə növünü dəyişdirməsi nəticəsində əhəmiyyətli dərəcədə azaldırsa, icarəyə verən hələ icarə dövründə pul kompensasiyası ödənilməsini tələb edə bilər, amma ləvazimat tərkibindən obyektlərin satışından götürülən vəsaitdən onun məbləği ilə ağlabatan nisbətdə olan yaxşılaşdırmanın həyata keçirilməsi üçün istifadə olunduğu hallar istisna təşkil edir.
 #### Maddə 713. İcarəyə götürülmüş torpaqdan müqavilə şərtlərinə uyğun gəlməyən istifadə
 Əgər icarəçinin icarəyə götürdüyü torpaqdan istifadəsi müqavilə şərtlərinə uyğun gəlmirsə və icarəyə verənin xəbərdarlığına baxmayaraq, o, bu cür istifadəni davam etdirirsə, icarəyə verən icarəçinin öz müqavilə vəzifələrini icra etməməsi barədə iddia verə bilər, bunun nəticəsində dəyən zərərin əvəzinin ödənilməsini tələb edə bilər və (və ya) xəbərdarlıq müddətini gözləmədən müqaviləni ləğv edə bilər.
@@ -3913,7 +3910,7 @@ Hər hansı torpaq sahəsinin və ya müəssisənin icarəçisinin öhdəsinə l
 - 714.1. İcarəyə verən bu Məcəllənin 680-ci maddəsinə uyğun olaraq icarəçiyə zəruri məsrəflərinin əvəzini ödəməyə borcludur.
 - 714.2. Torpaq icarəsi üzrə hüquq münasibətlərinə xitam verildikdə icarəyə verən razılıq verdiyi və icarəyə götürülmüş torpağın dəyərini icarə müddətindən sonra artıran (dəyərin artımı) digər məsrəflərin əvəzini də icarəçiyə ödəməlidir. Əgər icarəyə verən məsrəflərə razılıq verməkdən imtina edirsə, icarəçinin vəsatəti ilə razılıq məhkəmənin qərarı ilə əvəz edilə bilər, bu şərtlə ki, həmin məsrəflər müəssisənin rentabelliyinin qorunması və ya sürəkli yaxşılaşdırılması üçün yararlı olsun və icarəyə verənin əsaslı mənafeləri nəzərə alınmaqla onun üçün yolverilən olsun. Əgər icarə müqaviləsi ləğv edilərsə və ya torpaq icarəsi üzrə hüquq münasibətlərinə üç ildən də tez xitam verilərsə, bu müddəa tətbiq edilmir. Razılıq məhkəmənin müəyyən öhdəliklərin icrası ilə bağlı qərarı ilə əvəz edilə bilər. Məhkəmə həmçinin dəyərin artımı haqqında qərar qəbul edə bilər və onun miqdarını təyin edə bilər. Məhkəmə müəyyənləşdirə bilər ki, icarəyə verən dəyərin artımını hissə-hissə ödəməlidir. Eyni zamanda məhkəmə bu cür ödənişlərin hissə-hissə həyata keçirilməsi şərtlərini müəyyənləşdirə bilər. Əgər icarə hüquq münasibətlərinə xitam verilərkən icarəyə verən dəyər artımını hətta hissə-hissə kompensasiya etməyə qadir deyildirsə, icarəçi yalnız bunu tələb edə bilər ki, dəyər artımı kompensasiya edilənədək icarə hüquq münasibətləri əvvəlki şərtlər əsasında davam etdirilsin. Razılıq əldə edilmədikdə, tərəfin tələbi ilə məhkəmə icarə hüquq münasibətlərinin davam etdirilməsi barədə qərar qəbul edir.
 - 714.3. İcarəçinin torpağa əlavə etdiyi qurğunu götürmək hüququ vardır. İcarəyə verən qurğunun götürülməsinin qarşısını ağlabatan kompensasiya ödəmək yolu ilə ala bilər, bu şərtlə ki, qurğunun götürülməsində icarəçinin əsaslı mənafeyi olmasın. İcarəçinin götürmə hüququnu istisna edən razılaşmanın yalnız ağlabatan kompensasiya nəzərdə tutulduğu halda qüvvəsi vardır.
-#### Maddə 715. Torpaq icarəsi haqqında müqavilə üzrə iddia müddəti
+#### Maddə 715. Torpaq icarəsi müqaviləsi üzrə iddia müddəti
 - 715.1. İcarəyə verilmiş torpağın dəyişməsi və ya pisləşməsi nəticəsində kompensasiya barəsində icarəyə verənin iddiaları, habelə bu Məcəllənin 714-cü maddəsinə uyğun xərclərin əvəzinin ödənilməsi və ya qurğunun götürülməsi barədə icarəçinin iddiaları altı aydan sonra, müddətin keçməsinə görə qüvvədən düşür.
 - 715.2. İcarəyə verənin kompensasiya barədə iddialarının müddəti torpağın geri qəbul edildiyi andan başlanır. İcarəçinin iddialarının müddəti icarə hüquq münasibətlərinə xitam verildiyi andan başlanır.
 - 715.3. Qaytarma hüququ müddətin keçməsinə görə ləğv edildikdə icarəyə verən zərərin əvəzinin ödənilməsi barədə iddialarından da məhrum olur.
@@ -4008,7 +4005,7 @@ Kirayəyə verən əvəzsiz istifadə müqaviləsini, əvvələn, əvəzsiz isti
 Kirayəyə verənin əvəzsiz istifadəyə verilmiş əşyanın dəyişməsi və ya pisləşməsi nəticəsində dəyən zərərin əvəzinin ödənilməsi hüquqları, habelə kirayəçinin çəkdiyi zəruri xərclərin əvəzinin ödənilməsi hüquqları altı aydan sonra, müddətin keçməsinə görə qüvvədən düşür.
 
 ### 37-ci fəsil. Borc
-## § 1. Borc müqaviləsi
+#### § 1. Borc müqaviləsi
 #### Maddə 739. Borc müqaviləsinin anlayışı və forması
 - 739.1. Borc müqaviləsinə görə bir tərəf (borcverən) pul vəsaitinə və ya digər əvəz edilən əşyalara mülkiyyət hüququnu digər tərəfə (borcalana) verməyi öhdəsinə götürür, borcalan isə aldıqlarını müvafiq olaraq eyni məbləğdə pul vəsaiti və ya eyni keyfiyyətdə və miqdarda olan eyni növlü əşyalar şəklində borcverənə qaytarmağı öhdəsinə götürür.
 - 739.2. Borc müqaviləsi predmetinin məbləği üç min manatdan çoxdursa və ya məbləğindən asılı olmayaraq, müqavilənin iştirakçılarından biri hüquqi şəxsdirsə, borc müqaviləsi yazılı formada bağlanılmalıdır.
@@ -4091,7 +4088,7 @@ Kirayəyə verənin əvəzsiz istifadəyə verilmiş əşyanın dəyişməsi və
   - 746-1.1.3. kreditin məbləği və valyutası;
   - 746-1.1.4. kreditin qaytarılma müddəti və ödəniş şərtləri;
   - 746-1.1.5. kredit müəyyən malın alınması və ya xidmətin göstərilməsi ilə əlaqədar olaraq əlaqəli kredit müqaviləsi vasitəsilə verildikdə, həmin mal və ya xidmət və onun nağd qiyməti (malın və ya xidmətin alınması zamanı birdəfəlik ödəniş edildikdə);
-  - 746-1.1.6. kredit üzrə tətbiq edilən faizlərin illik dərəcəsi və (və ya) digər ödənişlərin məbləği və onların tətbiq edilmə şərtləri, həmçinin faktiki illik faiz dərəcəsi (müqavilə üzrə dəyişən faiz dərəcəsi şərtləşdirildikdə, ilkin faktiki illik faiz dərəcəsi);
+  - 746-1.1.6. kredit üzrə tətbiq edilən faizlərin illik dərəcəsi və (və ya) digər ödənişlərin məbləği və onların tətbiq edilmə şərtləri, həmçinin faktiki illik faiz dərəcəsi;
   - 746-1.1.7. tətbiq edildikdə, kredit üzrə faizlərin tutulmadığı müddət barədə aydın və dəqiq məlumat;
   - 746-1.1.8. istehlakçı tərəfindən edilməli olan ödənişlərin məbləği, sayı və dövriliyi, habelə yetərli miqdarda olmayan və ya artıq miqdarda edilən ödənişlərin öhdəliyin icrasından silinmə ardıcıllığı;
   - 746-1.1.9. tətbiq edildikdə (hesabın açılması zəruri olmayan hallar istisna olmaqla), ödəniş və nağdlaşdırma əməliyyatlarının qeydiyyatını aparan bir və ya bir neçə hesabın saxlanma xərcləri, o cümlədən ödəniş və nağdlaşdırma əməliyyatları üçün ödəniş vasitələrindən istifadə xərcləri, kredit müqaviləsindən irəli gələn digər xərclər və bu xərclərin dəyişdirilmə şərtləri;
@@ -4179,7 +4176,7 @@ Kirayəyə verənin əvəzsiz istifadəyə verilmiş əşyanın dəyişməsi və
 - 746-5.6. Borcverənin istehlak krediti müqaviləsinin hər hansı şərtini birtərəfli qaydada dəyişdirə bilməsi barədə kredit müqaviləsinin müddəası etibarsızdır. Bu tələb istehlakçının vəziyyətini yaxşılaşdıran, o cümlədən borc yükünü yüngülləşdirən hallara şamil edilmir.
 
 #### Maddə 746-6. Əlaqəli kredit müqaviləsi
-- 746-6.1. Müəyyən malların alqı-satqısı və ya xidmətlərin göstərilməsi üzrə müqavilənin maliyyələşdirilməsi üçün bağlanılan və həmin müqavilə ilə iqtisadi əlaqəsi olan istehlak krediti müqaviləsi əlaqəli kredit müqaviləsi hesab olunur. İqtisadi əlaqə aşağıdakı hallardan birinin mövcudluğu ilə şərtləndirilir:
+- 746-6.1. Müəyyən malların alqı-satqısı və ya xidmətlərin göstərilməsi üzrə müqavilənin maliyyələşdirilməsi üçün bağlanan və həmin müqavilə ilə iqtisadi əlaqəsi olan istehlak krediti müqaviləsi əlaqəli kredit müqaviləsi hesab olunur. İqtisadi əlaqə aşağıdakı hallardan birinin mövcudluğu ilə şərtləndirilir:
   - 746-6.1.1. kredit müqaviləsinin hazırlanması və bağlanması ilə əlaqədar olaraq borcverən satıcının (xidmət göstərənin) xidmətlərindən istifadə edir;
   - 746-6.1.2. müəyyən malın alqı-satqısı (xidmətin göstərilməsi) kredit müqaviləsində aşkar göstərilir.
 - 746-6.2. Əlaqəli kredit müqaviləsi ilə əhatə olunan mallar istehlakçıya verilmədikdə (xidmətlər göstərilmədikdə), qismən verildikdə (xidmətlər qismən göstərildikdə), yaxud alqı-satqı (xidmət) müqaviləsinə uyğun olmadıqda, istehlakçının əlaqəli kredit müqaviləsindən yaranan öhdəliklərinin icrasını dayandırmaq və ödənişlərin geri qaytarılmasını borcverəndən tələb etmək hüququ vardır.
@@ -4222,7 +4219,7 @@ Lizinqin obyekti Azərbaycan Respublikasının qanunlarına əsasən sərbəst m
 - 747-5.1. Lizinq əməliyyatlarının hüquqi forması ya lizinq verənlə lizinq alan arasında bağlanmış lizinq müqaviləsi və lizinq verənlə satıcı arasında bağlanılmış alqı-satqı müqaviləsidir, ya da həmin şəxslər arasında bu Məcəllənin 747-5.2-ci maddəsinə və lizinqlə bağlı digər maddələrinə müvafiq surətdə bağlanılmış üçtərəfli müqavilədir.
 - 747-5.2. Lizinqlə əlaqədar bağlanılan alqı-satqı müqaviləsində, bu Məcəllə ilə nəzərdə tutulmuş şərtlərlə yanaşı, aşağıdakılar da göstərilməlidir:
   - 747-5.2.1. Lizinq obyekti lizinq verən tərəfindən xüsusi olaraq lizinqə verilmək üçün əldə edilir;
-  - 747-5.2.2. Lizinq müqaviləsində ayrı hal nəzərdə tutulmayıbsa, lizinq alanın lizinq obyektinin satıcısı ilə lizinq verən arasında bağlanılan alqı-satqı müqaviləsindən irəli gələn alıcı hüquqlarına malikdir.
+  - 747-5.2.2. Lizinq müqaviləsində ayrı hal nəzərdə tutulmayıbsa, lizinq alanın lizinq obyektinin satıcısı ilə lizinq verənin arasında bağlanılan alqı-satqı müqaviləsindən irəli gələn alıcı hüquqlarına malikdir.
 
 #### Maddə 748. Lizinq müqaviləsinin forması
 - 748.1. Lizinq müqaviləsi yazılı formada bağlanılır.
@@ -4243,7 +4240,7 @@ Lizinqin obyekti Azərbaycan Respublikasının qanunlarına əsasən sərbəst m
 
 #### Maddə 748-1. Lizinq müqaviləsi iştirakçılarının hüquq və vəzifələri
 - 748-1.1. Lizinq verən lizinq obyekti olan əmlakı lizinq alana lizinq müqaviləsinin şərtlərinə və həmin əmlakın təyinatına uyğun halda (vəziyyətdə) təqdim etməlidir.
-- 748-1.2. Lizinq alan əmlakı qəbul edərkən hər hansı bir çatışmazlıq aşkar edərsəz, qəbul protokolunda bu barədə qeyd etməli və çatışmazlıqları aradan qaldırmaq məqsədilə bu əmlakı satan hüquqi və ya fiziki şəxslər qarşısında tələb irəli sürmək üçün lizinq verənə məlumat verməlidir.
+- 748-1.2. Lizinq alan əmlakı qəbul edərkən hər hansı bir satışmazlıq aşkar edərsəz, qəbul protokolunda bu barədə qeyd etməli və çatışmazlıqları aradan qaldırmaq məqsədilə bu əmlakı satan hüquqi və ya fiziki şəxslər qarşısında tələb irəli sürmək üçün lizinq verənə məlumat verməlidir.
 - 748-1.3. Lizinq alan bilavasitə lizinq obyektinin satıcısı qarşısında bu obyektin keyfiyyət və komplektliyi, göndərilmə müddətləri barədə və satıcı ilə lizinq verənin arasında alğı-satqı müqaviləsi ilə nəzərdə tutulan digər tələbləri irəli sürə bilər.
 - 748-1.4. Lizinq verən müvəqqəti sahibliyə və istifadəyə verilən lizinq obyektinin lizinq müqaviləsi bağlanarkən şərtləşdirilmiş və ya lizinq alana əvvəlcədən məlum olan, yaxud lizinq alanın lizinq obyektini nəzərdə keçirərkən və ya lizinq müqaviləsinin bağlanması zamanı onun sazlığını yoxlayarkən aşkar oluna bilən çatışmazlıqlar üçün məsuliyyət daşımır.
 - 748-1.5. Lizinq müqaviləsi qanuni qüvvəyə mindikdə lizinq alanın (müvafiq olaraq lizinq verənin lizinq verəndən (müvafiq olaraq lizinq alandan) lizinq müqaviləsi üzrə öhdəliklərinin yerinə yetirilməsini tələb etmək və onların yerinə yetirilmədiyi təqdirdə lizinq obyektinin qəbuluna hazırlıq zamanı vurulmuş zərərin, əgər bu hazırlıq üçün bilavasitə xərc çəkilibsə, lizinq verən (müvafiq olaraq lizinq alan) tərəfindən ödənilməsini məhkəmə yolu ilə tələb etmək hüququ vardır.
@@ -4293,15 +4290,12 @@ Lizinq müqaviləsinin obyekti olan əmlaka hüquqlar bu Məcəllədə nəzərd�
 - 748-8.1. Lizinq alanın öhdəliklərinə görə üçüncü şəxslərin iddiası lizinqin predmetinə yönəldilə bilməz.
 - 748-8.2. Lizinq verənin əmlakına yönəldilmiş üçüncü şəxslərin iddiası lizinq verənin yalnız bu mülkiyyət hüququnun obyektinə lizinq obyektinə münasibətdə aid edilə bilər. İddianın təmin edilməsi nəticəsində lizinq verənin hüquqlarını əldə edənə lizinq verənin lizinq müqaviləsində müəyyənləşdirilmiş həm hüquqları, həm də öhdəlikləri məcburi qaydada keçir.
 
-- 748-8.1. Lizinq alanın öhdəliklərinə görə üçüncü şəxslərin iddiası lizinqin predmetinə yönəldilə bilməz.
-- 748-8.2. Lizinq verənin əmlakına yönəldilmiş üçüncü şəxslərin iddiası lizinq verənin yalnız bu mülkiyyət hüququnun obyektinə lizinq obyektinə münasibətdə aid edilə bilər. İddianın təmin edilməsi nəticəsində lizinq verənin hüquqlarını əldə edənə lizinq verənin lizinq müqaviləsində müəyyənləşdirilmiş həm hüquqları, həm də öhdəlikləri məcburi qaydada keçir.
-
 #### Maddə 748-9. Lizinqin obyektinin itirilməsi zamanı lizinq alanın vəzifələri
 Əgər lizinq müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, lizinq alanın günahı üzündən lizinq obyektinin itirilməsi və ya lizinq obyektinin öz funksiyalarının itirməsi lizinq alanı lizinq müqaviləsi üzrə öhdəliklərindən azad etmir.
 
 #### Maddə 748-10. Lizinq ödənişləri
 - 748-10.1. Lizinq müqaviləsinin qüvvədə olduğu müddət ərzində həmin müqavilə üzrə ödənişlərin ümumi məbləği lizinq ödənişləri hesab edilir. Lizinq ödənişləri lizinq müqaviləsi üzrə lizinq alana verilmiş lizinq obyektindən istifadəyə görə onun tərəfindən lizinq verənin xeyrinə həyata keçirilən ödənişlərdir.
-- 748-10.2. Lizinq ödənişlərinin məbləği, həyata keçirilməsi üsulu, forması və dövriliyi lizinq müqaviləsinə uyğun olaraq bu Məcəllənin müddəaları nəzərə alınmaqla həyata keçirilir.
+- 748-10.2. Lizinq ödənişlərinin məbləği həyata keçirilməsi üsulu, forması və dövriliyi lizinq müqaviləsinə uyğun olaraq bu Məcəllənin müddəaları nəzərə alınmaqla həyata keçirilir.
 - 748-10.3. Əgər lizinq alan və lizinq verən arasında lizinq ödənişləri ilə bağlı hesablaşmalar lizinq obyekti vasitəsilə istehsal olunan məhsulla (natura formasında) aparılırsa, belə məhsulun qiyməti tərəflərin razılığı ilə müəyyənləşdirilir və lizinq müqaviləsində qeyd edilir.
 - 748-10.4. Lizinq alanın lizinq ödənişlərinin verilməsi ilə bağlı öhdəlikləri, lizinq müqaviləsi ilə ayrı qayda nəzərdə tutulmayıbsa, lizinq alanın lizinq obyektindən istifadəyə başladığı vaxtdan qüvvəyə minir.
 - 748-10.5. Lizinq müqaviləsində lizinq ödənişlərinə lizinq obyektindən istifadəyə başlanıldığı vaxtından 6 ay (180 gün) keçənədək möhlət verilməsi nəzərdə tutula bilər.
@@ -4309,13 +4303,13 @@ Lizinq müqaviləsinin obyekti olan əmlaka hüquqlar bu Məcəllədə nəzərd�
 
 #### Maddə 748-11. Lizinq ödənişlərinin ümumi məbləği
 - 748-11.1. Lizinq ödənişlərinin ümumi məbləğinə aşağıdakılar daxildir:
-  - 748-11.1.1. lizinq obyektinin amortizasiya ödənişləri;
-  - 748-11.1.2. lizinq obyektinin əldə edilməsi ilə bağlı zəruri xərclər;
-  - 748-11.1.3. lizinq obyektini əldə etmək üçün alınan kreditə görə faiz;
-  - 748-11.1.4. lizinq verənin mükafatının məbləği;
-  - 748-11.1.5. lizinq obyekti lizinq verən tərəfindən sığorta edilmişdirsə, sığorta üçün ödənilən məbləğ;
-  - 748-11.1.6. lizinq verənin əlavə xidmətlərinin haqqı;
-  - 748-11.1.7. lizinq verənin lizinq müqaviləsi ilə nəzərdə tutulmuş digər xərcləri.
+    - 748-11.1.1. lizinq obyektinin amortizasiya ödənişləri;
+    - 748-11.1.2. lizinq obyektinin əldə edilməsi ilə bağlı zəruri xərclər;
+    - 748-11.1.3. lizinq obyektini əldə etmək üçün alınan kreditə görə faiz;
+    - 748-11.1.4. lizinq verənin mükafatının məbləği;
+    - 748-11.1.5. lizinq obyekti lizinq verən tərəfindən sığorta edilmişdirsə, sığorta üçün ödənilən məbləğ;
+    - 748-11.1.6. lizinq verənin əlavə xidmətlərinin haqqı;
+    - 748-11.1.7. lizinq verənin lizinq müqaviləsi ilə nəzərdə tutulmuş digər xərcləri.
 - 748-11.2. Lizinq ödənişlərinin tərkibinə daxil edilən məbləğlər lizinq verən tərəfindən müvafiq sənədlərlə əsaslandırılmalıdır.
 
 #### Maddə 748-12. Lizinq müqaviləsini yoxlamaq hüququ
@@ -4406,9 +4400,9 @@ Sifarişçi müqavilənin əlavə icrası üçün müəyyənləşdirilmiş müdd
 
 #### Maddə 768. Podratçının sifarişçini vaxtında xəbərdar etmək vəzifəsi
 - 768.1. Podratçı aşağıdakı hallarda sifarişçini vaxtında xəbərdar etməyə borcludur:
-  - 768.1.1. sifarişçidən alınmış material keyfiyyətsiz və yararsız olduqda;
-  - 768.1.2. sifarişçinin göstərişinin icra ediləcəyi təqdirdə məmulatın davamsız və ya yararsız olacağı halda;
-  - 768.1.3. podratçıdan asılı olmayan, məmulatın möhkəmliyi və yararlığı üçün təhlükə törədən hər hansı başqa hallar olduqda.
+    - 768.1.1. sifarişçidən alınmış material keyfiyyətsiz və yararsız olduqda;
+    - 768.1.2. sifarişçinin göstərişinin icra ediləcəyi təqdirdə məmulatın davamsız və ya yararsız olacağı halda;
+    - 768.1.3. podratçıdan asılı olmayan, məmulatın möhkəmliyi və yararlığı üçün təhlükə törədən hər hansı başqa hallar olduqda.
 - 768.2. Əgər podratçının vaxtında etdiyi xəbərdarlığa baxmayaraq, sifarişçi müvafiq müddətdə yararsız və ya keyfiyyətsiz materialı əvəz etməzsə, işin yerinə yetirilməsi qaydaları haqqında verdiyi göstərişi dəyişməzsə və ya hazırlanan məmulatın yararlığına və möhkəmliyinə zərər vura bilən digər halları aradan qaldırmazsa, podratçı müqavilədən imtina edə bilər və bununla vurulan zərərin əvəzini ödəməyi tələb edə bilər.
 
 #### Maddə 769. Yerinə yetirilmiş iş üçün muzd ödənilməsi
@@ -4419,22 +4413,22 @@ Sifarişçi müqavilənin əlavə icrası üçün müəyyənləşdirilmiş müdd
 
 #### Maddə 770-1. Tikintisi başa çatmayan binanın yerləşdiyi torpaq sahəsində tərkib hissələrin bağlı olduğu payların özgəninkiləşdirilməsi zamanı yaranan podrat münasibətlərində alış qiymətinin (muzd) ödənilməsi
 - 770-1.1. Tikintisi başa çatmayan binanın yerləşdiyi torpaq sahəsində tərkib hissələrin bağlı olduğu payların özgəninkiləşdirilməsi zamanı yaranan podrat münasibətlərində alış qiymətinin (muzdun) ödənilməsi yalnız aşağıdakı şərtlər mövcud olduqda tələb edilə bilər:
-  - 770-1.1.1. bu Məcəllənin 144-1.4-cü maddəsində nəzərdə tutulan müqavilə notarial qaydada təsdiq edilmişdirsə;
-  - 770-1.1.2. daşınmaz əmlakın dövlət reyestrində binanın yerləşdiyi torpaq sahəsində tərkib hissələrin bağlı olduğu paylar barədə əldə edənin xeyrinə təminat qeydi aparılmışdırsa.
+    - 770-1.1.1. bu Məcəllənin 144-1.4-cü maddəsində nəzərdə tutulan müqavilə notarial qaydada təsdiq edilmişdirsə;
+    - 770-1.1.2. daşınmaz əmlakın dövlət reyestrində binanın yerləşdiyi torpaq sahəsində tərkib hissələrin bağlı olduğu paylar barədə əldə edənin xeyrinə təminat qeydi aparılmışdırsa.
 - 770-1.2. Bu Məcəllənin 770-1.1-ci maddəsində müəyyən edilən şərtlər tikintisi başa çatmayan binanın yerləşdiyi torpaq sahəsində tərkib hissələrin bağlı olduğu paylar üzərində mülkiyyət hüququnun keçməsi barədə satıcı qismində çıxış edən podratçının öhdəlik götürdüyü hallara da şamil edilir.
 - 770-1.3. Bu Məcəllənin 770-1.1-ci və 770-1.2-ci maddələrində nəzərdə tutulan müqavilələrdə ayrı mərhələ və hissələr nəzərdə tutulmayıbsa, alış qiymətinin (muzdun) ödənilməsi tikintinin mərhələləri üzrə hissələrlə aşağıda göstərilən faizlərdən çox olmamaq şərti ilə aparıla bilər:
-  - 770-1.3.1. torpaq-qazma işlərinin başlanılmasından sonra - müqavilə məbləğinin 30 faizi;
-  - 770-1.3.2. tikilinin yan və daxili divarları, dam örtüyü hazır olduqdan sonra - müqavilə məbləğinin 10 faizi;
-  - 770-1.3.3. dam səthlərinin və navalçaların (novların) qurulması işləri başa çatdıqdan sonra - müqavilə məbləğinin 8 faizi;
-  - 770-1.3.4. istilik təchizatı sistemlərinin quraşdırılması başa çatdıqdan sonra - müqavilə məbləğinin 3 faizi;
-  - 770-1.3.5. su xətlərinin çəkilməsi başa çatdıqdan sonra - müqavilə məbləğinin 3 faizi;
-  - 770-1.3.6. elektrik xətlərinin çəkilməsi başa çatdıqdan sonra - müqavilə məbləğinin 3 faizi;
-  - 770-1.3.7. pəncərələrin quraşdırılması (şüşələrin taxılması da daxil olmaqla) başa çatdıqdan sonra - müqavilə məbləğinin 10 faizi;
-  - 770-1.3.8. daxili suvaq (malalama) işləri başa çatdıqdan sonra - müqavilə məbləğinin 6 faizi;
-  - 770-1.3.9. birdən artıq tərkib hissəsi olan binada birdən artıq tərkib hissəyə xidmət edən sahələrin döşəmələri hazır olduqdan sonra - müqavilə məbləğinin 3 faizi;
-  - 770-1.3.10. fasad işləri başa çatdıqdan sonra - müqavilə məbləğinin 10 faizi;
-  - 770-1.3.11. su anbarı da daxil olmaqla, binaya xidmət edən və binadan ayrıca inşa edilən obyektlərin tikintisi başa çatdıqdan sonra - müqavilə məbləğinin 9 faizi;
-  - 770-1.3.12. bina tam hazır olduqdan və onun istismarına icazə verildikdən sonra – müqavilə məbləğinin 5 faizi.
+    - 770-1.3.1. torpaq-qazma işlərinin başlanılmasından sonra - müqavilə məbləğinin 30 faizi;
+    - 770-1.3.2. tikilinin yan və daxili divarları, dam örtüyü hazır olduqdan sonra - müqavilə məbləğinin 10 faizi;
+    - 770-1.3.3. dam səthlərinin və navalçaların (novların) qurulması işləri başa çatdıqdan sonra - müqavilə məbləğinin 8 faizi;
+    - 770-1.3.4. istilik təchizatı sistemlərinin quraşdırılması başa çatdıqdan sonra - müqavilə məbləğinin 3 faizi;
+    - 770-1.3.5. su xətlərinin çəkilməsi başa çatdıqdan sonra - müqavilə məbləğinin 3 faizi;
+    - 770-1.3.6. elektrik xətlərinin çəkilməsi başa çatdıqdan sonra - müqavilə məbləğinin 3 faizi;
+    - 770-1.3.7. pəncərələrin quraşdırılması (şüşələrin taxılması da daxil olmaqla) başa çatdıqdan sonra - müqavilə məbləğinin 10 faizi;
+    - 770-1.3.8. daxili suvaq (malalama) işləri başa çatdıqdan sonra - müqavilə məbləğinin 6 faizi;
+    - 770-1.3.9. birdən artıq tərkib hissəsi olan binada birdən artıq tərkib hissəyə xidmət edən sahələrin döşəmələri hazır olduqdan sonra - müqavilə məbləğinin 3 faizi;
+    - 770-1.3.10. fasad işləri başa çatdıqdan sonra - müqavilə məbləğinin 10 faizi;
+    - 770-1.3.11. su anbarı da daxil olmaqla, binaya xidmət edən və binadan ayrıca inşa edilən obyektlərin tikintisi başa çatdıqdan sonra - müqavilə məbləğinin 9 faizi;
+    - 770-1.3.12. bina tam hazır olduqdan və onun istismarına icazə verildikdən sonra – müqavilə məbləğinin 5 faizi.
 - 770-1.4. Tikintisi başa çatmayan binanın yerləşdiyi torpaq sahəsində tərkib hissələrin bağlı olduğu payların alqı-satqı müqavilələrinə bu Məcəllənin daşınmaz əşyaların alqı-satqısı haqqında müddəaları müvafiq surətdə tətbiq edilir.
 
 #### Maddə 771. Sifarişçinin əmlakının məhv olması üçün podratçının məsuliyyəti
@@ -4457,7 +4451,7 @@ Podratçı sifarişçinin əmlakı barəsində diqqətsizlik üzündən həmin �
 - 776.1. Sifarişçi icranın qüsuru barəsində tələbi işin qəbul edildiyi gündən bir il ərzində, binaya aid tələbi isə beş il ərzində irəli sürə bilər.
 - 776.2. Əgər müqaviləyə əsasən iş hissə-hissə qəbul edilmişdirsə, qüsur barəsində tələb müddətinin axımı işin tam qəbul olunduğu gündən başlanır.
 
-### 40-cı fəsil. Tapşırıq
+### 40-cu fəsil. Tapşırıq
 
 #### Maddə 777. Tapşırıq müqaviləsi
 - 777.1. Tapşırıq müqaviləsinə görə, tapşırığı həyata keçirməyi öhdəsinə götürən şəxs (vəkalət alan) başqa şəxsin (vəkalət verənin) ona tapşırdığı əqdləri, işləri və ya digər xidmətləri konkret nəticə əldə olunmasına təminat vermədən icra etməyi öhdəsinə götürür.
@@ -4473,14 +4467,14 @@ Podratçı sifarişçinin əmlakı barəsində diqqətsizlik üzündən həmin �
 #### Maddə 779. Vəkalət alanın məsuliyyəti
 - 779.1. Vəkalət alan tapşırığı qəsdən və ya ehtiyatsızlıq üzündən kifayət qədər vicdanla icra etməməsi nəticəsində vəkalət verənə dəyən zərər üçün məsuliyyət daşıyır. Əvəzsiz tapşırıq müqaviləsi üzrə vəkalət alan tapşırığı qəsdən və ya kobud ehtiyatsızlıq üzündən kifayət qədər vicdanla icra etməməsi nəticəsində vəkalət verənə dəyən zərər üçün məsuliyyət daşıyır.
 - 779.2. Vəkalət alanın məsuliyyət daşıdığı vicdanlılıq dərəcəsi aşağıdakılar nəzərə alınmaqla tapşırığın növü ilə müəyyənləşdirilir:
-  - 779.2.1. peşə fəaliyyəti ilə bağlı risk və tapşırığın həyata keçirilməsi üçün zəruri olan xüsusi biliklər;
-  - 779.2.2. vəkalət verənin bildiyi və ya bilməli olduğu, vəkalət alanın qabiliyyəti və keyfiyyətləri.
+    - 779.2.1. peşə fəaliyyəti ilə bağlı risk və tapşırığın həyata keçirilməsi üçün zəruri olan xüsusi biliklər;
+    - 779.2.2. vəkalət verənin bildiyi və ya bilməli olduğu, vəkalət alanın qabiliyyəti və keyfiyyətləri.
 
 #### Maddə 780. Vəkalət alanın şəxsi öhdəlikləri. Üçüncü şəxslər üçün məsuliyyət
 - 780.1. Vəkalət alan tapşırığı aşağıdakı hallar istisna olmaqla şəxsən özü icra etməlidir:
-  - 780.1.1. vəkalət verən onu icranı üçüncü şəxslərə verməyə vəkil etdikdə;
-  - 780.1.2. tapşırığın icrasının üçüncü şəxslərə verilməsi şəraitdən irəli gəldikdə;
-  - 780.1.3. icranın bu cür verilməsi qəbul olunmuş işgüzar adətlərə uyğun gəldikdə.
+    - 780.1.1. vəkalət verən onu icranı üçüncü şəxslərə verməyə vəkil etdikdə;
+    - 780.1.2. tapşırığın icrasının üçüncü şəxslərə verilməsi şəraitdən irəli gəldikdə;
+    - 780.1.3. icranın bu cür verilməsi qəbul olunmuş işgüzar adətlərə uyğun gəldikdə.
 - 780.2. Əgər vəkalət alan əqdin icrasını və ya xidmətlərin göstərilməsini buna ixtiyarı çatmadan üçüncü şəxsə vermişdirsə, həmin şəxsin hərəkətləri üçün o öz hərəkətləri kimi məsuliyyət daşıyır.
 - 780.3. Əgər o, əqdin icrasını və ya xidmətlərin göstərilməsini buna ixtiyarı çataraq vermişdirsə, yalnız üçüncü şəxsin seçilməsi və təlimatlandırılması zamanı lazımi vicdanlılıq üçün məsuliyyət daşıyır, bu şərtlə ki, müqavilədə ayrı şərt qoyulmasın və işin hallarından ayrı şərt irəli gəlməsin.
 - 780.4. Hər bir halda vəkalət verən vəkalət alanın üçüncü şəxslərə qarşı malik olduğu tələbləri bilavasitə həmin üçüncü şəxslərə qarşı irəli sürə bilər.
@@ -4530,35 +4524,35 @@ Vəkalət verən tapşırığın icrası gedişində vəkalət alana dəyən zə
 #### Maddə 789. Ticarət nümayəndəsi (agent) haqqında müqavilə
 - 789.1. Ticarət nümayəndəsi haqqında müqaviləyə görə, sənətkarlıq şəklində müstəqil fəaliyyətlə məşğul olan şəxsə (ticarət agentinə) alğı-satqı müqavilələrinin, habelə xidmətlər yaradılmasına dair müqavilələrin (ticarət əqdlərinin) bağlanmasında hər hansı istehsalçının, sənayeçinin və ya tacirin (tapşıranın) adından və hesabına vasitəçilik xidmətləri göstərmək və (və ya) bunları bağlamaq barəsində uzunmüddətli tapşırıq verilir.
 - 789.2. Həm fiziki, həm də hüquqi şəxslər ticarət agenti ola bilərlər. Aşağıdakılar ticarət agentləri deyildirlər:
-  - 789.2.1. vasitəçilik fəaliyyəti və ya əqdlərin bağlanması ilə təsadüfdən-təsadüfə məşğul olan şəxslər;
-  - 789.2.2. ticarət və xammal birjalarında işləyən şəxslər;
-  - 789.2.3. tapşıranla əmək müqaviləsi bağlamış şəxslər.
+    - 789.2.1. vasitəçilik fəaliyyəti və ya əqdlərin bağlanması ilə təsadüfdən-təsadüfə məşğul olan şəxslər;
+    - 789.2.2. ticarət və xammal birjalarında işləyən şəxslər;
+    - 789.2.3. tapşıranla əmək müqaviləsi bağlamış şəxslər.
 - 789.3. Ticarət nümayəndəsi haqqında müqavilə yazılı formada bağlanır.
 - 789.4. Müqavilə ilə tənzimlənməyən öhdəliklərə bu Məcəllə və əlavə olaraq, ticarət nümayəndəsinin olduğu yerdə ticarət sahəsindəki işgüzar adətlər tətbiq edilir.
 
 #### Maddə 790. Ticarət agentinin vəzifələri
 - 790.1. Ticarət agentinin ümumi vəzifələri bu Məcəllənin 778-ci maddəsindən irəli gəlir.
 - 790.2. Ticarət agentinin aşağıdakı vəzifələri vardır:
-  - 790.2.1. vasitəçilik qaydasında tapşıran üçün əqdləri bağlamağa çalışmaq və ya əqdləri bağlamaq, habelə tapşıranın müştərilərinin sayının optimal surətdə artmasına çalışmaq;
-  - 790.2.2. bütün sifarişlər və (və ya) bağlanmış müqavilələr barəsində tapşırana bildiriş vermək;
-  - 790.2.3. özündə olan hər bir zəruri informasiyanı tapşırana bildirmək;
-  - 790.2.4. tapşıranın əsaslı sərəncamlarını yerinə yetirmək;
-  - 790.2.5. tapşıranın məhsullarına və xidmətlərinə oxşar məhsulları və xidmətləri öz hesabına və ya başqa tapşıranın hesabına təklif etmək üçün tapşıranın qabaqcadan razılığını almaq.
+    - 790.2.1. vasitəçilik qaydasında tapşıran üçün əqdləri bağlamağa çalışmaq və ya əqdləri bağlamaq, habelə tapşıranın müştərilərinin sayının optimal surətdə artmasına çalışmaq;
+    - 790.2.2. bütün sifarişlər və (və ya) bağlanmış müqavilələr barəsində tapşırana bildiriş vermək;
+    - 790.2.3. özündə olan hər bir zəruri informasiyanı tapşırana bildirmək;
+    - 790.2.4. tapşıranın əsaslı sərəncamlarını yerinə yetirmək;
+    - 790.2.5. tapşıranın məhsullarına və xidmətlərinə oxşar məhsulları və xidmətləri öz hesabına və ya başqa tapşıranın hesabına təklif etmək üçün tapşıranın qabaqcadan razılığını almaq.
 - 790.3. Müqavilədə ticarət agentinin öhdəsinə başqa vəzifələr, o cümlədən aşağıdakı vəzifələr də qoyula bilər:
-  - 790.3.1. müəyyən mövzular üzrə müntəzəm hesabat vermək;
-  - 790.3.2. sifarişlər və ya müqavilələr üzrə minimum dövriyyəyə (kvotaya) nail olmaq;
-  - 790.3.3. zərurət olduqda və ayrıca muzd müqabilində tapşıran üçün malları saxlamaq və göndərmək, habelə onun borclularından məbləğləri tutmaq.
+    - 790.3.1. müəyyən mövzular üzrə müntəzəm hesabat vermək;
+    - 790.3.2. sifarişlər və ya müqavilələr üzrə minimum dövriyyəyə (kvotaya) nail olmaq;
+    - 790.3.3. zərurət olduqda və ayrıca muzd müqabilində tapşıran üçün malları saxlamaq və göndərmək, habelə onun borclularından məbləğləri tutmaq.
 - 790.4. Ticarət agenti tapşıran barəsində müqavilələrin müştərilər tərəfindən icrasına yalnız aşağıdakı hallarda qarantiya verməlidir:
-  - 790.4.1. bu, yazılı formada qabaqcadan ifadə edildikdə;
-  - 790.4.2. qarantiya dəqiq müəyyənləşdirilmiş əqdə və ya müştəriləri qabaqcadan müəyyənləşdirilməklə bir neçə əqdə şamil edildikdə;
-  - 790.4.3. öz öhdəsinə qarantiya götürmək barəsində razılaşmada ayrıca muzd şərtləşdirildikdə və ticarət nümayəndəsinə bu muzdun ödənilməsi müddəti müştəri ilə həmin müqavilənin bağlanmasından dərhal sonra çatdıqda. Buna zidd olanlar barəsində razılaşmaların qüvvəsi yoxdur.
+    - 790.4.1. bu, yazılı formada qabaqcadan ifadə edildikdə;
+    - 790.4.2. qarantiya dəqiq müəyyənləşdirilmiş əqdə və ya müştəriləri qabaqcadan müəyyənləşdirilməklə bir neçə əqdə şamil edildikdə;
+    - 790.4.3. öz öhdəsinə qarantiya götürmək barəsində razılaşmada ayrıca muzd şərtləşdirildikdə və ticarət nümayəndəsinə bu muzdun ödənilməsi müddəti müştəri ilə həmin müqavilənin bağlanmasından dərhal sonra çatdıqda. Buna zidd olanlar barəsində razılaşmaların qüvvəsi yoxdur.
 
 #### Maddə 791. Tapşıranın vəzifələri
 - 791.1. Ticarət agenti barəsində tapşıran vicdanlılıq prinsipinə uyğun hərəkət etməlidir. Tapşıran:
-  - 791.1.1. öz məhsulları və xidmətləri, işlərin aparılması qaydaları və qiymətləri barəsində ticarət agentinə lazımi informasiya verməlidir;
-  - 791.1.2. ticarət agentini ticarət nümayəndəsi haqqında müqavilənin yerinə yetirilməsi üçün zəruri informasiya ilə təmin etməli, o cümlədən bunu ehtimal etməyin mümkün olduğu hallarda ticarət agentini dərhal xəbərdar etməlidir ki, ticarət əqdlərinin həcmi ticarət nümayəndəsinin adi halda ümid bəsləyə biləcəyi həcmdən xeyli az olacaqdır;
-  - 791.1.3. ticarət nümayəndəsinin vasitəçilik qaydasında təklif etdiyi ticarət əqdinin qəbul olunması, rədd edilməsi və ya icra olunmaması barədə ticarət agentinə ağlabatan müddət ərzində bildiriş verməlidir;
-  - 791.1.4. ticarət agentinə muzd ödəməlidir.
+    - 791.1.1. öz məhsulları və xidmətləri, işlərin aparılması qaydaları və qiymətləri barəsində ticarət agentinə lazımi informasiya verməlidir;
+    - 791.1.2. ticarət agentini ticarət nümayəndəsi haqqında müqavilənin yerinə yetirilməsi üçün zəruri informasiya ilə təmin etməli, o cümlədən bunu ehtimal etməyin mümkün olduğu hallarda ticarət agentini dərhal xəbərdar etməlidir ki, ticarət əqdlərinin həcmi ticarət nümayəndəsinin adi halda ümid bəsləyə biləcəyi həcmdən xeyli az olacaqdır;
+    - 791.1.3. ticarət agentini vasitəçilik qaydasında təklif etdiyi ticarət əqdinin qəbul olunması, rədd edilməsi və ya icra olunmaması barədə ticarət agentinə ağlabatan müddət ərzində bildiriş verməlidir;
+    - 791.1.4. ticarət agentinə muzd ödəməlidir.
 - 791.2. Müqavilədə tapşıranın digər vəzifələri, o cümlədən ticarət agentinin müəyyən ərazi və ya müəyyən müştərilər üçün qüvvədə olan müstəsna hüququna hörmət bəsləmək vəzifəsi də nəzərdə tutula bilər.
 
 #### Maddə 792. Ticarət agentinin muzdu
@@ -4568,9 +4562,9 @@ Vəkalət verən tapşırığın icrası gedişində vəkalət alana dəyən zə
 
 #### Maddə 793. Ticarət agentinin komisyon muzdu
 - 793.1. Ticarət agentinin aşağıdakılar üçün komisyon muzdu almaq hüququ vardır:
-  - 793.1.1. ticarət nümayəndəsi haqqında müqavilənin qüvvədə olduğu müddət ərzində ya ticarət agentinin fəaliyyəti nəticəsində bağlanmış, ya da oxşar əqdlərin həyata keçirilməsi üçün ticarət agentinin əvvəllər müştəri kimi cəlb etdiyi şəxslər ilə bağlanmış bütün ticarət əqdləri;
-  - 793.1.2. əgər ticarət agentinin müəyyən coğrafi ərazidə və ya şəxslərin müəyyən qrupuna müstəsna hüququ varsa, həmin ərazidə və ya həmin qrupdan müştərilər ilə bağlanan bütün əqdlər;
-  - 793.1.3. ticarət nümayəndəsi haqqında müqavilənin qüvvədə olma müddəti bitəndən sonra bağlanmış ticarət əqdləri - bu şərtlə ki, əqd ticarət agentinin müqavilənin qüvvədə olduğu dövrdə və ya bundan sonra ağlabatan dövrdə fəaliyyəti nəticəsində yaransın və ya müştərinin sifarişini agent və ya tapşıran ticarət nümayəndəsi haqqında müqavilə üzrə hüquq münasibətlərinə xitam verilənədək alsın.
+    - 793.1.1. ticarət nümayəndəsi haqqında müqavilənin qüvvədə olduğu müddət ərzində ya ticarət agentinin fəaliyyəti nəticəsində bağlanmış, ya da oxşar əqdlərin həyata keçirilməsi üçün ticarət agentinin əvvəllər müştəri kimi cəlb etdiyi şəxslər ilə bağlanmış bütün ticarət əqdləri;
+    - 793.1.2. əgər ticarət agentinin müəyyən coğrafi ərazidə və ya şəxslərin müəyyən qrupuna müstəsna hüququ varsa, həmin ərazidə və ya həmin qrupdan müştərilər ilə bağlanan bütün əqdlər;
+    - 793.1.3. ticarət nümayəndəsi haqqında müqavilənin qüvvədə olma müddəti bitəndən sonra bağlanmış ticarət əqdləri - bu şərtlə ki, əqd ticarət agentinin müqavilənin qüvvədə olduğu dövrdə və ya bundan sonra ağlabatan dövrdə fəaliyyəti nəticəsində yaransın və ya müştərinin sifarişini agent və ya tapşıran ticarət nümayəndəsi haqqında müqavilə üzrə hüquq münasibətlərinə xitam verilənədək alsın.
 - 793.2. Əgər ticarət əqdi bir neçə ticarət agentinin fəaliyyəti nəticəsində həyata keçirilərsə, onlar komisyon muzdunu həmin əqdin bağlanmasına onlardan hər birinin göstərdiyi təsirə uyğun nisbətdə bölüşdürürlər.
 - 793.3. Ticarət agentinin komisyon muzduna iddiası tapşıranın üçüncü şəxslə müqavilə üzrə öz öhdəliklərini icra etməsindən və ya icra etməli olmasından sonra əmələ gəlir. Komisyon muzduna iddia tapşıran öz öhdəliklərini icra etdikdən sonra üçüncü şəxsin öz müqavilə öhdəliklərini yerinə yetirdiyi və ya yerinə yetirməli olduğu andan gec olmayaraq əmələ gəlir.
 - 793.4. Əgər tapşıranla üçüncü şəxs arasında bağlanmış müqavilənin yerinə yetirilməyəcəyinə əminlik olarsa və onun yerinə yetirilməməsi tapşıranın cavabdeh olduğu hallardan irəli gəlməzsə, komisyon muzduna iddia istisna edilir. Əgər ticarət agenti həmin əqd əsasında komisyon muzdunu almışdırsa, bu muzdu qaytarmağa borcludur.
@@ -4586,20 +4580,20 @@ Vəkalət verən tapşırığın icrası gedişində vəkalət alana dəyən zə
 
 #### Maddə 795. Ticarət nümayəndəsi haqqında müqavilənin qüvvəsinə fövqəladə hallar nəticəsində xitam verilməsi
 - 795.1. Ticarət nümayəndəsi haqqında müqavilənin hər bir iştirakçısı aşağıdakı hallarda xəbərdarlıq müddətini gözləmədən istənilən vaxt müqaviləni ləğv edə bilər:
-  - 795.1.1. öz vəzifələrini əhəmiyyətli dərəcədə pozan digər iştirakçıya bu barədə yazılı xəbərdarlıq edildikdə, o, müəyyənləşdirilmiş müddət qurtardıqdan sonra da öz vəzifələrini pozmaqda davam etdikdə;
-  - 795.1.2. müqavilə iştirakçılarından heç birinin cavabdeh olmadığı digər fövqəladə hallar baş verdikdə və bu hallar ləğvetməyə dair bildiriş vermiş iştirakçıdan müqaviləni qüvvədə saxlamağı tələb etməyi artıq ağlabatan etmədikdə.
+    - 795.1.1. öz vəzifələrini əhəmiyyətli dərəcədə pozan digər iştirakçıya bu barədə yazılı xəbərdarlıq edildikdə, o, müəyyənləşdirilmiş müddət qurtardıqdan sonra da öz vəzifələrini pozmaqda davam etdikdə;
+    - 795.1.2. müqavilə iştirakçılarından heç birinin cavabdeh olmadığı digər fövqəladə hallar baş verdikdə və bu hallar ləğvetməyə dair bildiriş vermiş iştirakçıdan müqaviləni qüvvədə saxlamağı tələb etməyi artıq ağlabatan etmədikdə.
 - 795.2. Ticarət nümayəndəsi haqqında müqavilənin hər hansı iştirakçısının digər iştirakçının öz vəzifələrini pozması nəticəsində dəyən zərərin əvəzinin ödənilməsinə iddiaları qüvvədə qalır.
 
 #### Maddə 796. Müştərilər üçün kompensasiya
 - 796.1. Müqavilənin qüvvəsinə xitam verildikdən sonra ticarət agenti özünün cəlb etdiyi müştərilər üçün kompensasiya almaq hüququna malikdir, bu şərtlə ki:
-  - 796.1.1. o, tapşıran üçün yeni müştərilər cəlb etsin və ya mövcud müştərilərlə əqdlərin həcmini xeyli artırsın;
-  - 796.1.2. tapşıran bu Məcəllənin 796.1.1-ci maddəsindən onun üçün irəli gələn faydalardan istifadəni davam etdirə bilsin;
-  - 796.1.3. müqaviləyə xitam verilməsi nəticəsində komisyon muzdu ticarət agentinin əlindən çıxsın.
+    - 796.1.1. o, tapşıran üçün yeni müştərilər cəlb etsin və ya mövcud müştərilərlə əqdlərin həcmini xeyli artırsın;
+    - 796.1.2. tapşıran bu Məcəllənin 796.1.1-ci maddəsindən onun üçün irəli gələn faydalardan istifadəni davam etdirə bilsin;
+    - 796.1.3. müqaviləyə xitam verilməsi nəticəsində komisyon muzdu ticarət agentinin əlindən çıxsın.
 - 796.2. Kompensasiyanın maksimum miqdarı illik muzdun miqdarı ilə məhdudlaşdırılır. Ticarət agentinin illik muzdu ticarət nümayəndəsi haqqında müqavilənin qüvvəsinə xitam verilməzdən əvvəlki son illər (maksimum 5 il) üçün orta muzd şəklində hesablanır.
 - 796.3. Aşağıdakı hallarda kompensasiya ödənilmir:
-  - 796.3.1. müqavilə üzrə hüquq münasibətlərinə ticarət agentinin təqsiri üzündən xitam verildikdə;
-  - 796.3.2. ticarət agenti müqavilə üzrə hüquq münasibətlərinə şəxsi əsaslar üzrə xitam verdikdə;
-  - 796.3.3. tapşıranın razılığı ilə ticarət agenti müqavilədən irəli gələn hüquq və vəzifələrini hər hansı üçüncü şəxsə verdikdə.
+    - 796.3.1. müqavilə üzrə hüquq münasibətlərinə ticarət agentinin təqsiri üzündən xitam verildikdə;
+    - 796.3.2. ticarət agenti müqavilə üzrə hüquq münasibətlərinə şəxsi əsaslar üzrə xitam verdikdə;
+    - 796.3.3. tapşıranın razılığı ilə ticarət agenti müqavilədən irəli gələn hüquq və vəzifələrini hər hansı üçüncü şəxsə verdikdə.
 
 #### Maddə 797. Zərərin əvəzinin ödənilməsi
 Müqavilə üzrə hüquq münasibətlərinə xitam verildikdə ticarət agenti, bu Məcəllənin 796-cı maddəsində nəzərdə tutulan hallar istisna olmaqla, tapşıranın müqavilə üzrə hüquq münasibətlərini hüquqa zidd və ya yanlış dəyişdirməsi və ya bu münasibətlərə xitam verməsi nəticəsində ona dəymiş zərərin əvəzinin ödənilməsini də tələb edə bilər.
@@ -4615,124 +4609,124 @@ Ticarət agenti müqavilənin qüvvəsinə xitam verildikdən sonra tapşıranla
 ### 43-cü fəsil. Kommersiya konsessiyası
 
 #### Maddə 800. Konsessiya müqaviləsi
-800.1. Konsessiya müqaviləsi istehsalçı və ya tacir (tapşıran) ilə sənətkarlıq şəklində müstəqil fəaliyyətlə məşğul olan şəxs (konsessioner) arasında elə bir ümumi razılaşmadır (birtipli müqavilədir) ki, onun əsasında konsessioner aşağıdakıları öhdəsinə götürür:
-- 800.1.1. tapşırandan müəyyən malları (kontrakt mallarını) vaxtaşırı satın almaq;
-- 800.1.2. bu malları öz adından və öz hesabına başqasına satmaq;
-- 800.1.3. bu zaman kontrakt mallarını müəyyən ərazilərdə və (və ya) müəyyən müştərilərə (müqavilə ərazisi və müqavilə müştəriləri) satmaq. Onların barəsində tapşıran konsessionerə müstəsna satış hüququ verir, konsessioner isə tapşıranın mallarının onun nəzarəti altında satışına qarantiya verməlidir.
-800.2. Əgər müqavilədə ayrı şərt qoyulmayıbsa, tapşıran barəsində konsessionerin kontrakt mallarını müqavilə ərazisinin hüdudlarından kənarda və ya müqavilə müştərilərindən savayı, başqa müştərilərə satmaq hüququ yoxdur.
-800.3. Başqasına satmaq üçün sadə satınalma konsessiya müqaviləsinə əsas verə bilməz. Müntəzəm ticarət münasibətləri də konsessiya haqqında müqaviləyə əsas verə bilməz.
+- 800.1. Konsessiya müqaviləsi istehsalçı və ya tacir (tapşıran) ilə sənətkarlıq şəklində müstəqil fəaliyyətlə məşğul olan şəxs (konsessioner) arasında elə bir ümumi razılaşmadır (birtipli müqavilədir) ki, onun əsasında konsessioner aşağıdakıları öhdəsinə götürür:
+  - 800.1.1. tapşırandan müəyyən malları (kontrakt mallarını) vaxtaşırı satın almaq;
+  - 800.1.2. bu malları öz adından və öz hesabına başqasına satmaq;
+  - 800.1.3. bu zaman kontrakt mallarını müəyyən ərazilərdə və (və ya) müəyyən müştərilərə (müqavilə ərazisi və müqavilə müştəriləri) satmaq. Onların barəsində tapşıran konsessionerə müstəsna satış hüququ verir, konsessioner isə tapşıranın mallarının onun nəzarəti altında satışına qarantiya verməlidir.
+- 800.2. Əgər müqavilədə ayrı şərt qoyulmayıbsa, tapşıran barəsində konsessionerin kontrakt mallarını müqavilə ərazisinin hüdudlarından kənarda və ya müqavilə müştərilərindən savayı, başqa müştərilərə satmaq hüququ yoxdur.
+- 800.3. Başqasına satmaq üçün sadə satınalma konsessiya müqaviləsinə əsas verə bilməz. Müntəzəm ticarət münasibətləri də konsessiya haqqında müqaviləyə əsas verə bilməz.
 
 #### Maddə 801. Ticarət nümayəndəsi haqqında müddəaların konsessiya müqaviləsinə tətbiqi
-801.1. Ayrı razılaşma olmadıqda konsessioner ilə tapşıran arasında hüquq münasibətlərinə müvafiq olaraq bu Məcəllənin 789.3, 790.2.3-790.2.5 və 791.1.1-791.1.3-cü maddələri tətbiq edilir.
-801.2. Aşağıdakı şərtlər gözlənilməklə, bu Məcəllənin 794-798-ci maddələri konsessiya müqaviləsi üzrə hüquq münasibətlərinə də tətbiq edilir:
-- 801.2.1. bu Məcəllənin 794.2-ci maddəsinə uyğun olaraq ləğvetmə haqqında xəbərdarlıq edilməsinin qarşılıqlı müddətləri müvafiq olaraq üç ay uzadılır;
-- 801.2.2. bu Məcəllənin 796.1 və 796.2-ci maddələrinə uyğun kompensasiyanın hesablanması üçün konsessionerin ticarət nümayəndəsi vəzifələrini icra etdiyi təqdirdə ona çata bilməsi ehtimal edilən haqq əsas götürülür.
-801.3. Qalan hallarda kompensasiya yalnız aşağıdakı şərtlər gözlənilməklə ödənilir:
-- 801.3.1. əgər müqavilənin qüvvəsinə xitam verildiyi məqamda tapşıran konsessionerin çoxaltdığı və ya genişləndirdiyi müştərilər dairəsi barəsində məlumat almışdırsa və həmin müştərilərə konsessionerin göndərdiyi həcmdə mal göndərə bilərsə;
-- 801.3.2. əgər artıq konsessioner müştərilərdən rəqabətli malların satışı üçün özü istifadə etmirsə.
+- 801.1. Ayrı razılaşma olmadıqda konsessioner ilə tapşıran arasında hüquq münasibətlərinə müvafiq olaraq bu Məcəllənin 789.3, 790.2.3-790.2.5 və 791.1.1-791.1.3-cü maddələri tətbiq edilir.
+- 801.2. Aşağıdakı şərtlər gözlənilməklə, bu Məcəllənin 794-798-ci maddələri konsessiya müqaviləsi üzrə hüquq münasibətlərinə də tətbiq edilir:
+  - 801.2.1. bu Məcəllənin 794.2-ci maddəsinə uyğun olaraq ləğvetmə haqqında xəbərdarlıq edilməsinin qarşılıqlı müddətləri müvafiq olaraq üç ay uzadılır;
+  - 801.2.2. bu Məcəllənin 796.1 və 796.2-ci maddələrinə uyğun kompensasiyanın hesablanması üçün konsessionerin ticarət nümayəndəsi vəzifələrini icra etdiyi təqdirdə ona çata bilməsi ehtimal edilən haqq əsas götürülür.
+- 801.3. Qalan hallarda kompensasiya yalnız aşağıdakı şərtlər gözlənilməklə ödənilir:
+  - 801.3.1. əgər müqavilənin qüvvəsinə xitam verildiyi məqamda tapşıran konsessionerin çoxaltdığı və ya genişləndirdiyi müştərilər dairəsi barəsində məlumat almışdırsa və həmin müştərilərə konsessionerin göndərdiyi həcmdə mal göndərə bilərsə;
+  - 801.3.2. əgər artıq konsessioner müştərilərdən rəqabətli malların satışı üçün özü istifadə etmirsə.
 
 #### Maddə 802. Konsessiya haqqında birtipli müqavilə ilə alğı-satqı müqavilələri arasında qarşılıqlı əlaqə
-802.1. Tapşıran ilə konsessioner arasında münasibətlər ümumi (birtipli) müqavilənin predmetidir. Birtipli müqavilədə bu Məcəllənin 800.1-ci maddəsindən irəli gələn müddəalardan əlavə, nəzərdə tutula bilər ki, konsessioner:
-- 802.1.1. müəyyən ticarət-servis təşkilatına malik olmalıdır;
-- 802.1.2. müvafiq işçi heyətinə malik olmalıdır;
-- 802.1.3. satılmış malların təmiri işlərini yerinə yetirməlidir;
-- 802.1.4. işçilərə təlim verilməsində və reklam tədbirlərində iştirak etməlidir;
-- 802.1.5. həmişə anbarda müəyyən miqdarda mal saxlamalıdır;
-- 802.1.6. hər il tapşırandan müəyyən həcmdə və ya müəyyən miqdarda mal (kvota) qəbul etməlidir.
-802.2. Konsessionerə malların satılması barədə ayrıca müqavilələr birtipli müqavilədən asılı deyildir. Lakin birtipli müqavilədə bütün alğı-satqı müqavilələri üçün qüvvədə olan ümumi şərtlər, o cümlədən aşağıdakılar göstərilə bilər:
-- 802.2.1. tapşıranın ümumi prays-vərəqindən konsessionerə verilən güzəşt;
-- 802.2.2. ödənişlərin müddətləri;
-- 802.2.3. tapşıranın qarantiyası barədə şərtlər.
-802.3. Tapşıran birtipli müqavilə üzrə aşağıdakı hüquqları birtərəfli qaydada əldə edə bilməz:
-- 802.3.1. konsessioner üçün satış qiymətləri təyin etmək;
-- 802.3.2. mümkün şərtləşdirilmiş kvotaları dəyişdirmək.
-802.4. Bu Məcəllənin 802.3-cü maddəsi Azərbaycan Respublikasının nəzərdə tutulan hallara tətbiq olunmur.
+- 802.1. Tapşıran ilə konsessioner arasında münasibətlər ümumi (birtipli) müqavilənin predmetidir. Birtipli müqavilədə bu Məcəllənin 800.1-ci maddəsindən irəli gələn müddəalardan əlavə, nəzərdə tutula bilər ki, konsessioner:
+  - 802.1.1. müəyyən ticarət-servis təşkilatına malik olmalıdır;
+  - 802.1.2. müvafiq işçi heyətinə malik olmalıdır;
+  - 802.1.3. satılmış malların təmiri işlərini yerinə yetirməlidir;
+  - 802.1.4. işçilərə təlim verilməsində və reklam tədbirlərində iştirak etməlidir;
+  - 802.1.5. həmişə anbarda müəyyən miqdarda mal saxlamalıdır;
+  - 802.1.6. hər il tapşırandan müəyyən həcmdə və ya müəyyən miqdarda mal (kvota) qəbul etməlidir.
+- 802.2. Konsessionerə malların satılması barədə ayrıca müqavilələr birtipli müqavilədən asılı deyildir. Lakin birtipli müqavilədə bütün alğı-satqı müqavilələri üçün qüvvədə olan ümumi şərtlər, o cümlədən aşağıdakılar göstərilə bilər:
+  - 802.2.1. tapşıranın ümumi prays-vərəqindən konsessionerə verilən güzəşt;
+  - 802.2.2. ödənişlərin müddətləri;
+  - 802.2.3. tapşıranın qarantiyası barədə şərtlər.
+- 802.3. Tapşıran birtipli müqavilə üzrə aşağıdakı hüquqları birtərəfli qaydada əldə edə bilməz:
+  - 802.3.1. konsessioner üçün satış qiymətləri təyin etmək;
+  - 802.3.2. mümkün şərtləşdirilmiş kvotaları dəyişdirmək.
+- 802.4. Bu Məcəllənin 802.3-cü maddəsi Azərbaycan Respublikasının nəzərdə tutulan hallara tətbiq olunmur.
 
 #### Maddə 803. Konsessionerin qəti qərar qəbul etmək hüququ
-803.1. Konsessionerin öz ticarət fəaliyyətini sərbəst təşkil etmək, o cümlədən təkrar satış qiymətlərini sərbəst təyin etmək hüququ vardır.
-803.2. Konsessionerin ticarətin təşkilini, satış və ya servis xidməti metodlarını dəyişdirməsi tapşıranın mallarının optimal satışını təhlükəyə məruz qoyursa, bu Məcəllənin 795-ci maddəsinə uyğun olaraq, lakin 803.1-ci maddəsi nəzərə alınmaqla, müqavilənin tapşıran tərəfindən dərhal ləğv edilməsinə əsas verə bilər.
+- 803.1. Konsessionerin öz ticarət fəaliyyətini sərbəst təşkil etmək, o cümlədən təkrar satış qiymətlərini sərbəst təyin etmək hüququ vardır.
+- 803.2. Konsessionerin ticarətin təşkilini, satış və ya servis xidməti metodlarını dəyişdirməsi tapşıranın mallarının optimal satışını təhlükəyə məruz qoyursa, bu Məcəllənin 795-ci maddəsinə uyğun olaraq, lakin 803.1-ci maddəsi nəzərə alınmaqla, müqavilənin tapşıran tərəfindən dərhal ləğv edilməsinə əsas verə bilər.
 
 #### Maddə 804. Konsessionerin müştərilərinin müdafiəsi
-804.1. Birtipli müqavilənin qüvvədə olduğu müddətdə tapşıranın eyni və ya oxşar malları satmaq məqsədi ilə birbaşa və ya üçüncü şəxslər vasitəsilə konsessionerin müştərilərinə müraciət etməsi qadağandır.
-804.2. Müqavilənin iştirakçıları razılığa gələ bilərlər ki, tapşıranın malları bilavasitə konsessionerin müştərilərinə satmasına istisna qaydasında icazə verilir. Bu halda tapşıran konsessionerə bu Məcəllənin 793-cü maddəsinə uyğun komisyon muzdu ödəməyə borcludur.
+- 804.1. Birtipli müqavilənin qüvvədə olduğu müddətdə tapşıranın eyni və ya oxşar malları satmaq məqsədi ilə birbaşa və ya üçüncü şəxslər vasitəsilə konsessionerin müştərilərinə müraciət etməsi qadağandır.
+- 804.2. Müqavilənin iştirakçıları razılığa gələ bilərlər ki, tapşıranın malları bilavasitə konsessionerin müştərilərinə satmasına istisna qaydasında icazə verilir. Bu halda tapşıran konsessionerə bu Məcəllənin 793-cü maddəsinə uyğun komisyon muzdu ödəməyə borcludur.
 
 #### Maddə 805. Tapşıranın mal göndərmək vəzifəsi
-805.1. Tapşıran birtipli müqaviləyə uyğun olaraq konsessionerin sifariş etdiyi malları ona göndərməyə borcludur.
-805.2. Tapşıran malları göndərməkdən yalnız vacib əsaslar üzrə imtina edə bilər.
-805.3. Əgər malların göndərilməsindən imtina edilmişdirsə və ya mallar başqa əsaslar üzrə göndərilmirsə, konsessioner sifarişə müvafiq surətdə malların göndərilməli olduğu ildə müəyyən kvotaya çatmaq vəzifəsindən azad edilir. Bu zaman zərərin ödənilməsi barədə digər iddialar da qüvvədə qalır.
+- 805.1. Tapşıran birtipli müqaviləyə uyğun olaraq konsessionerin sifariş etdiyi malları ona göndərməyə borcludur.
+- 805.2. Tapşıran malları göndərməkdən yalnız vacib əsaslar üzrə imtina edə bilər.
+- 805.3. Əgər malların göndərilməsindən imtina edilmişdirsə və ya mallar başqa əsaslar üzrə göndərilmirsə, konsessioner sifarişə müvafiq surətdə malların göndərilməli olduğu ildə müəyyən kvotaya çatmaq vəzifəsindən azad edilir. Bu zaman zərərin ödənilməsi barədə digər iddialar da qüvvədə qalır.
 
 #### Maddə 806. Tapşıranın qarantiyası
-806.1. Tapşıran qarantiya verir ki, konsessionerə çatdırılarkən malın qüsuru yoxdur. Əgər konsessioner qarantiya verilməsi barədə öz ölkəsində qüvvədə olan göstərişləri qabaqcadan və yazılı şəkildə tapşırana göstərirsə, tapşıran ən azı bu qarantiyanı verməyə borcludur. Qarantiya pretenziyalarının irəli sürülməsi müddəti konsessionerin malı təkrar satdığı gündən, lakin ən geci tapşıranın malı göndərdiyi gündən altı ay keçənədək başlanır. Bundan kənaraçıxmalar barəsində razılaşmaların, əgər bu kənaraçıxmalar birbaşa şərtləşdirilməmişsə və yazılı formada ifadə edilməmişsə, qüvvəsi yoxdur.
-806.2. Tapşıranın qabaqcadan razılığını almadan konsessionerin satış üçün nəzərdə tutulan mallarda və ya onların qablarında hər hansı dəyişikliklər etmək hüququ yoxdur. Əgər mallarda dəyişiklikləri tapşıran edirsə, bu barədə o, konsessionerə ağlabatan müddətdə bildiriş verməlidir.
+- 806.1. Tapşıran qarantiya verir ki, konsessionerə çatdırılarkən malın qüsuru yoxdur. Əgər konsessioner qarantiya verilməsi barədə öz ölkəsində qüvvədə olan göstərişləri qabaqcadan və yazılı şəkildə tapşırana göstərirsə, tapşıran ən azı bu qarantiyanı verməyə borcludur. Qarantiya pretenziyalarının irəli sürülməsi müddəti konsessionerin malı təkrar satdığı gündən, lakin ən geci tapşıranın malı göndərdiyi gündən altı ay keçənədək başlanır. Bundan kənaraçıxmalar barəsində razılaşmaların, əgər bu kənaraçıxmalar birbaşa şərtləşdirilməmişsə və yazılı formada ifadə edilməmişsə, qüvvəsi yoxdur.
+- 806.2. Tapşıranın qabaqcadan razılığını almadan konsessionerin satış üçün nəzərdə tutulan mallarda və ya onların qablarında hər hansı dəyişikliklər etmək hüququ yoxdur. Əgər mallarda dəyişiklikləri tapşıran edirsə, bu barədə o, konsessionerə ağlabatan müddətdə bildiriş verməlidir.
 
 #### Maddə 807. Konsessiya müqaviləsinin qüvvəsinə xitam verilməsinin nəticələri
-807.0. Konsessioner ilə tapşıran arasında birtipli müqavilənin qüvvəsinə xitam verildikdən sonra:
-- 807.0.1. Artıq konsessioner müştərilər qarşısında tapşıranın konsessioneri kimi çıxış edə bilməz. Bundan başqa, o, tapşıranın firma markalarından və nişanlarından istifadə edə bilməz. Konsessioner öz adına qeydə alınmış və müqavilə bağlananadək istifadə edilmiş bütün firma markalarını və nişanlarını tapşıranın adına keçirməyə borcludur. İlkin qeydiyyat və keçirmə xərclərini tapşıran çəkir.
-- 807.0.2. Əgər konsessioner müştərilər və (və ya) tapşıran qarşısında öhdəliklərini yerinə yetirmək üçün anbar saxlamalı olmuşdusa, tapşıran onun anbarında qalan malları satın almağa borcludur. Əgər mal satış üçün yararlı olan yaxşı vəziyyətdədirsə, satınalma qiyməti son satınalma zamanı konsessionerin tapşırana ödədiyi qiymətdən aşağı olmamalıdır. Konsessioner satınalmadan imtina edə bilər. Bu isə ona anbardakı qalığı ağlabatan müddətdə müştərilərə satmaq hüququ verir.
+- 807.0. Konsessioner ilə tapşıran arasında birtipli müqavilənin qüvvəsinə xitam verildikdən sonra:
+  - 807.0.1. Artıq konsessioner müştərilər qarşısında tapşıranın konsessioneri kimi çıxış edə bilməz. Bundan başqa, o, tapşıranın firma markalarından və nişanlarından istifadə edə bilməz. Konsessioner öz adına qeydə alınmış və müqavilə bağlananaədək istifadə edilmiş bütün firma markalarını və nişanlarını tapşıranın adına keçirməyə borcludur. İlkin qeydiyyat və keçirmə xərclərini tapşıran çəkir.
+  - 807.0.2. Əgər konsessioner müştərilər və (və ya) tapşıran qarşısında öhdəliklərini yerinə yetirmək üçün anbar saxlamalı olmuşdursa, tapşıran onun anbarında qalan malları satın almağa borcludur. Əgər mal satış üçün yararlı olan yaxşı vəziyyətdədirsə, satınalma qiyməti son satınalma zamanı konsessionerin tapşırana ödədiyi qiymətdən aşağı olmamalıdır. Konsessioner satınalmadan imtina edə bilər. Bu isə ona anbardakı qalığı ağlabatan müddətdə müştərilərə satmaq hüququ verir.
 
 ### 44-cü fəsil. Komissiya
 
 #### Maddə 808. Komissiya müqaviləsi
-808.1. Komissiya müqaviləsinə görə bir tərəf (komisyonçu) digər tərəfin (komitentin) tapşırığı ilə muzd müqabilində öz adından, lakin komitentin hesabına bir və ya bir neçə əqd bağlamağı öhdəsinə götürür. Komisyonçunun üçüncü şəxslə bağladığı əqd üzrə hüquqları, əqddə komitent adlandırılmış olduqda və ya əqdin icrası üzrə üçüncü şəxslə bilavasitə münasibətlərə girdikdə belə, komisyonçu əldə edir və komisyonçu mükəlləfiyyətli olur.
-808.2. Çıxarılmışdır.
-808.3. Komissiya müqaviləsi müəyyən müddətə və ya qüvvədə olma müddəti göstərilmədən, icra ərazisi göstərilməklə və ya göstərilmədən, komitentin onun mənafeləri üçün və onun hesabına bağlamağı komisyonçuya tapşırdığı əqdləri bağlamaq hüququnu üçüncü şəxslərə verməmək öhdəliyi nəzərdə tutulmaqla və ya nəzərdə tutulmadan, komissiya predmeti olan malların çeşidi barəsində şərtlər qoyulmaqla və ya qoyulmadan bağlana bilər.
+- 808.1. Komissiya müqaviləsinə görə bir tərəf (komisyonçu) digər tərəfin (komitentin) tapşırığı ilə muzd müqabilində öz adından, lakin komitentin hesabına bir və ya bir neçə əqd bağlamağı öhdəsinə götürür. Komisyonçunun üçüncü şəxslə bağladığı əqd üzrə hüquqları, əqddə komitent adlandırılmış olduqda və ya əqdin icrası üzrə üçüncü şəxslə bilavasitə münasibətlərə girdikdə belə, komisyonçu əldə edir və komisyonçu mükəlləfiyyətli olur.
+- 808.2. Çıxarılmışdır.
+- 808.3. Komissiya müqaviləsi müəyyən müddətə və ya qüvvədə olma müddəti göstərilmədən, icra ərazisi göstərilməklə və ya göstərilmədən, komitentin onun mənafeləri üçün və onun hesabına bağlamağı komisyonçuya tapşırdığı əqdləri bağlamaq hüququnu üçüncü şəxslərə verməmək öhdəliyi nəzərdə tutulmaqla və ya nəzərdə tutulmadan, komissiya predmeti olan malların çeşidi barəsində şərtlər qoyulmaqla və ya qoyulmadan bağlana bilər.
 
 #### Maddə 809. Komisyonçunun ümumi vəzifələri
-809.1. Komisyonçu tapşırılmış işi vicdanla aparmalı və komitentin mənafelərini qorumalıdır.
-809.2. Komisyonçu əqdləri vicdanlı üçüncü şəxslərlə bağlamalı və komitentin razılığı olmadan üçüncü şəxslərə kredit verməməlidir.
-809.3. Komisyonçu öz işlərinin gedişi, o cümlədən komisyon tapşırığının icrası gedişi barəsində komitentə məlumat verməlidir.
-809.4. Komisyonçu komitentin icazəsi olmadan onun adını açıqlamamalıdır.
+- 809.1. Komisyonçu tapşırılmış işi vicdanla aparmalı və komitentin mənafelərini qorumalıdır.
+- 809.2. Komisyonçu əqdləri vicdanlı üçüncü şəxslərlə bağlamalı və komitentin razılığı olmadan üçüncü şəxslərə kredit verməməlidir.
+- 809.3. Komisyonçu öz işlərinin gedişi, o cümlədən komisyon tapşırığının icrası gedişi barəsində komitentə məlumat verməlidir.
+- 809.4. Komisyonçu komitentin icazəsi olmadan onun adını açıqlamamalıdır.
 
 #### Maddə 810. Komitentin göstərişləri
-810.1. Komisyonçu komitentin göstərişlərinə əməl etməli, o cümlədən qiymətlərin limitini gözləməlidir.
-810.2. Komitent öz zərərinə olan kənarçıxmalarla bağlanan əqddən imtina edə bilər, amma komisyonçunun zərər üçün kompensasiya təklif etdiyi hallar istisna təşkil edir.
-810.3. Komisyonçunun daha sərfəli şərtlərlə bağladığı əqddən bütün fayda komitentə çatır.
+- 810.1. Komisyonçu komitentin göstərişlərinə əməl etməli, o cümlədən qiymətlərin limitini gözləməlidir.
+- 810.2. Komitent öz zərərinə olan kənarçıxmalarla bağlanan əqddən imtina edə bilər, amma komisyonçunun zərər üçün kompensasiya təklif etdiyi hallar istisna təşkil edir.
+- 810.3. Komisyonçunun daha sərfəli şərtlərlə bağladığı əqddən bütün fayda komitentə çatır.
 
 #### Maddə 811. Komisyonçunun hesabat verməsi
-811.1. Komisyonçu əqdin müqavilə şərtləri haqqında, öz adından və sifarişçinin hesabına hərəkətləri yerinə yetirməsi haqqında komitentə məlumat verməyə borcludur.
-811.2. Ayrı razılaşmanın olmadığı halda komisyonçu üçüncü şəxsin adını bildirməyə borclu deyildir, amma komisyonçunun ödəniş qabiliyyətli olmadığından ehtiyat edildiyi hallar istisna təşkil edir.
-811.3. Üçüncü şəxsin adını bildirməkdən imtina hüququ hesabat üçün vacib olan hər hansı digər informasiyanı vermək vəzifəsinə təsir göstərmir. Komitentin xahişi ilə komisyonçu üçüncü şəxsin adı da daxil olmaqla, bütün informasiyanı notariusa verməlidir. Notarius isə üçüncü şəxsin anonimliyini saxlamaqla, bu informasiyanı komitentə verir.
+- 811.1. Komisyonçu əqdin müqavilə şərtləri haqqında, öz adından və sifarişçinin hesabına hərəkətləri yerinə yetirməsi haqqında komitentə məlumat verməyə borcludur.
+- 811.2. Ayrı razılaşmanın olmadığı halda komisyonçu üçüncü şəxsin adını bildirməyə borclu deyildir, amma komisyonçunun ödəniş qabiliyyətli olmadığından ehtiyat edildiyi hallar istisna təşkil edir.
+- 811.3. Üçüncü şəxsin adını bildirməkdən imtina hüququ hesabat üçün vacib olan hər hansı digər informasiyanı vermək vəzifəsinə təsir göstərmir. Komitentin xahişi ilə komisyonçu üçüncü şəxsin adı da daxil olmaqla, bütün informasiyanı notariusa verməlidir. Notarius isə üçüncü şəxsin anonimliyini saxlamaqla, bu informasiyanı komitentə verir.
 
 #### Maddə 812. Komisyonçunun komisyon malı barəsində vəzifələri
-812.1. Komitentin sərəncamı ilə komisyonçuya göndərilmiş komisyon malı zədələnmiş olduqda komisyonçu komitentin hüquqlarını müdafiə etməli, malın vəziyyəti barəsində sübutlar qayğısına qalmalı və bu barədə dərhal komitentə bildiriş verməlidir.
-812.2. Komitent üçün nəzərdə tutulan komisyon malı barəsində komisyonçunun üzərinə satıcı hüquqları və vəzifələri qoyulur.
+- 812.1. Komitentin sərəncamı ilə komisyonçuya göndərilmiş komisyon malı zədələnmiş olduqda komisyonçu komitentin hüquqlarını müdafiə etməli, malın vəziyyəti barəsində sübutlar qayğısına qalmalı və bu barədə dərhal komitentə bildiriş verməlidir.
+- 812.2. Komitent üçün nəzərdə tutulan komisyon malı barəsində komisyonçunun üzərinə satıcı hüquqları və vəzifələri qoyulur.
 
 #### Maddə 813. Komisyonçunun mal üçün məsuliyyəti
 Komisyonçu saxlamağa götürdüyü malın itməsi və zədələnməsi üçün, əgər qarşısıalınmaz qüvvə ilə bağlı hallar yoxdursa, məsuliyyət daşıyır.
 
 #### Maddə 814. Əqdin üçüncü şəxs tərəfindən icrası üçün komisyonçunun məsuliyyəti
-814.1. Komisyonçu komitentin hesabına əqd bağladığı üçüncü şəxsin öhdəliklərinin icrası üçün məsuliyyət daşıyır, bu şərtlə ki, o belə məsuliyyət götürmüş olsun. Məsuliyyət üçüncü şəxslə bağlanmış əqddən onun üçün irəli gələn bütün öhdəliklərə şamil edilir.
-814.2. Bu halda komisyonçuya əlavə muzd verilməlidir. Müqavilədə ayrı şərt qoyulmadıqda əlavə muzdun miqdarı bank zaminliyi üçün adi muzd üzrə müəyyənləşdirilir.
+- 814.1. Komisyonçu komitentin hesabına əqd bağladığı üçüncü şəxsin öhdəliklərinin icrası üçün məsuliyyət daşıyır, bu şərtlə ki, o belə məsuliyyət götürmüş olsun. məsuliyyət üçüncü şəxslə bağlanmış əqddən onun üçün irəli gələn bütün öhdəliklərə şamil edilir.
+- 814.2. Bu halda komisyonçuya əlavə muzd verilməlidir. Müqavilədə ayrı şərt qoyulmadıqda əlavə muzdun miqdarı bank zaminliyi üçün adi muzd üzrə müəyyənləşdirilir.
 
 #### Maddə 815. Komisyon muzdu
-815.1. Komisyonçu komitentin hesabına bağlanmış əqdin üçüncü şəxs tərəfindən icra edildiyi halda və ya komitentin cavabdeh olduğu səbəblərdən əqdin icra edilmədiyi halda komisyon muzdu tələb edə bilər.
-815.2. Komisyon muzdunun miqdarı komissiya müqaviləsi ilə, belə qeyd-şərt olmadıqda isə, əgər komisyon əqdləri komisyonçunun müəssisəsinin fəaliyyət predmetinə aiddirsə, yerli işgüzar adətlər əsasında müəyyənləşdirilir.
-815.3. Bundan başqa, komisyonçu komissiya müqaviləsinin yerinə yetirilməsi gedişində çəkdiyi və bütün halları nəzərə almaqla zəruri saydığı xərclərin əvəzinin ödənilməsini tələb edə bilər. Komisyonçunun və ya onun işçi heyətinin adi işlərin yerinə yetirilməsi xərclərinin və müqaviləyə uyğun və ya komisyon muzdunun hesabına ödənilən digər xərclərin əvəzi ödənilmir.
+- 815.1. Komisyonçu komitentin hesabına bağlanmış əqdin üçüncü şəxs tərəfindən icra edildiyi halda və ya komitentin cavabdeh olduğu səbəblərdən əqdin icra edilmədiyi halda komisyon muzdu tələb edə bilər.
+- 815.2. Komisyon muzdunun miqdarı komissiya müqaviləsi ilə, belə qeyd-şərt olmadıqda isə, əgər komisyon əqdləri komisyonçunun müəssisəsinin fəaliyyət predmetinə aiddirsə, yerli işgüzar adətlər əsasında müəyyənləşdirilir.
+- 815.3. Bundan başqa, komisyonçu komissiya müqaviləsinin yerinə yetirilməsi gedişində çəkdiyi və bütün halları nəzərə almaqla zəruri saydığı xərclərin əvəzinin ödənilməsini tələb edə bilər. Komisyonçunun və ya onun işçi heyətinin adi işlərin yerinə yetirilməsi xərclərinin və müqaviləyə uyğun və ya komisyon muzdunun hesabına ödənilən digər xərclərin əvəzi ödənilmir.
 
 #### Maddə 816. Komisyonçunun özü ilə əqdləri
-816.1. Əgər malların rəsmi birja və ya bazar qiyməti vardırsa və komitent ayrı şərt qoymayıbsa, komisyonçunun özü ilə əqdlər bağlamaq hüququ vardır.
-816.2. Komisyonçu özü ilə bağladığı əqdlər barəsində bildiriş verməli və bildirişin göndərildiyi an mövcud olmuş birja və ya bazar qiymətini sübut etməlidir.
+- 816.1. Əgər malların rəsmi birja və ya bazar qiyməti vardırsa və komitent ayrı şərt qoymayıbsa, komisyonçunun özü ilə əqdlər bağlamaq hüququ vardır.
+- 816.2. Komisyonçu özü ilə bağladığı əqdlər barəsində bildiriş verməli və bildirişin göndərildiyi an mövcud olmuş birja və ya bazar qiymətini sübut etməlidir.
 
 #### Maddə 817. Komisyonçunun satış hüququ
-817.1. Əgər komitent müqaviləyə və ya şəraitə uyğun komisyon malına sahibliyə başlamalı olsa da, bunu etmirsə, komisyonçu komisyon malının satışını həyata keçirmək hüququnu əldə edir.
-817.2. Əgər mal korlanmaya meyllidirsə və ya sonradan malda onun qiymətdən düşməsinə səbəb ola biləcək dəyişikliklər aşkar edilərsə və komitentlə əlaqə yaratmağa vaxt olmazsa, komisyonçu komitentə qabaqcadan bildiriş verməklə, malın satılması qayğısına qalmaq hüququna malikdir.
+- 817.1. Əgər komitent müqaviləyə və ya şəraitə uyğun komisyon malına sahibliyə başlamalı olsa da, bunu etmirsə, komisyonçu komisyon malının satışını həyata keçirmək hüququnu əldə edir.
+- 817.2. Əgər mal korlanmaya meyllidirsə və ya sonradan malda onun qiymətdən düşməsinə səbəb ola biləcək dəyişikliklər aşkar edilərsə və komitentlə əlaqə yaratmağa vaxt olmazsa, komisyonçu komitentə qabaqcadan bildiriş verməklə, malın satılması qayğısına qalmaq hüququna malikdir.
 
 #### Maddə 818. Komitentin verdiyi obyektlərə mülkiyyət hüququ
 Komitentin komisyonçuya verdiyi obyektlərə mülkiyyət hüququ komisyon əqdi icra edilənədək komitentdə qalır.
 
 #### Maddə 819. Öz adından və sifarişçinin hesabına hərəkətlərin yerinə yetirilməsi haqqında əqd
-819.1. Komisyonçu öz adından və sifarişçinin hesabına hərəkətlərin yerinə yetirilməsi haqqında üçüncü şəxslər ilə əqd üzrə kreditor və borcludur.
-819.2. Komisyonçu komissiya müqaviləsinin icrasından əldə etdiklərinin hamısını komitentə verməyə borcludur.
-819.3. Komitent komisyonçunun bağladığı əqddən irəli gələn tələbləri yalnız komisyonçu tələbi güzəşt etdikdən sonra irəli sürə bilər.
-819.4. Komisyonçunun öz adından və sifarişçinin hesabına hərəkətlərin yerinə yetirilməsi haqqında əqddən irəli gələn tələbləri kreditora güzəşt etməsinin qüvvəsi yoxdur. Əmlakın girov qoyulduğu halda komitent onun ləğvini tələb edə bilər. Əgər girov qoyulmuş tələb artıq kreditora göndərilmişdirsə, komisyonçu kreditorun həmin tələb əsasında aldıqlarının verilməsini tələb edə bilər.
+- 819.1. Komisyonçu öz adından və sifarişçinin hesabına hərəkətlərin yerinə yetirilməsi haqqında üçüncü şəxslər ilə əqd üzrə kreditor və borcludur.
+- 819.2. Komisyonçu komissiya müqaviləsinin icrasından əldə etdiklərinin hamısını komitentə verməyə borcludur.
+- 819.3. Komitent komisyonçunun bağladığı əqddən irəli gələn tələbləri yalnız komisyonçu tələbi güzəşt etdikdən sonra irəli sürə bilər.
+- 819.4. Komisyonçunun öz adından və sifarişçinin hesabına hərəkətlərin yerinə yetirilməsi haqqında əqddən irəli gələn tələbləri kreditora güzəşt etməsinin qüvvəsi yoxdur. Əmlakın girov qoyulduğu halda komitent onun ləğvini tələb edə bilər. Əgər girov qoyulmuş tələb artıq kreditora göndərilmişdirsə, komisyonçu kreditorun həmin tələb əsasında aldıqlarının verilməsini tələb edə bilər.
 
 #### Maddə 820. Komisyonçunun təminat hüququ
-820.1. Komisyonçunun hər hansı komisyon əqdindən və ya əvvəlki komisyon əqdlərindən komitentə qarşı əmələ gəlmiş tələbləri əsasında komisyonçu sənədlərə əsasən sahiblik etdiyi və ya sərəncam verə bildiyi komisyon malına qanuni girov hüququ əldə edir. Komisyon malının komitentin mülkiyyətində olmadığı, lakin komisyonçunun həmin malı onun komitentə mənsub olduğunu vicdanlı qəbul etdiyi halda da komisyonçu bu mala girov hüququnu əldə edir.
-820.2. Komisyonçu komisyon əqdinin icrası əsasında üçüncü şəxsə qarşı mövcud olan tələblər üzrə təminat ala bilər.
+- 820.1. Komisyonçunun hər hansı komisyon əqdindən və ya əvvəlki komisyon əqdlərindən komitentə qarşı əmələ gəlmiş tələbləri əsasında komisyonçu sənədlərə əsasən sahiblik etdiyi və ya sərəncam verə bildiyi komisyon malına qanuni girov hüququ əldə edir. Komisyon malının komitentin mülkiyyətində olmadığı, lakin komisyonçunun həmin malı onun komitentə mənsub olduğunu vicdanlı qəbul etdiyi halda da komisyonçu bu mala girov hüququnu əldə edir.
+- 820.2. Komisyonçu komisyon əqdinin icrası əsasında üçüncü şəxsə qarşı mövcud olan tələblər üzrə təminat ala bilər.
 
 #### Maddə 821. Komissiya müqaviləsinə xitam verilməsi
-821.1. Komisyonçunun öldüyü halda komissiya müqaviləsinə xitam verilir.
-821.2. Komissiya müqaviləsinin iştirakçıları istənilən vaxt müqaviləni ləğv edə bilərlər. Əgər müqavilənin ləğvinə dair komitent bildiriş verirsə, komisyonçunun çəkdiyi xərclərin əvəzini ona ödəməlidir.
+- 821.1. Komisyonçunun öldüyü halda komissiya müqaviləsinə xitam verilir.
+- 821.2. Komissiya müqaviləsinin iştirakçıları istənilən vaxt müqaviləni ləğv edə bilərlər. Əgər müqavilənin ləğvinə dair komitent bildiriş verirsə, komisyonçunun çəkdiyi xərclərin əvəzini ona ödəməlidir.
 
 ### 45-cü fəsil. Saxlama
 
@@ -4742,22 +4736,22 @@ Komitentin komisyonçuya verdiyi obyektlərə mülkiyyət hüququ komisyon əqdi
 Saxlama müqaviləsinə görə bir şəxs (yük götürən, saxlayıcı) başqa şəxsin (yük verənin, tapşıranın) ona verdiyi daşınar əşyanı saxlamağı və müqavilənin qüvvəsi sona çatdıqda qaytarmağı öhdəsinə götürür.
 
 #### Maddə 823. Yük verənin (tapşıranın) vəzifələri
-823.1. Tapşıran saxlama müqaviləsinin icrası ilə bağlı saxlayıcının çəkdiyi zəruri xərclərin əvəzini ödəməlidir.
-823.2. Tapşıran saxlama üçün muzdu yalnız o halda ödəməlidir ki, bu, şərtləşdirilmiş olsun və ya şərait nəzərə alınmaqla saxlama üçün muzd ödənilməsi qəbul edilmiş olsun. Zərurət olduqda muzd saxlamanın sonunda ödənilir. Müəyyən zaman hissələri üçün muzd ödənilməsi barədə razılaşma olduqda həmin muzd müvafiq olaraq ayrı-ayrı zaman hissələrinin sonunda hissələr şəklində ödənilir.
-823.3. Tapşıran saxlamağa götürülmüş əşyanın xarakteri ilə əlaqədar saxlayıcının düşdüyü zərərin əvəzini ödəməlidir, amma əşyanı saxlamaya verərkən onun təhlükəli xassələrini bilmədiyi və ya bilməli olmadığı və ya bu barədə saxlayıcıya bildiriş verdiyi və ya saxlayıcının bildirişsiz də bunu bildiyi hallar istisna təşkil edir.
+- 823.1. Tapşıran saxlama müqaviləsinin icrası ilə bağlı saxlayıcının çəkdiyi zəruri xərclərin əvəzini ödəməlidir.
+- 823.2. Tapşıran saxlama üçün muzdu yalnız o halda ödəməlidir ki, bu, şərtləşdirilmiş olsun və ya şərait nəzərə alınmaqla saxlama üçün muzd ödənilməsi qəbul edilmiş olsun. Zərurət olduqda muzd saxlamanın sonunda ödənilir. Müəyyən zaman hissələri üçün muzd ödənilməsi barədə razılaşma olduqda həmin muzd müvafiq olaraq ayrı-ayrı zaman hissələrinin sonunda hissələr şəklində ödənilir.
+- 823.3. Tapşıran saxlamaya götürülmüş əşyanın xarakteri ilə əlaqədar saxlayıcının düşdüyü zərərin əvəzini ödəməlidir, amma əşyanı saxlamaya verərkən onun təhlükəli xassələrini bilmədiyi və ya bilməli olmadığı və ya bu barədə saxlayıcıya bildiriş verdiyi və ya saxlayıcının bildirişsiz də bunu bildiyi hallar istisna təşkil edir.
 
 #### Maddə 824. Yük götürənin (saxlayıcının) vəzifələri
-824.1. Əgər saxlama əvəzsiz həyata keçirilirsə, saxlama dövründə saxlayıcı yalnız qəsd və/və ya kobud ehtiyatsızlığa görə məsuliyyət daşıyır. Əgər saxlama haqq müqabilində həyata keçirilirsə, saxlayıcı şərtləşdirilmiş vicdanlılığa riayət edilməsi üçün, qalan hallarda isə bu cür əşyaların saxlanması zamanı adi olan vicdanlılıq üçün məsuliyyət daşıyır.
-824.2. Saxlayıcının saxlamaya götürdüyü əşyadan tapşıranın qabaqcadan razılığı olmadan istifadə etmək hüququ yoxdur. Əks halda o, əşyanın təsadüfən itməsi üçün, əgər itmənin əşyadan istifadə edilmədən də mümkün olduğunu sübuta yetirməsə, tapşıran qarşısında məsuliyyət daşıyır.
-824.3. Tapşıranın xahişi ilə saxlayıcı əşyanı qaytarmalıdır. Saxlama üçün konkret müddətin təyin edildiyi halda da bu müddəa həmişə qüvvədədir. Əşya onun saxlandığı yerdə qaytarılmalıdır. Əşyanın saxlayıcısı onu tapşırana çatdırmağa borclu deyildir. Əşya tapşıranın hesabına və tapşıranın riski ilə qaytarılır.
+- 824.1. Əgər saxlama əvəzsiz həyata keçirilirsə, saxlama dövründə saxlayıcı yalnız qəsd və/və ya kobud ehtiyatsızlığa görə məsuliyyət daşıyır. Əgər saxlama haqq müqabilində həyata keçirilirsə, saxlayıcı şərtləşdirilmiş vicdanlılığa riayət edilməsi üçün, qalan hallarda isə bu cür əşyaların saxlanması zamanı adi olan vicdanlılıq üçün məsuliyyət daşıyır.
+- 824.2. Saxlayıcının saxlamaya götürdüyü əşyadan tapşıranın qabaqcadan razılığı olmadan istifadə etmək hüququ yoxdur. Əks halda o, əşyanın təsadüfən itməsi üçün, əgər itmənin əşyadan istifadə edilmədən də mümkün olduğunu sübuta yetirməsə, tapşıran qarşısında məsuliyyət daşıyır.
+- 824.3. Tapşıranın xahişi ilə saxlayıcı əşyanı qaytarmalıdır. Saxlama üçün konkret müddətin təyin edildiyi halda da bu müddəa həmişə qüvvədədir. Əşya onun saxlandığı yerdə qaytarılmalıdır. Əşyanın saxlayıcısı onu tapşırana çatdırmağa borclu deyildir. Əşya tapşıranın hesabına və tapşıranın riski ilə qaytarılır.
 
 #### Maddə 825. Yük götürənin (saxlayıcının) hüquqları
-825.1. Saxlayıcı şərtləşdirilmiş saxlama növünü dəyişdirmək hüququna o halda malikdir ki, tapşıranın vəziyyəti bildikdən sonra buna razı olacağını şəraiti nəzərə almaqla ehtimal edə bilsin. Buna qədər isə saxlayıcı dəyişiklik barəsində tapşırana bildiriş verməli və əgər ləngimə risklə bağlı deyildirsə, onun qərarını gözləməlidir.
-825.2. Əgər saxlama üçün müddət təyin edilməyibsə, saxlayıcı istənilən vaxt tapşırandan əşyanı geri götürməyi tələb edə bilər, bu şərtlə ki, həmin tələb tapşıran üçün açıq-aşkar qeyri-münasib vaxtda irəli sürülməsin və əlverişsiz müddətdə icra edilməli olmasın. Saxlama müddəti müəyyənləşdirildikdə saxlayıcı əşyanın geri götürülməsini yalnız vacib əsaslar üzrə tələb edə bilər.
+- 825.1. Saxlayıcı şərtləşdirilmiş saxlama növünü dəyişdirmək hüququna o halda malikdir ki, tapşıranın vəziyyəti bildikdən sonra buna razı olacağını şəraiti nəzərə almaqla ehtimal edə bilsin. Buna qədər isə saxlayıcı dəyişiklik barəsində tapşırana bildiriş verməli və əgər ləngimə risklə bağlı deyildirsə, onun qərarını gözləməlidir.
+- 825.2. Əgər saxlama üçün müddət təyin edilməyibsə, saxlayıcı istənilən vaxt tapşırandan əşyanı geri götürməyi tələb edə bilər, bu şərtlə ki, həmin tələb tapşıran üçün açıq-aşkar qeyri-münasib vaxtda irəli sürülməsin və əlverişsiz müddətdə icra edilməli olmasın. Saxlama müddəti müəyyənləşdirildikdə saxlayıcı əşyanın geri götürülməsini yalnız vacib əsaslar üzrə tələb edə bilər.
 
 #### Maddə 826. Əvəz edilə bilən əşyaların saxlanması
-826.1. Əgər saxlamaya pul qəbul edilirsə və bu zaman saxlayıcının eyni pulu deyil, eyni məbləği qaytarmalı olduğu birbaşa və ya dinməz razılıqla şərtləşdirilirsə, pula mülkiyyət hüququ, ondan istifadə hüququ və onun itməsi riski saxlayıcıya keçir. Bu mənada dinməz razılıq pul məbləğinin möhürlənməmiş və bağlanmamış şəkildə verildiyi halda ehtimal edilir.
-826.2. Əgər saxlamaya digər əvəz edilən əşyalar və ya sənədli qiymətli kağızlar qəbul edilirsə, saxlayıcı onlara dair yalnız o halda sərəncam verə bilər ki, tapşıran buna birbaşa icazə vermiş olsun.
+- 826.1. Əgər saxlamaya pul qəbul edilirsə və bu zaman saxlayıcının eyni pulu deyil, eyni məbləği qaytarmalı olduğu birbaşa və ya dinməz razılıqla şərtləşdirilirsə, pula mülkiyyət hüququ, ondan istifadə hüququ və onun itməsi riski saxlayıcıya keçir. Bu mənada dinməz razılıq pul məbləğinin möhürlənməmiş və bağlanmamış şəkildə verildiyi halda ehtimal edilir.
+- 826.2. Əgər saxlamaya digər əvəz edilən əşyalar və ya sənədli qiymətli kağızlar qəbul edilirsə, saxlayıcı onlara dair yalnız o halda sərəncam verə bilər ki, tapşıran buna birbaşa icazə vermiş olsun.
 
 #### §2. Anbarlarda saxlama
 
@@ -4765,53 +4759,53 @@ Saxlama müqaviləsinə görə bir şəxs (yük götürən, saxlayıcı) başqa 
 Anbar sahibi sənətkarlıq şəklində saxlama ilə məşğul olan və saxlama üzrə öz xidmətlərini açıq təklif edən saxlayıcıdır. Əgər bu Məcəllənin bu paraqrafının aşağıdakı müddəalarında ayrı şərt qoyulmayıbsa, anbar sahibinin xidmətlərinə saxlama haqqında göstərişlər tətbiq edilir.
 
 #### Maddə 828. Əmtəə kağızları
-828.1. Anbar sahibi saxlamağa qəbul edilmiş mallar üçün əmtəə kağızları yazıb verə bilər. Əmtəə kağızı sahibinin həmin kağızda göstərilən əmtəəyə dair sərəncam vermək və bu əmtəəni almaq hüququnu təsbit edən (anbar şəhadətnaməsi, konosament və s.) sənəddir.
-828.2. Əmtəə kağızları yük verənin və ya mal sahibinin adına yazıla bilər.
-828.3. Əgər hər hansı mala əmtəə kağızı yazılmışdırsa, anbar sahibi həmin malı yalnız bu sənəddə göstərilmiş ixtiyarlı şəxsə verə bilər və verməlidir.
-828.4. Əmtəə kağızlarında aşağıdakı məlumatlar göstərilməlidir:
-- 828.4.1. sənədin tərtib edildiyi yer və tarix, sənədi vermiş şəxsin imzası;
-- 828.4.2. sənədi vermiş şəxsin adı və yaşayış yeri və ya olduğu yer;
-- 828.4.3. malları anbarda saxlayan şəxsin və ya göndərənin adı və yaşayış yeri və ya olduğu yer;
-- 828.4.4. saxlanılan və ya saxlanmağa verilən malların keyfiyyəti, miqdarı və əlamətləri göstərilməklə adı;
-- 828.4.5. tutulmalı olan və ya qabaqcadan ödənilmiş ödənişlər;
-- 828.4.6. maraqlı şəxslərin mallarla rəftar barəsində qəbul etdikləri xüsusi sazişlər;
-- 828.4.7. əmtəə kağızlarının nüsxələrinin sayı;
-- 828.4.8. həmin sənəd üzrə ixtiyarlı şəxsin adının göstərilməsi və ya əmr barədə qeyd-şərt və ya təqdim edənin göstərilməsi.
-828.5. Bir neçə əmtəə kağızından biri girovun müəyyənləşdirilməsi üçün nəzərdə tutulmuşsa, bu cür sənəd girov şəhadətnaməsi (varrant) adlandırılmalı və qalan məlumatlarına görə əmtəə kağızı şəklində olmalıdır. Digər nüsxələrdə girov şəhadətnaməsinin verildiyi qeyd edilməli, tələbin məbləği və ödəniş müddəti göstərilməklə hər bir girov qoyma əks etdirilməlidir.
-828.6. Saxlanılan və ya yola salınmış mallar üçün şəhadətnamələr əmtəə kağızlarının forması haqqında qanuni göstərişlər pozulmaqla verildikdə bunlar əmtəə kağızları deyil, alınma haqqında qəbzlər və ya digər təsdiqləyici sənədlər sayılır.
-828.7. Anbar sahiblərinin səlahiyyətli orqanlardan qanunla verilməli icazəni almadan verdikləri şəhadətnamələr forma barədə qanuni göstərişlərə uyğun gəlirsə, əmtəə kağızları sayılır.
-828.8. Konosament mala dair sərəncam sənədindən ibarət əmtəə kağızı olub, onun sahibinin konosamentdə göstərilən yükə dair sərəncam vermək və daşıma başa çatdıqdan sonra yükü almaq hüququnu təsdiqləyir. Konosament adsız və ya adlı ola bilər.
-828.9. Qoşa anbar şəhadətnaməsi anbar sahibi tərəfindən malın saxlanmağa qəbul olunmasını təsdiqləyən əmtəə kağızıdır. Qoşa anbar şəhadətnaməsi iki hissədən - anbar şəhadətnaməsindən və girov şəhadətnaməsindən (varrantdan) ibarətdir və bunlar ayrı-ayrılıqda əmtəə kağızlarıdır.
-828.10. Adi anbar şəhadətnaməsi anbar sahibi tərəfindən malın saxlanmağa qəbul olunduğunu təsdiqləyən əmtəə kağızıdır.
+- 828.1. Anbar sahibi saxlamağa qəbul edilmiş mallar üçün əmtəə kağızları yazıb verə bilər. Əmtəə kağızı sahibinin həmin kağızda göstərilən əmtəəyə dair sərəncam vermək və bu əmtəəni almaq hüququnu təsbit edən (anbar şəhadətnaməsi, konosament və s.) sənəddir.
+- 828.2. Əmtəə kağızları yük verənin və ya mal sahibinin adına yazıla bilər.
+- 828.3. Əgər hər hansı mala əmtəə kağızı yazılmışdırsa, anbar sahibi həmin malı yalnız bu sənəddə göstərilmiş ixtiyarlı şəxsə verə bilər və verməlidir.
+- 828.4. Əmtəə kağızlarında aşağıdakı məlumatlar göstərilməlidir:
+  - 828.4.1. sənədin tərtib edildiyi yer və tarix, sənədi vermiş şəxsin imzası;
+  - 828.4.2. sənədi vermiş şəxsin adı və yaşayış yeri və ya olduğu yer;
+  - 828.4.3. malları anbarda saxlayan şəxsin və ya göndərənin adı və yaşayış yeri və ya olduğu yer;
+  - 828.4.4. saxlanılan və ya saxlanmağa verilən malların keyfiyyəti, miqdarı və əlamətləri göstərilməklə adı;
+  - 828.4.5. tutulmalı olan və ya qabaqcadan ödənilmiş ödənişlər;
+  - 828.4.6. maraqlı şəxslərin mallarla rəftar barəsində qəbul etdikləri xüsusi sazişlər;
+  - 828.4.7. əmtəə kağızlarının nüsxələrinin sayı;
+  - 828.4.8. həmin sənəd üzrə ixtiyarlı şəxsin adının göstərilməsi və ya əmr barədə qeyd-şərt və ya təqdim edənin göstərilməsi.
+- 828.5. Bir neçə əmtəə kağızından biri girovun müəyyənləşdirilməsi üçün nəzərdə tutulmuşsa, bu cür sənəd girov şəhadətnaməsi (varrant) adlandırılmalı və qalan məlumatlarına görə əmtəə kağızı şəklində olmalıdır. Digər nüsxələrdə girov şəhadətnaməsinin verildiyi qeyd edilməli, tələbin məbləği və ödəniş müddəti göstərilməklə hər bir girov qoyma əks etdirilməlidir.
+- 828.6. Saxlanılan və ya yola salınmış mallar üçün şəhadətnamələr əmtəə kağızlarının forması haqqında qanuni göstərişlər pozulmaqla verildikdə bunlar əmtəə kağızları deyil, alınma haqqında qəbzlər və ya digər təsdiqləyici sənədlər sayılır.
+- 828.7. Anbar sahiblərinin səlahiyyətli orqanlardan qanunla verilməli icazəni almadan verdikləri şəhadətnamələr forma barədə qanuni göstərişlərə uyğun gəlirsə, əmtəə kağızları sayılır.
+- 828.8. Konosament mala dair sərəncam sənədindən ibarət əmtəə kağızı olub, onun sahibinin konosamentdə göstərilən yükə dair sərəncam vermək və daşıma başa çatdıqdan sonra yükü almaq hüququnu təsdiqləyir. Konosament adsız və ya adlı ola bilər.
+- 828.9. Qoşa anbar şəhadətnaməsi anbar sahibi tərəfindən malın saxlanmağa qəbul olunmasını təsdiqləyən əmtəə kağızıdır. Qoşa anbar şəhadətnaməsi iki hissədən - anbar şəhadətnaməsindən və girov şəhadətnaməsindən (varrantdan) ibarətdir və bunlar ayrı-ayrılıqda əmtəə kağızlarıdır.
+- 828.10. Adi anbar şəhadətnaməsi anbar sahibi tərəfindən malın saxlanmağa qəbul olunduğunu təsdiqləyən əmtəə kağızıdır.
 
 #### Maddə 829. Anbar sahibinin vəzifələri
-829.1. Anbar sahibi malların saxlanması üçün komisyonçu kimi məsuliyyət daşıyır.
-829.2. Anbar sahibi malın məruz qaldığı və saxlama xidmətlərindən əlavə tədbirlər görülməsinə yol verən dəyişikliklər barəsində tapşırana dərhal bildiriş göndərməlidir.
-829.3. Anbar sahibi anbarın adi iş vaxtında tapşıranın malı gözdən keçirməsinə və nümunələr götürməsinə yol verməlidir. Bundan başqa, anbar sahibi tapşıranın malın salamatlığı üçün tədbirlər görməsinə bunun zəruri olduğu hər bir vaxt yol verməlidir.
-829.4. Anbar sahibinin əvəz edilən əşyaları eyni növlü və keyfiyyətli başqa əşyalarla qarışdırmasına yalnız tapşıranın ona qabaqcadan birbaşa icazə verdiyi hallarda yol verilir. Qarışıq saxlama halında anbar sahibi hər hansı tapşıranın xahişi ilə həmin tapşıranın saxlamaya verdiyi miqdara uyğun miqdarda mal verməlidir.
-829.5. Anbar sahibi malı saxlayıcı kimi qaytarmalıdır. Gözlənilməz hallar nəticəsində adi saxlayıcının şərtləşdirilmiş müddət bitənədək əşyanı qaytarmaq hüququna malik ola bildiyi halda da anbar sahibi şərtləşdirilmiş saxlama müddəti ilə bağlı qalır.
+- 829.1. Anbar sahibi malların saxlanması üçün komisyonçu kimi məsuliyyət daşıyır.
+- 829.2. Anbar sahibi malın məruz qaldığı və saxlama xidmətlərindən əlavə tədbirlər görülməsinə yol verən dəyişikliklər barəsində tapşırana dərhal bildiriş göndərməlidir.
+- 829.3. Anbar sahibi anbarın adi iş vaxtında tapşıranın malı gözdən keçirməsinə və nümunələr götürməsinə yol verməlidir. Bundan başqa, anbar sahibi tapşıranın malın salamatlığı üçün tədbirlər görməsinə bunun zəruri olduğu hər bir vaxt yol verməlidir.
+- 829.4. Anbar sahibinin əvəz edilən əşyaları eyni növlü və keyfiyyətli başqa əşyalarla qarışdırmasına yalnız tapşıranın ona qabaqcadan birbaşa icazə verdiyi hallarda yol verilir. Qarışıq saxlama halında anbar sahibi hər hansı tapşıranın xahişi ilə həmin tapşıranın saxlamaya verdiyi miqdara uyğun miqdarda mal verməlidir.
+- 829.5. Anbar sahibi malı saxlayıcı kimi qaytarmalıdır. Gözlənilməz hallar nəticəsində adi saxlayıcının şərtləşdirilmiş müddət bitənədək əşyanı qaytarmaq hüququna malik ola bildiyi halda da anbar sahibi şərtləşdirilmiş saxlama müddəti ilə bağlı qalır.
 
 #### Maddə 830. Anbar sahibinin muzd almaq və xərclərinin əvəzinin ödənilməsi hüququ, habelə girov hüququ
-830.1. Əgər müəyyən muzd (saxlama haqqı) şərtləşdirilməyibsə, anbar sahibinin anbarda saxlama üçün adi haqq almaq hüququ vardır. Əgər tapşıran malı tamamilə və ya qismən geri qəbul edərsə, saxlama haqqını hər bir halda ödəməlidir. Əgər saxlama müddəti üç aydan çoxdursa, anbarda saxlama haqqı müvafiq olaraq hər üç ayın sonunda ödənilir.
-830.2. Anbar sahibi saxlama haqqından başqa, saxlamanın özü ilə bağlı olmayan bütün xərclərin əvəzinin, məsələn, fraxtın, gömrük rüsumlarının, təmir xərclərinin ödənilməsi hüququna malikdir. Müvafiq olaraq anbar sahibinin tələbi ilə tapşıran xərclərin əvəzini dərhal ödəməlidir.
-830.3. Saxlama müqaviləsindən irəli gələn bütün tələblər üzrə anbar sahibi saxladığı mallara - tapşıranın mallarına komisyonçu kimi girov hüququna malikdir.
+- 830.1. Əgər müəyyən muzd (saxlama haqqı) şərtləşdirilməyibsə, anbar sahibinin anbarda saxlama üçün adi haqq almaq hüququ vardır. Əgər tapşıran malı tamamilə və ya qismən geri qəbul edərsə, saxlama haqqını hər bir halda ödəməlidir. Əgər saxlama müddəti üç aydan çoxdursa, anbarda saxlama haqqı müvafiq olaraq hər üç ayın sonunda ödənilir.
+- 830.2. Anbar sahibi saxlama haqqından başqa, saxlamanın özü ilə bağlı olmayan bütün xərclərin əvəzinin, məsələn, fraxtın, gömrük rüsumlarının, təmir xərclərinin ödənilməsi hüququna malikdir. Müvafiq olaraq anbar sahibinin tələbi ilə tapşıran xərclərin əvəzini dərhal ödəməlidir.
+- 830.3. Saxlama müqaviləsindən irəli gələn bütün tələblər üzrə anbar sahibi saxladığı mallara - tapşıranın mallarına komisyonçu kimi girov hüququna malikdir.
 
 #### §3. Mehmanxanalarda və restoranlarda əşyaların saxlanması
 
 #### Maddə 831. Mehmanxana və ya restoran sahibinin məsuliyyəti
-831.1. Mehmanxana və ya restoran sahibi başqa şəxslərə (qonaqlara) daldalanacaq verən şəxsdir. Mehmanxana və ya restoran sahibi qonaqların mehmanxana və ya restoran sahibinin otaqlarında və ya mehmanxana və ya restoran sahibinin və ya onun işçi heyətinin müəssisədən kənarda müəyyənləşdirdiyi başqa yerdə saxladıqları və ya mehmanxana və ya restoran sahibinin və ya onun işçi heyətinin saxlamaya başqa şəkildə qəbul etdiyi əşyaların hər hansı zədələnməsi, korlanması və ya oğurlanması üçün məsuliyyət daşıyır.
-831.2. Əvəz ödəmək vəzifəsi avtomobillərə, avtomobillərdəki əşyalara və diri heyvanlara şamil edilmir.
-831.3. Əgər mehmanxana və ya restoran sahibi zərəri qonağın, onu müşayiət edən şəxsin və ya qonağın qəbul etdiyi şəxsin vurduğunu və ya əşyanın xarakterindən və ya qarşısıalınmaz qüvvənin təsirindən irəli gəldiyini sübuta yetirərsə, onun məsuliyyəti istisna edilir.
+- 831.1. Mehmanxana və ya restoran sahibi başqa şəxslərə (qonaqlara) daldalanacaq verən şəxsdir. Mehmanxana və ya restoran sahibi qonaqların mehmanxana və ya restoran sahibinin otaqlarında və ya mehmanxana və ya restoran sahibinin və ya onun işçi heyətinin müəssisədən kənarda müəyyənləşdirdiyi başqa yerdə saxladıqları və ya mehmanxana və ya restoran sahibinin və ya onun işçi heyətinin saxlamaya başqa şəkildə qəbul etdiyi əşyaların hər hansı zədələnməsi, korlanması və ya oğurlanması üçün məsuliyyət daşıyır.
+- 831.2. Əvəz ödəmək vəzifəsi avtomobillərə, avtomobillərdəki əşyalara və diri heyvanlara şamil edilmir.
+- 831.3. Əgər mehmanxana və ya restoran sahibi zərəri qonağın, onu müşayiət edən şəxsin və ya qonağın qəbul etdiyi şəxsin vurduğunu və ya əşyanın xarakterindən və ya qarşısıalınmaz qüvvənin təsirindən irəli gəldiyini sübuta yetirərsə, onun məsuliyyəti istisna edilir.
 
 #### Maddə 832. Mehmanxanalarda və restoranlarda pulların, sənədli qiymətli kağızların və digər qiymətli əşyaların saxlanması
-Mehmanxana və ya restoran sahibi pulları, sənədli qiymətli kağızları, sərvətləri və digər qiymətli əşyaları saxlamaya qəbul etməyə borcludur, amma miqdarı və ya dərəcəsi ilə əlaqədar onların əhəmiyyətinə və ya həcminə görə mehmanxana və ya restoran üçün ifrat və ya təhlükəli olduğu hallar istisna təşkil edir. Mehmanxana və ya restoran sahibi onların qapalı və ya möhürlənmiş yeşikdə (mücrüdə, sandıqçada) verilməsini tələb edə bilər.
+Mehmanxana və ya restoran sahibi pulları, sənədli qiymətli kağızları, sərvətləri və digər qiymətli əşyaları saxlamaya qəbul etməyə borcludur, amma miqdarı və ya dərəcəsi ilə əlaqədar onların əhəmiyyətinə və ya həcminə görə mehmanxana və ya restoran üçün ifrat və ya təhlükəli olduğu hallar istisna təşkil edir. Mehmanxana və ya restoran sahibi onların qapalı və ya möhürlənmiş yeşikdə (mücrüdə, sandıqçada) verilməsinə tələb edə bilər.
 
 #### Maddə 833. Mehmanxana və ya restoran sahibinin məsuliyyətinin məhdudlaşdırılması
-833.1. Mehmanxana və ya restoran sahibi bu Məcəllənin 831.1-ci maddəsində nəzərdə tutulan məsuliyyəti min yüz manatdan çox olmayan miqdarda daşıyır.
-833.2. Lakin əgər əşya mehmanxana və ya restoran sahibinin və ya onun işçi heyətinin təqsiri üzündən itmişsə, korlanmışsa və ya zədələnmişsə, habelə əgər söhbət onun saxlamaya qəbul etdiyi və ya bu Məcəllənin 832-ci maddəsinə zidd olaraq saxlamaya qəbul etmədiyi əşyalardan gedirsə, onun məsuliyyəti məhdudlaşdırılmır.
+- 833.1. Mehmanxana və ya restoran sahibi bu Məcəllənin 831.1-ci maddəsində nəzərdə tutulan məsuliyyəti min yüz manatdan çox olmayan miqdarda daşıyır.
+- 833.2. Lakin əgər əşya mehmanxana və ya restoran sahibinin və ya onun işçi heyətinin təqsiri üzündən itmişsə, korlanmışsa və ya zədələnmişsə, habelə əgər söhbət onun saxlamaya qəbul etdiyi və ya bu Məcəllənin 832-ci maddəsinə zidd olaraq saxlamaya qəbul etmədiyi əşyalardan gedirsə, onun məsuliyyəti məhdudlaşdırılmır.
 
 #### Maddə 834. Mehmanxana və ya restoran sahibinin məsuliyyətinin istisna edilməsi
-Bu Məcəllənin 832-ci maddəsində nəzərdə tutulan hallarda müqavilə üzrə məsuliyyətin istisna edilməsinin qüvvəsi yoxdur. Qalan hallarda mehmanxana və ya restoran sahibinin məsuliyyəti yalnız zərərin bu Məcəllənin 833.1-ci maddəsində müəyyənləşdirilmiş maksimum məbləğdən çox olan hissəsi üçün qabaqcadan istisna edilir. Məsuliyyətdən azad edilmə yalnız o halda baş verir ki, qonaq bu barədə yazılı bildiriş verir və bu bildirişdə ayrı müddəalar olmur.
+Bu Məcəllənin 832-ci maddəsində nəzərdə tutulan hallarda müqavilə üzrə məsuliyyətin istisna edilməsinin qüvvəsi yoxdur. Qalan hallarda mehmanxana və ya restoran sahibinin məsuliyyəti yalnız zərərin bu Məcəllənin 833.1-ci maddəsində müəyyənləşdirilmiş maksimum məbləğdən çox olan hissəsi üçün qabaqcadan istisna edilir. məsuliyyətdən azad edilmə yalnız o halda baş verir ki, qonaq bu barədə yazılı bildiriş verir və bu bildirişdə ayrı müddəalar olmur.
 
 #### Maddə 835. Qonağın zərərin əvəzinin ödənilməsi hüququnun ləğvi
 Əgər qonaq əşyanın zədələnməsi, korlanması və ya itməsi ona məlum olan kimi bu barədə mehmanxana və ya restoran sahibinə bildiriş verməzsə, ona mənsub olan zərərin əvəzinin ödənilməsi hüququ ləğv edilir.
@@ -4822,22 +4816,22 @@ Qonağın mehmanxanada yaşayışı, ona qulluq üçün göstərilmiş xidmətl�
 #### §4. Konsiqnasiya anbarında saxlama
 
 #### Maddə 837. Konsiqnasiya anbarı haqqında müqavilə
-837.1. Konsiqnasiya anbarı haqqında müqavilə hər hansı sahibkara (tapşırana) malları (konsiqnasiya mallarını) müştərilərə tez çatdırmaq məqsədilə sənətkarlıq şəklində müstəqil fəaliyyətlə məşğul olan başqa şəxsin (tacirin) anbarında saxlamaq hüququ verir. Tacir konsiqnasiya mallarını saxlamağı öhdəsinə götürür və konsiqnasiya anbarı haqqında müqavilənin şərtlərinə əsasən bu mallara dair sərəncam vermək hüququna malikdir.
-837.2. Əgər bu Məcəllənin bu paraqrafının aşağıdakı müddəalarından ayrı qayda irəli gəlmirsə, konsiqnasiya mallarının saxlanmasına anbarda saxlama haqqında müddəalar, konsiqnatorun konsiqnasiya anbarından mal götürməsinə isə alğı-satqı haqqında müddəalar tətbiq edilir.
+- 837.1. Konsiqnasiya anbarı haqqında müqavilə hər hansı sahibkara (tapşırana) malları (konsiqnasiya mallarını) müştərilərə tez çatdırmaq məqsədilə sənətkarlıq şəklində müstəqil fəaliyyətlə məşğul olan başqa şəxsin (tacirin) anbarında saxlamaq hüququ verir. Tacir konsiqnasiya mallarını saxlamağı öhdəsinə götürür və konsiqnasiya anbarı haqqında müqavilənin şərtlərinə əsasən bu mallara dair sərəncam vermək hüququna malikdir.
+- 837.2. Əgər bu Məcəllənin bu paraqrafının aşağıdakı müddəalarından ayrı qayda irəli gəlmirsə, konsiqnasiya mallarının saxlanmasına anbarda saxlama haqqında müddəalar, konsiqnatorun konsiqnasiya anbarından mal götürməsinə isə alğı-satqı haqqında müddəalar tətbiq edilir.
 
 #### Maddə 838. Tacirin vəzifələri
-838.1. Tacir konsiqnasiya mallarını ayrıca saxlamalı və onları tapşıranın mülkiyyəti kimi eyniləşdirməlidir.
-838.2. Konsiqnasiya malı anbara göndərilərkən tacir onun tamlığını və qüsursuzluğunu yoxlamalı və görünən qüsurlar barəsində tapşırana dərhal məlumat verməlidir. Görünməyən qüsurlar aşkar edilən kimi onlar barəsində dərhal bildiriş verilməlidir. Əgər tacir bunu etməzsə, hesab edilir ki, o, malı saxlamaya qəbul etmişdir.
-838.3. Konsiqnasiya malında qüsurların aşkar edildiyi halda tacir tapşıranın ekspeditor, daşıyıcı və ya sığorta firması barəsində hüquqlarının müdafiəsi üçün lazımi tədbirlər görməlidir.
+- 838.1. Tacir konsiqnasiya mallarını ayrıca saxlamalı və onları tapşıranın mülkiyyəti kimi eyniləşdirməlidir.
+- 838.2. Konsiqnasiya malı anbara göndərilərkən tacir onun tamlığını və qüsursuzluğunu yoxlamalı və görünən qüsurlar barəsində tapşırana dərhal məlumat verməlidir. Görünməyən qüsurlar aşkar edilən kimi onlar barəsində dərhal bildiriş verilməlidir. Əgər tacir bunu etməzsə, hesab edilir ki, o, malı saxlamaya qəbul etmişdir.
+- 838.3. Konsiqnasiya malında qüsurların aşkar edildiyi halda tacir tapşıranın ekspeditor, daşıyıcı və ya sığorta firması barəsində hüquqlarının müdafiəsi üçün lazımi tədbirlər görməlidir.
 
 #### Maddə 839. Tacirin məsuliyyəti
-839.1. Tacir malın saxlanması üçün komisyonçu kimi məsuliyyət daşıyır.
-839.2. Tacir konsiqnasiya malını oğurlanmadan, yanmadan və üçüncü şəxs tərəfindən zədələnmədən sığorta etdirmək hüququna malikdir və tapşıranın tələbi ilə bunu onun hesabına etməyə borcludur.
+- 839.1. Tacir malın saxlanması üçün komisyonçu kimi məsuliyyət daşıyır.
+- 839.2. Tacir konsiqnasiya malını oğurlanmadan, yanmadan və üçüncü şəxs tərəfindən zədələnmədən sığorta etdirmək hüququna malikdir və tapşıranın tələbi ilə bunu onun hesabına etməyə borcludur.
 
 #### Maddə 840. Konsiqnasiya anbarından malın götürülməsi
-840.1. Konsiqnasiya anbarı haqqında müqavilənin qüvvədə olduğu müddətdə tacirin öz adi ticarət fəaliyyəti çərçivəsində müştərilərinə mal göndərmək üçün konsiqnasiya anbarından mal götürmək hüququ vardır.
-840.2. Konsiqnasiya anbarından mal götürüldükdə tapşıran ilə tacir arasında münasibətlər həmin malın alğı-satqısı haqqında müqavilə ilə tənzimlənir. Alış qiyməti və alğı-satqının digər şərtləri iştirakçılar arasında razılaşmalara əsasən, qalan məsələlər isə bu Məcəllə ilə müəyyənləşdirilir.
-840.3. Tapşıran istənilən vaxt tacirin mal götürmək səlahiyyətini qabaqcadan ləğv edə bilər, bir şərtlə ki, bununla birlikdə o, konsiqnasiya anbarını dərhal geri qəbul etmək təklifini versin.
+- 840.1. Konsiqnasiya anbarı haqqında müqavilənin qüvvədə olduğu müddətdə tacirin öz adi ticarət fəaliyyəti çərçivəsində müştərilərinə mal göndərmək üçün konsiqnasiya anbarından mal götürmək hüququ vardır.
+- 840.2. Konsiqnasiya anbarından mal götürüldükdə tapşıran ilə tacir arasında münasibətlər həmin malın alğı-satqısı haqqında müqavilə ilə tənzimlənir. Alış qiyməti və alğı-satqının digər şərtləri iştirakçılar arasında razılaşmalara əsasən, qalan məsələlər isə bu Məcəllə ilə müəyyənləşdirilir.
+- 840.3. Tapşıran istənilən vaxt tacirin mal götürmək səlahiyyətini qabaqcadan ləğv edə bilər, bir şərtlə ki, bununla birlikdə o, konsiqnasiya anbarını dərhal geri qəbul etmək təklifini versin.
 
 #### Maddə 841. Konsiqnasiya anbarında saxlama muzdu
 Ayrı razılaşma olmadıqda konsiqnasiya anbarında saxlama üçün tacirə heç bir muzd verilməməlidir.
@@ -4847,69 +4841,69 @@ Ayrı razılaşma olmadıqda konsiqnasiya anbarında saxlama üçün tacirə he�
 #### §1. Sərnişin daşınması
 
 #### Maddə 842. Sərnişin daşınması müqaviləsi
-842.1. Sərnişin daşınması müqaviləsinə görə daşıyıcı müəyyən nəqliyyat növü ilə sərnişini, habelə onun əl yükünü yola düşmə yerindən təyinat yerinə çatdırmağı, sərnişin isə daşımanın dəyərini ödəməyi öhdəsinə götürür.
-842.2. Sərnişin daşınması müqaviləsi sərnişinin daşıyıcıdan sərnişin daşınması üçün nəqliyyat sənədi (gediş bileti) aldığı, yaxud gediş haqqı ödəniş alətindən istifadə etməklə ödənildiyi andan və ya daşıyıcının razılığı ilə sərnişinin nəqliyyat vasitəsində yer tutması nəticəsində bağlanmış sayılır.
-842.3. Əgər bu Məcəllənin bu paraqrafından ayrı qayda irəli gəlmirsə, sərnişin daşınması haqqında müqaviləyə tapşırıq müqaviləsi haqqında göstərişlər tətbiq edilir.
+- 842.1. Sərnişin daşınması müqaviləsinə görə daşıyıcı müəyyən nəqliyyat növü ilə sərnişini, habelə onun əl yükünü yola düşmə yerindən təyinat yerinə çatdırmağı, sərnişin isə daşımanın dəyərini ödəməyi öhdəsinə götürür.
+- 842.2. Sərnişin daşınması müqaviləsi sərnişinin daşıyıcıdan sərnişin daşınması üçün nəqliyyat sənədi (gediş bileti) aldığı, yaxud gediş haqqı ödəniş alətindən istifadə etməklə ödənildiyi andan və ya daşıyıcının razılığı ilə sərnişinin nəqliyyat vasitəsində yer tutması nəticəsində bağlanmış sayılır.
+- 842.3. Əgər bu Məcəllənin bu paraqrafından ayrı qayda irəli gəlmirsə, sərnişin daşınması haqqında müqaviləyə tapşırıq müqaviləsi haqqında göstərişlər tətbiq edilir.
 
 #### Maddə 843. Sərnişin daşınmasının qiyməti
-843.1. Əgər daşıma üçün müəyyən qiymət təyin edilməyibsə, daşımanın tarif qiyməti, tarif olmadıqda isə həmin nəqliyyat vasitəsində gediş üçün daşımanın müvafiq hissəsində tutulan adi haqq şərtləşdirilmiş haqq sayılır.
-843.2. Daşımanın dəyəri daşıyıcının tələbi ilə, lakin ən geci sərnişin nəqliyyat vasitəsindən düşənədək ödənilməlidir.
+- 843.1. Əgər daşıma üçün müəyyən qiymət təyin edilməyibsə, daşımanın tarif qiyməti, tarif olmadıqda isə həmin nəqliyyat vasitəsində gediş üçün daşımanın müvafiq hissəsində tutulan adi haqq şərtləşdirilmiş haqq sayılır.
+- 843.2. Daşımanın dəyəri daşıyıcının tələbi ilə, lakin ən geci sərnişin nəqliyyat vasitəsindən düşənədək ödənilməlidir.
 
 #### Maddə 844. Sərnişinin başqa şəxslə əvəz edilməsi
 Daşıma başlayanadək sərnişin gedişdə onun əvəzinə başqa şəxsin (üçüncü şəxsin) iştirak etməsini xahiş edə bilər. Əgər üçüncü şəxs daşımanın xüsusi tələblərinə uyğun gəlmirsə və ya onun iştirakına qanuni göstərişlər mane olursa, daşıyıcı onun iştirakına etiraz edə bilər. Daşıyıcı sərnişindən üçüncü şəxsin gedişi ilə əlaqədar yaranmış əlavə xərclərin əvəzini ödəməyi tələb edə bilər.
 
 #### Maddə 845. Sərnişin daşınması müqaviləsinin daşıma başlayanadək ləğvi
-845.1. Daşıma başlayanadək istənilən vaxt sərnişin müqavilənin ləğv olunduğunu bəyan edə bilər.
-845.2. Müqavilənin ləğvi ilə daşıyıcı şərtləşdirilmiş haqqı almaq hüququnu itirir. Lakin o, ağlabatan kompensasiya tələb edə bilər. Kompensasiyanın miqdarı daşıyıcının qənaət etdiyi xərclərin və gediş hüququnu başqa şəxsə satmaqdan əldə edə biləcəyi gəlirin dəyəri çıxılmaqla gedişin dəyəri ilə müəyyənləşdirilir.
-845.3. Adətən qənaət edilən xərclər və gedişin başqa şəxslərə satılması nəticəsində adətən əldə olunan mümkün gəlir nəzərə alınmaqla, müqavilədə hər nəqliyyat növü üçün kompensasiya kimi daşımanın dəyərindən faiz dərəcəsi müəyyənləşdirilə bilər.
+- 845.1. Daşıma başlayanadək istənilən vaxt sərnişin müqavilənin ləğv olunduğunu bəyan edə bilər.
+- 845.2. Müqavilənin ləğvi ilə daşıyıcı şərtləşdirilmiş haqqı almaq hüququnu itirir. Lakin o, ağlabatan kompensasiya tələb edə bilər. Kompensasiyanın miqdarı daşıyıcının qənaət etdiyi xərclərin və gediş hüququnu başqa şəxsə satmaqdan əldə edə biləcəyi gəlirin dəyəri çıxılmaqla gedişin dəyəri ilə müəyyənləşdirilir.
+- 845.3. Adətən qənaət edilən xərclər və gedişin başqa şəxslərə satılması nəticəsində adətən əldə olunan mümkün gəlir nəzərə alınmaqla, müqavilədə hər nəqliyyat növü üçün kompensasiya kimi daşımanın dəyərindən faiz dərəcəsi müəyyənləşdirilə bilər.
 
 #### Maddə 846. Sərnişin daşınmasının həyata keçirilməsi və daşıyıcının məsuliyyəti
-846.1. Daşıyıcı daşımanı müqaviləyə, sərnişinlərin müdafiəsi üçün qüvvədə olan göstərişlərə və sərnişin nəqliyyat vasitələrinin istismarı qaydalarına uyğun həyata keçirməlidir. Əgər daşıma müqaviləsində xüsusi müddəalar yoxdursa, adi nəqliyyat növləri üçün yolun həmin hissəsində qüvvədə olan adi şərtlər razılaşdırılmış şərtlər sayılır. Əgər daşıma bu tələbləri təmin etmirsə, qüsurla həyata keçirilmiş sayılır.
-846.2. Daşıma hər hansı qüsurla həyata keçirildikdə, sərnişinin, əgər o həmin qüsur barəsində dərhal daşıyıcıya bildiriş vermişsə və daşıyıcı qüsuru dərhal aradan qaldırmamışsa, aşağıdakı hüquqları vardır:
-- 846.2.1. daşımanın dəyərinin ağlabatan dərəcədə aşağı salınmasını tələb etmək;
-- 846.2.2. əgər daşıma qüsur nəticəsində xeyli pisləşmişsə və ya bu qüsura görə daşıyıcı üçün aşkar olan vacib əsaslar üzrə sərnişinə məqbul deyildirsə, gələcək üçün daşıma müqaviləsinin ləğv olunduğunu bəyan etmək.
-846.3. Əgər müqavilə bu Məcəllənin 846.2.2-ci maddəsinə uyğun ləğv edilərsə, sərnişin özünü təhlükəyə məruz qoymayacağı ən yaxın yerdə nəqliyyat vasitəsini tərk edə bilər. Bu halda daşıyıcı daşımanın şərtləşdirilmiş dəyərinin daşımanın icra edilməmiş hissəsinə uyğun qismini almaq hüququnu itirir. Əgər göstərilmiş nəqliyyat xidmətləri müqavilənin ləğvi nəticəsində sərnişin üçün maraq doğurmursa, daşıyıcı daşımanın qalıq dəyərini almaq hüququnu da itirir.
-846.4. Əgər daşıyıcıya bildirilmiş daşıma qüsuru daşıyıcının cavabdeh olduğu hallardan irəli gəlmişdirsə, sərnişin daşıma müqaviləsinin icra edilməməsi nəticəsində dəyən zərər üçün əlavə kompensasiya tələb edə bilər.
+- 846.1. Daşıyıcı daşımanı müqaviləyə, sərnişinlərin müdafiəsi üçün qüvvədə olan göstərişlərə və sərnişin nəqliyyat vasitələrinin istismarı qaydalarına uyğun həyata keçirməlidir. Əgər daşıma müqaviləsində xüsusi müddəalar yoxdursa, adi nəqliyyat növləri üçün yolun həmin hissəsində qüvvədə olan adi şərtlər razılaşdırılmış şərtlər sayılır. Əgər daşıma bu tələbləri təmin etmirsə, qüsurla həyata keçirilmiş sayılır.
+- 846.2. Daşıma hər hansı qüsurla həyata keçirildikdə, sərnişinin, əgər o həmin qüsur barəsində dərhal daşıyıcıya bildiriş vermişsə və daşıyıcı qüsuru dərhal aradan qaldırmamışsa, aşağıdakı hüquqları vardır:
+  - 846.2.1. daşımanın dəyərinin ağlabatan dərəcədə aşağı salınmasını tələb etmək;
+  - 846.2.2. əgər daşıma qüsur nəticəsində xeyli pisləşmişsə və ya bu qüsura görə daşıyıcı üçün aşkar olan vacib əsaslar üzrə sərnişinə məqbul deyildirsə, gələcək üçün daşıma müqaviləsinin ləğv olunduğunu bəyan etmək.
+- 846.3. Əgər müqavilə bu Məcəllənin 846.2.2-ci maddəsinə uyğun ləğv edilərsə, sərnişin özünü təhlükəyə məruz qoymayacağı ən yaxın yerdə nəqliyyat vasitəsini tərk edə bilər. Bu halda daşıyıcı daşımanın şərtləşdirilmiş dəyərinin daşımanın icra edilməmiş hissəsinə uyğun qismini almaq hüququnu itirir. Əgər göstərilmiş nəqliyyat xidmətləri müqavilənin ləğvi nəticəsində sərnişin üçün maraq doğurmursa, daşıyıcı daşımanın qalıq dəyərini almaq hüququnu da itirir.
+- 846.4. Əgər daşıyıcıya bildirilmiş daşıma qüsuru daşıyıcının cavabdeh olduğu hallardan irəli gəlmişdirsə, sərnişin daşıma müqaviləsinin icra edilməməsi nəticəsində dəyən zərər üçün əlavə kompensasiya tələb edə bilər.
 
 #### Maddə 847. Sərnişin daşınmaları zamanı qarşısıalınmaz qüvvə
-847.1. Əgər daşıma müqaviləsinin bağlandığı məqamda qabaqcadan nəzərdə tutulması mümkün olmayan, nəqliyyat vasitəsinə texniki xidmət və onun istismarı ilə qarşılıqlı surətdə bağlı olmayan və ağlabatan ehtiyatlılıq şəraitində rəf edilməsi mümkün olmayan qarşısıalınmaz qüvvə ilə bağlı hadisənin kənarda baş verməsi nəticəsində daşıma xeyli çətinləşərsə, təhlükəyə məruz qalarsa və ya pisləşərsə, müqavilə həm daşıyıcı, həm də sərnişin tərəfindən ləğv edilə bilər.
-847.2. Müqavilənin ləğv edildiyi halda sərnişin özünü təhlükəyə məruz qoymayacağı ən yaxın yerdə nəqliyyat vasitəsini tərk edə bilər, daşıyıcı isə daşımanın şərtləşdirilmiş dəyərinin daşımanın icra edilməmiş hissəsinə uyğun qismini almaq hüququnu itirir. Müqavilənin iştirakçıları geriyə daşıma üçün əlavə xərcləri yarıbayarı çəkirlər. Qalan əlavə xərcləri sərnişin çəkir.
+- 847.1. Əgər daşıma müqaviləsinin bağlandığı məqamda qabaqcadan nəzərdə tutulması mümkün olmayan, nəqliyyat vasitəsinə texniki xidmət və onun istismarı ilə qarşılıqlı surətdə bağlı olmayan və ağlabatan ehtiyatlılıq şəraitində rəf edilməsi mümkün olmayan qarşısıalınmaz qüvvə ilə bağlı hadisənin kənarda baş verməsi nəticəsində daşıma xeyli çətinləşərsə, təhlükəyə məruz qalarsa və ya pisləşərsə, müqavilə həm daşıyıcı, həm də sərnişin tərəfindən ləğv edilə bilər.
+- 847.2. Müqavilənin ləğv edildiyi halda sərnişin özünü təhlükəyə məruz qoymayacağı ən yaxın yerdə nəqliyyat vasitəsini tərk edə bilər, daşıyıcı isə daşımanın şərtləşdirilmiş dəyərinin daşımanın icra edilməmiş hissəsinə uyğun qismini almaq hüququnu itirir. Müqavilənin iştirakçıları geriyə daşıma üçün əlavə xərcləri yarıbayarı çəkirlər. Qalan əlavə xərcləri sərnişin çəkir.
 
 #### Maddə 848. Sərnişinin pretenziyalarının ödənilməsi
 Sərnişin bu Məcəllənin 846-cı maddəsinə əsasən pretenziyaları daşıyıcıya müqavilədə nəzərdə tutulan daşımanın qurtarmasından ən geci bir ay keçənədək verməlidir. Müddət keçdikdən sonra sərnişin pretenziyaları yalnız həmin müddəti öz təqsiri olmadan gözləyə bilmədiyi halda verə bilər. Daşıyıcı sərnişinin pretenziyalarını qəbul etmədikdə onlar daşımanın qurtarmasından altı ay keçənədək ödənilir, bir şərtlə ki, məhkəmə qaydasında bundan da tez ödənilmiş olmasın.
 
 #### Maddə 849. Daşıyıcının məsuliyyətinin məhdudlaşdırılması
-849.1. Əgər daşıyıcının ayrı-ayrı və ya bütün nəqliyyat xidmətlərinə qanuni və ya rəsmi göstərişlər və ya beynəlxalq konvensiyalar tətbiq edilirsə və bu göstərişlərə və konvensiyalara görə zərərin əvəzinin ödənilməsi hüququ yalnız müəyyən şərtlər və ya məhdudiyyətlər olduqda əmələ gəlirsə və ya həyata keçirilə bilirsə, yaxud müəyyən şərtlər olduqda istisna edilirsə, daşıyıcı sərnişin qarşısında həmin göstərişlərə yalnız onları yerinə yetirdiyi halda istinad edə bilər.
-849.2. Bütün digər hallarda daşıyıcı sərnişinlə razılaşmaya əsasən öz məsuliyyətini daşımanın dəyərinin üç misli ilə məhdudlaşdıra bilər, bu şərtlə ki, sərnişinə zərər qəsdən və ya kobud ehtiyatsızlıq üzündən vurulmasın və ya sərnişin üçün yaranmış zərərə görə daşıyıcı yalnız onun xidmətində olmayan başqa şəxsin təqsiri nəticəsində məsuliyyət daşısın.
+- 849.1. Əgər daşıyıcının ayrı-ayrı və ya bütün nəqliyyat xidmətlərinə qanuni və ya rəsmi göstərişlər və ya beynəlxalq konvensiyalar tətbiq edilirsə və bu göstərişlərə və konvensiyalara görə zərərin əvəzinin ödənilməsi hüququ yalnız müəyyən şərtlər və ya məhdudiyyətlər olduqda əmələ gəlirsə və ya həyata keçirilə bilirsə, yaxud müəyyən şərtlər olduqda istisna edilirsə, daşıyıcı sərnişin qarşısında həmin göstərişlərə yalnız onları yerinə yetirdiyi halda istinad edə bilər.
+- 849.2. Bütün digər hallarda daşıyıcı sərnişinlə razılaşmaya əsasən öz məsuliyyətini daşımanın dəyərinin üç misli ilə məhdudlaşdıra bilər, bu şərtlə ki, sərnişinə zərər qəsdən və ya kobud ehtiyatsızlıq üzündən vurulmasın və ya sərnişin üçün yaranmış zərərə görə daşıyıcı yalnız onun xidmətində olmayan başqa şəxsin təqsiri nəticəsində məsuliyyət daşısın.
 
 #### §2. Yük daşınması
 
 #### Maddə 850. Yük daşınması müqaviləsi
-850.1. Yük daşınması müqaviləsinə görə daşıyıcı yükü haqq (yüklərin daşınması üçün haqq) müqabilində olduğu yerdən təyinat yerinə daşımağı, yük göndərən, yükü alan və ya onların səlahiyyətləndirdiyi digər şəxs isə daşımanın dəyərini ödəməyi öhdəsinə götürür.
-850.2. Əgər bu Məcəllənin bu paraqrafının aşağıdakı müddəalarından ayrı qayda irəli gəlmirsə, yük daşınması müqaviləsinə tapşırıq haqqında göstərişlər tətbiq edilir.
+- 850.1. Yük daşınması müqaviləsinə görə daşıyıcı yükü haqq (yüklərin daşınması üçün haqq) müqabilində olduğu yerdən təyinat yerinə daşımağı, yük göndərən, yükü alan və ya onların səlahiyyətləndirdiyi digər şəxs isə daşımanın dəyərini ödəməyi öhdəsinə götürür.
+- 850.2. Əgər bu Məcəllənin bu paraqrafının aşağıdakı müddəalarından ayrı qayda irəli gəlmirsə, yük daşınması müqaviləsinə tapşırıq haqqında göstərişlər tətbiq edilir.
 
 #### Maddə 851. Yük göndərən və yük alan. Daşıyıcı
 Yük göndərən daşımanın təşəbbüsçüsü olan və adından yük göndərilməsi rəsmiləşdirilən fiziki və ya hüquqi şəxsdir. Yük göndərən həm yükün daşımadan əvvəl olduğu şəxs, həm də yükün göndərildiyi şəxs (yük alan) ola bilər. Yük alan əqd əsasında yüklərin alınmasına səlahiyyətli fiziki və ya hüquqi şəxsdir. Daşıyıcı müqavilə əsasında və haqq müqabilində yükün olduğu yerdən təyinat yerinə daşınmasını həyata keçirən və mülkiyyət, icarə və ya istifadə hüququ ilə nəqliyyat vasitələrinə malik olan fiziki və ya hüquqi şəxsdir.
 
 #### Maddə 852. Ekspeditor. Nəqliyyat komisyonçusu
-852.1. Ekspeditor üçüncü şəxslər (daşıyıcılar) vasitəsilə yüklərin ilkin yerindən təyinat yerinə daşınmasını öz adından, lakin yük göndərənin hesabına təşkil edən şəxsdir.
-852.2. Daşıyıcılar ilə münasibətlərdə ekspeditor yük göndərənin hüquq və vəzifələrinə malikdir.
-852.3. Ekspeditor yük göndərənin göstərişlərinə əməl etməlidir. O, daşıyıcıları öz məsuliyyəti ilə seçir. Əgər ekspeditor daşımanı tamamilə və ya qismən özü həyata keçirirsə, daşıyıcının hüquq və vəzifələrinə malik olur. Əgər bir neçə yük göndərinin əşyalarının aralıq və son təyinat yerləri eynidirsə, ekspeditor bu əşyaları qruplaşdıraraq yığma nəqliyyat təşkil edə bilər. Bütün hallarda o, yük göndərənin mənafelərini qorumalı və göstərişlərinə əməl etməlidir. O, qarşıya çıxan bütün çətinliklər barəsində yük göndərənə məlumat verməlidir.
-852.4. Ekspeditorun öz xidmətləri üçün muzd almaq və yük göndərən üçün çəkdiyi xərclərin əvəzinin ödənilməsi hüququ vardır. Ekspeditorun muzdu xüsusən aşağıdakılardan ibarət ola bilər:
-- 852.4.1. daşıyıcıların muzdlarının məbləğindən faiz dərəcəsi (komisyon muzdu);
-- 852.4.2. və (və ya) daşımanın dəyəri və ekspeditorun muzdu da daxil olmaqla, əvvəldən axıradək bütün daşıma xərcləri üçün muzd.
-852.5. Ekspeditor yük göndərənin göstərişlərindən bütün kənaraçıxmalar üçün onun qarşısında məsuliyyət daşıyır. Ekspeditor daşıyıcıların təqsiri üçün də məsuliyyət daşıyır, amma daşıyıcıları seçərkən lazımi vicdanlılıq göstərdiyini sübuta yetirdiyi hallar istisna təşkil edir.
+- 852.1. Ekspeditor üçüncü şəxslər (daşıyıcılar) vasitəsilə yüklərin ilkin yerindən təyinat yerinə daşınmasını öz adından, lakin yük göndərənin hesabına təşkil edən şəxsdir.
+- 852.2. Daşıyıcılar ilə münasibətlərdə ekspeditor yük göndərənin hüquq və vəzifələrinə malikdir.
+- 852.3. Ekspeditor yük göndərənin göstərişlərinə əməl etməlidir. O, daşıyıcıları öz məsuliyyəti ilə seçir. Əgər ekspeditor daşımanı tamamilə və ya qismən özü həyata keçirirsə, daşıyıcının hüquq və vəzifələrinə malik olur. Əgər bir neçə yük göndərinin əşyalarının aralıq və son təyinat yerləri eynidirsə, ekspeditor bu əşyaları qruplaşdıraraq yığma nəqliyyat təşkil edə bilər. Bütün hallarda o, yük göndərənin mənafelərini qorumalı və göstərişlərinə əməl etməlidir. O, qarşıya çıxan bütün çətinliklər barəsində yük göndərənə məlumat verməlidir.
+- 852.4. Ekspeditorun öz xidmətləri üçün muzd almaq və yük göndərən üçün çəkdiyi xərclərin əvəzinin ödənilməsi hüququ vardır. Ekspeditorun muzdu xüsusən aşağıdakılardan ibarət ola bilər:
+  - 852.4.1. daşıyıcıların muzdlarının məbləğindən faiz dərəcəsi (komisyon muzdu);
+  - 852.4.2. və (və ya) daşımanın dəyəri və ekspeditorun muzdu da daxil olmaqla, əvvəldən axıradək bütün daşıma xərcləri üçün muzd.
+- 852.5. Ekspeditor yük göndərənin göstərişlərindən bütün kənaraçıxmalar üçün onun qarşısında məsuliyyət daşıyır. Ekspeditor daşıyıcıların təqsiri üçün də məsuliyyət daşıyır, amma daşıyıcıları seçərkən lazımi vicdanlılıq göstərdiyini sübuta yetirdiyi hallar istisna təşkil edir.
 
 #### Maddə 853. Yük göndərənin zəruri məlumatları və sənədləri
-853.1. Yük göndərən daşıyıcıya aşağıdakıları dəqiq göstərməlidir:
-- 853.1.1. yük alanın ünvanı;
-- 853.1.2. çatdırılma yeri;
-- 853.1.3. yük yerlərinin miqdarı, qabı, tərkibi və brutto çəkisi;
-- 853.1.4. göndərmə müddəti və nəqliyyat növü;
-- 853.1.5. qiymətli obyektlər olduqda - onların dəyəri;
-- 853.1.6. habelə xüsusi təhlükəli və potensial təhlükəli yüklər olduqda - təhlükənin konkret növü və belə hallarda qəbul edilməli ehtiyat tədbirləri.
+- 853.1. Yük göndərən daşıyıcıya aşağıdakıları dəqiq göstərməlidir:
+  - 853.1.1. yük alanın ünvanı;
+  - 853.1.2. çatdırılma yeri;
+  - 853.1.3. yük yerlərinin miqdarı, qabı, tərkibi və brutto çəkisi;
+  - 853.1.4. göndərmə müddəti və nəqliyyat növü;
+  - 853.1.5. qiymətli obyektlər olduqda - onların dəyəri;
+  - 853.1.6. habelə xüsusi təhlükəli və potensial təhlükəli yüklər olduqda - təhlükənin konkret növü və belə hallarda qəbul edilməli ehtiyat tədbirləri.
 - 853.1-1. Yük göndərən yükün daşınması müqaviləsinin lazımınca icrası üçün yükə aid olan sənədləri və digər məlumatları daşıyıcıya təqdim etməlidir.
-853.2. Yük göndərən bu məlumatların və sənədlərin olmaması və dəqiqsizliyi nəticəsində dəyən zərərin əvəzini ödəyir.
+- 853.2. Yük göndərən bu məlumatların və sənədlərin olmaması və dəqiqsizliyi nəticəsində dəyən zərərin əvəzini ödəyir.
 
 #### Maddə 854. Qaimə
 - 854.1. Yük daşınması müqaviləsi və onun həyata keçirilməsi formulyar şəklində tərtib edilən sənədlə (qaimə ilə) təsdiq edilə bilər. Əksi sübuta yetirilənədək qaimə aşağıdakıları təsdiq edir:
@@ -4940,9 +4934,11 @@ Yük göndərən daşımanın təşəbbüsçüsü olan və adından yük göndə
 - 854.5. Yük göndərən qaimədəki məlumatların dəqiqliyi və tamlığı üçün daşıyıcı qarşısında məsuliyyət daşıyır.
 - 854.6. Əgər yük göndərən bu Məcəllənin 854.3.2, 854.3.4-854.3.8 və ya 854.4-cü maddələrində nəzərdə tutulan məlumatları yanlış və ya natamam vermişdirsə, bununla əlaqədar bütün zərər üçün daşıyıcı qarşısında məsuliyyət daşıyır.
 - 854.7. Qaimənin tərtib edilmədiyi, yaxud yanlış və ya natamam tərtib edildiyi, yaxud itirildiyi halda da yük daşınması müqaviləsi qüvvədə olur. Müqavilənin iştirakçıları yük daşınması haqqında şərtləşdirdikləri müqavilənin mövcudluğunu və məzmununu sübuta yarayan hər bir vasitə ilə sübut edə bilərlər.
+
 #### Maddə 855. Yükün qablaşdırılması
 - 855.1. Yük göndərən yükün lazımınca qablaşdırılmasını təmin etməlidir. O, qablaşdırmanın zahirən görünməyən qüsurları üçün məsuliyyət daşıyır.
 - 855.2. Öz növbəsində daşıyıcı yükü daşımaya qeyd-şərtsiz qəbul edərkən mövcud olmuş zahirən görünən qüsurların nəticələri üçün məsuliyyət daşıyır.
+
 #### Maddə 856. Yükə dair sərəncam vermək hüququ
 - 856.1. Nə qədər ki yük hələ daşıyıcıdadır, yük göndərənin daşıyıcıya onun xərcləri və zərərləri üçün kompensasiya ödəyərək, yükü geri qəbul etmək və ya çatdırma yerini və yük alanı dəyişdirmək hüququ vardır. Bu müddəalar aşağıdakı hallarda tətbiq edilmir:
   - 856.1.1. yük daşınması müqaviləsində və ya qaimədə yükə dair sərəncam verməyə yalnız yük alanın ixtiyarının çatdığı müəyyənləşdirildikdə;
@@ -4950,12 +4946,15 @@ Yük göndərən daşımanın təşəbbüsçüsü olan və adından yük göndə
   - 856.1.3. yük təyinat yerinə gəldikdən sonra yük alan yükün çatdırılmasını tələb etdikdə və ya daşıyıcı qaimənin ikinci nüsxəsini yük alana verdikdə;
   - 856.1.4. yük göndərən yükün alınması barədə daşıyıcıdan qəbz aldıqda və onu qaytara bilmədikdə.
 - 856.2. Bu Məcəllənin 856.1.1-856.1.4-cü maddələrində nəzərdə tutulan hallarda daşıyıcı yük alanın göstərişlərinə şərtsiz əməl etməlidir. Bu Məcəllənin 856.1.4-cü maddəsində nəzərdə tutulan halda, yük təyinat yerinə gələnədək daşıyıcı bunu etməyə yalnız yükün alınması barədə yük alana qəbz çatdırıldıqda borcludur.
+
 #### Maddə 857. Yükün gəlməsi haqqında bildiriş
 Daşıyıcı yükün çatdırılma yerinə gəlməsi barədə yük alana dərhal bildiriş verməlidir.
+
 #### Maddə 858. Yükün çatdırılması zamanı maneələr
-- 858.1. Əgər yük qəbul edilmirsə və ya yük üzrə ödənişlər həyata keçirilmirsa və ya yük alanı müəyyənləşdirmək mümkün deyilsə, daşıyıcı yük göndərənə bu barədə məlumat verməli və yük göndərənin riski və hesabı ilə yükü müvəqqəti saxlamaya götürməli və ya saxlama üçün üçüncü şəxsə verməlidir. Əgər yük göndərən və yük alan şərait nəzərə alınmaqla ağlabatan müddət ərzində yükə dair zəruri sərəncamlar verməzlərsə, ekspertin köməyi ilə daşıyıcı eynilə komisyonçu kimi yükü ixtiyarlı şəxsin xeyrinə sata bilər.
+- 858.1. Əgər yük qəbul edilmirsə və ya yük üzrə ödənişlər həyata keçirilmir və ya yük alanı müəyyənləşdirmək mümkün deyilsə, daşıyıcı yük göndərənə bu barədə məlumat verməli və yük göndərənin riski və hesabı ilə yükü müvəqqəti saxlamaya götürməli və ya saxlama üçün üçüncü şəxsə verməlidir. Əgər yük göndərən və yük alan şərait nəzərə alınmaqla ağlabatan müddət ərzində yükə dair zəruri sərəncamlar verməzlərsə, ekspertin köməyi ilə daşıyıcı eynilə komisyonçu kimi yükü ixtiyarlı şəxsin xeyrinə sata bilər.
 - 858.2. Əgər yük tez korlanandırsa və ya onun ehtimal edilən dəyəri xərcləri ödəmirsə, daşıyıcı ləngimədən bu faktı rəsmən təyin edilmiş ekspertin köməyi ilə müəyyənləşdirməli və yükü çatdırılma zamanı maneələrin olduğu haldakı kimi eyni qaydada satmalıdır. Yükün satılmasına dair sərəncam verilməsi barədə iştirakçılara imkan daxilində bildiriş verilir.
 - 858.3. Daşıyıcı yüklə rəftar üçün ona verilmiş səlahiyyətlərin icrası zamanı mülkiyyətçinin mənafelərini maksimum müdafiə etməyə borcludur. Bu vəzifələri öz təqsiri üzündən pozduqda o, zərərin əvəzinin ödənilməsi üçün məsuliyyət daşıyır.
+
 #### Maddə 859. Yük daşıyıcısının məsuliyyəti
 - 859.1. Yükün itirildiyi və ya məhv olduğu halda daşıyıcı onun tam dəyərini ödəyir. Əgər yük daşıyıcı tərəfindən daşımaya qəbul edildikdən sonra üç ay ərzində çatdırılmazsa, əksi sübut edilənədək itirilmiş sayılır.
 - 859.2. Bundan başqa, daşıyıcı çatdırmanın gecikdirilməsi və ya yükün zədələnməsi və ya qismən məhv olması ilə bağlı bütün zərər üçün məsuliyyət daşıyır.
@@ -4967,14 +4966,18 @@ Daşıyıcı yükün çatdırılma yerinə gəlməsi barədə yük alana dərhal
 - 859.5. Daşıyıcıya qarşı bütün iddialar yük qeyd-şərtsiz qəbul edildikdən və ödənildikdən sonra ödənilir. Bu müddəa aşağıdakı hallarda tətbiq edilmir:
   - 859.5.1. daşıyıcı qəsd və ya kobud ehtiyatsızlıq üçün məsuliyyət daşıyırsa;
   - 859.5.2. əgər iddialar yükün zahirən görünən zədələrinə əsaslanırsa, yük alan bunları şərait nəzərə alınmaqla onun üçün mümkün və yolverilən müddət ərzində aşkar etdikdə və bu barədə daşıyıcıya zədələr aşkar edildikdən sonra dərhal, lakin çatdırılmadan ən geci səkkiz gün keçənədək bildiriş verdikdə.
+
 #### Maddə 860. Yükə girov hüququ
 - 860.1. Daşıyıcı ona çatası daşıma haqqına və xərclərin kompensasiyasına əsasən yükə girov hüququna malikdir. Yükə girov hüququnun əldə edilməsinə bu Məcəllənin 182-ci maddəsinin müddəaları şamil edilir. Yük göndərənin yükün mülkiyyətçisi olmadığı, lakin həmin yük barəsində yük göndərənin yükün mülkiyyətçisindən sərəncam vermək səlahiyyəti olması ilə əlaqədar daşıyıcının vicdanlı olduğu hallarda da yükə girov hüququ əldə edilir.
 - 860.2. Əgər daşıyıcı öz girov hüququnu həyata keçirirsə, yükün çatdırılması yalnız mübahisəli məbləğin məhkəmədə depozitə qoyulduğu halda tələb edilə bilər. Bu məbləğ fraxt verənin girov hüququ barəsində yükü əvəz edir.
-- 860.3. *Çıxarılmışdır.*
+- 860.3. Çıxarılmışdır.
+
 #### Maddə 861. Yüklərin daşınması zamanı iddia müddətləri
-- *861.1.* Daşıyıcıya qarşı iddialar müddətin keçməsinə görə bir ildən sonra, yəni yükün məhv olduğu, itirildiyi və ya gecikdirildiyi təqdirdə çatdırmanın həyata keçirilməli olduğu gündən, yük zədələndikdə isə onun yük alana verildiyi gündən qüvvəsini itirir. etiraz qaydasında yük alan və ya yük göndərən istənilən vaxt öz pretenziyalarını irəli sürə bilərlər, bu şərtlə ki, onlar bir illik müddət ərzində reklamasiya haqqında öz tələblərini bildirmiş olsunlar və iddia yükün qəbul edilməsi nəticəsində qüvvəsini itirməsin. Daşıyıcının qəsdi və kobud ehtiyatsızlığı halları istisna təşkil edir.
-- *861.2. Ekspeditora qarşı yaranan tələblər üzrə iddia müddəti iddia qaldırmaq hüququ yarandığı andan bir il təşkil edir. Ekspeditora qarşı iddia qaldırılmazdan əvvəl ona yazılı formada pretenziya verilməsi məcburidir. Pretenziya iddia müddəti ərzində verilə bilər. Ekspeditor pretenziyanı rədd etdikdə və ya qismən qəbul etdikdə, yaxud 30 gün müddətində pretenziyaya cavab vermədikdə, ona qarşı məhkəmədə iddia qaldırıla bilər.*
+- 861.1. Daşıyıcıya qarşı iddialar müddətin keçməsinə görə bir ildən sonra, yəni yükün məhv olduğu, itirildiyi və ya gecikdirildiyi təqdirdə çatdırmanın həyata keçirilməli olduğu gündən, yük zədələndikdə isə onun yük alana verildiyi gündən qüvvəsini itirir. etiraz qaydasında yük alan və ya yük göndərən istənilən vaxt öz pretenziyalarını irəli sürə bilərlər, bu şərtlə ki, onlar bir illik müddət ərzində reklamasiya haqqında öz tələblərini bildirmiş olsunlar və iddia yükün qəbul edilməsi nəticəsində qüvvəsini itirməsin. Daşıyıcının qəsdi və kobud ehtiyatsızlığı halları istisna təşkil edir.
+- 861.2. Ekspeditora qarşı yaranan tələblər üzrə iddia müddəti iddia qaldırmaq hüququ yarandığı andan bir il təşkil edir. Ekspeditora qarşı iddia qaldırılmazdan əvvəl ona yazılı formada pretenziya verilməsi məcburidir. Pretenziya iddia müddəti ərzində verilə bilər. Ekspeditor pretenziyanı rədd etdikdə və ya qismən qəbul etdikdə, yaxud 30 gün müddətində pretenziyaya cavab vermədikdə, ona qarşı məhkəmədə iddia qaldırıla bilər.
+
 ### 47-ci fəsil. Turist xidmətlərinin göstərilməsi
+
 #### Maddə 862. Turist xidmətlərinin göstərilməsinə dair müqavilə
 - 862.1. Turist xidmətlərinin göstərilməsinə dair müqaviləyə görə bu xidmətlərin təşkilatçısı istifadəçiyə məcmu halda turist xidmətləri göstərməyi (turist səfəri) öhdəsinə götürür, turist isə turist xidmətlərinin təşkilatçısına şərtləşdirilmiş xidmətlərə görə şərtləşdirilmiş muzd ödəməyə borcludur.
 - 862.2. Turist xidmətlərinin məzmununa turist səfərinin əhatə etdiyi bir və ya bir neçə yerə aparma, habelə geriyə, səfərin başlandığı yerə gətirmə daxil ola bilər. Lakin turist xidmətləri (turist səfəri) göstərilməsi yalnız o halda baş verir ki, onun təşkilatçısı daşımadan əlavə, aşağıdakı xidmətlərdən, heç olmasa, birini göstərir:
@@ -4983,71 +4986,95 @@ Daşıyıcı yükün çatdırılma yerinə gəlməsi barədə yük alana dərhal
   - 862.2.3. təyinat məntəqəsində seyretmələr və ya mədəni tədbirlərdə iştirak.
 - 862.3. Turist səfərinin təşkilatçısı turist xidmətlərinin göstərilməsinə dair müqavilə bağlayan hər hansı şəxsdir. Turist səfərinin təşkilatçısı özü daşıyıcı ola bilər və ya başqa turist xidmətləri göstərə bilər.
 - 862.4. Turist xidmətlərinin göstərilməsinə dair müqaviləyə bu Məcəllənin 844, 845 və 847-849-cu maddələri müvafiq surətdə tətbiq olunur.
+
 #### Maddə 863. Turist səfərinin həyata keçirilməsi və qüsurlara görə təşkilatçının məsuliyyəti
 - 863.1. Turist səfərinin təşkilatçısı səfəri elə həyata keçirməlidir ki, səfərin qarantiya verilmiş xassələri olsun və turist səfərinin dəyərini, yaxud adi istifadəyə və ya müqavilənin məqsədlərinə uyğun istifadəyə yararlığını istisna edən və ya azaldan qüsurları olmasın.
 - 863.2. Bu Məcəllənin 863.1-ci maddəsində göstərilmiş qüsurlar olduqda, bu Məcəllənin 846.2-846.4-cü maddələri tətbiq edilir. Lakin müqavilənin ləğvinə yalnız o halda yol verilir ki, turist səfərinin təşkilatçısı vəziyyəti düzəltmək üçün səfər iştirakçısının ona təyin etdiyi ağlabatan müddəti ötürmüş olsun. Əgər vəziyyəti düzəltmək mümkün deyildirsə və ya təşkilatçı bundan imtina edirsə və ya müqavilənin dərhal ləğv edilməsi səfər iştirakçısının xüsusi mənafelərinə uyğundursa, müddət təyin etmək tələb olunmur.
+
 ### 48-ci fəsil. Renta
+
 #### §1. Renta haqqında ümumi müddəalar
+
 #### Maddə 864. Renta müqaviləsi
 - 864.1. Renta müqaviləsinə görə bir tərəf (renta alan) əmlakı digər tərəfin (renta ödəyicisinin) mülkiyyətinə verir, renta ödəyicisi isə alınmış əmlakın müqabilində renta alana vaxtaşırı müəyyən pul məbləği şəklində renta ödəməyi öhdəsinə götürür.
 - 864.2. Renta müqaviləsinə görə rentanı müddətsiz ödəmək (daimi renta) və ya renta alanın ömrü boyu ödəmək (ömürlük renta) vəzifəsinin müəyyənləşdirilməsinə yol verilir.
+
 #### Maddə 865. Renta müqaviləsinin forması
 - 865.1. Renta müqaviləsi tərəflərin imzaladığı bir sənədin tərtibi yolu ilə yazılı formada bağlanır.
 - 865.2. Renta ödənilməsi üçün daşınmaz əmlakın özgəninkiləşdirilməsini nəzərdə tutan renta müqaviləsi notariat qaydasında təsdiqlənməlidir.
+
 #### Maddə 866. Daşınmaz əmlakın özgəninkiləşdirilməsini nəzərdə tutan renta müqaviləsinə görə mülkiyyət hüququnun keçməsinin qeydə alınması
 Renta ödənilməsi üçün daşınmaz əmlakın özgəninkiləşdirilməsini nəzərdə tutan renta müqaviləsinə görə mülkiyyət hüququnun keçməsi daşınmaz əmlakın dövlət reyestrində qeydə alınmalıdır.
+
 #### Maddə 867. Renta ödənilməsi üçün əmlakın özgəninkiləşdirilməsi
 - 867.1. Renta ödənilməsi üçün özgəninkiləşdirilən əmlakı renta alan renta ödəyicisinin mülkiyyətinə haqq müqabilində və ya pulsuz verə bilər.
 - 867.2. Renta müqaviləsində əmlakın haqq müqabilində verilməsinin nəzərdə tutulduğu halda əmlakın verilməsi və ödənilməsi üzrə tərəflərin münasibətlərinə alğı-satqı haqqında qaydalar, belə əmlakın pulsuz verildiyi halda isə bağışlama müqaviləsi haqqında qaydalar tətbiq edilir, bir şərtlə ki, bu Məcəllənin bu fəslinin qaydaları ilə ayrı hal müəyyənləşdirilməsin və bu, renta müqaviləsinin mahiyyətinə zidd olmasın.
+
 #### Maddə 868. Daşınmaz əşyanın renta ilə yüklülüyü
 - 868.1. Renta torpaq sahəsini, binanı, qurğunu və ya onun ödənilməsi üçün verilmiş başqa daşınmaz əşyanı yüklü edir. Renta ödəyicisi belə əşyanı özgəninkiləşdirdikdə onun renta müqaviləsi üzrə öhdəlikləri əldə edənə keçir.
 - 868.2. Renta ilə yüklü olan daşınmaz əşyanı başqa şəxsin mülkiyyətinə vermiş şəxs renta alanın renta müqaviləsinin pozulması ilə əlaqədar əmələ gəlmiş tələbləri üzrə həmin şəxslə subsidiar məsuliyyət daşıyır, bir şərtlə ki, bu Məcəllədə və ya müqavilədə bu öhdəlik üzrə birgə məsuliyyət nəzərdə tutulmasın.
+
 #### Maddə 869. Renta ödənilməsinin təmin edilməsi
 - 869.1. Torpaq sahəsi və ya digər daşınmaz əşya renta ödənilməsi üçün verildikdə renta alan renta ödəyicisinin öhdəliyinin təminatından ötrü həmin əşyaya girov hüququ əldə edir.
 - 869.2. Pul məbləğinin və ya başqa daşınar əşyanın renta ödənilməsi üçün verilməsini nəzərdə tutan müqavilənin mühüm şərti renta ödəyicisinin öz öhdəliklərinin icrasına təminat vermək və ya bu öhdəliklərin icra olunmaması, ya da lazımınca icra olunmaması üçün məsuliyyət riskini renta alanın xeyrinə sığorta etdirmək vəzifəsini müəyyənləşdirən şərtdir.
 - 869.3. Renta ödəyicisi bu Məcəllənin 869.2-ci maddəsində nəzərdə tutulmuş vəzifələri yerinə yetirmədikdə, habelə renta şərtlərinin təminatı renta alanın cavabdeh olmadığı hallara görə itirildikdə və ya pisləşdikdə renta alanın renta müqaviləsini ləğv etmək və müqavilənin ləğvi nəticəsində dəyən zərərin əvəzinin ödənilməsini tələb etmək ixtiyarı vardır.
+
 #### Maddə 870. Rentanın forması və miqdarı
 - 870.1. Renta müqavilə ilə müəyyənləşdirilmiş miqdarda pulla ödənilir. Renta müqaviləsində rentanın dəyərcə onun pul məbləğinə uyğun əmlakın verilməsi, işlərin görülməsi və ya xidmətlərin göstərilməsi yolu ilə ödənilməsi nəzərdə tutula bilər.
-- *870.2. Ödənilən rentanın miqdarı renta müqaviləsində nəzərdə tutulmuş hallarda və qaydada artırılır.*
+- 870.2. Ödənilən rentanın miqdarı renta müqaviləsində nəzərdə tutulmuş hallarda və qaydada artırılır.
+
 #### §2. Daimi renta
+
 #### Maddə 871. Daimi renta alan
 - 871.1. Daimi renta alanlar yalnız fiziki şəxslər, habelə qeyri-kommersiya təşkilatları ola bilərlər, bir şərtlə ki, bu, qanuna zidd olmasın və onların fəaliyyətinin məqsədlərinə uyğun gəlsin.
 - 871.2. Daimi renta müqaviləsi üzrə renta alanın hüquqları bu Məcəllənin 871.1-ci maddəsində göstərilmiş şəxslərə, tələbin güzəşti yolu ilə verilə bilər və vərəsəlik üzrə və ya hüquqi şəxslər yenidən təşkil olunduqda hüquq varisliyi qaydasında keçə bilər, bu şərtlə ki, müqavilədə ayrı qayda nəzərdə tutulmasın.
+
 #### Maddə 872. Daimi rentanın ödənilməsi müddətləri
 Əgər daimi renta müqaviləsində ayrı müddət nəzərdə tutulmayıbsa, daimi renta hər təqvim rübünün sonunda ödənilir.
+
 #### Maddə 873. Ödəyicinin daimi rentanı satın almaq hüququ
 - 873.1. Daimi renta ödəyicisinin onu satın almaq ixtiyarı vardır.
 - 873.2. Əgər müqavilədə satınalmanın başqa qaydası nəzərdə tutulmayıbsa, renta alan bütün satınalma məbləğini alanadək renta ödənilməsi öhdəliyinə xitam verilmir.
 - 873.3. Daimi renta ödəyicisinin rentanı satın almaq hüququndan imtina etməsi haqqında daimi renta müqaviləsinin şərti əhəmiyyətsizdir.
 - 873.4. Müqavilədə nəzərdə tutula bilər ki, daimi rentanı satın almaq hüququ renta alanın sağlığında və ya başqa müddət ərzində həyata keçirilə bilməz.
+
 #### Maddə 874. Renta alanın tələbi ilə daimi rentanın satın alınması
-- 874.0. Daimi renta alan aşağıdakı hallarda ödəyicinin rentanı satın almasını tələb edə bilər:
-  - 874.0.1. daimi renta müqaviləsində ayrı müddət nəzərdə tutulmayıbsa, renta ödəyicisi onun ödənilməsini bir ildən çox gecikdirdikdə;
-  - 874.0.2. renta ödəyicisi renta ödənişini təmin etmək öhdəliklərini pozduqda;
-  - 874.0.3. onun rentanı müqavilə ilə müəyyənləşdirilmiş miqdarda və müddətlərdə ödəməyəcəyinə aşkar dəlalət edən hallar yarandıqda;
-  - 874.0.4. renta ödənilməsi üçün verilmiş daşınmaz əmlak ümumi mülkiyyətə daxil olduqda və ya bir neçə şəxs arasında bölüşdürüldükdə;
-  - 874.0.5. müqavilədə nəzərdə tutulmuş digər hallarda.
+Daimi renta alan aşağıdakı hallarda ödəyicinin rentanı satın almasını tələb edə bilər:
+- 874.0.1. daimi renta müqaviləsində ayrı müddət nəzərdə tutulmayıbsa, renta ödəyicisi onun ödənilməsini bir ildən çox gecikdirdikdə;
+- 874.0.2. renta ödəyicisi renta ödənişini təmin etmək öhdəliklərini pozduqda;
+- 874.0.3. onun rentanı müqavilə ilə müəyyənləşdirilmiş miqdarda və müddətlərdə ödəməyəcəyinə aşkar dəlalət edən hallar yarandıqda;
+- 874.0.4. renta ödənilməsi üçün verilmiş daşınmaz əmlak ümumi mülkiyyətə daxil olduqda və ya bir neçə şəxs arasında bölüşdürüldükdə;
+- 874.0.5. müqavilədə nəzərdə tutulmuş digər hallarda.
+
 #### Maddə 875. Daimi rentanın satınalma qiyməti
 - 875.1. Bu Məcəllənin 873 və 874-cü maddələrində nəzərdə tutulmuş hallarda daimi renta ona dair müqavilə ilə müəyyənləşdirilmiş qiymətlə satın alınır.
 - 875.2. Daimi renta ödənilməsindən ötrü əmlakın haqq müqabilində verilməsi üçün əsas götürülən daimi renta müqaviləsində satınalma qiyməti haqqında şərt olmadıqda satınalma ödəniləsi rentanın illik məbləğinə uyğun qiymətlə həyata keçirilir.
 - 875.3. Daimi renta ödənilməsindən ötrü əşyanın pulsuz verilməsi üçün əsas götürülən daimi renta müqaviləsində satınalma qiyməti haqqında şərt olmadıqda, satınalma qiymətinə, renta ödənişlərinin illik məbləği ilə yanaşı, verilmiş əşyanın qiyməti də daxil edilir.
+
 #### Maddə 876. Daimi renta ödənilməsi üçün verilmiş əmlakın təsadüfən məhv olması və ya təsadüfən zədələnməsi riski
 - 876.1. Daimi renta ödənilməsi üçün pulsuz verilmiş əşyanın təsadüfən məhv olması və ya təsadüfən zədələnməsi riski renta ödəyicisinin üzərinə düşür.
 - 876.2. Daimi renta ödənilməsi üçün haqq müqabilində verilmiş əşya təsadüfən məhv olduqda və ya təsadüfən zədələndikdə ödəyici müvafiq olaraq, rentanın ödənilməsi öhdəliyinə xitam verilməsini və ya onun ödənilməsi şərtlərinin dəyişdirilməsini tələb edə bilər.
+
 #### §3. Ömürlük renta
+
 #### Maddə 877. Ömürlük renta alan
 - 877.1. Ömürlük renta əşyanı renta ödənilməsi üçün verən fiziki şəxsin sağlığı dövrü üçün və ya onun göstərdiyi başqa fiziki şəxsin sağlığı dövrü üçün müəyyənləşdirilə bilər.
 - 877.2. Ömürlük rentanın bir neçə fiziki şəxsin xeyrinə müəyyənləşdirilməsinə yol verilir və əgər ömürlük renta müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, renta almaq hüququnda onların payları bərabər sayılır.
 - 877.3. Əgər ömürlük renta müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, renta alanlardan biri öldükdə renta almaq hüququnda onun payı ondan çox yaşayan renta alanlara keçir. Sonuncu renta alan öldükdə rentanı ödəmək öhdəliyinə xitam verilir.
 - 877.4. Müqavilənin bağlandığı məqamda sağ olmayan fiziki şəxsin xeyrinə ömürlük renta müəyyənləşdirən müqavilə əhəmiyyətsizdir.
+
 #### Maddə 878. Ömürlük rentanın ödənilməsi müddətləri
 Əgər ömürlük renta müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, ömürlük renta hər təqvim ayının sonunda ödənilir.
+
 #### Maddə 879. Renta alanın tələbi ilə ömürlük renta müqaviləsinin ləğv edilməsi
 - 879.1. Renta ödəyicisi ömürlük renta müqaviləsini əhəmiyyətli dərəcədə pozduqda renta alan renta ödəyicisindən rentanı satın almağı və ya müqaviləni ləğv etməyi və zərərin əvəzini ödəməyi tələb edə bilər.
 - 879.2. Əgər ömürlük renta ödənilməsi üçün mənzil, yaşayış evi və ya başqa əmlak pulsuz özgəninkiləşdirilmişdirsə, renta ödəyicisi müqaviləni əhəmiyyətli dərəcədə pozduqda renta alan həmin əmlakın qaytarılmasını və onun dəyərinin rentanın satınalma qiyməti ilə əvəzləşdirilməsini tələb edə bilər.
+
 #### Maddə 880. Ömürlük renta ödənilməsi üçün verilmiş əşyanın təsadüfən məhv olması və ya təsadüfən zədələnməsi riski
 Ömürlük renta ödənilməsi üçün verilmiş əşyanın təsadüfən məhv olması və ya təsadüfən zədələnməsi renta ödəyicisini ömürlük renta müqaviləsində nəzərdə tutulmuş şərtlər əsasında rentanı ödəmək öhdəliyindən azad etmir.
+
 ### 49-cu fəsil. Barışıq razılaşması və mövcud borcun etirafı haqqında mücərrəd müqavilə
+
 #### Maddə 881. Barışıq razılaşması haqqında müqavilə
 - 881.1. Barışıq razılaşması haqqında müqaviləyə görə tərəflər öz aralarında hüquqlar və ya iddialar barəsində mübahisəni və ya qeyri-müəyyənliyi qarşılıqlı güzəştlər yolu ilə həll edirlər.
 - 881.2. Barışıq razılaşmasının qüvvəsi ondan ibarətdir ki, əvvəllər mübahisəli və ya qeyri-müəyyən olmuş hüquqlara və iddialara istinad edilməsi həmin razılaşmaya əsasən istisna edilir və hüquqi statusundan asılı olmayaraq iştirakçılar üçün yalnız barışıq razılaşmasında təsbit edilənlər etibarlı olur. Ayrı şərt haqqında razılaşma olmadıqda:
@@ -5055,54 +5082,66 @@ Renta ödənilməsi üçün daşınmaz əmlakın özgəninkiləşdirilməsini n�
   - 881.2.2. barışıq razılaşmasının qüvvəsi barışıq razılaşması məqamında müqavilənin iştirakçısına məlum olmayan iddialara şamil edilmir.
 - 881.3. Barışıq razılaşmasının bağlanması üçün forma tələb olunmur. Lakin əgər barışıq razılaşmasında hər hansı formanın gözlənilməsini tələb edən əqdlər vardırsa, razılaşma bu əqdlər üçün tələb edilən forma üzrə tərtib olunmalıdır, amma barışıq razılaşmasının məhkəmə qaydasında protokol şəklində tərtib olunduğu hallar istisna təşkil edir.
 - 881.5. Əgər müqavilə iştirakçıları hüquq münasibətlərini və ya iddiaları həyata keçirə bilmirlərsə, xüsusən məcburi qüvvəyə malik qanuni göstərişlərlə əlaqədar həyata keçirə bilmirlərsə, barışıq razılaşmasının qüvvəsi yoxdur.
+
 #### Maddə 882. Mövcud borcun etirafı haqqında mücərrəd müqavilə
 - 882.1. Borcun etiraf edilməsini, həm də öhdəliyə əsas verən şəkildə etiraf edilməsini nəzərdə tutan hər hansı müqavilənin (mövcud borcun etirafı haqqında mücərrəd müqavilənin) yalnız o halda qüvvəsi vardır ki, borc öhdəliyi yazılı şəkildə və mövcudluğu etiraf edilən borcun əsaslandırılması üçün müəyyənləşdirilmiş forma üzrə verilsin. Əgər mövcudluğu etiraf edilmiş öhdəlik münasibətlərinin yaranması üçün ayrı forma nəzərdə tutulubsa, etiraf üçün də belə forma tələb edilir.
 - 882.2. Bu Məcəllədə nəzərdə tutulan başqa göstərişlər olmadıqda, mövcud borcun etirafı haqqında mücərrəd müqaviləyə əsaslanan iddiaya qarşı başlıca əqddən irəli gələn heç bir etiraz irəli sürülə bilməz.
 - 882.3. Bu zaman bu Məcəllənin 881.5-ci maddəsi tətbiq olunur.
 - 882.4. Bu Məcəllənin 882.1-882.3-cü maddələri öhdəliyin icrasının qəbul edilməsini, həm də bu barədə vədin öhdəliyə əsas verən şəkildə qəbul edilməsini nəzərdə tutan hər bir müqaviləyə (öhdəliyi öz üzərinə götürmək haqqında müqaviləyə) müvafiq surətdə tətbiq edilir.
 - 882.5. Əgər borc hesablaşmaya (ödənişə) əsasən və ya razılaşma yolu ilə etiraf olunmuşsa, formaya riayət edilməsi məcburi deyildir.
+
 ### 50-ci fəsil. Sığorta
+
 #### §1. Sığorta haqqında ümumi müddəalar
+
 #### Maddə 883. Sığorta və təkrarsığorta müqaviləsi
 - 883.1. Sığorta müqaviləsi sığortalının müvafiq sığorta haqqı ödəməsi müqabilində sığorta obyektinin məruz qala biləcəyi risklərlə bağlı itkilərin, dəyən zərərin əvəzinin və ya razılaşdırılan pul məbləğinin müəyyən bir hadisənin baş verməsi əsasında ödənilməsinin sığortaçı tərəfindən öhdəlik kimi götürülməsi şərtlərinin təsbit edildiyi razılaşmadır.
 - 883.2. Təkrarsığorta müqaviləsi təkrarsığortalının müvafiq təkrarsığorta haqqı ödəməsi müqabilində sığortaladığı risklərin bütövlükdə və ya bir hissəsinin təkrarsığortaçıya ötürülməsi və ya onunla bölüşdürülməsi şərtlərinin təsbit edildiyi razılaşmadır.
+
 #### Maddə 884. Sığorta münasibətlərinin subyektləri
-- 884.1. Sığorta münasibətləri sığortalının və ya sığorta olunanın əmlakı, həyatı, sağlamlığı, mülki məsuliyyəti, *qanunla* qadağan olunmayan fəaliyyəti, o cümlədən sahibkarlıq fəaliyyəti ilə bağlı olan əmlak mənafelərinin müdafiəsi sahəsində risklərin ötürülməsinə və ya bölüşdürülməsinə əsaslanır.
+- 884.1. Sığorta münasibətləri sığortalının və ya sığorta olunanın əmlakı, həyatı, sağlamlığı, mülki məsuliyyəti, qanunla qadağan olunmayan fəaliyyəti, o cümlədən sahibkarlıq fəaliyyəti ilə bağlı olan əmlak mənafelərinin müdafiəsi sahəsində risklərin ötürülməsinə və ya bölüşdürülməsinə əsaslanır.
 - 884.2. Sığorta və ya təkrarsığorta müqaviləsinin tərəfi olan, yaxud belə müqavilənin həyata keçirilməsi üzrə hüquqlara və (və ya) vəzifələrə malik olan şəxslər sığorta münasibətlərinin subyektləridir.
-- *884.3. Sığortaçı icbari sığorta üzrə icbari sığorta növlərinin həyata keçirilməsini tənzimləyən qanunlarda (bundan sonra - icbari sığorta qanunları), könüllü sığorta üzrə sığorta müqaviləsində nəzərdə tutulan sığorta hadisəsi baş verdiyi halda sığorta ödənişini vermək öhdəliyi daşıyan sığorta müqaviləsinin tərəfidir.*
+- 884.3. Sığortaçı icbari sığorta üzrə icbari sığorta növlərinin həyata keçirilməsini tənzimləyən qanunlarda (bundan sonra - icbari sığorta qanunları), könüllü sığorta üzrə sığorta müqaviləsində nəzərdə tutulan sığorta hadisəsi baş verdiyi halda sığorta ödənişini vermək öhdəliyi daşıyan sığorta müqaviləsinin tərəfidir.
 - 884.4. Sığortalı sığorta haqqı ödəyən, sığorta obyektinin sığorta etdirilməsində sığorta marağı olan sığorta müqaviləsinin tərəfidir.
 - 884.5. Sığorta olunan əmlak mənafeləri sığorta müqaviləsi əsasında sığortalanan şəxsdir. Şəxsi sığorta üzrə sığorta müqaviləsində sığorta olunan qismində başqa şəxs nəzərdə tutulmayıbsa, sığortalı eyni zamanda sığorta olunan sayılır. Əmlak sığortası üzrə sığorta müqaviləsində sığorta olunan qismində başqa şəxs nəzərdə tutulmasından asılı olmayaraq, sığortalının sığorta olunan kimi tanınması heç bir halda, o cümlədən müqavilə şərtləri ilə məhdudlaşdırıla bilməz.
-- 884.6. Faydalanan şəxs icbari sığorta *qanunlarına* və ya sığorta müqaviləsinə uyğun olaraq sığorta *ödənişi verilməli* olan şəxsdir. Sığorta müqaviləsində faydalanan şəxs qismində başqa şəxs nəzərdə tutulmamışdırsa, sığortalı və (və ya) sığorta olunan faydalanan şəxs sayılır.
-- *884.6–1. Əmlak sığortası üzrə sığorta hadisəsi nəticəsində zərər dəymiş əmlakla bağlı sığorta marağı olan istənilən şəxs həmin əmlakın mülkiyyətçisi olub-olmamasından asılı olmayaraq zərərçəkən sayılır.*
-- *884.6–2. Şəxsi sığorta üzrə sığorta hadisəsi nəticəsində sağlamlığına zərər dəymiş şəxs, onun öldüyü halda isə ailə üzvləri zərərçəkən sayılır.*
+- 884.6. Faydalanan şəxs icbari sığorta qanunlarına və ya sığorta müqaviləsinə uyğun olaraq sığorta ödənişi verilməli olan şəxsdir. Sığorta müqaviləsində faydalanan şəxs qismində başqa şəxs nəzərdə tutulmamışdırsa, sığortalı və (və ya) sığorta olunan faydalanan şəxs sayılır.
+- 884.6–1. Əmlak sığortası üzrə sığorta hadisəsi nəticəsində zərər dəymiş əmlakla bağlı sığorta marağı olan istənilən şəxs həmin əmlakın mülkiyyətçisi olub-olmamasından asılı olmayaraq zərərçəkən sayılır.
+- 884.6–2. Şəxsi sığorta üzrə sığorta hadisəsi nəticəsində sağlamlığına zərər dəymiş şəxs, onun öldüyü halda isə ailə üzvləri zərərçəkən sayılır.
 - 884.7. Təkrarsığortaçı ilkin sığortaçı və ya ilkin təkrarsığortaçı tərəfindən bağlanmış sığorta və ya təkrarsığorta müqavilələri əsasında sığortalanmış (təkrarsığortalanmış) riskləri təkrarsığortalayan (təkrarsığortaya qəbul edən) təkrarsığorta müqaviləsinin tərəfidir.
 - 884.8. Təkrarsığortalı sığortaladığı və ya təkrarsığortaladığı riskləri təkrarsığorta müqaviləsi əsasında təkrarsığorta etdirən (təkrarsığortaya ötürən) sığortaçı və ya təkrarsığortaçıdır.
+
 #### Maddə 885. Sığorta sahələri
 - 885.1. Sığorta sığortaçıların fəaliyyət istiqamətləri baxımından həyat sığortası və qeyri-həyat sığortası (ümumi sığorta) sahələrinə, sığorta obyekti baxımından şəxsi sığorta və əmlak sığortası sahələrinə bölünür.
-- 885.2. Həyat və qeyri-həyat sığortası sahələrinin hər biri *“Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 14-cü maddəsində* nəzərdə tutulmuş sığorta siniflərindən ibarətdir.
+- 885.2. Həyat və qeyri-həyat sığortası sahələrinin hər biri “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 14-cü maddəsində nəzərdə tutulmuş sığorta siniflərindən ibarətdir.
 - 885.3. Həyat sığortası sahəsinə aid olan sığorta sinifləri sığorta obyektinə görə yalnız şəxsi sığortaya aiddir.
 - 885.4. Qeyri-həyat sığortası sahəsinə aid olan sığorta sinifləri həm şəxsi, həm də əmlak sığortasına aid ola bilər.
+
 #### Maddə 885-1. Aqrar sığorta sistemi
-*Aqrar sığorta sistemi ilə əhatə olunan münasibətlər bu Məcəllə, “Sığorta fəaliyyəti haqqında” və “Aqrar sığorta haqqında” Azərbaycan Respublikasının qanunları ilə tənzimlənir.*
+Aqrar sığorta sistemi ilə əhatə olunan münasibətlər bu Məcəllə, “Sığorta fəaliyyəti haqqında” və “Aqrar sığorta haqqında” Azərbaycan Respublikasının qanunları ilə tənzimlənir.
+
 #### Maddə 886. Sığorta obyekti və sığorta predmeti
 - 886.1. Sığorta obyekti sığortalının, yaxud sığorta olunanın qanunazidd olmayan hər hansı əmlak mənafeyidir.
-- 886.2. Qanunazidd mənafelər, həmçinin qanuni, lakin sığortalanması qadağan olunan mənafelər, *Azərbaycan Respublikasının Cinayət Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində və digər qanunlarda* nəzərdə tutulmuş cərimələr, habelə oyunlarda *(o cümlədən lisenziya əsasında təşkil edilən kazino oyunlarında)*, mərclərdə, lotereyalarda iştirakla bağlı mənafelər sığorta obyekti ola bilməz.
+- 886.2. Qanunazidd mənafelər, həmçinin qanuni, lakin sığortalanması qadağan olunan mənafelər, Azərbaycan Respublikasının Cinayət Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində və digər qanunlarda nəzərdə tutulmuş cərimələr, habelə oyunlarda (o cümlədən lisenziya əsasında təşkil edilən kazino oyunlarında), mərclərdə, lotereyalarda iştirakla bağlı mənafelər sığorta obyekti ola bilməz.
 - 886.3. Sığorta predmeti sığorta müqaviləsi üzrə sığortalanan əmlak mənafelərinin aid olduğu fiziki şəxs, əmlak və ya haldır.
+
 #### Maddə 887. Şəxsi sığortanın obyekti
 Şəxsi sığortanın obyektləri sığortalının və ya sığorta olunanın həyatı, sağlamlığı, əmək qabiliyyəti və pensiya təminatı ilə bağlı əmlak mənafeləridir. Şəxsi sığorta zamanı həm sığortalı özü, həm də müqavilədə göstərilən başqa şəxs (sığorta olunan) sığortalana bilər.
+
 #### Maddə 888. Əmlak sığortasının obyekti
 - 888.1. Əmlak sığortasının obyektləri sığortalının əmlaka sahibliyi, ondan istifadəsi və (və ya) ona sərəncam verməsi, sahibkarlıq fəaliyyətinin həyata keçirilməsi, digər fiziki şəxslərin sağlamlığına xəsarət yetirməsi və ya fiziki şəxslərin əmlakına, həmçinin hüquqi şəxslərə vurduğu zərərin əvəzinin ödənilməsi, istehsalat fəaliyyəti ilə bağlı əmlak mənafeləridir. Əmlak sığortasına əmlakın və mülki məsuliyyətin sığortası aiddir.
 - 888.2. Əmlakın sığortası zamanı əmlakın zədələnməsi, itirilməsi (məhv olması) və çatışmazlığı, eyni zamanda əmlak hüquqlarının itirilməsi ilə bağlı risklər sığortalanır.
 - 888.3. Mülki məsuliyyətin sığortası zamanı üçüncü şəxslərin həyatına, sağlamlığına, yaxud əmlakına zərər vurulması nəticəsində yaranan öhdəliklərə görə (zərər vurmağa görə mülki məsuliyyətin sığortası), habelə mülki-hüquqi müqavilələrlə bağlı yaranan məsuliyyətə görə (müqavilə şərtlərini pozmağa görə mülki məsuliyyətin sığortası) risklər sığortalanır.
 - 888.4. Qarışıq maliyyə risklərinin, kredit risklərinin, ticarət və investisiya risklərinin, tapşırıq və qarantiya risklərinin, məhkəmə xərclərinin, habelə bu Məcəllənin 888.1-ci maddəsində nəzərdə tutulmuş əmlak mənafeləri ilə bağlı digər risklərin sığortası da obyektinə görə əmlak sığortasına aid edilir.
+
 #### Maddə 889. Sığorta marağı
-- 889.1. Sığorta marağı sığorta hadisəsinin baş verəcəyi təqdirdə *şəxsin* maliyyə itkisinə məruz qalması ehtimalı ilə şərtlənən və onun sığorta obyektini sığorta etdirmək hüququnun əsaslandığı mənafedir.
-- 889.2. Sığorta marağının mövcudluğu *qanunla və ya* mülki-hüquqi müqavilə ilə tanınır. *Şəxslə* sığorta predmeti arasında bu cür tanınan əlaqə yoxdursa, sığorta marağının mövcud olmadığı hesab edilir.
+- 889.1. Sığorta marağı sığorta hadisəsinin baş verəcəyi təqdirdə şəxsin maliyyə itkisinə məruz qalması ehtimalı ilə şərtlənən və onun sığorta obyektini sığorta etdirmək hüququnun əsaslandığı mənafedir.
+- 889.2. Sığorta marağının mövcudluğu qanunla və ya mülki-hüquqi müqavilə ilə tanınır. Şəxslə sığorta predmeti arasında bu cür tanınan əlaqə yoxdursa, sığorta marağının mövcud olmadığı hesab edilir.
 - 889.3. Sığortalının öz həyatı, habelə arvadının (ərinin), valideynlərinin, uşaqlarının, işçilərinin, işəgötürəninin, borclusunun, qəyyumunun, qəyyumluğunda olan şəxsin həyatı ilə bağlı sığorta marağı mövcuddur.
-- 889.4. Sığorta marağı mövcud olmadan bağlanan sığorta müqaviləsi bağlandığı andan etibarsızdır.
+- 889.4. Sığorta marağı mövcud olmadan bağlanılan sığorta müqaviləsi bağlandığı andan etibarsızdır.
 - 889.5. Sığorta marağının gələcəkdə əldə edilməsi ehtimalı müvafiq sığorta müqaviləsinin bağlanması üçün əsas deyil.
 - 889.6. Sığorta müqaviləsinin qüvvədə olduğu müddət ərzində sığorta marağı itərsə sığorta müqaviləsinə xitam verilməlidir.
-- 889.7. *Əmlak sığortası üzrə sığorta* hadisəsi kimi tanına bilən hadisə və ya hal baş verdiyi anda sığorta marağı mövcud olmadıqda həmin hadisə və ya hal sığorta hadisəsi hesab edilmir və sığortaçı sığorta ödənişi üzrə vəzifələrinin icrasından azad edilir.
+- 889.7. Əmlak sığortası üzrə sığorta hadisəsi kimi tanına bilən hadisə və ya hal baş verdiyi anda sığorta marağı mövcud olmadıqda həmin hadisə və ya hal sığorta hadisəsi hesab edilmir və sığortaçı sığorta ödənişi üzrə vəzifələrinin icrasından azad edilir.
+
 #### Maddə 890. Təkrarsığorta
 - 890.1. Təkrarsığorta sığortaçının sığorta müqaviləsi üzrə sığortaladığı və ya təkrarsığortaladığı risklərin bütövlükdə, yaxud bir hissəsinin təkrarsığortaçı ilə bölüşdürülməsi və ya təkrarsığortaçıya ötürülməsidir.
 - 890.2. Təkrarsığortanın şərtləri təkrarsığortaçı və təkrarsığortalı arasında yazılı formada bağlanan təkrarsığorta müqaviləsi ilə müəyyən edilir.
@@ -5113,44 +5152,55 @@ Renta ödənilməsi üçün daşınmaz əmlakın özgəninkiləşdirilməsini n�
 - 890.7. Qeyri-mütənasib təkrarsığorta müvafiq sığorta müqaviləsində nəzərdə tutulmuş sığorta hadisəsinin baş verdiyi təqdirdə, təkrarsığortaçının təkrarsığortalının şəxsi tutumundan artıq olan məbləğdə sığorta ödənişi vermək öhdəliyinin müəyyən edildiyi təkrarsığorta növüdür.
 - 890.8. Fakultativ təkrarsığorta hər bir riskin ayrılıqda qiymətləndirilməsinə əsasən onun təkrarsığortalanmasını nəzərdə tutan təkrarsığortanın formasıdır.
 - 890.9. Obliqator təkrarsığorta təkrarsığorta müqaviləsi ilə müəyyən olunan şərtlərə cavab verən bütün risklərin təkrarsığortalanmasını nəzərdə tutan təkrarsığortanın formasıdır.
+
 #### Maddə 891. Sığortaçının (təkrarsığortaçının) təkrarsığorta müqaviləsinə görə sığortalı (təkrarsığortalı) qarşısında öhdəliyi
 - 891.1. Bu Məcəllənin 891.2-ci maddəsi nəzərə alınmaqla, sığorta müqaviləsi üzrə sığortaladığı riskləri təkrarsığorta etdirən sığortaçı (təkrarsığorta müqaviləsinə əsasən təkrarsığortalı) həmin sığorta müqaviləsinə görə sığortalı qarşısında tam və birbaşa öhdəlik daşıyır.
 - 891.2. Sığortaçı sığortalının aşkar yazılı təkidi ilə seçilən təkrarsığortaçının öz öhdəliklərini icra edə bilmədiyi həddə müvafiq sığorta müqaviləsi üzrə vəzifəsini yerinə yetirməkdən azaddır.
 - 891.3. Bu Məcəllənin 891.4-cü maddəsi nəzərə alınmaqla, təkrarsığorta müqaviləsi üzrə təkrarsığortaladığı riskləri yenidən təkrarsığorta etdirən təkrarsığortaçı təkrarsığortalı qarşısında tam və birbaşa öhdəlik daşıyır.
 - 891.4. Təkrarsığortaçı müvafiq riskləri təkrarsığortalının aşkar yazılı təkidi ilə seçilən təkrarsığortaçıda yenidən təkrarsığorta etdirərsə, müvafiq təkrarsığorta müqaviləsi üzrə vəzifəsini yerinə yetirməkdən ikinci təkrarsığortaçının öhdəliklərini icra edə bilmədiyi həddə azaddır.
+
 #### Maddə 892. Təkrarsığortaçının sənədləri tələb etmək hüququ
 Təkrarsığortaçı təkrarsığortalıdan müvafiq sığorta qaydalarını və müqavilələrini, həmçinin sığorta hadisəsi baş verdikdə müvafiq təsdiqedici sənədləri və ya onların surətlərini tələb etmək hüququna malikdir.
+
 #### Maddə 893. Şərikli sığorta
 - 893.1. Şərikli sığorta bir neçə sığortaçının aralarında bağladıqları müqaviləyə müvafiq olaraq, sığorta ödənişi üzrə öhdəlikləri bölüşdürməklə sığorta müqaviləsi ilə müəyyən edilmiş sığorta risklərini eyni zamanda sığortalamaları ilə bağlı fəaliyyət və bununla əlaqədar yaranan münasibətlərdir.
 - 893.2. Sığorta obyekti bir müqavilə ilə bir neçə sığortaçı tərəfindən sığortalana bilər. Bu müqavilədə hər bir sığortaçının razılaşdırılmış paylar əsasında hüquq və vəzifələrini müəyyən edən şərtlər olmalıdır.
 - 893.3. Sığortalı qarşısında öhdəliyi öz payı miqdarında olmaqla şərikli sığortaçılardan biri sığortalı ilə münasibətdə bütün şərikləri təmsil edə bilər.
 - 893.4. Müvafiq sığorta növü üzrə fəaliyyət göstərməyə icazəsi olmayan sığortaçı şərikli sığortada iştirak edə bilməz.
+
 #### Maddə 894. Qrup halında sığorta
 - 894.1. Qrup halında sığorta zamanı bir sığorta müqaviləsi ilə bir neçə sığorta predmeti sığortalanır.
 - 894.2. Qrup halında sığorta həm şəxsi, həm də əmlak sığortası üzrə aparıla bilər.
 - 894.3. Şəxsi sığortaya aid olan qrup halında sığorta zamanı sığortalı sığorta olunanın kimliyi göstərilən sığorta müqaviləsində sığorta olunan şəxslərin hər birini sığorta müqaviləsinin onlara aid olan bütün şərtləri ilə tanış etməlidir. Bu halda sığorta olunanların sığorta müqaviləsi ilə müvafiq şəkildə tanış edilməsini təsdiq edən sənəd (siyahı və s.) sığorta şəhadətnaməsinin ayrılmaz tərkib hissəsidir. Qrup halında sığorta zamanı şəxsi sığorta müqaviləsində sığorta olunanın kimliyi göstərildikdə və ya əmlak sığortası müqaviləsində sığortalanan əmlak fərdi şəkildə qeyd olunduqda, tərəflər arasında razılaşmaya əsasən müvafiq olaraq sığorta olunan şəxslərin hər birinə, yaxud hər bir sığortalanan əmlaka görə sığorta şəhadətnaməsi verilə bilər.
 - 894.4. Qrup halında sığorta zamanı sığorta olunanın kimliyi göstərilməyən şəxsi sığorta müqaviləsində və ya sığortalanan əmlak fərdi şəkildə qeyd olunmayan əmlak sığortası müqaviləsində sığorta olunan şəxslərin və ya əmlak sığortası müqaviləsində sığortalanan əmlakın dairəsi o dərəcədə konkretləşdirilməlidir ki, sığorta hadisəsini, onun nəticələrini və sığorta predmeti üzrə verilməli olan sığorta ödənişinin miqdarını müvafiq olaraq hər bir sığorta olunana və ya sığortalanan əmlaka münasibətdə fərdiləşdirmək mümkün olsun.
+
 #### Maddə 895. İkili (çoxqat) sığorta
-- *895.1. Sığorta müqaviləsi bağlanan andakı həqiqi, yəni sığorta dəyərindən artıq məbləğdə əmlakın eyni risklərdən iki və ya daha çox sığortaçıda sığortalanması halında (ikili və ya çoxqat sığorta halında), sığorta hadisəsinin baş verdiyi zaman dəyən zərər üzrə sığortaçılardan hər biri onunla bağlanmış sığorta müqaviləsində nəzərdə tutulmuş sığorta məbləğinə mütənasib qaydada, ümumilikdə sığorta dəyərindən artıq olmamaq şərtilə öhdəlik daşıyır.*
+- 895.1. Sığorta müqaviləsi bağlanılan andakı həqiqi, yəni sığorta dəyərindən artıq məbləğdə əmlakın eyni risklərdən iki və ya daha çox sığortaçıda sığortalanması halında (ikili və ya çoxqat sığorta halında), sığorta hadisəsinin baş verdiyi zaman dəyən zərər üzrə sığortaçılardan hər biri onunla bağlanmış sığorta müqaviləsində nəzərdə tutulmuş sığorta məbləğinə mütənasib qaydada, ümumilikdə sığorta dəyərindən artıq olmamaq şərtilə öhdəlik daşıyır.
 - 895.2. Əmlak sığortalı tərəfindən qanunsuz gəlir əldə etmək məqsədilə bir və ya bir neçə sığorta müqaviləsi əsasında onun həqiqi dəyərindən artıq məbləğə sığorta etdirildikdə, bu məqsədlə bağlanmış hər bir sığorta müqaviləsi bağlandığı andan etibarsız sayılır. Bu halda sığortalının qanunsuz gəlir əldə etmək məqsədi məhkəmə qaydasında sübut edilməlidir.
+
 #### Maddə 896. Qismən sığorta
-- *896.1. Əmlakın sığortası üzrə müqavilədə müəyyən edilmiş sığorta məbləği sığorta dəyərindən az olduğu halda (qismən sığorta halında), sığortaçı zərərin əvəzini sığorta məbləğinin sığorta dəyərinə olan nisbətində ödəyir, bir şərtlə ki, qismən sığorta barədə müddəa sığorta müqaviləsində əks edilmiş olsun.*
-- *896.2. Sığorta hadisəsi nəticəsində qismən sığortalanmış əmlakın tam məhv olması halında sığorta məbləği bütünlüklə ödənildikdə, sığorta predmetinin qalıqlarına olan hüquq sığortaçıya sığorta ödənişi məbləğinin sığorta dəyərinə olan nisbətində keçir.*
-- *896.3. Bu Məcəllənin 930.1-ci maddəsində nəzərdə tutulmuş halda sığorta hadisəsinin baş verdiyi zaman, sığorta təminatı qismən sığorta kimi qiymətləndirilə bilməz*.
+- 896.1. Əmlakın sığortası üzrə müqavilədə müəyyən edilmiş sığorta məbləği sığorta dəyərindən az olduğu halda (qismən sığorta halında), sığortaçı zərərin əvəzini sığorta məbləğinin sığorta dəyərinə olan nisbətində ödəyir, bir şərtlə ki, qismən sığorta barədə müddəa sığorta müqaviləsində əks edilmiş olsun.
+- 896.2. Sığorta hadisəsi nəticəsində qismən sığortalanmış əmlakın tam məhv olması halında sığorta məbləği bütünlüklə ödənildikdə, sığorta predmetinin qalıqlarına olan hüquq sığortaçıya sığorta ödənişi məbləğinin sığorta dəyərinə olan nisbətində keçir.
+- 896.3. Bu Məcəllənin 930.1-ci maddəsində nəzərdə tutulmuş halda sığorta hadisəsinin baş verdiyi zaman, sığorta təminatı qismən sığorta kimi qiymətləndirilə bilməz.
+
 #### Maddə 897. İcbari sığorta
-- 897.1. İcbari sığortanın həyata keçirilməsi *icbari sığorta qanunları ilə* tələb olunur.
-- 897.2. *Xeyrinə* icbari sığorta müqaviləsi bağlanmalı olan şəxs sığortalanmadığını bildikdə onu sığorta etdirmək vəzifəsi olan şəxsdən sığorta etdirilməsini məhkəmə qaydasında tələb etmək hüququna malikdir.
-- 897.3. *İcbari sığorta qanunları ilə* icbari sığorta etdirmək vəzifəsi müəyyən olunmuş şəxs bu vəzifəni yerinə yetirmədikdə və ya müvafiq sığorta müqaviləsini *həmin qanunlarda* nəzərdə tutulmuş şərtlərlə müqayisədə sığorta olunanın vəziyyətini pisləşdirən şərtlərlə bağladıqda həmin şəxs müvafiq icbari sığorta üzrə sığorta hadisəsi kimi tanına bilən hadisənin baş verdiyi, yaxud halın yarandığı zaman sığorta olunan qarşısında ən azı həmin icbari sığorta üzrə müəyyən edilmiş sığorta təminatı həddində öhdəlik daşıyır.
-- *897.4. İcbari sığorta qanunlarında fərqli müddəaların nəzərdə tutulduğu hallar istisna olmaqla, icbari sığorta növlərinin həyata keçirilməsindən irəli gələn münasibətlər bu Məcəllə və “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.*
+- 897.1. İcbari sığortanın həyata keçirilməsi icbari sığorta qanunları ilə tələb olunur.
+- 897.2. Xeyrinə icbari sığorta müqaviləsi bağlanmalı olan şəxs sığortalanmadığını bildikdə onu sığorta etdirmək vəzifəsi olan şəxsdən sığorta etdirilməsini məhkəmə qaydasında tələb etmək hüququna malikdir.
+- 897.3. İcbari sığorta qanunları ilə icbari sığorta etdirmək vəzifəsi müəyyən olunmuş şəxs bu vəzifəni yerinə yetirmədikdə və ya müvafiq sığorta müqaviləsini həmin qanunlarda nəzərdə tutulmuş şərtlərlə müqayisədə sığorta olunanın vəziyyətini pisləşdirən şərtlərlə bağladıqda həmin şəxs müvafiq icbari sığorta üzrə sığorta hadisəsi kimi tanına bilən hadisənin baş verdiyi, yaxud halın yarandığı zaman sığorta olunan qarşısında ən azı həmin icbari sığorta üzrə müəyyən edilmiş sığorta təminatı həddində öhdəlik daşıyır.
+- 897.4. İcbari sığorta qanunlarında fərqli müddəaların nəzərdə tutulduğu hallar istisna olmaqla, icbari sığorta növlərinin həyata keçirilməsindən irəli gələn münasibətlər bu Məcəllə və “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.
+
 #### Maddə 898. Azadolma məbləği və gözləmə müddəti
-- 898.1. İcbari sığorta *qanunlarında* və könüllü sığorta növləri üzrə sığorta müqavilələrində şərtli və ya şərtsiz azadolma məbləği, həmçinin gözləmə müddəti müəyyən oluna bilər.
-- 898.2. Azadolma məbləği sığorta hadisəsi nəticəsində yaranan itkilərin və ya dəyən zərərin sığorta təminatı ilə əhatə olunmayan və sığortalının üzərində qalan hissəsidir. *Azadolma məbləği sığorta müqaviləsinə uyğun olaraq müəyyən edilən zərər məbləğindən, qismən sığorta halında isə sığortaçının zərər məbləğindəki payından çıxılır.*
-- 898.3. Şərtli azadolma məbləğinin nəzərdə tutulması halında, sığorta hadisəsi nəticəsində dəyən zərərin həcmi həmin məbləğdən çox olduqda *və ya sığorta müqaviləsində razılaşdırılmış hər hansı digər halın baş verməsi şərtilə azadolma məbləği tətbiq edilmir*.
-- 898.4. Şərtsiz azadolma məbləği nəzərdə tutulduqda həmin məbləğ hər bir halda *tətbiq edilir*.
+- 898.1. İcbari sığorta qanunlarında və könüllü sığorta növləri üzrə sığorta müqavilələrində şərtli və ya şərtsiz azadolma məbləği, həmçinin gözləmə müddəti müəyyən oluna bilər.
+- 898.2. Azadolma məbləği sığorta hadisəsi nəticəsində yaranan itkilərin və ya dəyən zərərin sığorta təminatı ilə əhatə olunmayan və sığortalının üzərində qalan hissəsidir. Azadolma məbləği sığorta müqaviləsinə uyğun olaraq müəyyən edilən zərər məbləğindən, qismən sığorta halında isə sığortaçının zərər məbləğindəki payından çıxılır.
+- 898.3. Şərtli azadolma məbləğinin nəzərdə tutulması halında, sığorta hadisəsi nəticəsində dəyən zərərin həcmi həmin məbləğdən çox olduqda və ya sığorta müqaviləsində razılaşdırılmış hər hansı digər halın baş verməsi şərtilə azadolma məbləği tətbiq edilmir.
+- 898.4. Şərtsiz azadolma məbləği nəzərdə tutulduqda həmin məbləğ hər bir halda tətbiq edilir.
 - 898.5. Sığorta müqaviləsində gözləmə müddəti nəzərdə tutulduqda sığorta hadisəsi nəticəsində həmin müddət ərzində yaranan itkilərin əvəzinin ödənilməsi sığortalının üzərində qalır.
 - 898.6. Şərtli gözləmə müddəti müəyyən edildikdə sığorta hadisəsinin nəticələrinin həmin müddətə bərabər və ya ondan artıq müddətdə davam etməsi şərti ilə sığorta tələbi və ya sığorta ödənişi sığorta hadisəsinin baş verməsindən keçən həmin müddət qədər vaxt ərzində yaranan itkilərə də şamil edilir.
 - 898.7. Sığorta müqaviləsində şərtsiz gözləmə müddəti müəyyən edildikdə sığorta tələbi və ya sığorta ödənişi sığorta hadisəsinin baş verməsindən keçən həmin müddət qədər vaxt ərzində yaranan itkilərə şamil edilmir.
+
 #### §2. Sığorta müqaviləsinə dair başlıca tələblər
+
+#### Maddə
 
 #### Maddə 899. Sığorta müqaviləsinin forması
 - 899.1. Sığorta müqaviləsi yazılı olaraq aşağıdakı hər hansı bir formada bağlanır:
@@ -5162,10 +5212,10 @@ Təkrarsığortaçı təkrarsığortalıdan müvafiq sığorta qaydalarını və
 - 899.3. Bu Məcəllənin 899.1-ci və 899.2-ci maddələrinə əməl edilməməsinə görə sığortaçı məsuliyyət daşıyır.
 
 #### Maddə 900. Sığorta müqaviləsinin məzmunu
-- 900.1 Bu Məcəllənin 899.1.1-ci maddəsində nəzərdə tutulmuş halda sığorta müqaviləsində aşağıdakılar göstərilməlidir:
+- 900.1. Bu Məcəllənin 899.1.1-ci maddəsində nəzərdə tutulmuş halda sığorta müqaviləsində aşağıdakılar göstərilməlidir:
   - 900.1.1. sığortaçının adı və ünvanı;
   - 900.1.2. sığortalının adı (fiziki şəxs olduqda, həmçinin soyadı, atasının adı, fərdi identifikasiya nömrəsi, hüquqi şəxs olduqda həmçinin VÖEN-i) və ünvanı;
-  - 900.1.3. sığorta predmeti və yerləşdiyi ünvan, həmçinin sığorta olunanların adı (fiziki şəxs olduqda, həmçinin soyadı, atasının adı, doğum tarixi, fərdi identifikasiya nömrəsi, hüquqi şəxs olduqda həmçinin VÖEN-i) və ünvanı;
+  - 900.1.3. sığorta predmeti və yerləşdiyi ünvan, həmçinin sığorta olunan(lar)ın adı (fiziki şəxs olduqda, həmçinin soyadı, atasının adı, doğum tarixi, fərdi identifikasiya nömrəsi, hüquqi şəxs olduqda həmçinin VÖEN-i) və ünvanı;
   - 900.1.4. faydalanan şəxsin adı (fiziki şəxs olduqda həmçinin soyadı, atasının adı, doğum tarixi, fərdi identifikasiya nömrəsi, hüquqi şəxs olduqda həmçinin VÖEN-i) və ünvanı;
   - 900.1.5. sığorta məbləğinin hər bir sığorta predmeti və ya onun hissəsinə, yaxud hər bir sığorta olunana münasibətdə ayrı-ayrı risklər üzrə miqdarı;
   - 900.1.6. sığorta haqqının ümumi və hər bir sığorta predmeti üzrə məbləği və ödənilməsi qaydası;
@@ -5310,7 +5360,7 @@ Sığortaçının təklif etdiyi könüllü sığorta növünün aparılmasını
   - 919.1.7. sığortalı sığorta haqqını icbari sığorta qanunlarında və ya sığorta müqaviləsində müəyyən edilən qaydada ödəmədikdə;
   - 919.1.8. sığorta marağı artıq mövcud olmadıqda;
   - 919.1.9. sığortalı və ya sığortaçı sığorta müqaviləsinə vaxtından əvvəl xitam verilməsi tələbi ilə çıxış etdikdə.
-- 919.2. Sığorta müqaviləsinin qüvvədə olduğu dövrdə sığortalı məhkəmənin qərarı ilə fəaliyyət qabiliyyəti olmayan hesab edilmişdirsə, yaxud onun fəaliyyət qabiliyyəti məhkəmənin qərarı ilə məhdudlaşdırılmışdırsa, mülki məsuliyyət sığortası üzrə müqavilə məhkəmənin müvafiq qərarının qüvvəyə mindiyi andan xitam verilmiş hesab edilir, digər hallarda isə belə sığortalının hüquq və vəzifələrini onun qəyyumu və ya himayəçisi həyata keçirir.
+- 919.2. Sığorta müqaviləsinin qüvvədə olduğu dövrdə sığortalı məhkəmənin qərarı ilə fəaliyyət qabiliyyəti olmayan hesab edilmişdirsə, yaxud onun fəaliyyət qabiliyyəti məhkəmənin qərarı ilə məhdudlaşdırılmışdırsa, mülki məsuliyyət sığortası üzrə müqavilə məhkəmənin müvafiq qərarının qüvvəyə mindiyi anadan xitam verilmiş hesab edilir, digər hallarda isə belə sığortalının hüquq və vəzifələrini onun qəyyumu və ya himayəçisi həyata keçirir.
 
 #### Maddə 920. Sığorta müqaviləsinə vaxtından əvvəl xitam vermə ilə bağlı xəbərdar etmə
 - 920.1. Bu Məcəllənin 919-cu maddəsində göstərilən hallarda sığorta müqaviləsinə xitam verilməsi üçün əsas olan şərait yarandıqda bu Məcəllənin 920.2-ci maddəsi nəzərə alınmaqla müqaviləyə xitam verilməsində maraqlı olan tərəf dərhal digər tərəfi bu barədə xəbərdar etməlidir.
@@ -5334,7 +5384,7 @@ Sığortaçının təklif etdiyi könüllü sığorta növünün aparılmasını
 #### Maddə 923. Sığorta hadisəsi barədə məlumatlandırma
 - 923.1. Sığorta hadisəsinin baş verməsi barədə sığortalı və ya sığorta olunan şəxs, yaxud faydalanan şəxs hadisədən xəbər tutduqdan dərhal sonra və ya mümkün olan ən qısa müddət ərzində sığortaçıya və ya onun nümayəndəsinə, eyni zamanda həmin hadisə barədə məlumatlandırılmalı olan səlahiyyətli dövlət orqanlarına hər hansı vasitə ilə xəbər verməlidir.
 - 923.2. Sığorta hadisəsinin baş verməsi barədə sığortaçıya məlumat vermiş sığortalı və ya sığorta olunan şəxs, həmçinin faydalanan şəxs bu Məcəllənin 923.1-ci maddəsində nəzərdə tutulmuş səlahiyyətli dövlət orqanlarına həmin hadisə barədə xəbər verməmişdirsə sığortaçı qeyd olunan orqanları bu hadisə barədə dərhal məlumatlandırmalıdır.
-- 923.3. Sığorta hadisəsinin baş verməsi barədə sığortaçıya məlumat vermiş sığorta olunan tərəfindən sığortaçının sığorta hadisəsinin baş verməsi barədə məlumatlandırmasından asılı olmayaraq sığortaçıya bu barədə məlumatlandırılmış səlahiyyətli dövlət orqanı xəbər verməlidir.
+- 923.3. Sığortalı və ya sığorta olunan tərəfindən sığortaçının sığorta hadisəsinin baş verməsi barədə məlumatlandırmasından asılı olmayaraq sığortaçıya bu barədə məlumatlandırılmış səlahiyyətli dövlət orqanı xəbər verməlidir.
 - 923.4. Bu Məcəllənin 923.1-ci maddəsində üzərinə məlumatlandırma vəzifəsi qoyulan şəxslərdən başqa digər şəxslər, o cümlədən səlahiyyətli dövlət orqanları və müvafiq hallarda zərərçəkən tərəfindən də sığorta hadisəsinin baş verməsi haqqında hər hansı vasitə ilə sığortaçıya xəbər verilməsi sığorta hadisəsi barədə məlumatlandırılma hesab edilir.
 
 #### Maddə 924. Sığorta hadisəsinin təsdiqi
@@ -5426,29 +5476,28 @@ Bir sığorta hadisəsi üzrə dəyən zərərin və (və ya) yaranan itkilərin
 - 936.2. Faydalanan şəxsin zərərvuran şəxsə qarşı zərərin əvəzini ödəmək tələbi (iddiası) ilə bağlı hüquq əmlak sığortası üzrə sığorta ödənişini vermiş sığortaçıya subroqasiya qaydasında onun verdiyi sığorta ödənişi məbləğində keçir.
 - 936.3. Faydalanan şəxs sığorta ödənişini aldıqda subroqasiya hüququnun həyata keçirilməsi üçün özündə olan bütün lazımi sənədlərlə sığortaçını təmin etməlidir.
 - 936.4. Faydalanan şəxs zərərvuran şəxsə qarşı iddiadan və ya tələbi təmin edən hüquqlardan, yaxud lazımi sənədləri sığortaçıya verməkdən imtina etdikdə sığortaçı sığorta ödənişi verməkdən zərərvuran şəxsdən subroqasiya qaydasında ala biləcəyi məbləğ həcmində azad edilir.
-- 936.5. Sığortaçı subroqasiya hüququndan zərərvuran şəxsin özünə və (və ya) müvafiq sığorta hadisəsi ilə bağlı risklər üzrə həmin şəxsin məsuliyyətini sığortalamış sığortaçıya, həmçinin dəyən zərərə görə sığortalı və ya faydalanan şəxs qarşısında maddi məsuliyyət daşıya bilən digər şəxsə qarşı istifadə edə bilər.
+- 936.5. Sığortaçı subroqasiya hüququndan zərərvuran şəxsin özünə və (və ya) müvafiq sığorta hadisəsi ilə bağlı risklər üzrə həmin şəxsin məsuliyyətini sığortalamış sığortaçıya, həmçinin dəyən zərərdən ötrü sığortalı və ya faydalanan şəxs qarşısında maddi məsuliyyət daşıya bilən digər şəxsə qarşı istifadə edə bilər.
 - 936.6. Həyat sığortası siniflərinə və fərdi qəza sığortasına aid olan hallarda subroqasiya hüququ tətbiq edilmir.
 
-## §4. Sığorta vasitəçiliyi
-
+### §4. Sığorta vasitəçiliyi
 #### Maddə 937. Sığorta münasibətlərində sığorta vasitəçilərinin iştirakı
 - 937.1. Sığorta (təkrarsığorta) müqaviləsi tərəflər arasında həm birbaşa, həm də sığorta vasitəçilərinin - sığorta agentlərinin və ya sığorta brokerlərinin xidmətindən istifadə etməklə bağlana bilər. Aqrar sığorta müqaviləsi “Aqrar sığorta haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş vasitəçi aqrar sığortaçıların xidmətindən istifadə etməklə bağlanır.
 - 937.2. Sığortaçı aşağıdakı sığorta əməliyyatlarında onun adından çıxış edən sığorta agentinin vasitəçilik xidmətlərindən tapşırıq müqaviləsi bağlamaqla istifadə edə bilər:
   - 937.2.1. sığorta müqavilələrinin bağlanması və bununla əlaqədar sövdələşmələrin aparılması;
   - 937.2.2. sığorta müqaviləsinin davam etdirilməsi və ya yenilənməsi ilə bağlı sövdələşmələrin aparılması.
-- 937.2-1. Sığortaçı ilə sığorta agenti arasında bağlanan vasitəçilik xidmətinin göstərilməsi üzrə tapşırıq müqaviləsində aşağıdakılar əks olunmalıdır:
-  - 937.2-1.1. tapşırıq müqaviləsinin nömrəsi və tarixi;
-  - 937.2-1.2. sığortaçının adı və ünvanı;
-  - 937.2-1.3. sığorta agenti fiziki şəxs olduqda onun adı, atasının adı, soyadı, yaşayış yeri, şəxsiyyət vəsiqəsinin seriya və nömrəsi, lisenziyasının seriya və nömrəsi və VÖEN-i;
-  - 937.2-1.4. sığorta agenti hüquqi şəxs olduqda onun adı, olduğu yer, lisenziyasının seriya və nömrəsi, VÖEN-i, müstəsna olaraq sığorta agenti fəaliyyəti ilə məşğuldursa, icra orqanının rəhbərinin, əsas fəaliyyəti digər fəaliyyət növüdürsə, icra orqanının rəhbəri ilə yanaşı, “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş attestasiyadan keçmiş işçilərinin adı, soyadı və atasının adı;
-  - 937.2-1.5. tapşırıq müqaviləsinin predmeti;
-  - 937.2-1.6. sığorta agentinin müştərilərə təklif edəcəyi sığorta növlərinin siyahısı;
-  - 937.2-1.7. tapşırıq müqaviləsi üzrə sığorta agentinə ödənilməli olan komisyon muzdun məbləği;
-  - 937.2-1.8. tərəflərin hüquq və vəzifələri;
-  - 937.2-1.9. müqavilə şərtlərini pozmağa görə tərəflərin məsuliyyəti;
-  - 937.2-1.10. tapşırıq müqaviləsinin qüvvədə olduğu ərazi;
-  - 937.2-1.11. tapşırıq müqaviləsinin qüvvədə olduğu müddət;
-  - 937.2-1.12. tərəflərin rekvizitləri.
+- 937.2–1. Sığortaçı ilə sığorta agenti arasında bağlanan vasitəçilik xidmətinin göstərilməsi üzrə tapşırıq müqaviləsində aşağıdakılar əks olunmalıdır:
+  - 937.2–1.1. tapşırıq müqaviləsinin nömrəsi və tarixi;
+  - 937.2–1.2. sığortaçının adı və ünvanı;
+  - 937.2–1.3. sığorta agenti fiziki şəxs olduqda onun adı, atasının adı, soyadı, yaşayış yeri, şəxsiyyət vəsiqəsinin seriya və nömrəsi, lisenziyasının seriya və nömrəsi və VÖEN-i;
+  - 937.2–1.4. sığorta agenti hüquqi şəxs olduqda onun adı, olduğu yer, lisenziyasının seriya və nömrəsi, VÖEN-i, müstəsna olaraq sığorta agenti fəaliyyəti ilə məşğuldursa, icra orqanının rəhbərinin, əsas fəaliyyəti digər fəaliyyət növüdürsə, icra orqanının rəhbəri ilə yanaşı, “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş attestasiyadan keçmiş işçilərinin adı, soyadı və atasının adı;
+  - 937.2–1.5. tapşırıq müqaviləsinin predmeti;
+  - 937.2–1.6. sığorta agentinin müştərilərə təklif edəcəyi sığorta növlərinin siyahısı;
+  - 937.2–1.7. tapşırıq müqaviləsi üzrə sığorta agentinə ödənilməli olan komisyon muzdun məbləği;
+  - 937.2–1.8. tərəflərin hüquq və vəzifələri;
+  - 937.2–1.9. müqavilə şərtlərini pozmağa görə tərəflərin məsuliyyəti;
+  - 937.2–1.10. tapşırıq müqaviləsinin qüvvədə olduğu ərazi;
+  - 937.2–1.11. tapşırıq müqaviləsinin qüvvədə olduğu müddət;
+  - 937.2–1.12. tərəflərin rekvizitləri.
 - 937.3. Sığorta brokeri sığortalını (təkrarsığortalını) sığortaçı (təkrarsığortaçı) ilə münasibətlərdə təmsil etməklə aşağıdakı sığorta əməliyyatlarında tapşırıq müqaviləsi əsasında vasitəçilik edə bilər:
   - 937.3.1. sığorta (təkrarsığorta) müqavilələrinin bağlanması və bununla əlaqədar sövdələşmələrin aparılması;
   - 937.3.2. sığorta (təkrarsığorta) müqavilələrinin davam etdirilməsi və ya yenilənməsi ilə bağlı sövdələşmələrin aparılması;
@@ -5460,14 +5509,14 @@ Bir sığorta hadisəsi üzrə dəyən zərərin və (və ya) yaranan itkilərin
 - 938.3. Sığorta (təkrarsığorta) müqaviləsi sığorta vasitəçiliyi ilə bağlandıqda həmin müqavilədə müvafiq olaraq sığorta agentinin və ya sığorta brokerinin adı, (fiziki şəxsdirsə, həmçinin soyadı) və ünvanı göstərilməlidir.
 - 938.4. Bu Məcəllənin 911.2-ci maddəsinə uyğun olaraq bildirilmiş hallarla bağlı sığorta müqaviləsi bağlandıqdan sonra meydana çıxan hər hansı dəyişiklik barədə məlumatlandırılmış sığorta vasitəçisi həmin məlumatı aldığı tarixdən 1 gün müddətində sığortaçıya çatdırmalıdır.
 
-#### Maddə 938-1. Sığorta vasitəçisinin sığorta müqaviləsinin bağlanmasından əvvəl sığortalıya açıqlamalı olduğu məlumatlar
-- 938-1.0. Sığorta vasitəçiliyi ilə bağlanan hər bir sığorta müqaviləsinin bağlanmasından, yenilənməsindən və ya ona dəyişikliklər edilməsindən əvvəl sığorta vasitəçisi sığorta etdirən şəxsi ən azı aşağıdakı məlumatlarla təmin etməlidir:
-  - 938-1.0.1. özünün adı və yaşayış yeri (hüquqi şəxslər üçün – olduğu yer);
-  - 938-1.0.2. daxil edildiyi reyestr və həmin reyestrdən onun barəsində informasiya əldə etməyin üsulları;
-  - 938-1.0.3. sığorta müqaviləsinin tərəfi kimi təklif edilən sığortaçı ilə səhmdar, aidiyyəti şəxs və ya asılı cəmiyyət münasibətlərində olub-olmaması;
-  - 938-1.0.4. sığorta vasitəçilərindən şikayət vermək hüququ və proseduru, həmçinin şikayətin üsulları və təqdim etmə vasitələri;
-  - 938-1.0.5. sığorta vasitəçiliyini bir və ya bir neçə sığortaçı ilə bağladığı tapşırıq müqaviləsi üzrə öhdəlikləri əsasında (həmin sığortaçıların adı, ünvanı, sığorta bazarındakı mövqeyi barəsində obyektiv məlumat verməklə) və ya belə bir müqavilə olmadan həyata keçirməsi;
-  - 938-1.0.6. sığorta etdirənin tələbinə və ehtiyacına uyğun olan sığorta növləri əsasında verilən təminatlar.
+#### Maddə 938–1. Sığorta vasitəçisinin sığorta müqaviləsinin bağlanmasından əvvəl sığortalıya açıqlamalı olduğu məlumatlar
+- 938–1.0. Sığorta vasitəçiliyi ilə bağlanan hər bir sığorta müqaviləsinin bağlanmasından, yenilənməsindən və ya ona dəyişikliklər edilməsindən əvvəl sığorta vasitəçisi sığorta etdirən şəxsi ən azı aşağıdakı məlumatlarla təmin etməlidir:
+  - 938–1.0.1. özünün adı və yaşayış yeri (hüquqi şəxslər üçün – olduğu yer);
+  - 938–1.0.2. daxil edildiyi reyestr və həmin reyestrdən onun barəsində informasiya əldə etməyin üsulları;
+  - 938–1.0.3. sığorta müqaviləsinin tərəfi kimi təklif edilən sığortaçı ilə səhmdar, aidiyyəti şəxs və ya asılı cəmiyyət münasibətlərində olub-olmaması;
+  - 938–1.0.4. sığorta vasitəçilərindən şikayət vermək hüququ və proseduru, həmçinin şikayətin üsulları və təqdim etmə vasitələri;
+  - 938–1.0.5. sığorta vasitəçiliyini bir və ya bir neçə sığortaçı ilə bağladığı tapşırıq müqaviləsi üzrə öhdəlikləri əsasında (həmin sığortaçıların adı, ünvanı, sığorta bazarındakı mövqeyi barəsində obyektiv məlumat verməklə) və ya belə bir müqavilə olmadan həyata keçirməsi;
+  - 938–1.0.6. sığorta etdirənin tələbinə və ehtiyacına uyğun olan sığorta növləri əsasında verilən təminatlar.
 
 #### Maddə 939. Sığorta brokerinin sığorta müqaviləsinin tərəflərini sənədlərlə təmin etməsi
 - 939.1. Sığorta brokeri onun vasitəsilə bağlanan sığorta müqaviləsini tərəflərdən sonuncusunun imzaladığı tarixdən etibarən 3 gün müddətində sığortalını həmin müqavilənin nüsxəsi və (və ya) müvafiq sığorta şəhadətnaməsi ilə, bu mümkün olmadıqda isə müvafiq sığorta müqaviləsinin nüsxəsinin, yaxud sığorta şəhadətnaməsinin sığortalıya verilməsinədək qüvvədə olan, bu Məcəllənin 940-cı maddəsində nəzərdə tutulmuş təminat şəhadətnaməsi ilə təmin etməlidir.
@@ -5488,7 +5537,7 @@ Bir sığorta hadisəsi üzrə dəyən zərərin və (və ya) yaranan itkilərin
 #### Maddə 941. Sığorta vasitəçilərinin sığorta haqqı və sığorta ödənişlərinin ödənilməsində iştirakı
 - 941.1. Sığorta agenti sığortaçının adından sığorta haqqını onun yazılı qaydada verdiyi səlahiyyət əsasında qəbul edə bilər.
 - 941.2. Sığorta (təkrarsığorta) müqaviləsi sığorta brokeri vasitəsilə bağlandıqda onunla sığortalı (təkrarsığortalı) və (və ya) sığortaçı (təkrarsığortaçı) arasında bağlanmış vasitəçilik xidməti üzrə müqavilədən asılı olaraq, sığortalı (təkrarsığortalı) sığorta (təkrarsığorta) haqqını sığortaçıya (təkrarsığortaçıya) birbaşa, yaxud sığorta brokeri vasitəsilə ödəyə bilər.
-- 941.3. Sığorta (təkrarsığorta) haqqı sığorta brokerinə daxil olduğu andan müvafiq sığorta (təkarsığorta) müqaviləsi üzrə ödənilmiş hesab edilir.
+- 941.3. Sığorta (təkrarsığorta) haqqı sığorta brokerinə daxil olduğu andan müvafiq sığorta (təkrarsığorta) müqaviləsi üzrə ödənilmiş hesab edilir.
 - 941.4. Sığorta brokeri ona sığorta (təkrarsığorta) haqqı kimi ödənilən pul vəsaitlərini “sığorta haqqı hesabı” formasında, digər hesablardan ayrı və fərqli olan bank hesabında sığortaçıya (təkrarsığortaçıya) ödənilmək məqsədilə saxlayır və bu vəsaitləri digər məqsədlər üçün istifadə edə bilməz.
 - 941.5. Sığorta haqqını qəbul etmiş sığorta vasitəçisi onu qəbul etdiyi tarixdən 5 iş günü müddətində tam həcmdə müvafiq sığortaçının müvafiq bank hesabına köçürməlidir. Təkrarsığorta haqqını qəbul etmiş sığorta brokeri onu təkrarsığortaçı ilə razılaşdırılmış müddətdə və qaydada həmin təkrarsığortaçının müvafiq bank hesabına köçürməlidir. Sığorta vasitəçisi sığorta (təkrarsığorta) haqqının bu Məcəllənin 941.5-ci maddəsinin birinci və ikinci cümlələrində qeyd olunan müddətlərdə sığortaçıya (təkrarsığortaçıya) köçürülməməsinə görə hər gecikdirilmiş gün üçün köçürülməmiş məbləğin 0,1 faizi həcmində dəbbə pulu ödəyir.
 - 941.6. Sığorta brokeri ilə təkrarsığortaçı arasındakı müvafiq müqaviləyə əsasən müəyyən edilmiş komisyon muzd məbləği təkrarsığorta haqqının bu Məcəllənin 941.5-ci maddəsində nəzərdə tutulmuş qaydada köçürülməsi zamanı, təkrarsığorta haqqından çıxıla bilər.
@@ -5499,7 +5548,6 @@ Bir sığorta hadisəsi üzrə dəyən zərərin və (və ya) yaranan itkilərin
 Sığorta vasitəçisi onun vasitəçiliyi ilə müvafiq hallarda sığorta və ya təkrarsığorta fəaliyyətinə lisenziyası olmayan şəxslə bağlanmış sığorta və ya təkrarsığorta müqaviləsinə, yaxud müvafiq sığorta növünün aparılmasına icazəsi olmayan sığortaçı ilə bağlanmış sığorta müqaviləsinə görə, həmçinin bu Məcəllənin 941.5-ci və 941.8-ci maddələrinə əməl etməməsi üzündən sığortalının (təkrarsığortalının) mənafelərinin pozulmasına görə onun qarşısında həmin sığorta (təkrarsığorta) müqaviləsində sığortaçıya (təkrarsığortaçıya) aid nəzərdə tutulan vəzifələrin yerinə yetirilməsi üzrə sığortaçı (təkrarsığortaçı) kimi subsidiar öhdəlik daşıyır.
 
 ### 51-ci fəsil. Bank əmanəti
-
 #### Maddə 943. Bank əmanəti haqqında ümumi müddəa
 Bu Məcəllənin bu fəslinin banklara aid qaydaları hüquqi şəxslərdən əmanətlər (depozitlər) qəbul edən digər kredit təşkilatlarına və poçt rabitəsinin milli operatoruna da tətbiq olunur.
 
@@ -5529,15 +5577,15 @@ Bu Məcəllənin bu fəslinin banklara aid qaydaları hüquqi şəxslərdən əm
 - 948.2. Əgər bank əmanəti müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, bankın tələbli əmanətlər üçün ödənilən faizlərin miqdarını dəyişməyə ixtiyarı vardır. Bank faizlərin miqdarını azaltdıqda faizlərin yeni miqdarı faizlərin azaldılması haqqında əmanətçilərə məlumat verilənədək qoyulmuş əmanətlərə həmin məlumatın verildiyi andan bir ay keçəndən sonra tətbiq olunur, bu şərtlə ki, müqavilədə ayrı qayda nəzərdə tutulmasın.
 - 948.3. Fiziki şəxs əmanəti müəyyən müddət qurtardıqdan sonra və ya müqavilədə nəzərdə tutulan hallar baş verdikdə qaytarılmaq şərtləri ilə qoyduqda əmanət üçün faizlərin bank əmanəti müqaviləsində müəyyənləşdirilmiş miqdarı bank tərəfindən birtərəfli qaydada azaldıla bilməz. Əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, bankın hüquqi şəxslə bağladığı bu cür bank əmanəti müqaviləsi üzrə faizlərin miqdarı birtərəfli qaydada dəyişdirilə bilməz.
 
-#### Maddə 949. Əmanətin məbləginə faizlərin hesablanması və ödənilməsi qaydası
-- 949.1. Bank əmanətinin məbləginə faizlər bu məbləğin banka daxil olduğu günün ertəsi günündən məbləgin əmanətçiyə qaytarılmasından və ya başqa əsaslarla əmanətçinin hesabından silinməsindən əvvəlki günədək hesablanır. Bu qayda bir günlük depozitlərə tətbiq edilmir.
-- 949.2. Əgər bank əmanəti müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, bank əmanəti məbləginə hesablanan faizlər əmanətçiyə hər rüb başa çatdıqdan sonra onun tələbi ilə əmanətin məbləgindən ayrılıqda ödənilir, həmin müddətdə tələb olunmamış faizlər isə üstünə faizlər hesablanan əmanətin məbləgini artırır. Əmanət qaytarıldıqda həmin anadək hesablanmış bütün faizlər ödənilir.
+#### Maddə 949. Əmanətin məbləğinə faizlərin hesablanması və ödənilməsi qaydası
+- 949.1. Bank əmanətinin məbləğinə faizlər bu məbləğin banka daxil olduğu günün ertəsi günündən məbləğin əmanətçiyə qaytarılmasından və ya başqa əsaslarla əmanətçinin hesabından silinməsindən əvvəlki günədək hesablanır. Bu qayda bir günlük depozitlərə tətbiq edilmir.
+- 949.2. Əgər bank əmanəti müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, bank əmanəti məbləğinə hesablanan faizlər əmanətçiyə hər rüb başa çatdıqdan sonra onun tələbi ilə əmanətin məbləğindən ayrılıqda ödənilir, həmin müddətdə tələb olunmamış faizlər isə üstünə faizlər hesablanan əmanətin məbləğini artırır. Əmanət qaytarıldıqda həmin anadək hesablanmış bütün faizlər ödənilir.
 
 #### Maddə 950. Əmanətin qaytarılmasının təmin edilməsi
 - 950.1. Banklar fiziki şəxslərin əmanətlərinin qaytarılmasını icbari sığorta yolu ilə, qanunda nəzərdə tutulan hallarda isə başqa üsullarla təmin etməlidirlər.
 - 950.2. Bank tərəfindən hüquqi şəxslərin əmanətlərinin qaytarılması üsulları bank əmanəti müqaviləsi ilə müəyyənləşdirilir.
 - 950.3. Bank əmanəti müqaviləsi bağlanarkən bank əmanətin qaytarılmasının necə təmin ediləcəyi barədə əmanətçiyə məlumat verməlidir.
-- 950.4. Bank əmanətin qaytarılmasının təmin edilməsi üçün bank əmanəti müqaviləsində nəzərdə tutulmuş vəzifələri yerinə yetirmədikdə, habelə əmanətin qaytarılması üçün təminat itirildikdə və ya onun şərtləri pisləşdikdə, əmanətçi bankdan əmanət məbləgini dərhal qaytarmağı, bu Məcəllənin 948.1-ci maddəsinə uyğun müəyyənləşdirilmiş miqdarda faizlər ödəməyi və vurulmuş zərərin əvəzini verməyi tələb edə bilər.
+- 950.4. Bank əmanətin qaytarılmasının təmin edilməsi üçün bank əmanəti müqaviləsində nəzərdə tutulmuş vəzifələri yerinə yetirmədikdə, habelə əmanətin qaytarılması üçün təminat itirildikdə və ya onun şərtləri pisləşdikdə, əmanətçi bankdan əmanət məbləğini dərhal qaytarmağı, bu Məcəllənin 948.1-ci maddəsinə uyğun müəyyənləşdirilmiş miqdarda faizlər ödəməyi və vurulmuş zərərin əvəzini verməyi tələb edə bilər.
 
 #### Maddə 951. Əmanətçinin hesabına üçüncü şəxslərin pul vəsaiti qoyması
 Əgər bank əmanəti müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, əmanətçinin əmanət üzrə hesabına dair lazımi məlumat göstərilməklə banka onun adına üçüncü şəxslərdən daxil olmuş pul vəsaiti əmanət üzrə hesaba daxil edilir. Həm də nəzərdə tutulur ki, əmanətçi həmin şəxslərdən pul vəsaiti almağa razılığını ifadə edərək, onlara əmanət üzrə hesaba dair lazımi məlumat vermişdir.
@@ -5548,15 +5596,14 @@ Bu Məcəllənin bu fəslinin banklara aid qaydaları hüquqi şəxslərdən əm
 - 952.3. Üçüncü şəxsin xeyrinə müqavilə haqqında qaydalar üçüncü şəxsin xeyrinə bank əmanəti müqaviləsinə bu şərtlə tətbiq edilir ki, belə tətbiq bu maddənin qaydalarına və bank əmanətinin mahiyyətinə zidd olmasın.
 
 #### Maddə 953. Bank kitabçası
-- 953.1. Əgər tərəflərin razılaşması ilə ayrı qayda nəzərdə tutulmayıbsa, fiziki şəxslə bank əmanəti müqaviləsinin bağlanması və onun əmanət üzrə hesabına pul vəsaitinin qoyulması bank kitabçası ilə təsdiq olunur. Bank əmanəti müqaviləsində adlı bank kitabçasının və ya adsız bank kitabçasının verilməsi nəzərdə tutula bilər. Bank kitabçasında bankın adı və olduğu yer, əmanət filiala qoyulduqda isə həm də müvafiq filialın adı və olduğu yer, əmanət üzrə hesabın nömrəsi, habelə hesaba köçürülmüş pul vəsaitinin bütün məbləgləri, hesabdan silinmiş pul vəsaitinin bütün məbləgləri və bank kitabçasının banka təqdim olunduğu anadək hesabdakı pul vəsaitinin qalığı göstərilməli və bank tərəfindən təsdiq edilməlidir. Əgər ayrı hal sübuta yetirilməyibsə, bank kitabçasında göstərilmiş əmanət haqqında məlumatlar bankla əmanətçi arasında əmanət üzrə hesablaşmalar üçün əsasdır.
+- 953.1. Əgər tərəflərin razılaşması ilə ayrı qayda nəzərdə tutulmayıbsa, fiziki şəxslə bank əmanəti müqaviləsinin bağlanması və onun əmanət üzrə hesabına pul vəsaitinin qoyulması bank kitabçası ilə təsdiq olunur. Bank əmanəti müqaviləsində adlı bank kitabçasının və ya adsız bank kitabçasının verilməsi nəzərdə tutula bilər. Bank kitabçasında bankın adı və olduğu yer, əmanət filiala qoyulduqda isə həm də müvafiq filialın adı və olduğu yer, əmanət üzrə hesabın nömrəsi, habelə hesaba köçürülmüş pul vəsaitinin bütün məbləğləri, hesabdan silinmiş pul vəsaitinin bütün məbləğləri və bank kitabçasının banka təqdim olunduğu anadək hesabdakı pul vəsaitinin qalığı göstərilməli və bank tərəfindən təsdiq edilməlidir. Əgər ayrı hal sübuta yetirilməyibsə, bank kitabçasında göstərilmiş əmanət haqqında məlumatlar bankla əmanətçi arasında əmanət üzrə hesablaşmalar üçün əsasdır.
 - 953.2. Bank əmanətin verilməsini, əmanət üzrə faizlərin ödənilməsini və əmanət üzrə hesabdan pul vəsaitinin digər şəxslərə köçürülməsinə dair əmanətçinin sərəncamlarının icrasını bank kitabçası təqdim olunduqda həyata keçirir. Adlı bank kitabçası itirildikdə və ya təqdim olunmaq üçün yararsız vəziyyətə düşdükdə, əmanətçinin ərizəsi üzrə bank ona yeni bank kitabçası verir. İtirilmiş adsız sənədli bank kitabçası üzrə hüquqların bərpası adsız qiymətli kağızlar üçün nəzərdə tutulmuş qaydada həyata keçirilir.
 - 953.3. Bank, bank kitabçasını qeyri-qanuni yollarla və ya itirmə nəticəsində əldə etmiş şəxslə həmin kitabça üzrə hesablaşma apararsa, məsuliyyətdən azad olunur, bu şərtlə ki, həmin hallar barədə məlumata malik olmasın. Lakin, əgər bank kobud ehtiyatsızlıq üzündən belə məlumata malik olmazsa, məsuliyyətdən azad edilmir.
 - 953.4. Banka qarşı olan tələbi bu Məcəllə ilə müəyyən edilmiş qaydada həmin tələbin güzəşti yolu ilə əldə etmiş yeni kreditor, ona bank kitabçasının verilməsini tələb edə bilər.
 
 ### 52-ci fəsil. Bank hesabı
-
 #### Maddə 954. Bank hesabı müqaviləsi
-- 954.1. Bank hesabı müqaviləsinə görə bank müştəriyə (hesabın sahibinə) açılmış hesaba daxil olan pul vəsaitini qəbul etməyi və hesaba salmağı, hesabdan müvafiq məbləglərin köçürülməsinə və verilməsinə, hesab üzrə digər əməliyyatların aparılmasına dair müştərinin sərəncamlarını yerinə yetirməyi öhdəsinə götürür.
+- 954.1. Bank hesabı müqaviləsinə görə bank müştəriyə (hesabın sahibinə) açılmış hesaba daxil olan pul vəsaitini qəbul etməyi və hesaba salmağı, hesabdan müvafiq məbləğlərin köçürülməsinə və verilməsinə, hesab üzrə digər əməliyyatların aparılmasına dair müştərinin sərəncamlarını yerinə yetirməyi öhdəsinə götürür.
 - 954.2. Bank hesabda olan pul vəsaitinə dair müştərinin maneəsiz sərəncam vermək hüququna qarantiya verməklə, bu vəsaitdən istifadə edə bilər.
 - 954.3. Bank müştərinin pul vəsaitindən istifadə edilməsi istiqamətlərini müəyyənləşdirə və buna nəzarət edə bilməz, habelə müştərinin pul vəsaitinə dair öz istədiyi kimi sərəncam vermək hüququ üzərində qanunla və bank hesabı müqaviləsi ilə nəzərdə tutulmamış digər məhdudiyyətlər qoya bilməz.
 - 954.4. Bu fəslin banklara aid qaydaları verilmiş xüsusi icazəyə (lisenziyaya) müvafiq surətdə bank hesabı müqaviləsi bağlayan və icra edən başqa kredit təşkilatlarına və poçt rabitəsinin milli operatoruna da tətbiq olunur. Maliyyə xidmətlərinin göstərilməsi ilə bağlı mərkəzi depozitarın açdığı və apardığı pul hesablarına bu fəslin qaydaları “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla tətbiq edilir.
@@ -5574,7 +5621,7 @@ Bu Məcəllənin bu fəslinin banklara aid qaydaları hüquqi şəxslərdən əm
 #### Maddə 957. Hesabda olan pul vəsaitinə dair sərəncam vermək hüququnun təsdiqi
 - 957.1. Hesabdan vəsaitin köçürülməsi və verilməsi haqqında müştərinin adından sərəncamlar verən şəxslərin hüquqları qanunda nəzərdə tutulmuş, qanuna əsasən bank qaydaları və bank hesabı müqaviləsi ilə müəyyənləşdirilmiş sənədlərin müştəri tərəfindən banka təqdim olunması yolu ilə təsdiq edilir.
 - 957.2. Üçüncü şəxslərin tələbi ilə, o cümlədən müştərinin bu şəxslər qarşısında öhdəliklərini yerinə yetirməsi ilə bağlı tələbi üzrə müştəri pul vəsaitinin hesabdan silinməsi haqqında banka sərəncam verə bilər. Bank belə sərəncamları bu şərtlə qəbul edir ki, müvafiq tələb irəli sürülərkən onu irəli sürməyə hüququ çatan şəxsi eyniləşdirməyə imkan verən lazımi məlumatlar həmin sərəncamlarda yazılı formada göstərilmiş olsun.
-- 957.3. Müqavilədə hesabdakı pul məbləglərinə dair sərəncam hüququnun elektron ödəmə vasitələri və öz əli ilə imza analoqlarından, kodlardan, parollardan və sərəncamın buna vəkil edilmiş şəxs tərəfindən verildiyini təsdiqləyən digər vasitələrdən istifadə olunmaqla başqa sənədlər ilə təsdiq edilməsi də nəzərdə tutula bilər.
+- 957.3. Müqavilədə hesabdakı pul məbləğlərinə dair sərəncam hüququnun elektron ödəmə vasitələri və öz əli ilə imza analoqlarından, kodlardan, parollardan və sərəncamın buna vəkil edilmiş şəxs tərəfindən verildiyini təsdiqləyən digər vasitələrdən istifadə olunmaqla başqa sənədlər ilə təsdiq edilməsi də nəzərdə tutula bilər.
 - 957.4. Əgər bank hesab sahibinin həqiqi iradəsini ifadə etməyən sərəncam əsasında pul vəsaitini həmin hesabdan silərsə, bunun üçün məsuliyyət daşıyır, bir şərtlə ki, belə sərəncamın hesab sahibinin öz təqsiri üzündən verildiyini sübut edə bilməsin.
 
 #### Maddə 958. Bankın apardığı hesab əməliyyatları
@@ -5585,7 +5632,7 @@ Bank müştəri üçün həmin növ hesablardan ötrü qanunla, qanuna əsasən 
 - 959.2. Müştərinin sərəncamı ilə bank müştərinin pul vəsaitini müvafiq ödəniş sərəncamının banka daxil olduğu günün ertəsi günündən gec olmayaraq verməli və ya hesabdan köçürməlidir, bu şərtlə ki, qanunla, qanuna uyğun qəbul edilmiş bank qaydaları ilə və ya bank hesabı müqaviləsi ilə ayrı müddətlər nəzərdə tutulmasın.
 
 #### Maddə 960. Hesabın kreditləşdirilməsi
-- 960.1. Bank hesabı müqaviləsinə müvafiq surətdə, pul vəsaitinin olmadığına baxmayaraq, bankın ödənişləri həyata keçirdiyi hallarda (hesabın kreditləşdirilməsi) bank bu cür ödənişi həyata keçirdiyi gündən müştəriyə müvafiq məbləgdə kredit vermiş sayılır.
+- 960.1. Bank hesabı müqaviləsinə müvafiq surətdə, pul vəsaitinin olmadığına baxmayaraq, bankın ödənişləri həyata keçirdiyi hallarda (hesabın kreditləşdirilməsi) bank bu cür ödənişi həyata keçirdiyi gündən müştəriyə müvafiq məbləğdə kredit vermiş sayılır.
 - 960.2. Tərəflərin hesabın kreditləşdirilməsi ilə bağlı hüquq və vəzifələri borc və kredit haqqında qaydalarla müəyyənləşdirilir, bu şərtlə ki, bu Məcəllədə və ya bank hesabı müqaviləsində ayrı hal nəzərdə tutulmasın.
 
 #### Maddə 961. Hesab əməliyyatlarının aparılmasına bankın xidmətlərinin haqqının ödənilməsi
@@ -5593,9 +5640,9 @@ Bank müştəri üçün həmin növ hesablardan ötrü qanunla, qanuna əsasən 
 - 961.2. Bu Məcəllənin 961.1-ci maddəsində nəzərdə tutulmuş bank xidmətlərinin haqqını bank hər bir əqd başa çatdıqdan sonra müştərinin hesabdakı pul vəsaitindən tuta bilər, bu şərtlə ki, bank hesabı müqaviləsində ayrı qayda nəzərdə tutulmasın.
 
 #### Maddə 962. Pul vəsaitindən bankın istifadə etməsi üçün faizlər
-- 962.1. Əgər bank hesabı müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, bank müştərinin hesabında olan pul vəsaitindən istifadə etməsi üçün faizlər ödəyir və bu faizlərin məbləgi hesaba salınır.
+- 962.1. Əgər bank hesabı müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, bank müştərinin hesabında olan pul vəsaitindən istifadə etməsi üçün faizlər ödəyir və bu faizlərin məbləği hesaba salınır.
 - 962.2. Bu Məcəllənin 962.1-ci maddəsində göstərilən faizlər bank tərəfindən bank hesabı müqaviləsində müəyyənləşdirilmiş miqdarda, müqavilədə müvafiq şərt olmadıqda isə bu bankın tələbli əmanət üzrə müəyyənləşdirdiyi miqdarda ödənilir.
-- 962.3. Faizlərin məbləgi müqavilədə nəzərdə tutulmuş müddətlərdə, müqavilədə bu cür müddətlər nəzərdə tutulmadıqda isə hər rübün axırında hesaba salınır.
+- 962.3. Faizlərin məbləği müqavilədə nəzərdə tutulmuş müddətlərdə, müqavilədə bu cür müddətlər nəzərdə tutulmadıqda isə hər rübün axırında hesaba salınır.
 
 #### Maddə 963. Bankın və müştərinin hesab üzrə qarşılıqlı tələblərinin əvəzləşdirilməsi
 - 963.1. Hesabın kreditləşdirilməsi və bank xidmətlərinin haqqının ödənilməsi ilə bağlı bankın müştəriyə qarşı pul tələblərinə, habelə pul vəsaitindən istifadə üçün faizlərin ödənilməsi haqqında müştərinin banka qarşı tələblərinə əvəzləşdirmə yolu ilə xitam verilir, bu şərtlə ki, bank hesabı müqaviləsində ayrı qayda nəzərdə tutulmasın. Göstərilən tələblər bank tərəfindən əvəzləşdirilir.
@@ -5606,7 +5653,7 @@ Bank müştəri üçün həmin növ hesablardan ötrü qanunla, qanuna əsasən 
 - 964.2. Müştərinin sərəncamı olmadan hesabdakı pul vəsaitinin silinməsinə məhkəmənin qərarı ilə, habelə qanunla müəyyənləşdirilmiş və ya bankla müştəri arasında müqavilədə nəzərdə tutulmuş hallarda yol verilir.
 
 #### Maddə 965. Hesabdan pul vəsaitinin silinməsinin növbəliyi
-- 965.1. Hesabdakı pul vəsaitinin məbləgi hesaba qarşı irəli sürülən bütün tələbləri ödəməyə kifayət etdikdə hesabdan bu vəsaitin silinməsi müştərinin sərəncamlarının və hesabdan silməyə dair digər sənədlərin daxil olduğu ardıcıllıqla (təqvim ardıcıllığı) həyata keçirilir, bu şərtlə ki, qanunda ayrı qayda nəzərdə tutulmasın.
+- 965.1. Hesabdakı pul vəsaitinin məbləği hesaba qarşı irəli sürülən bütün tələbləri ödəməyə kifayət etdikdə hesabdan bu vəsaitin silinməsi müştərinin sərəncamlarının və hesabdan silməyə dair digər sənədlərin daxil olduğu ardıcıllıqla (təqvim ardıcıllığı) həyata keçirilir, bu şərtlə ki, qanunda ayrı qayda nəzərdə tutulmasın.
 - 965.2. “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanununda başqa hal nəzərdə tutulmayıbsa, hesabdakı pul vəsaiti müştərinin sərəncamlarını və ona qarşı irəli sürülmüş bütün tələbləri yerinə yetirməyə kifayət etmədikdə hesabdan pul vəsaiti aşağıdakı ardıcıllıqla silinir:
   - 965.2.1. birinci növbədə həyata və ya sağlamlığa vurulmuş zərərin ödənilməsi haqqında tələblərin, habelə alimentlərin tutulması haqqında tələblərin yerinə yetirilməsi üçün hesabdan pul vəsaitinin köçürülməsini və ya verilməsini nəzərdə tutan ödəniş sərəncamları və yaxud bu tələblərlə bağlı icra sənədləri əsasında verilən ödəniş sərəncamları üzrə hesabdan silmə həyata keçirilir;
   - 965.2.2. ikinci növbədə əmək müqaviləsi ilə işləyən şəxslərə işdənçıxma müavinətlərinin və əmək haqqının ödənilməsi üzrə və müəlliflik müqaviləsinə görə haqların ödənilməsi üzrə hesablaşmalar üçün pul vəsaitinin köçürülməsini və ya verilməsini nəzərdə tutan ödəniş sərəncamları və yaxud bu tələblərlə bağlı icra sənədləri əsasında verilən ödəniş sərəncamları üzrə hesabdan silmə, habelə bu məqsədlər üçün verilmiş bank kreditlərinin hesabdan silinməsi həyata keçirilir;
@@ -5617,7 +5664,7 @@ Bank müştəri üçün həmin növ hesablardan ötrü qanunla, qanuna əsasən 
 - 965.3. “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanununda başqa hal nəzərdə tutulmayıbsa, bir növbəyə aid tələblər üzrə vəsait ödəniş sərəncamlarının daxil olmasının təqvim ardıcıllığı qaydasında hesabdan silinir.
 
 #### Maddə 966. Hesab əməliyyatlarının lazımınca aparılmaması üçün bankın məsuliyyəti
-Müştəriyə gələn pul vəsaitinin vaxtında hesaba salınmadığı və ya bank tərəfindən əsassız olaraq hesabdan silindiyi, habelə pul vəsaitinin hesabdan köçürülməsi və ya hesabdan verilməsi haqqında müştərinin göstərişlərinin lazımınca yerinə yetirilmədiyi hallarda bank həmin məbləg üçün bu Məcəllənin 449-cu maddəsində nəzərdə tutulmuş qaydada və miqdarda faizlər ödəməlidir.
+Müştəriyə gələn pul vəsaitinin vaxtında hesaba salınmadığı və ya bank tərəfindən əsassız olaraq hesabdan silindiyi, habelə pul vəsaitinin hesabdan köçürülməsi və ya hesabdan verilməsi haqqında müştərinin göstərişlərinin lazımınca yerinə yetirilmədiyi hallarda bank həmin məbləğ üçün bu Məcəllənin 449-cu maddəsində nəzərdə tutulmuş qaydada və miqdarda faizlər ödəməlidir.
 
 #### Maddə 967. Bank sirri
 - 967.1. Bank hesabının və bank əmanətinin, hesab əməliyyatlarının və müştəri haqqında məlumatların sirrinə bank qarantiya verir.
@@ -5627,7 +5674,7 @@ Müştəriyə gələn pul vəsaitinin vaxtında hesaba salınmadığı və ya ba
 #### Maddə 968. Hesaba dair sərəncam verilməsinin məhdudlaşdırılması
 Müştərinin hesabdakı pul vəsaitinə dair sərəncam vermək hüquqlarının məhdudlaşdırılmasına yol verilmir, amma qanunda nəzərdə tutulan hallarda məhkəmənin qərarı ilə hesabdakı pul vəsaiti üzərinə həbs qoyulduğu və ya hesab əməliyyatlarının dayandırıldığı, habelə “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hallar istisna təşkil edir.
 
-968. Müştərinin hesabdakı pul vəsaitinə dair sərəncam vermək hüquqlarının məhdudlaşdırılmasına yol verilmir, amma qanunda nəzərdə tutulan hallarda məhkəmənin qərarı ilə hesabdakı pul vəsaiti üzərinə həbs qoyulduğu və ya hesab əməliyyatlarının dayandırıldığı, habelə “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hallar istisna təşkil edir.
+968. Hesaba dair sərəncam verilməsinin məhdudlaşdırılması Müştərinin hesabdakı pul vəsaitinə dair sərəncam vermək hüquqlarının məhdudlaşdırılmasına yol verilmir, amma qanunda nəzərdə tutulan hallarda məhkəmənin qərarı ilə hesabdakı pul vəsaiti üzərinə həbs qoyulduğu və ya hesab əməliyyatlarının dayandırıldığı, habelə “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hallar istisna təşkil edir.
 #### Maddə 969. Bank hesabı müqaviləsinin ləğvi
 - 969.1. Bank hesabı müqaviləsi müştərinin ərizəsi üzrə istənilən vaxt ləğv edilir.
 - 969.2. Əgər bank hesabı müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, bankın tələbi ilə bank hesabı müqaviləsi məhkəmə tərəfindən aşağıdakı hallarda ləğv edilə bilər:
@@ -5639,7 +5686,7 @@ Müştərinin hesabdakı pul vəsaitinə dair sərəncam vermək hüquqlarının
 #### Maddə 970. Bankların hesabları
 Əgər qanunla, başqa hüquqi aktlarla və ya onlara uyğun müəyyənləşdirilmiş bank qaydaları ilə ayrı hal nəzərdə tutulmayıbsa, bu Məcəllənin bu fəslinin qaydaları müxbir hesablarına, müxbir subhesablarına və bankların digər hesablarına da şamil edilir.
 ### 53-cü fəsil. Mülki dövriyyənin iştirakçıları arasında hesablaşmalar
-### § 1. Hesablaşmalar haqqında ümumi müddəalar
+#### § 1. Hesablaşmalar haqqında ümumi müddəalar
 #### Maddə 971. Nağd və nağdsız hesablaşmalar
 - 971.1. Fiziki şəxslərin iştirakı ilə hesablaşmalar onların sahibkarlıq fəaliyyətini həyata keçirməsi ilə bağlı deyilsə, məbləğ məhdudlaşdırılmadan nağd pullarla və ya nağdsız qaydada aparıla bilər.
 - 971.2. Çıxarılmışdır.
@@ -5648,7 +5695,7 @@ Müştərinin hesabdakı pul vəsaitinə dair sərəncam vermək hüquqlarının
 - 972.1. Nağdsız hesablaşmalar aparılarkən ödəniş tapşırıqları ilə, akkreditiv üzrə hesablaşmalara, inkasso üzrə, çeklərlə, ödəniş kartları ilə, elektron şəklində hesablaşmalara, habelə qanunla, qanuna uyğun müəyyənləşdirilmiş bank qaydaları ilə və bank praktikasında tətbiq olunan işgüzar dövriyyə adətləri ilə nəzərdə tutulmuş digər formalarda hesablaşmalara yol verilir.
 - 972.1-1. Maliyyə xidmətlərinin göstərilməsi ilə bağlı mərkəzi depozitarın açdığı pul hesabları üzrə nağdsız hesablaşmalar “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla həyata keçirilir.
 - 972.2. Müqavilə üzrə tərəflərin bu Məcəllənin 972.1-ci maddəsində göstərilmiş hesablaşma formalarından hər hansı birini seçmək və müqavilədə müəyyənləşdirmək hüququ vardır.
-### § 2. Ödəniş tapşırıqları ilə hesablaşmalar
+#### § 2. Ödəniş tapşırıqları ilə hesablaşmalar
 #### Maddə 973. Ödəniş tapşırıqları ilə hesablaşmalar haqqında ümumi müddəalar
 - 973.1. Ödəniş tapşırığı ilə hesablaşma zamanı bank ödəyicinin tapşırığı ilə onun hesabında olan vəsait hesabına müəyyən pul vəsaitini bu və ya başqa bankda ödəyicinin göstərdiyi şəxsin hesabına qanunla nəzərdə tutulmuş və ya qanuna uyğun təyin edilmiş müddətdə köçürməyi öhdəsinə götürür, bu şərtlə ki, bank hesabı müqaviləsində daha qısa müddət nəzərdə tutulmasın və ya bank praktikasında tətbiq olunan işgüzar dövriyyə adətləri ilə daha qısa müddət müəyyənləşdirilməsin.
 - 973.2. Bu Məcəllənin bu paraqrafının qaydaları bankda hesabı olmayan şəxsin öz pul vəsaitini həmin bank vasitəsilə köçürməsi ilə bağlı münasibətlərə tətbiq edilir, bu şərtlə ki, qanunla, ona uyğun müəyyənləşdirilmiş bank qaydaları ilə ayrı hal nəzərdə tutulmasın və ya bu münasibətlərin mahiyyətindən ayrı hal irəli gəlməsin.
@@ -5665,7 +5712,7 @@ Müştərinin hesabdakı pul vəsaitinə dair sərəncam vermək hüquqlarının
 - 976.1. Müştərinin tapşırığı icra edilmədikdə və ya lazımınca icra edilmədikdə bank bu Məcəllənin 23-cü fəslində nəzərdə tutulmuş əsaslar üzrə və miqdarda məsuliyyət daşıyır.
 - 976.2. Tapşırığın icra edilməməsi və ya lazımınca icra edilməməsi ödəyicinin tapşırığının icrası üçün cəlb olunmuş bank tərəfindən hesablaşma əməliyyatlarının aparılması qaydalarının pozulması ilə əlaqədar baş verdikdə bu Məcəllənin 976.1-ci maddəsində nəzərdə tutulmuş məsuliyyəti məhkəmə həmin bankın üzərinə qoya bilər.
 - 976.3. Əgər bank tərəfindən hesablaşma əməliyyatlarının aparılması qaydalarının pozulması pul vəsaitinin qanunsuz tutulmasına səbəb olmuşdursa, bank bu Məcəllənin 449-cu maddəsində nəzərdə tutulmuş qaydada və miqdarda faizlər ödəməlidir.
-### § 3. Akkreditiv üzrə hesablaşmalar
+#### § 3. Akkreditiv üzrə hesablaşmalar
 #### Maddə 977. Akkreditiv üzrə hesablaşmalar haqqında ümumi müddəalar
 - 977.1. Akkreditiv üzrə hesablaşmalar zamanı ödəyicinin akkreditiv açılması haqqında tapşırığı və göstərişi ilə hərəkət edən bank (emitent bank) vəsait alana vəsait ödəməyi və ya köçürmə vekselini ödəməyi, aksept etməyi və ya uçota almağı və ya bu səlahiyyətləri başqa banka (icraçı banka) verməyi öhdəsinə götürür. Vəsait alana vəsaiti ödəyən və ya köçürmə vekselini ödəyən, aksept edən və ya uçota alan emitent banka icraçı bank haqqında qaydalar tətbiq olunur.
 - 977.2. Akkreditiv üzrə hesablaşmaların həyata keçirilməsi qaydası qanunla, habelə ona uyğun müəyyənləşdirilmiş bank qaydaları və bank praktikasında tətbiq edilən işgüzar dövriyyə adətləri ilə tənzimlənir.
@@ -5679,10 +5726,10 @@ Müştərinin hesabdakı pul vəsaitinə dair sərəncam vermək hüquqlarının
 - 979.3. İcraçı bankın təsdiqlədiyi geri çağırılmayan akkreditiv icraçı bankın razılığı olmadan dəyişdirilə və ya ləğv edilə bilməz.
 #### Maddə 980. Akkreditivin icrası
 - 980.1. Akkreditivin icrası üçün vəsait alan icraçı banka akkreditivin bütün şərtlərinin yerinə yetirildiyini təsdiqləyən sənədləri təqdim edir. Bu şərtlərdən, heç olmasa, biri pozulduqda akkreditiv icra edilmir. İcraçı bank həmin sənədlərin yalnız formal baxımdan qaydada olmasını yoxlamalıdır.
-- 980.2. Əgər icraçı bank akkreditivin şərtlərinə müvafiq surətdə ödənişi icra etmiş və ya başqa əməliyyatı aparmışdırsa, emitent bank ona akkreditivin icrası ilə bağlı çəkdiyi xərclərin əvəzini ödəməlidir. Göstərilən xərclərin əvəzi, habelə akkreditivin icrası ilə əlaqədar emitent bankın bütün başqa xərclərinin əvəzi ödəyici tərəfindən ödənilir.
+- 980.2. Əgər icraçı bank akkreditivin şərtlərindən müvafiq surətdə ödənişi icra etmiş və ya başqa əməliyyatı aparmışdırsa, emitent bank ona akkreditivin icrası ilə bağlı çəkdiyi xərclərin əvəzini ödəməlidir. Göstərilən xərclərin əvəzi, habelə akkreditivin icrası ilə əlaqədar emitent bankın bütün başqa xərclərinin əvəzi ödəyici tərəfindən ödənilir.
 #### Maddə 981. Sənədləri qəbul etməkdən imtina
-- 981.1. Əgər icraçı bank zahiri əlamətlərinə görə akkreditivin şərtlərınə uyğun gəlməyən sənədləri qəbul etməkdən imtina edirsə, bu barədə o, imtinanın səbəblərini göstərməklə, vəsait alana və emitent banka dərhal məlumat verməlidir.
-- 981.2. Əgər icraçı bankın qəbul etdiyi sənədləri aldıqdan sonra emitent bank onları zahiri əlamətlərinə görə akkreditivin şərtlərınə uyğun gəlməyən hesab edərsə, onların qəbulundan imtina edə bilər və akkreditivin şərtləri pozulmaqla vəsait alana ödənilmiş məbləği icraçı bankdan tələb edə bilər, ödənilməmiş akkreditiv üzrə isə ödənilmiş məbləğlərin əvəzini ödəməkdən imtina edə bilər.
+- 981.1. Əgər icraçı bank zahiri əlamətlərinə görə akkreditivin şərtlərinə uyğun gəlməyən sənədləri qəbul etməkdən imtina edirsə, bu barədə o, imtinanın səbəblərini göstərməklə, vəsait alana və emitent banka dərhal məlumat verməlidir.
+- 981.2. Əgər icraçı bankın qəbul etdiyi sənədləri aldıqdan sonra emitent bank onları zahiri əlamətlərinə görə akkreditivin şərtlərindən uyğun gəlməyən hesab edərsə, onların qəbulundan imtina edə bilər və akkreditivin şərtləri pozulmaqla vəsait alana ödənilmiş məbləği icraçı bankdan tələb edə bilər, ödənilməmiş akkreditiv üzrə isə ödənilmiş məbləğlərin əvəzini ödəməkdən imtina edə bilər.
 #### Maddə 982. Akkreditivin şərtlərinin pozulmasına görə bankın məsuliyyəti
 - 982.1. Bu maddədə nəzərdə tutulmuş hallar istisna olmaqla akkreditivin şərtlərinin pozulmasına görə ödəyici qarşısında emitent bank, emitent bank qarşısında isə icraçı bank məsuliyyət daşıyır.
 - 982.2. İcraçı bank ödənilmiş və ya təsdiqlənmiş akkreditiv üzrə pul vəsaitini ödəməkdən əsassız imtina etdikdə vəsait alan qarşısında məsuliyyət icraçı bankın üzərinə qoyula bilər.
@@ -5691,10 +5738,10 @@ Müştərinin hesabdakı pul vəsaitinə dair sərəncam vermək hüquqlarının
 - 983.1. İcraçı bankda akkreditiv aşağıdakı hallarda bağlanır:
   - 983.1.1. akkreditivin müddəti qurtardıqda;
   - 983.1.2. akkreditivin qüvvədə olma müddəti qurtaranadək onun istifadəsindən imtina etmək haqqında vəsait alanın ərizəsi üzrə, bir şərtlə ki, bu cür imtinanın mümkünlüyü akkreditivin şərtləri ilə nəzərdə tutulsun;
-  - 983.1.3. akkreditivin tam və ya qismən geri çağırılması haqqında ödəyicinin tələbi ilə, bir şərtlə ki, akkreditivin şərtlərınə görə belə geriçağırma mümkün olsun.
+  - 983.1.3. akkreditivin tam və ya qismən geri çağırılması haqqında ödəyicinin tələbi ilə, bir şərtlə ki, akkreditivin şərtlərinə görə belə geriçağırma mümkün olsun.
 - 983.2. Akkreditivin bağlanması haqqında icraçı bank emitent banka məlumat verməlidir.
 - 983.3. Ödənilmiş akkreditivin istifadə olunmamış məbləği akkreditivin bağlanması ilə eyni vaxtda dərhal emitent banka qaytarılmalıdır. Emitent bank qaytarılmış məbləğləri ödəyicinin vəsaitin deponentləşdirildiyi hesabına daxil etməlidir.
-### § 4. İnkasso üzrə hesablaşmalar
+#### § 4. İnkasso üzrə hesablaşmalar
 #### Maddə 984. İnkasso üzrə hesablaşmalar haqqında ümumi müddəalar
 - 984.1. İnkasso üzrə hesablaşmalar zamanı bank (emitent bank) müştərinin tapşırığı ilə ödəyicidən ödənişin və (və ya) ödəniş akseptinin alınması əməliyyatlarını müştərinin hesabına həyata keçirməyi öhdəsinə götürür.
 - 984.2. Müştərinin tapşırığını almış emitent bank tapşırığın icrası üçün başqa bankı (icraçı bankı) cəlb edə bilər. İnkasso üzrə hesablaşmaların həyata keçirilməsi qaydası qanunla, qanuna əsasən müəyyənləşdirilmiş bank qaydaları və bank praktikasında tətbiq olunan işgüzar dövriyyə adətləri ilə tənzimlənir.
@@ -5710,7 +5757,7 @@ Müştərinin hesabdakı pul vəsaitinə dair sərəncam vermək hüquqlarının
 #### Maddə 986. Aparılmış əməliyyatlar haqqında bildiriş
 - 986.1. Əgər ödəniş və (və ya) aksept alınmamışdırsa, icraçı bank ödənişin icra olunmamasının və ya akseptdən imtina edilməsinin səbəblərini dərhal emitent banka bildirməlidir. Emitent bank bu barədə müştəriyə dərhal məlumat verərək, ondan gələcək hərəkətlər barəsində göstərişlər istəməlidir.
 - 986.2. Gələcək hərəkətlər haqqında göstərişlər bank qaydaları ilə müəyyənləşdirilmiş müddətdə, bu müddət olmadıqda isə ağlabatan müddətdə alınmadıqda, icraçı bankın sənədləri emitent banka qaytarmağa ixtiyarı vardır.
-### § 5. Çek
+#### § 5. Çek
 #### Maddə 986-1. Çek anlayışı və onun məzmunu
 - 986-1.1. Çek ifadə etdiyi pul məbləğinin çek sahibinə ödənilməsi barədə çek verənin banka verdiyi və heç nə ilə şərtləndirilməyən yazılı sərəncamından ibarətdir.
 - 986-1.2. Çekdə aşağıdakı rekvizitlər göstərilməlidir:
@@ -5732,7 +5779,7 @@ Vekselin aksept edilməsinə dair müddəalar istisna olmaqla, bu Məcəllənin 
 - 986-3.1. Çek yalnız o hallarda verilə bilər ki, çek verənin bankdakı hesablarında vəsaiti və həmin vəsaitə dair çeklər vasitəsilə sərəncam vermək hüququ olsun.
 - 986-3.2. Çekin ödənilməsi üçün çek verənin vəsaiti və ya ona verilmiş kredit kifayət etmədikdə bankın çeki ödəməkdən imtina etmək hüququ vardır. Bank təmin olunmamış məbləği ödədikdə, çek sahibinin hüquqları ona keçir. Bank çeki tamamilə və ya qismən ödəməkdən imtina etdikdə, aşağıdakı nəticələr baş verməlidir:
   - 986-3.2.1. çek verən, yaxud tamamilə və ya qismən ödənilməmiş çeki çek verənin əvəzinə imzalamış şəxs birgə borclular kimi, çek məbləğinin ödənilməmiş hissəsinin 6 faizi miqdarında zərərin əvəzini çek sahibinə ödəməlidirlər. Çek sahibinin başqa zərərin əvəzinin ödənilməsi tələbini həyata keçirmək hüququ saxlanılır;
-  - 986-3.2.2. bank təminat olmadığından çekin tamamilə və ya qismən ödənilmədiyini çekin özündə qeyd etməli və ləngimədən onu çek sahibinə göndərməli, bu barədə belə çekləri imzalamış çek verənlərin reyestrini tərtib edən Azərbaycan Respublikasının Mərkəzi Bankına dərhal bildiriş göndərməlidir;
+  - 986-3.2.2. bank təminat olmadığından çekin tamamilə və ya qismən ödənilmədiyini çekin özündə qeyd etməli və ləngimədən onu çek sahibinə göndərməli, bu barədə belə çekləri imzalamış çek verənlərin reyestrini tərtib edən Azərbaycan Respublikasının Mərkəzi Banka dərhal bildiriş göndərməlidir;
   - 986-3.2.3. təmin olunmamış çeki verənin bir il ərzində çeklər verməsinə icazə verilmir və o özündə olan bütün çek blanklarını dərhal ödəyici banka və müştərisi olduğu bütün başqa banklara qaytarmalıdır. Ödəyici bank bunu yazılı şəkildə dərhal çek verəndən və hesablardakı vəsaitə dair sərəncam verməyə ixtiyarı olan bütün şəxslərdən tələb etməli və bundan sonra çek verməyi onlara qadağan etməlidir;
   - 986-3.2.4. bu tələbdən sonra bir ay müddətində çek verən çek sahibi barədə çek məbləğinin ödənilməmiş hissəsini ödədiyini, habelə bu Məcəllənin 986-3.2.1-ci maddəsinə uyğun olaraq zərərin əvəzini ödədiyini, yaxud həmin məbləğlərin tam ödənilməsi üçün ödəyici bankın kifayət qədər vəsaitə malik olması qayğısına qaldığını ödəyici banka sübut edərsə, bu Məcəllənin 986-3.2.3-cü maddəsinə uyğun olaraq çeklərin verilməsinin qadağan edilməsinin gələcək üçün qüvvəsi olmur.
 #### Maddə 986-4. Çekin aksept edilməsinin istisna olunması
@@ -5749,8 +5796,8 @@ Vekselin aksept edilməsinə dair müddəalar istisna olmaqla, bu Məcəllənin 
 #### Maddə 986-7. Çekin başqasına verilməsi
 - 986-7.1. Müəyyən şəxsə verilmiş və ödənişə təqdim olunmuş çek indossament vasitəsilə başqa şəxsə verilə bilər.
 - 986-7.2. Çek indossament vasitəsilə həmçinin çek verənə və çek üzrə mükəlləfiyyətli hər hansı şəxsə verilə bilər. Öz növbəsində bu şəxslər də çeki indossament edə bilərlər.
-- 986-7.3. Ödəyici bankın indossamenti etibarsızdır. Adsız indossament blanklı indossament sayılır. Bankın bir neçə şöbəsinin (filialının) olduğu və indossamentin çekin verildiyi şöbənin deyil, başqa şöbənin xeyrinə edildiyi hallar istisna olmaqla, bank üçün indossamentin yalnız ödəniş qəbzi qüvvəsi vardır.
-- 986-7.4. Vekselin aksept edilməsinə dair müddəalar istisna olmaqla, bu Məcəllənin 993.3-cü, 993.4-cü, 1018-ci və 1020-ci maddələrinin müddəaları çeklərə də tətbiq edilir.
+- 986-7.3. Ödəyici bankın indossamenti etibarsızdır. Adsız indossament blanklı indossament sayılır. Bankın bir neçə şöbəsinin (filialının) olduğu və indossamentin çekin verildiyi şöbənin deyil, başqa şöbənin xeyrinə edildiyi hallar istisna olunmaqla, bank üçün indossamentin yalnız ödəniş qəbzi qüvvəsi vardır.
+- 986-7.4. Vekselin aksept edilməsinə dair müddəalar istisna olunmaqla, bu Məcəllənin 993.3-cü, 993.4-cü, 1018-ci və 1020-ci maddələrinin müddəaları çeklərə də tətbiq edilir.
 #### Maddə 986-8. Çek sahibinin xeyrinə ehtimal. Çekin itirilməsi
 - 986-8.1. Çek sahibinin xeyrinə ehtimala bu Məcəllənin 1019.1-ci maddəsi tətbiq edilir.
 - 986-8.2. Çek sahibi çeki itirdikdə, əlində çek olan şəxs, onun adsız çek və ya indossament vasitəsilə verilən çek olmasına baxmayaraq, çeki yalnız o halda qaytarmağa borcludur ki, onu vicdansız yolla əldə etmiş olsun və ya əldə edərkən kobud ehtiyatsızlıq etmiş olsun.
@@ -5798,7 +5845,7 @@ Qəlp və ya saxta çekin ödənişi ilə əlaqədar zərəri ödəyici çəkir,
 #### Maddə 986-21. Çekin ödənişə təqdim edilməsi müddətlərinin hesablanması
 Çek ödənişə yalnız iş günləri təqdim olunmalıdır. Təqdimetmə müddətinin son günü bazar gününə və ya başqa qeyri-iş gününə düşdükdə, müddət növbəti iş gününədək uzadılır. Müddət ərzində olan qeyri-iş günləri müddət hesablanarkən nəzərə alınır.
 ### 54-cü fəsil. Qiymətli kağızlar
-### § 1. Qiymətli kağızlar haqqında ümumi müddəalar
+#### § 1. Qiymətli kağızlar haqqında ümumi müddəalar
 #### Maddə 987. Qiymətli kağız anlayışı
 - 987.1. Qiymətli kağız onun mülkiyyətçisi və emitenti arasında müqavilə münasibətlərinin mövcudluğunu və mülkiyyətçinin həmin müqavilədən irəli gələn hüquqlarını təsdiqləyən sənəddir. Qiymətli kağızı emissiya etmiş, buraxmış və ya vermiş şəxs bu Məcəllənin 54-cü fəslinin məqsədləri üçün emitent adlanır.
 - 987.2. Qiymətli kağızların növləri, məcburi rekvizitləri, onlara aid tələblər, qiymətli kağızlar və qiymətli kağız bazarı ilə bağlı münasibətlər bu Məcəllə və “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir.
@@ -5824,7 +5871,7 @@ Qiymətli kağızlar (investisiya fond payı və daşınmaz əmlak üzərində i
 - 993.2. Mülkiyyətçi qiymətli kağıza mülkiyyət hüququnu bu Məcəllənin 1078-20-ci maddəsində göstərilən qaydada əqdlərin bağlanması yolu ilə başqa şəxsə ötürə bilər.
 - 993.3. Bu Məcəllənin 993.2-ci maddəsi ilə nəzərdə tutulmuş qaydada daşınmaz əmlak üzərində ipoteka hüququnu təsbit edən ipoteka kağızı istisna olmaqla, digər sənədsiz qiymətli kağızları əldə edən şəxsin mülkiyyət hüquqları həmin qiymətli kağızların ötürülməsinin mərkəzi depozitarda qeydiyyatı ilə, sənədli qiymətli kağızları əldə edən şəxsin mülkiyyət hüquqları isə müvafiq əqdin bağlanması ilə yaranır.
 - 993.4. Qiymətli kağıza mülkiyyət hüququ başqasına verildikdə və bu Məcəllənin 1078-21-ci maddəsində nəzərdə tutulmuş digər şərtlər yerinə yetirildikdə qiymətli kağızla təsdiqlənmiş bütün hüquqlar əldə edənə keçir, bu şərtlə ki, həmin qiymətli kağızı başqasına vermək hüququ mövcud olsun.
-- 993.5. Əgər müqavilədə və ya qiymətli kağızın özündə nəzərdə tutulubsa, digər şəxslərin, xüsusan də emitentin iştirakı qiymətli kağıza mülkiyyət hüququnun verilməsi üçün zəruridir.
+- 993.5. Əgər müqavilədə və ya qiymətli kağızın özündə nəzərdə tutulubsa, digər şəxslərin, xüsusən də emitentin iştirakı qiymətli kağıza mülkiyyət hüququnun verilməsi üçün zəruridir.
 #### Maddə 994. Sənədli qiymətli kağızların zədələnməsi, korlanması
 Sənədli qiymətli kağız zədələnmək və ya korlanmaq nəticəsində dövriyyə üçün yararsız olduqda onun mülkiyyətçisi emitentdən zədələnmiş və ya korlanmış kağızın qaytarılması müqabilində yeni qiymətli kağız verməyi tələb edə bilər, bu şərtlə ki, həmin kağızda onun əsas məzmununu və fərqləndirici əlamətlərini inamla müəyyənləşdirmək hələ mümkün olsun. Zədələnmiş və ya korlanmış sənədli qiymətli kağızın əvəz olunması xərclərini onun mülkiyyətçisi çəkir.
 #### Maddə 995. Sənədli qiymətli kağızın etibarsız elan edilməsi
@@ -5845,11 +5892,10 @@ Sənədli qiymətli kağız zədələnmək və ya korlanmaq nəticəsində dövr
 #### Maddə 997-1. Dövlət və bələdiyyə qiymətli kağızları
 - 997-1.1. Dövlət qiymətli kağızları müvafiq icra hakimiyyəti orqanı və müvafiq qaydada buna səlahiyyətləndirilmiş qurum tərəfindən buraxılan qiymətli kağızlardır.
 - 997-1.2. Bələdiyyə qiymətli kağızları bələdiyyə tərəfindən qanunvericiliklə müəyyən edilmiş qaydada buraxılan qiymətli kağızlardır.
-### § 3. Veksel
+#### § 3. Veksel
 #### Maddə 1004. Veksel anlayışı
 Veksellər adlı qiymətli kağızlardır, veksel verən onların vasitəsilə müəyyən şəxsə müəyyən məbləğ ödəmək barəsində başqa şəxsə (ödəyiciyə) göstəriş verir (köçürmə vekseli) və ya hər hansı müəyyən şəxsə və ya bu şəxsin sərəncamına müəyyən məbləğ ödəməyi öhdəsinə götürür (sadə veksel).
 
-- verənin imzası;
 - 1005.1.7. vekselin tərtib edildiyi yer;
 - 1005.1.8. vekselin ödənilməsi vaxtı (veksel üzrə ödəniş müddəti);
 - 1005.1.9. ödənişin icra edilməli olduğu yer.
@@ -6102,13 +6148,13 @@ Köçürmə vekselinin mətninin dəyişdirildiyi halda bu dəyişiklikdən sonr
   - 1048-1.2.1. büdcə təşkilatlarına nəzərdə tutulmuş vəsaitlərin ödənilməsi zamanı xəzinədarlığın sərəncamında kifayət qədər vəsait olmadıqda;
   - 1048-1.2.2. büdcənin cari ehtiyaclarını təmin etmək məqsədilə vəsaitlərin cəlb edilməsi hallarında;
   - 1048-1.2.3. büdcənin mülkiyyət formasından asılı olmayaraq müəssisə və təşkilatlara borcu olduqda (artıq ödənilmiş vergilər, geri qaytarılmalı olan məbləğlər və s.).
-- 1048-1.3. Xəzinə vekselinin ödəmə müddəti aşağıdakı kimi ola bilər:
+- 1048-1.3. Xəzinə veskelinin ödəmə müddəti aşağıdakı kimi ola bilər:
   - 1048-1.3.1. tərtib olunduqdan sonra müəyyən vaxt ərzində;
   - 1048-1.3.2. müəyyən edilmiş bir gündə.
 - 1048-1.4. Xəzinə vekseli onun buraxıldığı büdcə ili ərzində ödənilməlidir.
 - 1048-1.5. Xəzinə vekselindən alınmış mallara görə, görülmüş işlərə və ya göstərilmiş xidmətlərə görə ödəniş vasitəsi kimi istifadə oluna bilər.
 - 1048-1.6. Xəzinə vekseli müvafiq qaydada uçot təşkilatında uçot edilə bilər.
-- 1048-1.7 Xəzinə vekseli təkrar bazarda müvafiq qanunvericiliyə riayət etməklə satılıb-alına bilər. Bu əməliyyatların aparılması üçün vekselsaxlayan müəyyən edilmiş qaydada vekseli verdiyi şəxsin adına indossament vasitəsilə ötürməlidir.
+- 1048-1.7. Xəzinə vekseli təkrar bazarda müvafiq qanunvericiliyə riayət etməklə satılıb-alına bilər. Bu əməliyyatların aparılması üçün vekselsaxlayan müəyyən edilmiş qaydada vekseli verdiyi şəxsin adına indossament vasitəsilə ötürməlidir.
 - 1048-1.8. Xəzinə vekseli hüquqi şəxslər tərəfindən büdcəyə olan vergi və ya digər borcları əvəzinə xəzinədarlığa təqdim edilə bilər.
 - 1048-1.9. Xəzinə vekseli ödəmə vaxtı çatmazdan əvvəl xəzinədarlığa ödəniş üçün təqdim oluna bilməz.
 - 1048-1.10. Xəzinə vekseli ödəniş vaxtı çatdıqda ödəniş üçün onu buraxan xəzinədarlığa (ödəyiciyə) təqdim olunur və onun tərəfindən ödənilir. Xəzinədarlıq (ödəyici) xəzinə vekselini ödəməkdən imtina etdikdə, vekselsaxlayan qanunvericiliyə uyğun olaraq ödəmədən imtinanı rəsmi protest aktı ilə təsbit etdirməlidir.
@@ -6116,7 +6162,7 @@ Köçürmə vekselinin mətninin dəyişdirildiyi halda bu dəyişiklikdən sonr
 
 #### Maddə 1048-2. Veksellərin uçotu
 - 1048-2.1. Veksellərin uçotu ödəniş vaxtı çatana qədər vekselsaxlayan tərəfindən vekselin uçot təşkilatına verilməsi və onun müqabilində, veksel məbləğindən diskont məbləği çıxılmaqla, qalan məbləğin alınmasıdır.
-- 1048-2.2. Azərbaycan Respublikasında veksellərin uçotu, domisilyasiyası, inkassoya qəbul edilməsi, veksellərin ödənilməsi üzrə xidmətlərin göstərilməsi və veksellər üzrə digər əməliyyatlar yalnız Azərbaycan Respublikasının Mərkəzi Bankda qeydiyyatdan keçmiş uçot təşkilatları tərəfindən (kredit təşkilatları, veksel evləri və digər ixtisaslaşdırılmış maliyyə-investisiya müəssisələri) həyata keçirilə bilər.
+- 1048-2.2. Azərbaycan Respublikasında veksellərin uçotu, domisilyasiyası, inkassoya qəbul edilməsi, veksellərin ödənilməsi üzrə xidmətlərin göstərilməsi və veksellər üzrə digər əməliyyatlar yalnız Azərbaycan Respublikasının Mərkəzi Bankında qeydiyyatdan keçmiş uçot təşkilatları tərəfindən (kredit təşkilatları, veksel evləri və digər ixtisaslaşdırılmış maliyyə-investisiya müəssisələri) həyata keçirilə bilər.
 - 1048-2.3. Veksellərin yenidən uçotu vekselin uçotunu aparan bankdan uçota aldığı veksellərin, ödəniş tarixindən əvvəl Mərkəzi Bank tərəfindən vekselin məbləğini diskontla ödəməklə alınmasıdır.
 - 1048-2.4. Veksellərin uçotu və yenidən uçotu qaydaları Azərbaycan Respublikasının Mərkəzi Bankının normativ xarakterli aktları ilə müəyyən edilir.
 
@@ -6165,7 +6211,7 @@ Köçürmə vekselinin mətninin dəyişdirildiyi halda bu dəyişiklikdən sonr
 #### Maddə 1076-5. Dövlət və bələdiyyə zəmanəti ilə təmin edilmiş istiqrazlar
 Dövlət və bələdiyyə zəmanəti ilə təmin edilmiş istiqrazların buraxılması qaydası müvafiq qanunvericiliklə tənzimlənir.
 
-Dövlət və bələdiyyə zəmanəti ilə təmin edilmiş istiqrazların buraxılması qaydası müvafiq qanunvericiliklə tənzimlənir.
+Dövlət və bələdiyyə zəmanəti ilə təmin edilmiş istiqrazların buraxılması qaydası müvafiq qanunvericiliklə tənzəmlənir.
 
 #### Maddə 1076-6. İpoteka istiqrazları
 - 1076-6.1. İpoteka istiqrazları ipoteka örtüyü ilə təmin olunmuş istiqrazlardır.
@@ -6181,7 +6227,7 @@ Dövlət və bələdiyyə zəmanəti ilə təmin edilmiş istiqrazların buraxı
 - 1076-6.8. İpoteka istiqrazları üzrə emitentin öhdəlikləri tam və ya qismən həmin istiqrazların ipoteka örtüyünə daxil edilmiş aktivlərlə birgə bu Məcəllənin 1076-6.7-ci maddəsi ilə müəyyən edilmiş ipoteka istiqrazları buraxmaq hüququ olan üçüncü şəxslərə verilə bilər, bu şərtlə ki, belə hal emissiya prospektində (informasiya memorandumunda) nəzərdə tutulsun. Emitentin bu Məcəllənin 1076-13-cü maddəsi ilə müəyyən edilmiş müflisləşməsi və ya öhdəliklərini yerinə yetirməməsi halında emitentin öhdəlikləri üçüncü şəxslərə yalnız həmin maddə ilə nəzərdə tutulmuş qaydada keçməlidir.
 
 #### Maddə 1076-7. İpoteka istiqrazları üzrə faizlər
-- 1076-7.1. İpoteka istiqrazları öz mülkiyyətçilərinin ipoteka istiqrazlarının emissiya prospektində (informasiya memorandumunda) müəyyənləşdirilmiş məbləğdə və qaydada faiz almaq hüququnu təsbit etməlidir. Bu zaman faiz ödənişləri ipoteka istiqrazlarının buraxılış şərtlərinə uyğun olaraq, lakin ən azı ildə bir dəfə həyata keçirilməlidir.
+- 1076-7.1. İpoteka istiqrazları öz mülkiyyətçilərinin ipoteka istiqrazlarının emissiya prospektində (informasiya memorandumunda) müəyyənləşdirilmiş məbləğdə və qaydada faiz almaq hüququnu təsbit etməlidir. Bu zaman faiz ödənişləri ipoteka istiqrazlarının buraxılış şərtlərində uyğun olaraq, lakin ən azı ildə bir dəfə həyata keçirilməlidir.
 - 1076-7.2. İpoteka örtüyünə daxil olan aktivlər üzrə faiz ödənişləri ipoteka istiqrazları üzrə faizlərin ödənilməsini təmin etməlidir.
 - 1076-7.3. Azərbaycan Respublikasının Mərkəzi Bankının normativ xarakterli aktı ilə ayrı hal nəzərdə tutulmayıbsa, ipoteka örtüyünə daxil olan ipoteka kreditləri sabit faizlərlə verilmiş olduqda ipoteka istiqrazları üzrə faizlər sabit, ipoteka örtüyünə daxil olan ipoteka kreditləri dəyişən faizlərlə verilmiş olduqda isə ipoteka istiqrazları üzrə faizlər dəyişkən olmalıdır. Dəyişən faizlər müəyyən edildikdə, ipoteka örtüyünə daxil olan ipoteka kreditləri üzrə faizlərlə ipoteka istiqrazları üzrə faizlər eyni faiz dərəcəsi bazasına bağlı olmalıdır.
 
@@ -6249,7 +6295,7 @@ Dövlət və bələdiyyə zəmanəti ilə təmin edilmiş istiqrazların buraxı
 - 1076-13.10. İpoteka örtüyünə daxil olan aktivlərin tam satılmasından sonra sərəncamçı ipoteka örtüyü ilə bağlı sənədləri və qalıq aktivləri emitentə, müflis olma və ya məcburi ləğv edilmə halında isə əmlak inzibatçısına təhvil verir və öz vəzifəsini yerinə yetirdiyi barədə Azərbaycan Respublikasının Mərkəzi Bankına yazılı məlumat verir.
 - 1076-13.11. Emitent bu Məcəllənin 1076-13.4-cü maddəsində göstərilən qərarla razı olmadıqda həmin qərarın ləğv edilməsi barədə inzibati qaydada və məhkəməyə müraciət edə bilər. Emitent və ya istənilən istiqraz mülkiyyətçisi ipoteka örtüyünə daxil olan aktivlərin satılması və ya idarə edilməsi ilə bağlı bu Məcəllənin 1076-13-cü maddəsində nəzərdə tutulan prosedurların məhkəmə nəzarəti altında həyata keçirilməsi, yaxud sərəncamçının digər şəxslə əvəz edilməsi barədə iddia ilə məhkəməyə müraciət edə bilər. Sərəncamçının dəyişdirilməsi məsələsinə baxılarkən yeni namizəd məhkəməyə Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən təqdim edilir.
 
-## § 6. Səhm
+## §6. Səhm
 #### Maddə 1077. Səhm anlayışı və onun məzmunu
 - 1077.1. Səhm mülkiyyətçisinin həmin səhmin nominal dəyərinə mütənasib surətdə səhmi buraxmış səhmdar cəmiyyətinin nizamnamə kapitalında iştirakını, mənfəətindən dividendlər, ləğvindən sonra isə qalan əmlakının hissəsini almaq hüququnu, həmçinin səhmdar cəmiyyətinin idarə olunmasında iştirak etmək hüququnu təsdiqləyən investisiya qiymətli kağızıdır. Səhmin emitenti yalnız səhmdar cəmiyyəti ola bilər.
 - 1077.2. Səhm adi və ya imtiyazlı növündə buraxıla bilər. Səhmin nominal dəyəri səhmin dəyərinin cəmiyyətin nizamnaməsi ilə müəyyən edilmiş pul ifadəsidir. Səhmlərin nominal dəyəri Azərbaycan Respublikasının milli valyutası ilə ifadə olunur. Səhmlərin nominal dəyərindən aşağı qiymətlə ilkin yerləşdirilməsinə yol verilmir.
@@ -6259,33 +6305,33 @@ Dövlət və bələdiyyə zəmanəti ilə təmin edilmiş istiqrazların buraxı
 - 1077.6. İmtiyazlı səhm emitentin fəaliyyətinin nəticəsindən asılı olmayaraq, mülkiyyətçisinə səhmin nominal dəyərinin sabit faizi şəklində dividend almasına təminat verən, emitentin ləğvindən sonra qalan əmlakının bir hissəsini almaqda digər səhmdarlara nisbətən üstünlük hüququnu, habelə səhmlərin buraxılış şərtlərində və emitentin nizamnaməsində nəzərdə tutulan digər hüquqlar verən səhm növüdür.
 - 1077.7. Səhmdar cəmiyyətinin səhmdarlarının ümumi yığıncağının qərarına əsasən cəmiyyət bir neçə eyni növlü səhmi bir səhmdə birləşdirə bilər və bir səhmi bir neçə həmin növ səhmə dəyişdirilmə yolu ilə xırdalaya bilər. Ümumi yığıncaqda səhmlərin birləşdirilməsi və ya xırdalanması haqqında qərar qəbul edildikdə, səhmdar cəmiyyətinin nizamnaməsində də müvafiq dəyişikliklər edilməlidir. Səhmdar cəmiyyətinin səhmlərinin birləşdirilməsi və xırdalanması qaydaları Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyən edilir.
 
-## § 8. Daşınmaz əmlak sertifikatı
+## §8. Daşınmaz əmlak sertifikatı
 #### Maddə 1078-1. Daşınmaz əmlak sertifikatı
 - 1078-1.1. Daşınmaz əmlak sertifikatı fiziki və hüquqi şəxslər arasında yerləşdirilən, mülkiyyətçilərinə buraxılış şərtlərində müəyyən olunan şərtlərə əməl etdikləri təqdirdə, emitentdən tikintisi (yenidən qurulması) bu qiymətli kağızların yerləşdirilməsindən alınan vəsait hesabına maliyyələşdirilən binaların (mənzillərin, qeyri-yaşayış sahələrinin) onların mülkiyyətinə verilməsi yolu ilə ödənilməsini tələb etmək hüququ verən qiymətli kağızdır.
 - 1078-1.2. Daşınmaz əmlak sertifikatı adlı qiymətli kağızdır. Daşınmaz əmlak sertifikatlarının buraxılışı, dövlət qeydiyyatına alınması və tədavülü qaydası Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyən edilir.
 
-## § 9. Girov kağızı və ipoteka kağızı
+## §9. Girov kağızı və ipoteka kağızı
 #### Maddə 1078-2. Girov kağızı və ipoteka kağızı
 - 1078-2.1. Öhdəliklərin təminatını təsbit edən qiymətli kağızlara girov kağızı və ipoteka kağızı daxildir.
-- 1078-2.2. İpoteka kağızı mülkiyyətçisinə ipoteka müqaviləsində göstərilən, əmlakın ipotekası ilə təmin edilən başqa sübut və dəlillər təqdim etmədən pul və başqa öhdəliklərin mövcudluğunu və bu öhdəliklər üzrə icranın tələb edilməsi hüququnu və əmlakın ipotekası haqqında müqavilədə göstərilən girov hüququnu təsdiq edən adlı qiymətli kağızdır.
-- 1078-2.2-1. Daşınmaz əmlak üzərində ipoteka hüququnu təsbit edən ipoteka kağızı mülkiyyətçisinə ipoteka müqaviləsində göstərilən, daşınmaz əmlakın ipotekası ilə təmin edilən başqa sübut və dəlillər təqdim etmədən pul və başqa öhdəliklərin mövcudluğunu və bu öhdəliklər üzrə icranın tələb edilməsi hüququnu və daşınmaz əmlakın ipotekası haqqında müqavilədə göstərilən ipoteka hüququnu təsdiq edən sənədsiz adlı qiymətli kağızdır.
+- 1078-2.2. İpoteka kağızı mülkiyyətçisinə ipoteka müqaviləsində göstərilən, əmlakın ipotekası ilə təmin edilən başqa sübut və dəlillər təqdim etmədən pul və başqa öhdəliklərin mövcudluğunu və bu öhdəliklər üzrə icranın tələb edilməsi hüququnu və əmlakın ipotekası haqqında müqavilədə göstərilən girov hüququnu təsbit edən adlı qiymətli kağızdır.
+- 1078-2.2-1. Daşınmaz əmlak üzərində ipoteka hüququnu təsbit edən ipoteka kağızı mülkiyyətçisinə ipoteka müqaviləsində göstərilən, daşınmaz əmlakın ipotekası ilə təmin edilən başqa sübut və dəlillər təqdim etmədən pul və başqa öhdəliklərin mövcudluğunu və bu öhdəliklər üzrə icranın tələb edilməsi hüququnu və daşınmaz əmlakın ipotekası haqqında müqavilədə göstərilən ipoteka hüququnu təsbit edən sənədsiz adlı qiymətli kağızdır.
 - 1078-2.3. Girov kağızı girov qoyanla, o borclu deyilsə, həm də borclu ilə girov saxlayan arasında əmlakın və hüquqların girova qoyulmasını və bundan irəli gələn hüquq və öhdəlikləri təsbit edən adlı qiymətli kağızdır.
 - 1078-2.4. Bu Məcəllənin 996.2-1-ci maddəsinin tələbləri nəzərə alınmaqla, əmlakın və hüquqların girovu və ya ipotekası ilə təmin edilmiş öhdəliklər üzrə girovsaxlayanın və ya ipotekasaxlayanın hüquqları girov kağızının və ya ipoteka kağızının tərtibi ilə rəsmiləşdirilə və təsdiq edilə bilər.
 - 1078-2.5. Girov və ya ipoteka ilə təmin olunmuş öhdəliklər üzrə borclu girov kağızı və ya ipoteka kağızı üzrə cavabdeh şəxsdir. Borclu, girovqoyan və ipotekaqoyan eyni və ayrı-ayrı şəxslər ola bilər.
 - 1078-2.6. Əmlaka girov və ya ipoteka hüququnu təsbit edən girov kağızının və ya ipoteka kağızının mülkiyyətçisi (girov saxlayan və ya ipoteka saxlayan) (kreditor) borclunun və girov qoyanın razılığı olmadan borc üzrə tələbini digər şəxsə, girov kağızı və ya ipoteka kağızı üzrə ötürücü yazı vasitəsilə o şərtlə ötürə bilər ki, həmin ötürücü yazı (indossament) öhdəliyin mahiyyətinə, onun borclu və girov qoyanla və ya ipoteka qoyanla razılaşmasına və mövcud qanunvericiliyə zidd olmasın.
 - 1078-2.8. Girov kağızının və ya ipoteka kağızının mülkiyyətçisi ilə (girov saxlayan və ya ipoteka saxlayan) digər şəxs arasında bağlanmış müqavilə üzrə öhdəliyin təminatı məqsədilə girov kağızı və ya ipoteka kağızı müvafiq olaraq girov və ya ipotekaya qoyula bilər. Bu halda girov və ya ipoteka hüququ ümumi qaydada dövlət qeydiyyatından keçməlidir, lakin bu hüquq girov kağızı və ya ipoteka kağızı ilə təsbit edilə bilməz.
 
-## § 11. Özəlləşdirmə qiymətli kağızları
+## §11. Özəlləşdirmə qiymətli kağızları
 #### Maddə 1078-4. Özəlləşdirmə qiymətli kağızları
 - 1078-4.1. Özəlləşdirmə qiymətli kağızları dövlət əmlakının özəlləşdirilməsi zamanı dövlət əmlakının müvafiq qanunvericiliklə müəyyən edilmiş qaydada özgəninkiləşdirilməsi məqsədi ilə buraxılan qiymətli kağızlardır.
 - 1078-4.2. Dövlət əmlakının özəlləşdirilməsi zamanı buraxılan qiymətli kağızların növləri, emissiyası, tədavülü qaydaları və sair məsələlər bu Məcəllə və digər normativ hüquqi, o cümlədən normativ xarakterli aktlarla müəyyən edilir.
 
-## § 14. Qiymətli kağızların tədavülü
+## §14. Qiymətli kağızların tədavülü
 #### Maddə 1078-20. Qiymətli kağızlar üzrə əqdlər
 - 1078-20.1. Qiymətli kağızların tədavülü yerləşdirmədən sonra qiymətli kağızlarla mülki-hüquqi əqdlərin bağlanması nəticəsində mülkiyyət hüquqlarının keçməsi və qeydiyyatı prosesidir.
 - 1078-20.2. Qiymətli kağızlar üzrə əqdlər bu Məcəlləyə və “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununa müvafiq olaraq bağlanılır və həyata keçirilir.
 - 1078-20.4. Qiymətli kağızların tədavülü zamanı qiymətli kağızlarla əqdlərin bağlanması və icrasına dair bu Məcəllədə və “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulan tələblərin pozulması aşkar edildikdə Azərbaycan Respublikasının Mərkəzi Bankı qanun pozuntusu ilə müşayiət olunan əqdlərin bağlanılmasını dayandırır və ya klirinq baş verdikdə tərəflərinin hesablarını dondurur.
-- 1078-20.5. Qiymətli kağızların növləri üzrə alqı-satqı əqdlərinin bağlanması qaydaları bu Məcəllə və ona müvafiq olaraq Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyən edilir. “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallarda qiymətli kağızlarla alqı-satqı əməliyyatları tənzimlənən bazar istisna olmaqla, digər ticarət sistemində aparıldıqda, alqı-satqı əqdləri həmin ticarət sisteminin qaydalarına uyğun olaraq bağlanılır.
+- 1078-20.5. Qiymətli kağızların növləri üzrə alqı-satqı əqdlərinin bağlanması qaydaları bu Məcəllə və ona müvafiq olaraq Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyən edilir. Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallarda qiymətli kağızlarla alqı-satqı əməliyyatları tənzimlənən bazar istisna olmaqla, digər ticarət sistemində aparıldıqda, alqı-satqı əqdləri həmin ticarət sisteminin qaydalarına uyğun olaraq bağlanılır.
 - 1078-20.6. Hüquqi və fiziki şəxslərin borclarının qiymətli kağızlarla rəsmiləşdirilməsi və ödənilməsi Azərbaycan Respublikasının Mərkəzi Bankının müəyyən etdiyi qaydalara uyğun həyata keçirilir.
 - 1078-20.7. İnvestisiya qiymətli kağızlarla əqdlər investisiya şirkəti və ya investisiya xidmətlərini (əməliyyatlarını) həyata keçirən bank vasitəsilə bağlanmadıqda və ya belə əqdlərdə tərəf müqabili investisiya şirkəti və ya investisiya xidmətlərini (əməliyyatlarını) həyata keçirən bank olmadıqda həmin əqdlər notarial qaydada təsdiq olunmalıdır.
 - 1078-20.8. Ünvanlı satış istisna olmaqla, səhmdarların sayı əllidən artıq olan səhmdar cəmiyyətlərinin yerləşdirilmiş səhmlərlə alqı-satqı əqdləri fond birjası vasitəsilə bağlanmalıdır. Tərəfləri bir-birinə məlum olan və qabaqcadan razılaşdırılmış qiymətlə və şərtlərlə bağlanan qiymətli kağızların alğı-satqı müqaviləsi ünvanlı satış əqdidir.
@@ -6296,7 +6342,7 @@ Dövlət və bələdiyyə zəmanəti ilə təmin edilmiş istiqrazların buraxı
   - 1078-20.11.1. Onda indossat haqqında məlumatlar və indossantın imzası olmalıdır;
   - 1078-20.11.2. Sadə olmalı və heç nə ilə şərtlənməməlidir (indossamenti məhdudlaşdıran hər cür şərt etibarsız sayılır; qismən indossament də etibarsızdır.);
   - 1078-20.11.3. Qiymətli kağızda və ya ona əlavə edilmiş vərəqdə (əlavə vərəq) yazılmalıdır.
-- 1078.20.12. İnsayder ticarəti və ya manipulyasiya həyata keçirilməsi nəticəsində zərər vuran şəxs zərər vurulmuş şəxs qarşısında vurduğu zərərin üç misli miqdarında məsuliyyət daşıyır.
+- 1078-20.12. İnsayder ticarəti və ya manipulyasiya həyata keçirilməsi nəticəsində zərər vuran şəxs zərər vurulmuş şəxs qarşısında vurduğu zərərin üç misli miqdarında məsuliyyət daşıyır.
 
 #### Maddə 1078-21. Qiymətli kağızla təsdiqlənmiş hüquqların ötürülməsi
 - 1078-21.1. Qiymətli kağızla təsdiqlənmiş hüquqlar bu Məcəllənin 993-cü maddəsinə və bu maddədə müəyyən edilmiş xüsusiyyətlərə uyğun olaraq ötürülür.
@@ -6321,7 +6367,7 @@ Dövlət və bələdiyyə zəmanəti ilə təmin edilmiş istiqrazların buraxı
 - 1078-23.2. Qiymətli kağızların öhdəliklərlə yüklənməsi qaydası bu Məcəllə və digər qanunvericilik aktları ilə müəyyən edilir.
 - 1078-23.4. Qiymətli kağızlar üzrə girovun (ipotekanın) predmeti olan qiymətli kağızlarla rəsmiləşdirilmiş daşınmaz əmlaka tutmanın yönəldilməsi və ya hüquqların keçməsi həmin əmlaka tutmanın yönəldilməsi və ya hüquqların keçməsidir.
 - 1078-23.5. Girov kağızı və ipoteka kağızının (daşınmaz əmlak üzərində ipoteka hüququnu təsbit edən ipoteka kağızı istisna olmaqla) tədavülü qaydaları Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyən edilir.
-- 1078-23.6. Qiymətli kağızlar üzrə girov hüquqları yalnız onların mülkiyyətçilərinin tapşırıqları əsasında depozitar sistemində qeydiyyata alınnmalıdır.
+- 1078-23.6. Qiymətli kağızlar üzrə girov hüquqları yalnız onların mülkiyyətçilərinin tapşırıqları əsasında depozitar sistemində qeydiyyata alınmalıdır.
 - 1078-23.7. Bu Məcəllənin 1078-23.6-cı maddəsində nəzərdə tutulmuş tapşırıqda aşağıdakılar öz əksini tapmalıdır:
   - 1078-23.7.1. Mülkiyyətçinin və hüquqların xeyrinə qoyulduğu üçüncü şəxslər barədə məlumatlar (hüquqi şəxs olduqda - onun tam adı, ünvanı; fiziki şəxs olduqda – adı, soyadı, atasının adı, ünvanı);
   - 1078-23.7.2. Mülkiyyətçinin və hüquqların xeyrinə qoyulduğu üçüncü şəxsin mərkəzi depozitarda olan fərdi eyniləşdirmə nömrələri;
@@ -6480,7 +6526,7 @@ Dövlət orqanlarının, yerli özünüidarə orqanlarının və ya bu orqanlar�
 #### Maddə 1102. Öz məsuliyyətini sığorta etdirmiş şəxs tərəfindən zərərin əvəzinin ödənilməsi – çıxarılmışdır.
 #### Maddə 1103. On dörd yaşınadək olan yetkinlik yaşına çatmayanın törətdiyi mülki hüquq pozuntusu üçün məsuliyyət
 - 1103.1. On dörd yaşınadək olan yetkinlik yaşına çatmayanın (azyaşlının) törətdiyi mülki hüquq pozuntusu nəticəsində dəyən zərər üçün onun valideynləri (övladlığa götürənlər) və ya qəyyumu, zərərin onların təqsiri üzündən yaranmadığını sübuta yetirməsələr, məsuliyyət daşıyırlar.
-- 1103.2. Əgər qəyyumluğa möhtac azyaşlı müvafiq sosial xidmət müəssisəsində və ya qanuna görə onun qəyyumu olan digər oxşar müəssisədə olmuşdursa, həmin müəssisə azyaşlının vurduğu zərərin əvəzini, əgər zərərin müəssisənin təqsiri üzündən yaranmadığını sübuta yetirməsə, ödəməyə borcludur.
+- 1103.2. Əgər qəyyumluğa möhtac azyaşlı müvafiq sosial xidmət müəssisəsində və ya qanuna görə onun qəyyumu olan digər oxşar müəssisədə olmuşdusa, həmin müəssisə azyaşlının vurduğu zərərin əvəzini, əgər zərərin müəssisənin təqsiri üzündən yaranmadığını sübuta yetirməsə, ödəməyə borcludur.
 - 1103.3. Əgər azyaşlı sosial xidmət müəssisələri və ya ona nəzarət etməyə borclu olan digər müəssisənin və ya müqavilə əsasında nəzarət edən şəxsin nəzarəti altında olduğu dövrdə zərər vurmuşdursa, həmin müəssisə və ya şəxs, zərərin onun təqsiri üzündən yaranmadığını sübuta yetirməsə, zərər üçün məsuliyyət daşıyır.
 - 1103.4. Valideynlərin (övladlığa götürənlərin), qəyyumların, sosial xidmət müəssisələri və digər müəssisələrin azyaşlının vurduğu zərərin əvəzini ödəmək vəzifəsinə azyaşlı yetkinlik yaşına çatdıqda və ya zərərin əvəzini ödəmək üçün yetərli əmlak əldə etdikdə xitam verilmir.
 - 1103.5. Əgər valideynlər (övladlığa götürənlər), qəyyumlar və ya bu Məcəllənin 1103.3-cü maddəsində göstərilmiş digər fiziki şəxslər ölmüşlərsə və ya zərərçəkənin həyatına və ya sağlamlığına vurulmuş zərərin əvəzini ödəmək üçün yetərli vəsaitə malik deyildirlərsə, tam fəaliyyət qabiliyyətli olmuş zərərvuranın isə bu cür vəsaiti vardırsa, məhkəmə zərərçəkənin və zərərvuranın əmlak vəziyyətini, habelə digər halları nəzərə almaqla, zərərin əvəzinin tamamilə və ya qismən zərərvuranın özünün hesabına ödənilməsi barədə qərar qəbul edə bilər.
@@ -6538,7 +6584,7 @@ Müqavilə öhdəliklərinin icrası zamanı, habelə hərbi qulluq, polisdə qu
 - 1119.5. Əgər xəsarət yetirilənədək və ya sağlamlığı başqa şəkildə pozulanadək zərərçəkənin qazancında (gəlirində) onun əmlak vəziyyətini yaxşılaşdıran sabit dəyişikliklər baş vermişdirsə (tutduğu vəzifə üzrə əmək haqqı artırılmışdırsa, daha yüksək maaşlı işə keçirilmişdirsə, əyani təhsil aldığı təhsil müəssisəsini bitirdikdən sonra işə girmişdirsə və zərərçəkənin əməyinin ödənilməsində dəyişikliyin və ya dəyişiklik imkanının sabitliyinin sübuta yetirildiyi başqa hallarda), onun orta aylıq qazancı (gəliri) müəyyənləşdirilərkən yalnız müvafiq dəyişiklikdən sonra aldığı və ya almalı olduğu qazanc (gəlir) nəzərə alınır.
 #### Maddə 1120. Yetkinlik yaşına çatmayan şəxsin sağlamlığı pozulduqda zərərin əvəzinin ödənilməsi
 - 1120.1. On dörd yaşı tamam olmamış və qazancı (gəliri) olmayan yetkinlik yaşına çatmayana (azyaşlıya) xəsarət yetirildikdə və ya onun sağlamlığı başqa şəkildə pozulduqda zərərin vurulması üçün məsuliyyət daşıyan şəxs sağlamlığın pozulması ilə bağlı çəkilən xərclərin əvəzini ödəməlidir.
-- 1120.2. Zərərçəkən azyaşlı on dörd yaşına çatdıqda, habelə qazancı (gəliri) olmayan on dörd yaşından on səkkiz yaşınadək yetkinlik yaşına çatmayana zərər vurulduqda zərərin vurulması üçün məsuliyyət daşıyan şəxs zərərçəkənə sağlamlığın pozulması ilə bağlı xərclərdən əlavə, əmək qabiliyyətinin itirilməsi və ya azalması ilə bağlı zərərin əvəzini də, lakin altı manatdan az olmamaqla, ödəməyə borcludur.
+- 1120.2. Zərərçəkən azyaşlı on dörd yaşına çatdıqda, habelə qazancı (gəliri) olmayan on dörd yaşından on səkkiz yaşınadək yetkinlik yaşına çatmayana zərər vurulduqda zərərin vurulması üçün məsuliyyət daşıyan şəxs zərərçəkənə sağlamlığın pozulması ilə bağlı xərclərdən əlavə, əmək qabiliyyətinin itirilməsi və ya azalması ilə bağlı zərərin əvəzini də, lakin altı manatdan az olmamaqla, ödəməyə borcdur.
 - 1120.3. Əgər yetkinlik yaşına çatmayanın sağlamlığı pozularkən onun qazancı olmuşdursa, zərərin əvəzi bu qazancın miqdarı əsas götürülməklə, lakin altı manatdan az olmamaqla ödənilir.
 - 1120.4. Əvvəllər sağlamlığına zərər vurulmuş yetkinlik yaşına çatmayanın əmək fəaliyyətinə başladıqdan sonra ixtiyarı var ki, əldə etdiyi qazanc əsas götürülməklə, lakin tutduğu vəzifə üzrə müəyyənləşdirilmiş muzdun və ya iş yeri üzrə eyni ixtisaslı işçinin qazancının miqdarından çox olmamaqla, zərərin əvəzinin ödənilməsi miqdarının artırılmasını tələb etsin.
 #### Maddə 1121. Ailə başçısının ölümü nəticəsində zərər çəkmiş şəxslərə zərərin əvəzinin ödənilməsi
@@ -6570,14 +6616,18 @@ Müqavilə öhdəliklərinin icrası zamanı, habelə hərbi qulluq, polisdə qu
 #### Maddə 1124. Dolanacaq xərclərinin yüksəlməsi və yaşayış minimumunun artması ilə əlaqədar zərərin əvəzinin ödənilməsi miqdarının artırılması
 - 1124.1. Dolanacaq xərcləri artdıqda zərərçəkənin həyatına və ya sağlamlığına vurulmuş zərərin əvəzinin ödənilməsi miqdarı qanunla müəyyənləşdirilmiş qaydada indeksləşdirilməlidir.
 - 1124.2. Yaşayış minimumu artırıldığı halda itirilmiş qazancın (gəlirin), zərərçəkənin sağlamlığının pozulması və ya ölümü ilə əlaqədar təyin edilmiş digər ödənişlərin əvəzinin ödənilməsi miqdarı yaşayış minimumunun artımına mütənasib surətdə artırılır.
+
 #### Maddə 1125. Zərərin əvəzinin ödənilməsi üzrə ödənişlər
 - 1125.1. Zərərçəkənin əmək qabiliyyətinin azalması və ya ölümü nəticəsində dəyən zərərin əvəzi aylıq ödənişlər yolu ilə ödənilir. Üzrlü səbəblər varsa, məhkəmə zərərin əvəzinin ödənilməsinə hüququ olan fiziki şəxsin tələbi ilə ona çatası ödənişləri zərərvuranın imkanlarını nəzərə almaqla, bir dəfəliyə, lakin ən çoxu üç illiyə təyin edə bilər.
 - 1125.2. Əlavə xərclərin ödənilməsi məbləğləri putyovkaların alınması, gediş haqqının, xüsusi nəqliyyat vasitələri haqqının ödənilməsi də daxil olmaqla, müvafiq xidmətlərin və əmlakın dəyərinin qabaqcadan ödənilməsi zərurəti olduqda tibb ekspertizasının rəyinə əsasən müəyyənləşdirilən müddətlər daxilində gələcək zaman üçün də təyin edilə bilər.
+
 #### Maddə 1126. Hüquqi şəxsə xitam verildikdə zərərin əvəzinin ödənilməsi
 - 1126.1. Həyata və ya sağlamlığa zərər vurulması üçün məsuliyyəti müəyyənləşdirilmiş qaydada təsdiq edilən hüquqi şəxsin yenidən təşkil edildiyi halda müvafiq ödənişləri icra etmək vəzifəsini onun hüquq varisi daşıyır. Zərərin əvəzinin ödənilməsi tələbləri də ona qarşı irəli sürülür.
 - 1126.2. Həyata və ya sağlamlığa vurulmuş zərər üçün məsuliyyəti müəyyənləşdirilmiş qaydada təsdiq edilən hüquqi şəxsin ləğv olunduğu halda müvafiq ödənişlər zərərçəkənə verilmək üçün qanunvericiliklə müəyyənləşdirilmiş qaydalara uyğun kapitallaşdırılmalıdır. Qanunvericiliklə ödənişlərin kapitallaşdırıla bildiyi başqa hallar da müəyyənləşdirilə bilər.
+
 #### Maddə 1127. Dəfn xərclərinin əvəzinin ödənilməsi
-Zərərçəkənin ölümü nəticəsində dəyən zərər üçün məsuliyyət daşıyan şəxslər dəfn xərclərini çəkmiş şəxsə həmin xərclərin əvəzini ödəməlidirlər. Bu xərcləri çəkmiş fiziki şəxsin dəfn üçün aldığı müavinət zərərin əvəzinin ödənilməsi hesabına daxil edilmir.
+Zərəçəkənin ölümü nəticəsində dəyən zərər üçün məsuliyyət daşıyan şəxslər dəfn xərclərini çəkmiş şəxsə həmin xərclərin əvəzini ödəməlidirlər. Bu xərcləri çəkmiş fiziki şəxsin dəfn üçün aldığı müavinət zərərin əvəzinin ödənilməsi hesabına daxil edilmir.
+
 ### 61-ci fəsil. Malın, işin və ya xidmətin qüsurları nəticəsində dəyən zərərin əvəzinin ödənilməsi
 #### Maddə 1128. Malın, işin və ya xidmətin qüsurları nəticəsində dəyən zərərin əvəzinin ödənilməsi əsasları
 - 1128.1. Malın, işin və ya xidmətin konstruksiya, resept və ya digər qüsurları (keyfiyyətsiz məhsul) nəticəsində, habelə mala (işə, xidmətə) dair yanlış və ya yarımçıq informasiya nəticəsində fiziki şəxsin həyatına, sağlamlığına və ya əmlakına dəyən zərərin əvəzini malın satıcısı və ya istehsalçısı, işi görmüş və ya xidməti göstərmiş şəxs (icraçı), təqsirli olub-olmadığına və zərərçəkənin onlar ilə müqavilə münasibətlərində olub-olmadığına baxmayaraq, ödəməlidirlər. Malın, işin və ya xidmətin qüsurları nəticəsində əmlaka zərər vurulan hallarda bu qayda yalnız o şərtlə tətbiq edilir ki, keyfiyyətsiz məhsul digər əmlaka zərər vurmuş və həmin digər əmlak öz təyinatına görə əsasən istehlak məqsədi üçün istifadə edilmiş olsun.
@@ -6588,82 +6638,114 @@ Zərərçəkənin ölümü nəticəsində dəyən zərər üçün məsuliyyət d
 - 1128.6. Bu Məcəlləyə görə son məhsulu, məhsulun əsas ünsürünü və ya hissəsini istehsal etmiş şəxs istehsalçı sayılır. Öz adından, əmtəə nişanı ilə və ya digər fərqləndirici nişanla istehsalçı kimi çıxış edənlərin hamısı istehsalçı sayılırlar.
 - 1128.7. Çıxarılmışdır.
 - 1128.8. Əgər istehsalçını müəyyənləşdirmək mümkün deyildirsə, hər hansı məhsul göndərən (bu barədə tələb verildikdən sonra bir ay ərzində onun istehsalçı barəsində zərərçəkənə məlumat verdiyi hallar istisna olmaqla) və ya ona bu məhsulu göndərmiş şəxs istehsalçı sayılır. İstehsalçının adı məlum olsa da, məhsulu ilk satanın kim olduğunu müəyyənləşdirmək mümkün olmadıqda idxal malına da bu qayda tətbiq edilir.
+
 #### Maddə 1129. Malın, işin və ya xidmətin qüsurları nəticəsində vurulmuş zərər üçün məsuliyyət daşıyan şəxslər
 - 1129.1. Malın qüsurları nəticəsində vurulmuş zərərin əvəzini zərərçəkənin seçimi üzrə məhsulun satıcısı və ya istehsalçısı ödəməlidir.
 - 1129.2. İşin və ya xidmətin qüsurları nəticəsində vurulmuş zərərin əvəzini işi görmüş və ya xidməti göstərmiş şəxs (icraçı) ödəməlidir.
 - 1129.3. Mal (iş, xidmət) haqqında tam və ya düzgün informasiya verilməməsi nəticəsində vurulmuş zərərin əvəzini bu Məcəllənin 1129.1 və 1129.2-ci maddələrində göstərilmiş şəxslər ödəməlidirlər.
 - 1129.4. Keyfiyyətsiz məhsulun nəticəsində vurulmuş zərəri məhsulun satıcısı ödədiyi halda bu Məcəllənin 1114.2-ci maddəsinin müddəaları tətbiq edilir.
+
 #### Maddə 1130. Malın, işin və ya xidmətin qüsurları nəticəsində vurulmuş zərərin əvəzinin ödənilməsi müddətləri
 - 1130.1. Malın, işin və ya xidmətin qüsurları nəticəsində vurulan zərərin əvəzi, əgər zərər malın (işin, xidmətin) müəyyənləşdirilmiş yararlıq müddəti ərzində əmələ gəlmişdirsə, ödənilməli, yararlıq müddətinin müəyyənləşdirilmədiyi halda isə malın (işin, xidmətin) istehsal edildiyi gündən on il ərzində əmələ gəlmişdirsə, ödənilməlidir.
 - 1130.2. Çıxarılmışdır.
+
 #### Maddə 1131. Malın, işin və ya xidmətin qüsurları nəticəsində vurulmuş zərər üçün məsuliyyətdən azad edilmə əsasları
 Malın satıcısı və ya istehsalçısı, işin və ya xidmətin icraçısı zərərin qarşısıalınmaz qüvvənin təsiri və ya istehlakçının maldan, işin, xidmətin nəticələrindən istifadə və onları saxlama qaydalarını pozması nəticəsində əmələ gəldiyini sübuta yetirərsə, məsuliyyətdən azad edilir.
+
 #### Maddə 1132. Sübutetmə yükü
 Malın, işin və ya xidmətin qüsurları nəticəsində vurulmuş zərər üçün məsuliyyət halında sübutetmə yükü zərərçəkənin öhdəsinə qoyulur.
+
 ## Onuncu bölmə. VƏRƏSƏLİK HÜQUQU
 ### 62-ci fəsil. Vərəsəlik hüququnun ümumi müddəaları
 #### Maddə 1133. Vərəsəlik anlayışı
 - 1133.1. Ölmüş şəxsin (miras qoyanın) əmlakı başqa şəxslərə (vərəsələrə) qanun üzrə və ya vəsiyyət üzrə və ya hər iki əsasla keçir.
 - 1133.2. Qanun üzrə vərəsəlik (ölmüş şəxsin əmlakının qanunda göstərilmiş şəxslərə keçməsi) o zaman qüvvədə olur ki, miras qoyan vəsiyyətnamə qoymur, yaxud vəsiyyətnamə tamamilə və ya qismən etibarsız sayılır.
+
 #### Maddə 1134. Vərəsələr
 - 1134.1. Qanun üzrə vərəsəlik zamanı vərəsələr miras qoyanın öldüyü məqamda sağ olmuş şəxslər, habelə miras qoyanın ölümündən sonra doğulmuş uşaqları ola bilərlər.
 - 1134.2. Vəsiyyət üzrə vərəsəlik zamanı vərəsələr miras qoyanın öldüyü məqamda sağ olmuş şəxslər, habelə miras qoyanın sağlığında mayası bağlanmış və onun ölümündən sonra doğulmuş şəxslər, bu şəxslərin onun uşaqları olub-olmadığına, habelə hüquqi şəxslər olub-olmadığına baxmayaraq, ola bilərlər.
+
 #### Maddə 1135. Hüquqi şəxslər vərəsələr kimi
 Vəsiyyət üzrə vərəsəlik zamanı vərəsəliyə mirasın açıldığı vaxtadək təşkil edilmiş hüquqi şəxslər çağırılırlar.
+
 #### Maddə 1136. Nikahdankənar uşaqlar atanın vərəsələri kimi
 Nikahdankənar uşaq o halda atasının vərəsəsi sayılır ki, atalıq qanunda nəzərdə tutulmuş qaydada müəyyənləşdirilmiş olsun. Əgər həmin uşaq atasından əvvəl ölərsə, onun uşaqları atalarına çatası mirasdan pay tələb edə bilərlər.
+
 #### Maddə 1137. Ləyaqətsiz vərəsə
 Miras qoyanın son iradəsini həyata keçirməsinə qəsdən maneə törətmiş və bununla da özünün və ya özünə yaxın şəxslərin vərəsəliyə çağırılmasına və ya miras paylarının artırılmasına kömək göstərmiş, yaxud vəsiyyət edənin vəsiyyətnamədə ifadə edilmiş son iradəsinə qarşı qəsdən cinayət və ya digər əxlaqsız hərəkət törətmiş şəxs (ləyaqətsiz vərəsə) nə qanun üzrə, nə də vəsiyyət üzrə vərəsə ola bilməz, bu şərtlə ki, həmin hallar məhkəmə tərəfindən təsdiq edilsin.
+
 #### Maddə 1138. Vərəsə ola bilməyən valideynlər
 Valideynlik hüquqlarından məhrum edilmiş və mirasın açıldığı günədək bu hüquqları bərpa edilməmiş valideynlər uşaqlarının qanun üzrə vərəsələri ola bilməzlər. Miras qoyanın saxlanması üzrə öhdələrinə qoyulmuş vəzifələrdən qəti surətdə boyun qaçıran şəxslər də qanun üzrə vərəsə ola bilməzlər, bir şərtlə ki, bu hal məhkəmə tərəfindən təsdiq edilsin.
+
 #### Maddə 1139. Məhkəmə tərəfindən vərəsəlik hüququndan məhrum edilmə
 Ləyaqətsiz vərəsənin vərəsəlik hüququndan məhrum edilməsinə əsas verən hal ləyaqətsiz vərəsənin vərəsəlik hüququndan məhrum edilməsindən müəyyən əmlak nəticələri əldə edən şəxsin iddiası üzrə məhkəmə tərəfindən müəyyənləşdirilməlidir.
+
 #### Maddə 1140. Ləyaqətsiz vərəsənin bağışlanması
 Əgər miras qoyan vərəsəlik hüququnun itirilməsinə səbəb olan hərəkətlər törətdiyinin üstü açılmış şəxsi bağışlayarsa və bu qərarını vəsiyyətnamədə aydın şəkildə ifadə edərsə, həmin şəxs bu hərəkətlərinə baxmayaraq vərəsəliyə buraxılır. Bağışlamanın geri götürülməsinə yol verilmir.
+
 #### Maddə 1141. Başqa miras qoyanın əmlakını miras almaq hüququ
 Vərəsəlik hüququndan məhrum edilmə vərəsəlik hüququndan məhrum edilmiş həmin şəxsin başqa miras qoyanın əmlakının vərəsəsi olmasına maneçilik törətmir.
+
 #### Maddə 1142. Ləyaqətsiz vərəsə sayılmış şəxsin vəzifələri
 Əgər şəxs mirası aldıqdan sonra məhkəmə tərəfindən ləyaqətsiz vərəsə sayılarsa, vərəsəlik üzrə aldıqlarının hamısını bəhərlər və gəlirlər ilə birlikdə qaytarmağa borcludur.
+
 #### Maddə 1143. Ləyaqətsiz vərəsə sayılma barəsində iddianın irəli sürülməsi müddəti
-Şəxsin ləyaqətsiz vərəsə sayılması barəsində iddianı maraqlı şəxslər həmin şəxsin mirasa sahibliyə başladığı anda beş il ərzində irəli sürməlidirlər.
+Şəxsin ləyaqətsiz vərəsə sayılması barəsində iddianı maraqlı şəxslər həmin şəxsin mirasa sahibliyə başladığı andan beş il ərzində irəli sürməlidirlər.
+
 #### Maddə 1144. Vərəsəlik hüququndan məhrum edilmiş şəxsin miras payı
 Vərəsəlik hüququndan məhrum edilmiş şəxsin payı vərəsəliyə çağırılmış qalan vərəsələrə keçir və onların arasında paylarına mütənasib surətdə bölüşdürülür.
+
 #### Maddə 1145. Mirasın açılması
 Miras fiziki şəxsin ölümü və ya məhkəmə tərəfindən ölmüş elan edilməsi ilə açılır.
+
 #### Maddə 1146. Mirasın açıldığı vaxt
 Miras qoyanın öldüyü gün və ya fiziki şəxsin ölmüş elan edilməsi barədə məhkəmə qərarının qüvvəyə mindiyi gün mirasın açıldığı vaxt sayılır.
+
 #### Maddə 1147. Mirasın açıldığı yer
 - 1147.1. Miras qoyanın yaşayış yeri, bu məlum olmadıqda isə mirasın olduğu yer mirasın açıldığı yer sayılır.
 - 1147.2. Əgər miras müxtəlif yerlərdədirsə, mirasın açıldığı yer daşınmaz əmlakın və ya onun qiymətli hissəsinin olduğu yer, daşınmaz əmlak olmadıqda isə daşınar əmlakın və ya onun əsas hissəsinin olduğu yer sayılır.
+
 #### Maddə 1148. Xaricdə yaşayan şəxslərin mirasının açıldığı yer
 Müvəqqəti xaricdə yaşamış və orada ölmüş Azərbaycan Respublikası vətəndaşının ölümündən sonra mirasın açıldığı yer onun xaricə getməzdən əvvəl Azərbaycan Respublikasında yaşadığı yer, bu yer məlum olmadıqda isə mirasın və ya onun əsas hissəsinin olduğu yer sayılır.
+
 #### Maddə 1149. Xaricdə daimi yaşamış şəxslərin mirasının açıldığı yer
 Xaricdə daimi yaşamış Azərbaycan Respublikası vətəndaşının ölümündən sonra mirasın açıldığı yer onun yaşadığı ölkə sayılır.
+
 #### Maddə 1150. Xaricdə mirasın açılması
 Azərbaycan Respublikasında yaşamış Azərbaycan Respublikası vətəndaşı xarici dövlətdə mirası həmin dövlətin qanunvericiliyinə uyğun alır.
+
 #### Maddə 1151. Miras əmlak
 - 1151.1. Mirasa (miras əmlaka) miras qoyanın öldüyü məqamadək malik olduğu əmlak hüquqlarının (miras aktivi) və vəzifələrin (miras passivi) toplusu daxildir.
 - 1151.2. Mirasa ümumi mülkiyyətdən ölənə çatası pay, əmlakın naturada bölünməsi mümkün olmadıqda isə bu əmlakın dəyəri daxildir.
+
 #### Maddə 1152. Gələcək əmlakın vəsiyyət edilməsi
 Miras qoyan vəsiyyətnamənin tərtib edildiyi vaxt onda olmayan əmlakı vəsiyyətnamədə o halda nəzərdə tuta bilər ki, mirasın açılacağı vaxtadək bu əmlak onun mülkiyyəti olsun.
+
 #### Maddə 1153. Şəxsi xarakterli hüquq və vəzifələrin vərəsəlik üzrə verilməsinin yolverilməzliyi
 Şəxsi xarakter daşıyan və yalnız miras qoyana mənsub ola bilən əmlak hüquqları və vəzifələr, habelə qanunda və ya müqavilədə nəzərdə tutulan, yalnız kreditorun və borclunun sağlığında qüvvədə olan və onların ölümü ilə xitam verilən hüquq və vəzifələr mirasın tərkibinə daxil deyildir.
+
 #### Maddə 1154. Miras qoyanın qeyri-əmlak hüquqlarının müdafiəsi
 Miras qoyanın mirasa daxil olmayan qeyri-əmlak hüquqlarını vərəsələr qanunda nəzərdə tutulan qaydada həyata keçirə və müdafiə edə bilərlər.
+
 #### Maddə 1155. Mirasa daxil olmayan əmlak
 - 1155.1. Ailə dəftər-kitabları (və ya yazıları), ailə xronikaları, xatirə və digər ayin predmetləri və qəbirlər mirasa daxil deyildir və vərəsələr arasında bölüşdürülmür. Bu predmetlər bərqərar olmuş adətə görə vərəsənin mülkiyyətinə verilir. Həmin predmetləri mirasdan imtina etmiş vərəsə də qəbul edə bilər.
 - 1155.2. Miras qoyanın şəxsiyyətinə, ailəsinə və ya bütün mirasa aid sənədlər ümumi əmlak kimi qalır.
+
 #### Maddə 1156. Vəsiyyətnamədə nəzərdə tutulan əmlakın artırılmasının nəticələri
 Əgər vəsiyyət edən vəsiyyətnaməni tərtib etdikdən sonra vəsiyyətnamədə nəzərdə tutulan daşınmaz əmlakı həmin əmlakla əlaqədar əmlakı əldə etmək yolu ilə artırarsa, vəsiyyətnamə tərtib edildikdən sonra əldə edilmiş əmlaka dair yeni sərəncam verilmədikdə bu əmlak mirasa daxil olmur.
+
 #### Maddə 1157. Miras şərikləri
 Əgər bir neçə vərəsə vardırsa, miras vərəsələr arasında bölüşdürülənədək vahid əmlak şəklində bütün vərəsələrə mənsubdur. Bu əmlakdan sonuncu xəstəliyi zamanı miras qoyana qulluq və onun müalicəsi, dəfn, mirasın mühafizəsi və idarə edilməsi, əmək haqqı verilməsi və vəsiyyətin icrası üçün lazımi xərclər ödənilə bilər. Bu tələblər mirasın dəyərindən, həm də bütün başqa tələblərə, o cümlədən ipoteka və digər girovla təmin edilmiş tələblərə nisbətən üstün qaydada ödənilməlidir.
+
 #### Maddə 1157-1. Miras şərikləri tərəfindən mirasın idarə edilməsi
 - 1157-1.1. Miras şərikləri mirasın bölüşdürülməsinə qədər onu birgə idarə edirlər. İdarəçiliklə bağlı qərarlar vərəsələr tərəfindən onların miras paylarına mütənasib surətdə sadə səs çoxluğu ilə qəbul edilir.
 - 1157-1.2. Mirasın mühafizəsi (qorunması) ilə bağlı tədbirləri hər bir vərəsə digər miras şəriklərinin razılığı olmadan da həyata keçirə bilər.
 - 1157-1.3. Mirasın idarə edilməsi ilə bağlı xərcləri vərəsələr özlərinin miras paylarına mütənasib surətdə çəkirlər.
+
 #### Maddə 1158. Mirasdan əşyanın tələb edilməsi hüququ
 - 1158.1. Əgər vəsiyyət edən vərəsə üçün əşyanı yanlış qoymuşdursa, həmin əşyanın mülkiyyətçisi əşyanı ümumi qaydada tələb edə bilər.
 - 1158.2. Əgər ölənin əmlakında başqa şəxsin əmlakı gizli şəkildə mövcuddursa, əmlakın bu hissəsi aşkar edilməli və müvafiq şəxsə verilməlidir.
+
 ### 63-cü fəsil. Qanun üzrə vərəsəlik
 #### Maddə 1159. Qanun üzrə vərəsələr
 - 1159.1. Qanun üzrə vərəsəlik zamanı aşağıdakılar bərabər pay hüquqlu vərəsələr sayılırlar:
@@ -6676,483 +6758,445 @@ Miras qoyanın mirasa daxil olmayan qeyri-əmlak hüquqlarını vərəsələr qa
 - 1159.3. Üçüncü növbədə - həm ana tərəfdən, həm də ata tərəfdən nənə və baba, nənənin anası və atası, babanın anası və atası. Nənənin anası və atası, babanın anası və atası o halda qanun üzrə vərəsə sayılırlar ki, mirasın açıldığı vaxt nənə və baba sağ olmasın.
 - 1159.4. Dördüncü növbədə - xalalar və bibilər, dayılar və əmilər.
 - 1159.5. Beşinci növbədə - xala uşaqları və bibi uşaqları, dayı uşaqları və əmi uşaqları, onlar sağ olmadıqda isə onların uşaqları.
+
 #### Maddə 1160. Qanun üzrə vərəsəlik zamanı növbəlik
 Əvvəlki növbənin vərəsələrindən, heç olmasa, birinin mövcudluğu sonrakı növbənin vərəsəliyini istisna edir.
+
 #### Maddə 1161. Vərəsəlik zamanı əmək qabiliyyəti olmayan şəxslərin hüquqları
 Əgər miras qoyanın himayəsində olmuş və özlərini müstəqil saxlaya bilməyən əmək qabiliyyəti olmayan şəxslərin adları vəsiyyətnamədə çəkilməmişdirsə, onlar mirasdan dolanacaq təminatı (alimentlər) tələb edə bilərlər. Dolanacaq təminatı kimi ödənilməli məbləğin ölçüsü miras aktivinin həcmi nəzərə alınmaqla azaldıla bilər.
+
 #### Maddə 1162. Sağ qalan arvadın (ərin) birgə mülkiyyətdə paya hüququ
 Sağ qalan arvadın (ərin) vərəsəlik hüququ ər-arvadın birgə mülkiyyətindən ona çatası əmlak hissəsinə aid deyildir.
+
 #### Maddə 1163. Boşanmış ər-arvadın vərəsəlik zamanı vəziyyəti
 Nikahı ləğv etmiş ər-arvad bir-birindən sonra vərəsə ola bilməzlər.
+
 #### Maddə 1164. Nikah münasibətlərinin faktik xitamı zamanı vərəsəlik hüququndan məhrum edilmə
 Əgər arvadın (ərin) miras qoyanla nikahına mirasın açılmasından azı üç il əvvəl faktik xitam verildiyi və ərlə arvadın ayrı yaşadıqları təsdiq edilərsə, məhkəmənin qərarı ilə arvad (ər) qanun üzrə vərəsəlik hüququndan məhrum edilə bilər.
+
 #### Maddə 1165. Vərəsələri olmayan əmlakın xəzinəyə keçməsi
 - 1165.1. Əgər nə qanun üzrə, nə də vəsiyyət üzrə vərəsə yoxdursa və ya bütün vərəsələr mirasdan imtina etmişsə, yaxud bütün vərəsələr vərəsəlik hüququndan məhrum edilmişdirsə, vərəsələri olmayan əmlak dövlətə keçir; əgər miras qoyan şəxs sosial xidmət müəssisələrinin təminatında olmuşdursa, qanunla dövlət mülkiyyətinə keçməli olan daşınar əmlak istisna olmaqla həmin şəxslərə məxsus daşınar əmlak onların mülkiyyətinə keçir.
 - 1165.2. Çıxarılmışdır.
+
 ### 64-cü fəsil. Vəsiyyət üzrə vərəsəlik
 #### Maddə 1166. Vəsiyyət anlayışı
 Fiziki şəxs ölməsi halı üçün öz əmlakını və ya onun bir hissəsini həm vərəsələr sırasından, həm də kənar adamlar sırasından bir və ya bir neçə şəxsə qoya bilər.
+
 #### Maddə 1167. Vəsiyyət edə bilən şəxs
 Vəsiyyətnamənin tərtib edildiyi məqamda öz hərəkətləri barəsində şüurlu mühakimə yürüdə bilən və öz iradəsini aydın ifadə edə bilən yetkinlik yaşına çatmış fəaliyyət qabiliyyətli şəxs vəsiyyət edə bilər.
+
 #### Maddə 1168. Vəsiyyətnamənin şəxsən vəsiyyət edən tərəfindən tərtibi
 Vəsiyyətnaməni şəxsən vəsiyyət edən tərtib etməlidir. Vəsiyyətnamənin nümayəndə vasitəsilə tərtibinə yol verilmir.
+
 #### Maddə 1169. Birgə vəsiyyətnamə
 Vəsiyyətnamədə bir miras qoyanın sərəncamı olmalıdır. Vəsiyyətnamənin iki və ya daha çox şəxs tərəfindən birgə tərtibinə yol verilmir. Yalnız ərlə arvad qarşılıqlı vərəsəlik haqqında birgə vəsiyyətnamə tərtib edə bilərlər. Bu vəsiyyətnamə ərin və ya arvadın tələbi ilə, lakin onların hər ikisinin sağlığında ləğv edilə bilər.
+
 #### Maddə 1170. Vəsiyyət edənin payları müəyyənləşdirməsi
 - 1170.1. Vəsiyyət edən vəsiyyətnamə ilə təyin edilmiş vərəsələrin miras paylarını müəyyənləşdirə bilər və ya hansı vərəsəyə hansı əmlakın verildiyini konkret göstərə bilər. Əgər vəsiyyətnamədə bu cür göstəriş yoxdursa, miras vərəsələr arasında bərabər bölüşdürülür.
 - 1170.2. Əgər vəsiyyətnamə ilə bir neçə vərəsə təyin edilmişdirsə, lakin vəsiyyətnamədə yalnız bir vərəsənin payı müəyyənləşdirilmişdirsə, digər vərəsələr qalan əmlakı bərabər alırlar.
+
 #### Maddə 1171. Mirasın vəsiyyət üzrə vərəsələr arasında bölüşdürülməsi
 Əgər vəsiyyətnamə ilə bir neçə vərəsə təyin edilmişdirsə və vərəsələrdən birinə təyin edilmiş pay mirasın hamısından ibarətdirsə, vəsiyyət üzrə bütün vərəsələr bərabər paylar almalıdırlar.
+
 #### Maddə 1172. Vəsiyyətnamədən kənarda qalmış əmlaka vərəsəlik
 Əgər vəsiyyətnamə ilə təyin edilmiş vərəsələrin payları bütövlükdə mirasın hamısını əhatə etmirsə, vəsiyyətnamədən kənarda qalmış əmlaka qanun üzrə vərəsəlik həyata keçirilir və əgər vəsiyyətnamədə ayrı qayda nəzərdə tutulmayıbsa, bu cür vərəsəlik əmlakın bir hissəsinin vəsiyyət edildiyi qanun üzrə vərəsələrə də aid olunur.
+
 #### Maddə 1173. Vəsiyyət üzrə vərəsələr arasında payların mütənasib artırılması
 Yalnız vəsiyyətnamə ilə təyin edilmiş vərəsələr olduqda, əgər vəsiyyət üzrə hər bir vərəsənin öz payı müəyyənləşdirilmişdirsə, lakin onların hamısının payları birlikdə götürüldükdə mirası tam əhatə etmirsə, onların payları mütənasib surətdə artırılır.
+
 #### Maddə 1174. Miras payının müəyyənləşdirilməsində üçüncü şəxsin iştirakının yolverilməzliyi
 Vəsiyyət edən mirasdan kimin və hansı miqdarda pay almalı olduğunu müəyyənləşdirməyi başqa şəxsə tapşıra bilməz.
+
 #### Maddə 1175. Vərəsələri dəqiq müəyyənləşdirməyin mümkün olmaması
 Əgər vəsiyyət edən vərəsənin şəxsiyyətini bir neçə şəxsə uyğun gələ bilən əlamətlərlə müəyyənləşdirmişdirsə və onlardan hansını nəzərdə tutduğunu təyin etmək mümkün deyildirsə, onların hamısı bərabər pay hüququ ilə vərəsə sayılırlar.
+
 #### Maddə 1176. Vəsiyyət üzrə vərəsəlik hüququndan məhrumetmə
 - 1176.1. Vəsiyyət edən qanun üzrə vərəsələrdən birini, bir neçəsini və ya hamısını vəsiyyətnamə ilə mirasdan məhrum edə bilər və bunu əsaslandırmağa borclu deyildir.
 - 1176.2. Vəsiyyətnamədə birbaşa göstərişlə mirasdan məhrum edilmiş şəxs vəsiyyətnaməyə daxil olmamış əmlak hissəsinə, vəsiyyət üzrə vərəsələrin mirası qəbul etməkdən imtina etdikləri halda da, qanun üzrə vərəsə ola bilməz.
+
 #### Maddə 1177. Vərəsəlik hüququnun saxlanması
 Vəsiyyətnamədə göstərilməmiş qanun üzrə vərəsələr vəsiyyətnamədə toxunulmamış miras hissəsinə vərəsəlik hüququnu saxlayırlar; əgər mirasın açıldığı məqamda vəsiyyət üzrə vərəsələrdən heç biri sağ deyildirsə və ya onların hamısı mirası qəbul etməkdən imtina etmişlərsə, onlar vəsiyyətnamədə nəzərdə tutulan əmlakı da alırlar.
+
 #### Maddə 1178. Qanun üzrə vərəsəliyin yolverilməzliyi
 Əgər vəsiyyətnamədə bütün miras əmlak vəsiyyət üzrə vərəsələr arasında bölüşdürülmüşdürsə, lakin mirasın açıldığı vaxt vərəsələrdən biri sağ deyildirsə, qanun üzrə vərəsəlik əmələ gəlmir və onun əmlak payını vəsiyyət üzrə digər vərəsələr paylarına mütənasib surətdə alırlar.
+
 ### 65-ci fəsil. Vəsiyyətnamənin forması
 #### Maddə 1179. Notariat forması
 - 1179.1. Vəsiyyətnamə yazılı formada tərtib edilməlidir. Həm də notariat formasında və ya bunsuz yazılı vəsiyyətnaməyə yol verilir.
 - 1179.2. Notariat forması tələb edir ki, vəsiyyətnaməni vəsiyyət edən tərtib etsin və imzalasın, notarius, notariusun olmadığı yerlərdə isə müvafiq icra hakimiyyəti orqanları təsdiqləsin.
+
 #### Maddə 1180. Vəsiyyətnamənin notarius tərəfindən yazılması
 - 1180.1. Vəsiyyətnaməni vəsiyyət edənin sözlərindən notariusun iki şahidin yanında yazmasına yol verilir. Vəsiyyətnamənin yazılması zamanı hamılıqla qəbul olunmuş texniki vasitələr tətbiq edilə bilər.
 - 1180.2. Vəsiyyət edənin sözlərindən notariusun yazdığı vəsiyyətnaməni vəsiyyət edən oxumalı və notariusun, şahidlərin yanında imzalamalıdır.
+
 #### Maddə 1181. Notariusa bərabər tutulan şəxslər
-Vəsiyyətnamə təsdiqlənərkən aşağıdakılar notariusa bərabər tutulurlar:
 - 1181.1. xəstəxananın, hospitalın, digər müalicə müəssisəsinin, sanatoriyanın baş həkimi, rəisi, onların tibbi hissə üzrə müavinləri və növbətçi həkimi və ya ahıllar və əlilliyi olan şəxslər üçün sosial xidmət müəssisələrinin baş həkimi, xüsusi təhsil müəssisəsinin rəhbəri - əgər vəsiyyət edən bu müəssisədə müalicə edilirsə və ya yaşayırsa;
 - 1181.2. axtarış, coğrafi və digər bu cür ekspedisiyaların rəisi - əgər vəsiyyət edən belə ekspedisiyadadırsa;
 - 1181.3. dəniz gəmisinin kapitanı və hava gəmisinin kapitanı (komanda verən pilotu) - əgər vəsiyyət edən dəniz və ya hava gəmisindədirsə;
 - 1181.4. hərbi hissənin, birləşmənin, müəssisənin və məktəbin komandiri (rəisi) - əgər hərbi hissənin yerləşdiyi məntəqədə notarius yoxdursa və əgər vəsiyyət edən hərbi hissədə hərbi qulluqçudursa və ya həmin hissədə qulluq edən mülki şəxs, yaxud onun ailə üzvüdürsə;
 - 1181.5. azadlıqdan məhrumetmə yerinin rəisi - əgər vəsiyyət edən azadlıqdan məhrumetmə yerindədirsə.
+
 #### Maddə 1182. Vəsiyyətnamənin başqa şəxs tərəfindən imzalanması
 Əgər vəsiyyət edən hər hansı səbəbdən vəsiyyətnaməni özü imzalaya bilmirsə, onun xahişi ilə başqa fiziki şəxs imzalaya bilər. Bu zaman vəsiyyət edənin hansı səbəbdən vəsiyyətnaməni imzalaya bilmədiyi göstərilməlidir.
+
 #### Maddə 1183. Nitq-eşitmə və görmə qabiliyyəti tam məhdud olan şəxsin vəsiyyətnaməsi
 - 1183.1. Əgər vəsiyyət edən nitq-eşitmə qabiliyyəti tam məhdud olan şəxsdirsə və ya nitq-eşitmə qabiliyyəti tam məhdud və savadsızdırsa, vəsiyyət sərəncamını o, notariusda iki şahidin və işin məğzini ona izah edə bilən və vəsiyyətnamənin məzmununun vəsiyyət edənin iradəsinə uyğunluğunu öz imzası ilə təsdiqləyə bilən bir nəfər şəxsin yanında tərtib etməlidir.
 - 1183.2. Görmə qabiliyyəti tam məhdud və ya savadsız olan vəsiyyət edən vəsiyyət sərəncamını notariusda üç şahidin yanında tərtib etməlidir. Bu barədə müvafiq qeyd yazılıb ona oxunmalıdır.
-- 1183.3. Əgər vəsiyyət edən nitq-eşitmə-görmə qabiliyyəti tam məhdud olan şəxsdirsə və ya nitq-eşitmə-görmə qabiliyyəti tam məhdud və savadsızdırsa, vəsiyyət sərəncamını notariusda dörd şahidin və işin məğzini ona izah edə bilən və vəsiyyətnamənin məzmununun vəsiyyət edənin iradəsinə uyğunluğunu öz imzası ilə təsdiqləyə bilən bir nəfər şəxsin yanında tərtib etməlidir.
+- 1183.3. Əgər vəsiyyət edən nitq-eşitmə-görmə qabiliyyəti tam məhdud olan şəxsdirsə və ya nitq-eşitmə-gabiliyyəti tam məhdud və savadsızdırsa, vəsiyyət sərəncamını notariusda dörd şahidin və işin məğzini ona izah edə bilən və vəsiyyətnamənin məzmununun vəsiyyət edənin iradəsinə uyğunluğunu öz imzası ilə təsdiqləyə bilən bir nəfər şəxsin yanında tərtib etməlidir.
 - 1183.4. Vəsiyyətnaməni şahidlər yaza və oxuya bilərlər, lakin vəsiyyətnaməni onu yazan oxumamalıdır.
 - 1183.5. Qeyddə onu kimin yazdığı və vəsiyyət edənə oxuduğu göstərilməlidir. Qeyd şahidlər tərəfindən imzalanmalı və notarius tərəfindən təsdiqlənməlidir.
+
 #### Maddə 1184. Vəsiyyətin şahidləri
 Yetkinlik yaşına çatmayanlar, fəaliyyət qabiliyyəti olmayan sayılmış şəxslər, vəsiyyət üzrə vərəsələr və onların yüksələn və enən xətt üzrə qohumları, bacıları, qardaşları, arvadı (əri) və vəsiyyət tapşırığını alan (leqatari) vəsiyyətin şahidləri ola bilməzlər.
+
 #### Maddə 1185. Vəsiyyətnamə sirri
 Notarius, vəsiyyətnaməni təsdiqləmiş digər şəxs, şahid, habelə vəsiyyətnaməni vəsiyyət edənin əvəzinə imzalamış şəxslər vəsiyyətnamənin məzmununa, tərtibinə, dəyişdirilməsinə və ya ləğvinə aid məlumatları miras açılanadək açıqlaya bilməzlər.
+
 #### Maddə 1186. Ev vəsiyyətnaməsi
 Vəsiyyət edən vəsiyyətnaməni öz əli ilə yazıb imzalaya bilər.
+
 #### Maddə 1187. Vəsiyyətnamənin depozitə qoyulması
 - 1187.1. Vəsiyyət edən öz əli ilə yazdığı və imzaladığı vəsiyyətnaməni zərfə qoyub bağlayaraq üç şəxsin yanında notariusa və ya Azərbaycan Respublikası konsulluqlarının vəzifəli şəxslərinə verə bilər. Həmin şəxslərin orada olması onların zərfin üzərində notariat qaydasında (formasında) təsdiq edilmiş imzaları ilə müəyyən olunur.
 - 1187.2. Bu növ vəsiyyətnamənin saxlanması onun notariusda (və ya Azərbaycan Respublikasının konsulluqlarında) rəsmən depozitə qoyulması ilə təmin edilməlidir.
+
 #### Maddə 1188. Vəsiyyətnamənin texniki vasitələrdən istifadə edilməklə tərtibi
 Vəsiyyətnamənin mətni hamılıqla qəbul olunmuş texniki vasitənin köməyi ilə ifadə edilə bilər, lakin imzanı vəsiyyət edən qoymalıdır. Bu halda vəsiyyət edən vəsiyyətnaməni iki şahidin yanında tərtib etməli və imzalamalıdır. Həmin şahidlər təsdiq etməlidirlər ki, vəsiyyətnamə onların yanında texniki vasitədən istifadə edilməklə tərtib olunmuşdur. Vəsiyyət edən vəsiyyətnaməni imzaladıqdan dərhal sonra şahidlər vəsiyyətnamədə öz adlarını, soyadlarını və yaşayış yerlərini göstərməklə müvafiq qeyd vasitəsilə vəsiyyətnaməni təsdiqləməlidirlər.
+
 #### Maddə 1189. Qapalı vəsiyyətnamə
 - 1189.1. Vəsiyyət edənin arzusu ilə şahidlər vəsiyyətnaməni onun məzmunu ilə tanış olmadan (qapalı vəsiyyət) təsdiqləməlidirlər. Bu halda şahidlər vəsiyyətnamənin tərtibi zamanı vəsiyyət edənin yanında olmalıdırlar.
 - 1189.2. Qapalı vəsiyyətnaməni təsdiqləyərkən şahidlər vəsiyyətnamənin vəsiyyət edən tərəfindən onların yanında tərtib edildiyini, lakin vəsiyyətnamənin məzmununu bilmədiklərini göstərməlidirlər.
+
 #### Maddə 1190. Vəsiyyətnamənin tərtib edildiyi tarix
 Vəsiyyətnamədə onun tərtib edildiyi tarix göstərilməlidir. Tarixin göstərilməməsi vəsiyyətnamənin etibarsızlığına yalnız vəsiyyətnamənin tərtibi, dəyişdirilməsi və ya ləğvi zamanı vəsiyyət edənin fəaliyyət qabiliyyətli olmasına dair şübhələrin aradan qalxmadığı, habelə bir neçə vəsiyyətnamənin olduğu halda səbəb olur.
+
 #### Maddə 1191. Maraqlı şəxslərin vəsiyyətnamənin məzmunu ilə tanış olması
 Vəsiyyət edən öldükdən sonra notarius gün təyin edərək maraqlı şəxsləri vəsiyyətnamənin məzmunu ilə tanış edir. Bu barədə müvafiq protokol tərtib edilməlidir. Əgər vəsiyyətnamənin qoyulduğu zərf möhürlənmişdirsə, möhürün salamatlığı qeyd edilməlidir.
+
 #### Maddə 1192. Ehtiyat vərəsə
 - 1192.1. Vəsiyyət edən özünün təyin etdiyi vərəsənin miras açılanadək ölməsi və ya mirasdan imtina etməsi, yaxud vərəsəlik hüququndan məhrum edilməsi halı üçün vəsiyyətnamədə başqa vərəsənin (ehtiyat vərəsənin) adını göstərə bilər.
 - 1192.2. Bu Məcəllənin 1134-1136-cı maddələrinə görə vərəsə ola bilən istənilən şəxs ehtiyat vərəsə ola bilər.
+
 ### 66-cı fəsil. Mirasda məcburi pay
 #### Maddə 1193. Mirasda məcburi pay anlayışı
 Vəsiyyət edənin uşaqlarının, valideynlərinin və arvadının (ərinin) vəsiyyətnamənin məzmunundan asılı olmayaraq mirasda məcburi payı vardır. Bu pay qanun üzrə vərəsəlik zamanı onlara çatası payın yarısını (məcburi pay) təşkil etməlidir.
+
 #### Maddə 1194. Məcburi payı tələb etmək hüququnun əmələ gəldiyi an
 Məcburi payı tələb etmək hüququ mirasın açıldığı an əmələ gəlir. Bu cür tələb hüququ vərəsəlik üzrə keçir. Məcburi payı tələb etmək hüququ olan şəxs qarşısında digər vərəsələr birgə borclu kimi çıxış edirlər.
+
 #### Maddə 1195. Məcburi payın həcminin müəyyənləşdirilməsi
 Məcburi payın tam həcmi vəsiyyət tapşırığını və ya ümumi faydalı məqsədlər üçün hər hansı hərəkəti yerinə yetirməkdən ötrü nəzərdə tutulan əmlak da daxil olmaqla, bütün mirasdan müəyyənləşdirilir.
+
 #### Maddə 1196. Vərəsələrdən hər birinin məcburi payının müəyyənləşdirilməsi
 Vərəsələrdən hər birinin məcburi payı müəyyənləşdirilərkən əgər vəsiyyətnamə olmasaydı, miras almağa çağırıla biləcək qanun üzrə vərəsələrin hamısı nəzərə alınmalıdır. Vəsiyyət üzrə vərəsələr nəzərə alınmır.
+
 #### Maddə 1197. Alınmış əmlakın məcburi paya daxil edilməsi
 Məcburi pay almaq hüququ olan şəxs miras qoyanın sağlığında ondan məcburi paya daxil edilmək şərti ilə aldıqlarının hamısını məcburi paya daxil etməyə borcludur.
+
 #### Maddə 1198. Vəsiyyət tapşırığından imtinanın nəticələri
 Məcburi pay almaq hüququ olan, eyni zamanda vəsiyyət tapşırığını (leqatı) alan şəxs vəsiyyət tapşırığından imtina edərsə, məcburi pay tələb edə bilər. Əgər o, vəsiyyət tapşırığından imtina etməzsə, məcburi paya hüququnu vəsiyyət tapşırığının dəyəri həddində itirir.
+
 #### Maddə 1200. Məcburi payın bağışlanmış əşya hesabına artırılması
 Miras qoyan əşyanı üçüncü şəxsə bağışladıqda, məcburi paya hüququ olan şəxs, əgər bağışlanmış əşya mirasa daxil olsaydı, onun məcburi payının arta biləcəyi məbləğdə məcburi payın tamamlanmasını tələb edə bilər. Əgər mirasın açıldığı vaxtadək hədiyyənin verilməsindən iki il keçirsə, hədiyyə hesaba alınmır.
+
 #### Maddə 1201. Payın tamamlanmasını tələb etmək hüququ
 Əgər məcburi pay almaq hüququ olan şəxsə onun qanun üzrə vərəsəlik zamanı ala biləcəyi payın yarısından az əmlak vəsiyyət edilmişdirsə, o, vəsiyyət üzrə aldığı payın qanun üzrə vərəsəlik zamanı ala biləcəyi payın yarısından az olduğu hissəni tələb edə bilər.
+
 #### Maddə 1202. Məcburi payı qəbul etməkdən imtina
 - 1202.1. Məcburi pay almaq hüququ olan vərəsə onu qəbul etməkdən imtina edə bilər, lakin bu imtina digər vərəsələrin məcburi payının artmasına səbəb olmur. Onun payı vəsiyyət üzrə vərəsələrə keçir.
 - 1202.2. Məcburi paydan imtina olunması mirasdan imtina olunması üçün müəyyənləşdirilmiş vaxt ərzində həyata keçirilməlidir.
+
 #### Maddə 1203. Məcburi pay almaq hüququndan məhrumetmə
 - 1203.1. Məcburi pay almaq hüququndan məhrumetmə, ümumiyyətlə, vərəsəlik hüququndan məhrumetməyə səbəb olan hallar olduqda mümkündür.
 - 1203.2. Məcburi pay almaq hüququndan məhrumetməni miras qoyan hələ öz sağlığında məhkəməyə müraciət etmək yolu ilə həyata keçirə bilər.
 - 1203.3. Məcburi pay almaq hüququndan məhrumetmə barəsində məhkəmənin çıxardığı qərar mirasın açıldığı andan qüvvədə olur. Miras qoyanın hələ öz sağlığında məhkəməyə müraciət etdiyi, lakin qərarın onun ölümündən sonra qəbul edildiyi halda da bu cür nəticə baş verir.
+
 ### 67-ci fəsil. Vəsiyyət tapşırığı (leqat)
 #### Maddə 1205. Vəsiyyət tapşırığı anlayışı
 Vəsiyyət edən miras hesabına hər hansı öhdəliyin bir və ya bir neçə şəxsin xeyrinə icra olunmasını vərəsəyə həvalə edə bilər (vəsiyyət tapşırığı - leqat).
+
 #### Maddə 1206. Vəsiyyət tapşırığının predmeti
 Vəsiyyət tapşırığının predmeti miras əmlaka daxil olan əşyaların vəsiyyət tapşırığını alanın (leqatarinin) mülkiyyətinə, istifadəsinə və ya digər əşya hüququ ilə verilməsi, mirasa daxil olmayan əmlakın əldə edilməsi və ona verilməsi, müəyyən işin görülməsi, xidmətlərin göstərilməsi və i.a. ola bilər.
+
 #### Maddə 1207. Vəsiyyət tapşırığına əsasən yaşayış otağından istifadə
 Vəsiyyət edən yaşayış evinin, mənzilin və ya digər yaşayış otağının keçdiyi vərəsənin üzərinə miras açılanadək bir ildən az olmayan müddətdə miras qoyanla birlikdə yaşamış şəxsə otaqdan və ya onun müəyyən hissəsindən ömürlük istifadə hüququ vermək vəzifəsini qoya bilər. Yaşayış otağına mülkiyyət hüququ sonradan başqasına keçdikdə ömürlük istifadə hüququ qüvvədə qalır.
+
 #### Maddə 1208. Yaşayış otağından ömürlük istifadə hüququnun özgəninkiləşdirilməməsi
 - 1208.1. Yaşayış otağından ömürlük istifadə hüququ özgəninkiləşdirilmir və vəsiyyət tapşırığını alanın vərəsələrinə keçmir.
 - 1208.2. Əgər vəsiyyətnamədə ayrı hal nəzərdə tutulmayıbsa, yaşayış otağından ömürlük istifadə hüququ vəsiyyət tapşırığını alanın ailə üzvlərinin həmin otaqda yaşamasına əsas vermir.
+
 #### Maddə 1209. Vəsiyyət tapşırığının icra hədləri
 Vəsiyyət tapşırığının icrasının həvalə edildiyi vərəsə həmin tapşırığı, miras qoyanın borclarından ödəməli olduğu hissəni çıxmaqla, vəsiyyət edilmiş mirasın həqiqi dəyəri hədlərində icra etməlidir.
+
 #### Maddə 1210. Vəsiyyət tapşırığının başqa vərəsələr tərəfindən icrası
 Əgər vəsiyyət tapşırığının icrasının həvalə olunduğu vərəsə miras açılanadək ölərsə və ya mirasdan imtina edərsə, vəsiyyət tapşırığını icra etmək vəzifəsi onun payını almış digər vərəsələrə keçir, bu şərtlə ki, vəsiyyətdən ayrı hal irəli gəlməsin.
-#### Maddə 1211. Vəsiyyət tapşırığının icrasına xitam verilməsi
+
+#### Maddə 1211. Vəsiyyət tapşırığının icrasından xitam verilməsi
 Vəsiyyət tapşırığının icrasının həvalə olunduğu vərəsənin öldüyü halda, əgər vəsiyyət tapşırığının icrası onun iştirakı olmadan mümkün deyildirsə, vəsiyyət tapşırığını icra etmək öhdəliyinə xitam verilir.
+
 #### Maddə 1212. Vəsiyyət tapşırığının mirasdakı paya mütənasib surətdə icrası
 Vəsiyyət tapşırığının icrası bir neçə vərəsəyə həvalə olunduqda, əgər vəsiyyətnamədə ayrı qayda nəzərdə tutulmayıbsa, onlardan hər biri vəsiyyət tapşırığını mirasdakı payına mütənasib surətdə icra edir.
+
 #### Maddə 1213. Vəsiyyət tapşırığının icrası müddəti
 Vəsiyyət tapşırığını alan vəsiyyət tapşırığının miras açılan gündən hesablanan üç illik iddia müddəti ərzində icra olunmasını tələb edə bilər.
+
 #### Maddə 1214. Məcburi pay alınarkən vəsiyyət tapşırığı
 Vəsiyyət tapşırığının icrasının həvalə edildiyi vəsiyyət üzrə vərəsənin məcburi pay almaq hüququ da olduqda, o, vəsiyyət tapşırığını yalnız vəsiyyət edilmiş əmlakın məcburi paydan əlavə aldığı hissəsi həddində icra edir.
+
 #### Maddə 1215. Vəsiyyət tapşırığını alanın məsuliyyəti
 Vəsiyyət tapşırığını alan miras qoyanın borcları üçün məsuliyyət daşımır.
+
 #### Maddə 1216. Vəsiyyət tapşırığından imtina
 Vəsiyyət tapşırığını alan vəsiyyət tapşırığını qəbul etməkdən imtina edə bilər. Bu halda mirasın müvafiq hissəsi vəsiyyət tapşırığının həvalə olunacağı vərəsəyə qalır.
+
 #### Maddə 1217. Vəsiyyət tapşırığının icrasından azad edilmə
 Əgər vəsiyyət tapşırığını alan onu qəbul etməkdən imtina edərsə, vəsiyyət tapşırığının icrasının həvalə olunduğu vərəsə onu icra etmək vəzifəsindən azad edilir.
+
 #### Maddə 1218. Vəsiyyət tapşırığının vərəsələrə keçməsi
 Əgər vəsiyyət tapşırığını alan miras açıldıqdan sonra vəsiyyət tapşırığının qəbuluna razılıq verməyə macal tapmadan ölərsə, vəsiyyət tapşırığını almaq hüququ tapşırığı onun əvəzinə qəbul edəcək vərəsələrinə keçir.
+
 #### Maddə 1219. Ümumi faydalı məqsədlər üçün vəsiyyət tapşırığı
 - 1219.1. Vəsiyyət edən vərəsəyə ümumi faydalı məqsədlər üçün hər hansı hərəkətin icrasını tapşıra bilər. Bu hərəkət həm əmlak, həm də qeyri-əmlak xarakteri daşıya bilər.
 - 1219.2. Əgər tapşırılmış hərəkət əmlaka aiddirsə, vəsiyyət tapşırığını tənzimləyən normalar tətbiq edilir.
 - 1219.3. Vəsiyyətdə ümumi faydalı məqsədlər üçün hər hansı hərəkətin icrasının tapşırıldığı vərəsənin öldüyü halda bu öhdəliyin icrası mirası qəbul etmiş digər vərəsələrə keçir.
 - 1219.4. Vərəsəyə tapşırılmış hərəkətin icrasını ondan vəsiyyətnamənin icraçısı, beləsi olmadıqda isə hər hansı vərəsə, habelə maraqlı siyasi partiya, ictimai birlik, həmkarlar ittifaqı və dini təşkilat, fond, dövlət hakimiyyəti və ya yerli özünüidarə orqanları məhkəmə yolu ilə tələb edə bilərlər.
+
 ### 68-ci fəsil. Vəsiyyətnamənin dəyişdirilməsi və ya ləğvi
 #### Maddə 1220. Vəsiyyətnamənin dəyişdirilməsi imkanları
 - 1220.0. Vəsiyyət edən vəsiyyətnaməni aşağıdakı üsullarla həmişə dəyişdirə və ya ləğv edə bilər:
   - 1220.0.1. əvvəlki vəsiyyətnaməni və ya onun yeni vəsiyyətnaməyə zidd hissəsini birbaşa ləğv edən yeni vəsiyyətnamə tərtib etməklə;
   - 1220.0.2. notariat orqanına ərizə verməklə;
   - 1220.0.3. Vəsiyyətnamənin bütün nüsxələrinin vəsiyyət edən tərəfindən və ya onun sərəncamı ilə notarius tərəfindən məhv edilməsi ilə.
+
 #### Maddə 1221. Ləğv edilmiş vəsiyyətnamənin bərpasının yolverilməzliyi
 Sonradan tərtib edilmiş vəsiyyətnamə ilə ləğv edilən vəsiyyətnamə sonradan tərtib edilmiş vəsiyyətnamənin ərizə vermək yolu ilə ləğv edildiyi halda da bərpa oluna bilməz.
+
 #### Maddə 1222. Bir neçə vəsiyyətnamə
 Əgər vəsiyyət edən bir neçə vəsiyyətnamə tərtib etmişdirsə, lakin onlar bir-birini tamamlayır və tam əvəz etmirsə, bütün vəsiyyətnamələr qüvvədə qalır. Əvvəlki vəsiyyətnamənin göstərişləri sonrakı vəsiyyətnamə ilə dəyişdirilmədiyi halda qüvvədə qalır.
+
 #### Maddə 1223. Notariat vəsiyyətnaməsinin üstünlüyü
 - 1223.1. Əgər bir şəxs bir neçə vəsiyyətnamə tərtib etmişdirsə və onlardan yalnız biri notariat formasında tərtib edilmişdirsə, notariat formasında tərtib edilmiş vəsiyyətnaməyə üstünlük verilir.
 - 1223.2. Notariat vəsiyyətnaməsi başqa formalı vəsiyyətnamə ilə ləğv edilə bilməz.
 
 - 1223.1. Əgər bir şəxs bir neçə vəsiyyətnamə tərtib etmişdirsə və onlardan yalnız biri notariat formasında tərtib edilmişdirsə, notariat formasında tərtib edilmiş vəsiyyətnaməyə üstünlük verilir.
 - 1223.2. Notariat vəsiyyətnaməsi başqa formalı vəsiyyətnamə ilə ləğv edilə bilməz.
-
 #### Maddə 1224. Vəsiyyətnamənin qüvvədən düşmüş sayılmasının əsasları
 - 1224.0. Vəsiyyətnamə aşağıdakı hallarda qüvvədən düşür:
   - 1224.0.1. xeyrinə vəsiyyətnamə tərtib edilmiş şəxs vəsiyyət edəndən tez öldükdə;
   - 1224.0.2. vəsiyyət edilmiş əmlak vəsiyyət edənin sağlığında itirildikdə və ya onun tərəfindən özgəninkiləşdirildikdə;
   - 1224.0.3. yeganə vərəsə mirası qəbul etməkdən imtina etdikdə.
-
 #### Maddə 1225. Vəsiyyətnamənin etibarsızlığı
 - 1225.1. Vəsiyyətnamə, ümumiyyətlə, əqdlərin etibarsızlığına səbəb olan hallar olduqda etibarsız sayılır.
 - 1225.2. Qanuna zidd olan vəsiyyət sərəncamları, habelə aydın olmayan və ya bir-birinə zidd olan şərtlər etibarsızdır.
 - 1225.3. Əgər vəsiyyətnamə bu Məcəllə ilə müəyyənləşdirilmiş qaydalar pozulmaqla, habelə şəxsin öz hərəkətinin mənasını başa düşə bilmədiyi və öz hərəkətini idarə edə bilmədiyi vəziyyətdə tərtib edilmişdirsə, məhkəmə tərəfindən etibarsız sayıla bilər.
-
 #### Maddə 1226. Ayrı-ayrı vəsiyyət sərəncamlarının etibarsızlığı
 - 1226.1. Mirasda olmayan əşyaya vərəsəliyə çağırmağa əsas verən vəsiyyət sərəncamı etibarsızdır.
 - 1226.2. Əgər kiməsə miras əmlakda olmayan pul məbləği vəsiyyət edilmişdirsə, vəsiyyətnamənin bu cür sərəncamı etibarsızdır.
 - 1226.3. Vərəsənin mirası müəyyən dövr üçün və ya miras qoyanın öldüyü gündən deyil, sonralar alacağı barədə, habelə vərəsənin ölümündən sonra mirasın kimə keçməli olduğu barədə vəsiyyət sərəncamı etibarsızdır.
-
 #### Maddə 1227. Vəsiyyət sərəncamının icrasının qeyri-mümkünlüyü nəticəsində etibarsızlığı
 Vəsiyyət sərəncamı vərəsə tərəfindən sağlamlıq vəziyyətinə və ya digər obyektiv səbəblərə görə yerinə yetirilə bilmədikdə vərəsənin iddiası üzrə etibarsız sayıla bilər.
-
 #### Maddə 1228. Vəsiyyət sərəncamlarından birinin etibarsızlığının nəticələri
 Əgər bir neçə vəsiyyət sərəncamından biri etibarsızdırsa və ya qüvvədən düşmüşdürsə və miras qoyan başqa sərəncamlar verməmişdirsə, vəsiyyətnamənin qalan sərəncamları qüvvədə qalır.
-
 #### Maddə 1229. Vəsiyyətnamənin etibarsızlığı halında mirasın alınması
 Vəsiyyətnamənin etibarsız sayıldığı halda bu vəsiyyətnamə ilə vərəsəlik hüququndan məhrum edilmiş vərəsə mirası ümumi əsaslar üzrə ala bilər.
-
 #### Maddə 1230. Vəsiyyətnamənin etibarlığı barəsində mübahisə edilməsi
 Qanun üzrə vərəsələr və digər əlaqədar şəxslər əqdin etibarsızlığına səbəb olan hallar üzrə vəsiyyətnamənin etibarlığı barəsində mübahisə edə bilərlər.
-
 #### Maddə 1231. İddia verilməsi müddəti
 - 1231.1. Vəsiyyətnamənin qüvvədən düşmüş sayılması barədə iddia mirasın açıldığı gündən iki il ərzində irəli sürülə bilər.
 - 1231.2. Vəsiyyət edən özgəsinin əmlakını yanlış olaraq öz əmlakı kimi vərəsəyə vəsiyyət etdikdə, bu Məcəllənin 1231.1-ci maddəsində nəzərdə tutulan iddia müddəti mülkiyyətçinin iddiasına şamil edilmir.
-
-### 69-ci fəsil. Vəsiyyətnamənin icrası
-
+### 69-cu fəsil. Vəsiyyətnamənin icrası
 #### Maddə 1232. Vəsiyyətnamənin icrası subyektləri
 Vəsiyyətnamədə göstərişin olmadığı halda onun icrası vəsiyyət üzrə vərəsələrin öhdəsinə qoyulur. Vərəsələr vəsiyyətnamənin icrasını qarşılıqlı razılaşmaya əsasən özlərindən birinə və ya başqa şəxsə etibar edə bilərlər.
-
 #### Maddə 1233. Vəsiyyətnamənin icraçısının təyin edilməsi
 Vəsiyyət sərəncamlarının dəqiq icrası məqsədilə vəsiyyət edən vəsiyyətnamə ilə həm vəsiyyət üzrə vərəsələr sırasından vəsiyyətnamənin bir və ya bir neçə icraçısını, həm də vərəsə olmayan başqa şəxsi təyin edə bilər. Başqa şəxsin təyin edildiyi halda vəsiyyətnamə icraçısının razılığı zəruridir. Bu razılığı o, vəsiyyətnamənin özündə və ya vəsiyyətnaməyə qoşulmuş ərizədə yazmaqla ifadə etməlidir.
-
 #### Maddə 1234. Vəsiyyətnamənin icrasından imtina
 Vəsiyyətnamənin icraçısı vəsiyyət edənin onun öhdəsinə qoyduğu vəzifədən istənilən vaxt imtina edə bilər. Bu barədə o, vəsiyyət üzrə vərəsələri qabaqcadan xəbərdar etməlidir.
-
 #### Maddə 1235. Vəsiyyətnamənin icraçısının üçüncü şəxs tərəfindən təyin edilməsi
 Vəsiyyət edən vəsiyyətnamənin icraçısını təyin etməyi üçüncü şəxsə tapşıra bilər. Həmin şəxs miras açıldıqdan sonra dərhal vəsiyyətnamənin icraçısını təyin etməli və bu barədə vərəsələrə məlumat verməlidir. O, həmin tapşırığı yerinə yetirməkdən imtina edə bilər. Bu barədə də o, vərəsələrə ləngimədən məlumat verməlidir.
-
 #### Maddə 1236. Vəsiyyətnamənin tamamilə və ya qismən icrası
 Vəsiyyətnamənin icraçısına vəsiyyətnaməni tamamilə və ya onun ayrı-ayrı sərəncamlarını icra etmək tapşırıla bilər.
-
 #### Maddə 1237. Mirasın mühafizə və idarə edilməsi
 Mirasın açıldığı andan vəsiyyətnamənin icraçısı mirası mühafizə və idarə etməyə başlamalıdır; o, vəsiyyətnamənin icrası üçün zəruri olan bütün hərəkətləri yerinə yetirməyə səlahiyyətlidir. Bu səlahiyyət daxilində vərəsələr mirası idarə etmək hüququnu itirirlər.
-
 #### Maddə 1238. Mirasın bir neçə icraçı tərəfindən mühafizə və idarə edilməsi
 Əgər vəsiyyətnamənin bir neçə icraçısı vardırsa, təkbaşına hərəkətlərə yalnız mirasın mühafizəsi məqsədilə yol verilir, qalan hallarda onlar arasında razılıq zəruridir.
-
 #### Maddə 1239. Vəsiyyətnamənin icrası xərclərinin əvəzinin ödənilməsi
 - 1239.1. Vəsiyyətnamənin icraçısı öz vəzifələrini əvəzsiz yerinə yetirir, hərçənd, vəsiyyətnamədə nəzərdə tutulmuşdursa, muzd da ala bilər.
 - 1239.2. Vəsiyyətnamənin icraçısı əmlakın mühafizəsinə və idarə edilməsinə çəkdiyi zəruri xərclərin əvəzinin mirasdan ödənilməsi hüququna malikdir.
 - 1239.3. Vərəsə olmayan vəsiyyətnamə icraçısı, bu Məcəllənin 1249-cu maddəsində nəzərdə tutulan hallardan başqa, digər xərcləri mirasdan ödəyə bilməz.
-
 #### Maddə 1240. İcraçının hesabatı
 Vəsiyyətnaməni icra etdikdən sonra vəsiyyətnamənin icraçısı vərəsələrin tələbi ilə onlara öz fəaliyyəti barəsində hesabat verməyə borcludur. Vəsiyyətnamənin icraçısı öz funksiyalarını bütün vərəsələr mirası qəbul edənədək yerinə yetirir.
-
 #### Maddə 1241. Vəsiyyətnamə icraçısının kənar edilməsi
 Vəsiyyətnamənin icraçısı öz vəzifələrini yerinə yetirmədikdə, maraqlı şəxs icraçının kənar edilməsi tələbi ilə məhkəməyə müraciət edə bilər.
-
 #### Maddə 1242. Vəsiyyətnamə icraçısının məsuliyyəti
 Əgər vəsiyyətnamənin icraçısı vəsiyyətnamə ilə onun öhdəsinə qoyulmuş vəzifələrin icrasından qəsdən və ya kobud ehtiyatsızlıq üzündən kənara çıxarsa və bununla da vərəsələrə zərər vurarsa, bu zərər üçün məsuliyyət daşımalıdır.
-
 ### 70-ci fəsil. Mirasın qəbul edilməsi və onun qəbulundan imtina olunması
-
 #### Maddə 1243. Mirasın qəbul edilməsi
 - 1243.1. Mirası istər qanun üzrə, istərsə də vəsiyyət üzrə vərəsə qəbul edir.
 - 1243.2. Vərəsə mirasın açıldığı yer üzrə notariat ofisinə mirası qəbul etdiyi barədə ərizə verdikdə və ya əmlaka sahiblik etməyə və ya əmlakı idarə etməyə faktik başladıqda və bununla da mirası qəbul etdiyini şəksiz nümayiş etdirdikdə, habelə bu Məcəllənin 1256-cı maddəsində müəyyən olunmuş müddət ərzində mirasın qəbulundan imtina etmədikdə miras vərəsə tərəfindən qəbul edilmiş sayılır.
 - 1243.3. Vərəsə mirasın bir hissəsinə sahiblik etməyə və ya əmlakı idarə etməyə faktik başladıqda hesab edilir ki, mirasın nədə ifadə edilməsindən və harada olmasından asılı olmayaraq, o, mirası tamamilə qəbul etmişdir.
-
 #### Maddə 1244. Mirasın fəaliyyət qabiliyyəti olmayan şəxs tərəfindən qəbul edilməsi
 Mirası fəaliyyət qabiliyyətli şəxs qəbul edə bilər. Fəaliyyət qabiliyyəti olmayan və məhdud fəaliyyət qabiliyyətli şəxslər mirası öz qanuni nümayəndələri vasitəsilə qəbul edirlər.
-
 #### Maddə 1245. Mirasın nümayəndə vasitəsilə qəbul edilməsi
 Vərəsə mirası şəxsən və ya nümayəndə vasitəsilə qəbul edə bilər.
-
 #### Maddə 1249. Mirasa dair sərəncam verilməsinin yolverilməzliyi
 Digər vərəsələrin gəlməsini gözləməyən və mirasa sahiblik etməyə və ya onu idarə etməyə başlayan vərəsə, xəstəlik zamanı miras qoyana qulluq, onun müalicəsi və dəfn edilməsi, miras qoyanın öhdəsində olmuş şəxslərin saxlanması, əmək haqqının ödənilməsi, mirasın mühafizə və idarə edilməsi xərclərindən başqa, vərəsəlik şəhadətnaməsi alınanadək mirasa dair sərəncam verə bilməz.
-
 #### Maddə 1250. İddia qaldırılanadək alınmış gəlirə hüquq
 Əgər qanun üzrə vərəsə vəsiyyətnamənin olduğunu bilmədən mirasa sahiblik etməyə başlayarsa, vəsiyyət üzrə vərəsə isə vəsiyyətnamənin etibarsız olduğunu bilməzsə və ya qanun üzrə və vəsiyyət üzrə vərəsələr qanun üzrə daha yaxın vərəsələrin olduğunu və ya başqa vəsiyyətnamənin olduğunu bilməzlərsə, iddia qaldırılanadək mirasdan aldıqları gəlir onlara qalır; onlar mirasa qoyduqları bütün kapitalı da tələb edə bilərlər.
-
 #### Maddə 1251. Mirasa daxil olan ayrı-ayrı əşyalar üzərində səlahiyyətsiz şəxsin sərəncam verməsinin nəticələri
 Əgər səlahiyyətsiz şəxs mirasa daxil olan əşya üzərində həqiqi vərəsəyə münasibətdə etibarlı olan sərəncam vermişsə, o bunun nəticəsində əldə etdiyini həqiqi vərəsəyə verməyə borcludur.
-
 #### Maddə 1252. Miras açıldıqdan sonra vərəsənin ölməsi (irsi transmissiya)
 Əgər vərəsə miras açıldıqdan sonra ölərsə, ölmüş vərəsənin ilkin miras qoyandan pay almaq hüququ həmin vərəsənin miras əmlakı kimi ümumi qaydada öz vərəsələrinə keçir.
-
 #### Maddə 1254. Mirasın siyahısı
-Vərəsə mirasın qəbulundan imtina üçün bu Məcəllənin 1256-cı maddəsində müəyyən edilmiş müddət bitənədək notarius tərəfindən mirasın siyahıya alınmasını tələb edə bilər. Mirasın siyahıya alınması barədə vərəsənin notariusa müraciət etdiyi andan mirasın qəbulundan imtina üçün müəyyən edilmiş müddətin axımı dayandırılır. Mirasın notarius tərəfindən siyahıya alındığı (siyahıya alınacaq əmlakın olmadığı hallarda isə vərəsənin müraciətinin cavablandırıldığı) andan mirasın qəbulundan imtina üçün müəyyən edilmiş müddətin axımı bərpa edilir. Notarius tərəfindən mirasın siyahıya alınması bu barədə müraciətin daxil olduğu gündən iki ay ərzində “Azərbaycan Respublikasının Qanunu” ilə müəyyən edilmiş qaydada həyata keçirilir.
-
+Vərəsə mirasın qəbulundan imtina üçün bu Məcəllənin 1256-cı maddəsində müəyyən edilmiş müddət bitənədək notarius tərəfindən mirasın siyahıya alınmasını tələb edə bilər. Mirasın siyahıya alınması barədə vərəsənin notariusa müraciət etdiyi andan mirasın qəbulundan imtina üçün müəyyən edilmiş müddətin axımı dayandırılır. Mirasın notarius tərəfindən siyahıya alındığı (siyahıya alınacaq əmlakın olmadığı hallarda isə vərəsənin müraciətinin cavablandırıldığı) andan mirasın qəbulundan imtina üçün müəyyən edilmiş müddətin axımı bərpa edilir. Notarius tərəfindən mirasın siyahıya alınması bu barədə müraciətin daxil olduğu gündən iki ay ərzində Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.
 #### Maddə 1255. Mirasın əldə edilməsi
 Vərəsələr mirasqoyanın ölümü ilə mirası qanun əsasında əldə edirlər.
-
 #### Maddə 1256. Mirasın qəbulundan imtina müddəti
 Vərəsə vərəsəliyə çağırıldığını bildiyi və ya bilməli olduğu gündən üç ay ərzində mirasın qəbulundan imtina edə bilər. Üzrlü səbəb olduqda məhkəmə bu müddəti iki aydan çox olmayaraq uzada bilər. Mirasın qəbulundan imtina notariat orqanında rəsmiləşdirilməlidir.
-
 #### Maddə 1257. Mirası qismən qəbul etməyin yolverilməzliyi
 - 1257.1. Hər hansı şərtlə və ya hər hansı müddətə mirası qismən qəbul etməyə və ya ondan qismən imtina etməyə yol verilmir.
 - 1257.2. Əgər vərəsə mirasın bir hissəsindən imtina edərsə və ya hər hansı şərt qoyarsa, hesab edilir ki, o, mirasdan imtina etmişdir.
-
 #### Maddə 1258. Vərəsənin kənd təsərrüfatı təyinatlı torpağı qəbul etməkdən imtina etməsi
 Kənd təsərrüfatı ilə məşğul olmayan vərəsə kənd təsərrüfatı təyinatlı torpağı, avadanlığı, əmək alətlərini, mal-qaranı qəbul etməkdən imtina edə bilər, lakin bu, ümumiyyətlə, mirasın qəbulundan imtina sayılmır.
-
 #### Maddə 1259. Mirasdan bir neçə payın qəbul edilməsi
 Əgər müxtəlif əsaslar üzrə vərəsəyə mirasdan bir neçə pay düşürsə, o, bir payı qəbul edə, digərindən imtina edə bilər, yaxud bütün paylardan imtina edə bilər.
-
 #### Maddə 1260. Mirasın bir hissəsindən imtina
 Vərəsə mirasın qalan hissəsinə baxmayaraq, birləşdirilmə hüququ ilə ona mənsub olan miras hissəsindən imtina edə bilər.
-
 #### Maddə 1261. Başqa şəxslərin xeyrinə imtina
 Vərəsə mirası qəbul etməkdən qanun üzrə və ya vəsiyyət üzrə vərəsələr sırasından başqa şəxslərin xeyrinə imtina edə bilər. Ləyaqətsiz vərəsə sayılmış və ya vəsiyyətnamənin birbaşa göstərişi ilə vərəsəlik hüququndan məhrum edilmiş şəxsin xeyrinə mirasdan imtina yolverilməzdir. Bu cür imtina barəsində digər vərəsələr məhkəməyə şikayət verə bilərlər.
-
 #### Maddə 1262. Mirasdan imtina zamanı payın birləşdirilməsi
 Əgər vərəsə mirası qəbul etməkdən imtina etmişdirsə, lakin kimin xeyrinə imtina etdiyini bildirməmişdirsə, onun payı qanun üzrə vərəsəliyə çağırılmış vərəsələrin payına, vəsiyyətnamə ilə bütün əmlakın bölüşdürüldüyü halda isə vəsiyyət üzrə vərəsələrin payına əlavə edilir və onların arasında paylarına mütənasib surətdə bölüşdürülür, bu şərtlə ki, vəsiyyətnamədə ayrı qayda nəzərdə tutulmasın.
-
 #### Maddə 1263. Yeganə vərəsənin mirasdan imtina etməsi
 Əgər mirasdan imtina etmiş vərəsə həmin növbənin vərəsələri arasında yeganə vərəsədirsə, miras sonrakı növbənin vərəsələrinə keçir.
-
 #### Maddə 1264. Bir neçə vərəsənin xeyrinə imtina
 Əgər vərəsə mirası qəbul etməkdən bir neçə şəxsin xeyrinə imtina edirsə, onlardan hər birinin payını göstərə bilər. Belə göstəriş olmadıqda onun payı mirasın qəbulundan imtina xeyirlərinə edilmiş vərəsələr arasında bərabər bölüşdürülür.
-
 #### Maddə 1265. Mirasdan nəvələrin xeyrinə imtina
 Mirasdan nəvənin xeyrinə imtina etməyə o halda yol verilir ki, mirasın açıldığı gün onun miras qoyanın vərəsəsi olmalı valideyni sağ olmasın və ya nəvə vəsiyyət üzrə vərəsə olsun.
-
 #### Maddə 1266. Dövlətin mirası qəbul etməkdən imtinasının yolverilməzliyi
 Dövlət ona keçmiş mirası qəbul etməkdən imtina edə bilməz.
-
 #### Maddə 1267. Notariat orqanına ərizə verildikdən sonra imtinanın yolverilməzliyi
 Vərəsə mirasın açıldığı yer üzrə notariat orqanına mirası qəbul etməsi və ya vərəsəlik haqqında şəhadətnamə alınması barədə ərizə verdikdən sonra mirasdan imtina edilməsinə yol verilmir.
-
 #### Maddə 1268. Mirasdan imtinanın geri götürülməməsi
 - 1268.1. Vərəsə mirası qəbul etməkdən imtina etdiyi barədə ərizəni geri götürə bilməz.
 - 1268.2. Əgər vərəsə fəaliyyət qabiliyyəti olmayan və ya məhdud fəaliyyət qabiliyyətli şəxsdirsə, mirasdan imtinaya məhkəmənin icazəsi ilə yol verilir.
-
 #### Maddə 1269. Mirasın faktiki qəbulu zamanı imtina
 Vərəsə əmlaka sahiblik etməyə və ya əmlakı idarə etməyə faktik başladıqda və bununla da mirası qəbul etdiyini şəksiz nümayiş etdirdikdə, mirasdan imtina edilməsinə bu Məcəllənin 1256-cı maddəsində müəyyənləşdirilən müddət ərzində yol verilir.
-
 #### Maddə 1270. İmtina hüququnun vərəsəlik üzrə keçməsi
 - 1270.1. Mirasdan imtina hüququ vərəsəlik üzrə keçir.
 - 1270.2. Əgər vərəsə mirasın qəbulundan imtina üçün müəyyənləşdirilmiş müddət bitənədək ölmüşdürsə, bu müddət vərəsənin ölümündən sonra qalmış vaxt bitənədək qurtarmır. Ölmüş vərəsənin vərəsəsinin mirasın qəbulundan imtina üçün müəyyənləşdirilmiş müddəti üç aydan az olarsa, həmin müddət üç ayadək uzadılır.
 - 1270.3. Ölmüş vərəsənin bir neçə vərəsəsinin hər biri yalnız öz miras payından imtina edə bilər.
-
 #### Maddə 1271. Mirası qəbul etməkdən nümayəndə vasitəsilə imtina
 Mirasdan nümayəndə vasitəsilə imtina tapşırıqda (etibarnamədə) imtina səlahiyyətinin xüsusi nəzərdə tutulduğu halda mümkündür.
-
 #### Maddə 1272. Mirasın qəbulu və ya ondan imtina barəsində mübahisə açılması müddəti
 Mirasın qəbul edilməsi və ya qəbulundan imtina edilməsi barəsində mübahisə maraqlı şəxsin bundan ötrü müvafiq əsas olduğunu bildiyi gündən iki ay ərzində açıla bilər.
-
 #### Maddə 1273. Mirasın qəbulunun hüquqi nəticələrinin baş verməsi vaxtı
-Mirasın qəbulunun və ya qəbulundan imtinanın hüquqi nəticələri mirasın açıldığı andan baş verir.
-
+Mirasın qəbulunun və ya qəbulundan imtinanın hüquqi nəticələri mirasın açıldığı андан baş verir.
 ### 71-ci fəsil. Mirasın bölüşdürülməsi
-
 #### Maddə 1274. Mirasın bölüşdürülməsi anlayışı
 Miras onu qəbul edən vərəsələrin razılaşması üzrə onlardan hər birinə qanun və ya vəsiyyətnamə üzrə düşən paya uyğun bölüşdürülür.
-
 #### Maddə 1275. Miras qoyan tərəfindən mirasın bölüşdürülməsi qaydasının müəyyənləşdirilməsi
 Miras qoyan vəsiyyətnamədə mirasın bölüşdürülməsi qaydasını müəyyənləşdirə bilər, o cümlədən mirası bölüşdürməyi üçüncü şəxsə etibar edə bilər. Üçüncü şəxsin qərarı aşkar ədalətsizdirsə, vərəsələr üçün məcburi deyildir. Bu halda bölgü məhkəmənin qərarı ilə aparılır.
-
 #### Maddə 1276. Mirasdan payın naturada ayrılması
 Hər bir vərəsə həm daşınar, həm də daşınmaz əmlakdan öz payının naturada ayrılmasını tələb edə bilər, bir şərtlə ki, bu şəkildə ayırma mümkün olsun və ya qanunla qadağan edilməsin.
-
 #### Maddə 1278. Miras şəriklərinin razılaşması üzrə mirasın satılması
 Miras şəriklərinin razılaşması üzrə bütün mirasın satılmasına və pulların vərəsələr arasında onların paylarına uyğun bölüşdürülməsinə yol verilir.
-
 #### Maddə 1279. Mirasın bir miras şərikinə keçməsi
 Miras şəriklərinin razılaşması üzrə bütün mirasın bir miras şərikinə keçməsi mümkündür. Öz növbəsində o, digər miras şəriklərinə müvafiq kompensasiya verməyə borcludur.
-
 #### Maddə 1280. Mirasın bölüşdürülməsinin dayandırılması
 Miras şərikləri razılığa gələ bilərlər ki, mirasın bölüşdürülməsi müəyyən müddətə dayandırılsın.
-
 #### Maddə 1281. Bölünməz əmlaka paylı mülkiyyət
 Əgər mirası qəbul edən bütün vərəsələrin razılaşması ilə ayrı qayda müəyyənləşdirməyibsə, bölünməsi təsərrüfat təyinatının itirilməsinə və ya zəifləməsinə səbəb olacaq əmlak bölüşdürülmür və vərəsələrin paylarına uyğun onların ümumi mülkiyyəti olur.
-
 #### Maddə 1282. Kənd təsərrüfatı təyinatlı torpağın vərəsələr arasında bölüşdürülməsi
 - 1282.1. Əgər kəndli təsərrüfatının yerləşdiyi kənd təsərrüfatı təyinatlı torpağın mülkiyyətçisi vəsiyyətnamə ilə onu bir neçə vərəsəyə qoymuşdursa və ya vəsiyyətnamə qoyulmamışdırsa və qanun üzrə bir neçə vərəsə vardırsa, kənd təsərrüfatı təyinatlı torpaq orada yerləşən kəndli təsərrüfatı ilə birlikdə vərəsələr arasında bölüşdürülə bilər, bu şərtlə ki, bölgü nəticəsində vərəsələrdən hər birinə keçən torpaq sahəsi həyat qabiliyyətli təsərrüfatın mövcudluğunu təmin etsin.
 - 1282.2. Bölgüyə yalnız vərəsələrin özlərinin təsərrüfatla məşğul olmağa hazırlaşdıqları halda yol verilir. Əgər vərəsələrdən heç biri təsərrüfatla məşğul olmaq istəməzsə, onların razılaşması üzrə torpaq orada yerləşən təsərrüfatla birlikdə satıla bilər və vərəsələr öz paylarını pul şəklində ala bilərlər.
-
 #### Maddə 1283. Kənd təsərrüfatı təyinatlı torpağın bölüşdürülməsinin yolverilməzliyi
 Əgər kənd təsərrüfatı təyinatlı torpağın bölüşdürülməsi mümkün deyildirsə, torpaq kəndli təsərrüfatında yaşayan və miras qoyanla birlikdə təsərrüfatı aparmış vərəsəyə, belə vərəsə olmadıqda isə təsərrüfat aparmağa iqtidarı və arzusu olan şəxsə verilməlidir.
-
 #### Maddə 1284. Payın kompensasiyası
 Torpaq sahəsini ala bilməyən vərəsə başqa əmlakdan müvafiq pay, belə əmlak kifayət etmədikdə isə müəyyənləşdirilmiş qaydada müvafiq kompensasiya alır.
-
 #### Maddə 1285. Kəndli təsərrüfatının vərəsəlik üzrə keçməsi
-- 1285.1 Əgər kəndli təsərrüfatı həyət təsərrüfatıdırsa və həyətin sonuncu üzvü vəsiyyətnamə qoymamışdırsa, həyətin ümumi əmlakı qanun üzrə vərəsələrə həyət təsərrüfatının dağılmaması şərti ilə keçir.
+- 1285.1. Əgər kəndli təsərrüfatı həyət təsərrüfatıdırsa və həyətin sonuncu üzvü vəsiyyətnamə qoymamışdırsa, həyətin ümumi əmlakı qanun üzrə vərəsələrə həyət təsərrüfatının dağılmaması şərti ilə keçir.
 - 1285.2. Həyətin sonuncu üzvünün vəsiyyətnamə ilə bir neçə vərəsə təyin etdiyi halda, ümumiyyətlə, torpaq təsərrüfatına aid olan qayda tətbiq edilməlidir.
-
 #### Maddə 1286. Kəndli təsərrüfatına ümumi mülkiyyət
 Miras şəriklərinin razılaşması üzrə torpaq və orada yerləşən kəndli təsərrüfatı onların ümumi mülkiyyətində qala bilər.
-
 #### Maddə 1287. Mayası bağlanmış vərəsənin miras bölgüsündə payı
 - 1287.1. Əgər vərəsənin mayası bağlanmışdırsa, lakin o hələ doğulmamışdırsa, mirasın bölüşdürülməsi yalnız həmin vərəsənin doğumundan sonra mümkündür.
 - 1287.2. Əgər mayası bağlanmış, lakin hələ doğulmamış vərəsə sağ doğularsa, qalan vərəsələr mirası yalnız ona düşən payı ayırmaqla bölüşdürə bilərlər. Yeni doğulanın mənafelərinin müdafiəsi məqsədilə onun nümayəndələri bölgüdə iştiraka dəvət edilməlidirlər.
-
 #### Maddə 1288. Borc tələblərinin vərəsələrdən birinin öhdəsinə qoyulması
 Miras şəriklərinin razılaşması üzrə bütün borc tələblərinin tam ödənilməsinin vərəsələrdən birinin öhdəsinə qoyulmasına, bunun əvəzində ona mirasdan müvafiq surətdə artırılmış pay verilməsinə yol verilir.
-
 #### Maddə 1289. Pay almağın təmin edilməsi öhdəliyi
 Hər bir miras şəriki digər miras şəriklərinin müvafiq payları almasını təmin etməyə borcludur. Miras şəriki bölgü nəticəsində tələb hüququ əldə etdikdə, digər miras şərikləri borclunun ödəniş qabiliyyətinə bölgü məqamında, bu cür öhdəliyin icra müddəti çatmadıqda isə öhdəliyin icrası məqamında öz paylarına uyğun kömək göstərməlidirlər.
-
 #### Maddə 1290. Payın mütənasib azaldılması
 Əgər vəsiyyətnamə ilə müəyyənləşdirilmiş payların cəminin bütün mirasdan çox olduğu aşkara çıxarsa, hər bir vərəsənin payı mütənasib surətdə azaldılır.
-
 #### Maddə 1291. Əmlakın bölüşdürülməsi zamanı mübahisələrə baxılması
 Miras şərikləri arasında mirasın bölüşdürülməsi haqqında ixtilaflar olduqda, mübahisəyə məhkəmə baxır. Əmlakın bölüşdürülməsi zamanı məhkəmə bölüşdürülməli əmlakın xarakterini, miras şəriklərindən hər birinin fəaliyyətini və digər konkret halları nəzərə almalıdır.
-
 #### Maddə 1292. Paya dair sərəncam vermək hüququ
 - 1292.1. Hər bir miras şəriki öz miras payına dair sərəncam verə bilər. Miras şəriklərindən birinin öz payına dair sərəncam verməsi barədə müqavilə notarius tərəfindən təsdiqlənməlidir.
 - 1292.2. Miras şəriki öz payından olan ayrı-ayrı predmetlərə dair sərəncam verə bilməz.
 - 1292.3. Miras şəriki öz payına dair sərəncam verərkən digər miras şəriklərinin satın almaqda üstünlük hüququ vardır. Satın almaqda üstünlük hüququ iki ay ərzində həyata keçirilməlidir. Bu hüquq vərəsəlik üzrə keçir.
-
 #### Maddə 1293. Satın almaqda üstünlük hüququna xitam verilməsi
 Pay miras şərikinə verildikdən sonra satın almaqda üstünlük hüququna xitam verilir.
-
 #### Maddə 1294. Pay özgəninkiləşdirilərkən kreditorların təmin edilməsi
 Payın özgəninkiləşdirildiyi halda kreditorun tələbini təmin etmək vəzifəsi payı əldə edənə həmin payın miqdarına uyğun olaraq keçir.
-
 #### Maddə 1297. Miras payı bərabərləşdirilərkən xüsusi töhfənin nəzərə alınması
 Ailə təsərrüfatında əməyi ilə, miras qoyanın peşə və kommersiya fəaliyyətində iştirakla, özünün çəkdiyi xeyli xərclərlə, yaxud başqa şəkildə miras qoyanın əmlakının qorunmasına və artırılmasına xüsusi töhfə vermiş övlad (enən xətt üzrə qohum) miras qoyanın əmlakı bölüşdürülərkən onunla birlikdə qanun üzrə vərəsə sayılan və miras tələb edən qohumlarla bərabərləşdirilməsini tələb edə bilər.
-
 #### Maddə 1298. Miras payını bərabərləşdirməyi tələb etməyin yolverilməzliyi
 Əgər qohum xidmətləri üçün muzd almışdırsa və ya muzd qabaqcadan müəyyənləşdirilmişdirsə və ya qohum göstərdiyi xidmətlər əsasında digər hüquqi əsaslar üzrə hər hansı tələb irəli sürə bilərsə, miras payının bərabərləşdirilməsi tələb edilə bilməz.
-
 #### Maddə 1299. Ədalətli bölgü tələbi
 - 1299.1. Miras payının bərabərləşdirilməsi göstərilmiş xidmətlərə və mirasın həcminə uyğun olaraq ədalətlə aparılmalıdır.
 - 1299.2. Əmlak bölgüsü zamanı miras payının bərabərləşdirilməsi məbləği mirasın ümumi məbləğindən çıxılır və bərabərləşdirmə tələbinə hüququ olan miras şərikinin payına əlavə edilir.
-
 #### Maddə 1300. Vərəsənin olduğu yeri müəyyənləşdirmək vəzifəsi
 Əgər vərəsələr arasında olduqları yer məlum olmayan şəxslər vardırsa, qalan vərəsələr onların olduqları yerin müəyyənləşdirilməsi və vərəsəliyə çağırılması üçün ağlabatan tədbirlər görməyə borcludurlar.
-
 #### Maddə 1301. Vərəsənin gəlməməsinin nəticələri
 - 1301.1. Əgər vərəsəliyə çağırılmış, yerində olmayan, lakin olduğu yer müəyyənləşdirilmiş vərəsə mirasdan üç ay ərzində imtina etməzsə, digər vərəsələr mirası bölüşdürmək niyyətləri barəsində ona bildiriş göndərməlidirlər.
 - 1301.2. Əgər bu cür vərəsə bildirişdən sonra üç ay ərzində özünün əmlak bölgüsü haqqında razılaşmada iştirak etmək arzusu barəsində digər vərəsələrə məlumat verməzsə, digər vərəsələr qarşılıqlı razılaşma üzrə əmlakı bölüşdürə bilərlər. Bu zaman yerində olmayan vərəsənin payı ayrılmalıdır.
 - 1301.3. Əgər miras açıldıqdan sonra altı ay ərzində qaib vərəsənin olduğu yer müəyyənləşdirilməzsə və mirasın qəbulundan imtina barəsində ondan bir xəbər alınmazsa, digər vərəsələr bu Məcəllənin 1301.2-ci maddəsində müəyyənləşdirilmiş qaydada əmlakı bölüşdürə bilərlər.
-
 #### Maddə 1302. Vərəsəlikdə üstünlük hüququ
 Miras qoyanla birlikdə əmlaka ümumi mülkiyyət hüququ olan vərəsələrin ümumi mülkiyyətə daxil olan əmlaka vərəsəlikdə üstünlük hüququ vardır.
-
 #### Maddə 1303. Yaşayış evini almaqda üstünlük hüququ
 Miras açılanadək azı bir il miras qoyanla birlikdə yaşamış vərəsənin əmlak bölgüsü zamanı mirasdan yaşayış evini, mənzili və ya digər yaşayış otağını, habelə ev müxəlləfatı predmetlərini almaqda üstünlük hüququ vardır.
-
 #### Maddə 1304. Vərəsələrin əmlak mənafelərinin nəzərə alınması
 Üstünlük hüququnun həyata keçirilməsi zamanı miras bölgüsündə iştirak edən digər vərəsələrin əmlak hüquqları nəzərdə tutulmalıdır. Əgər əmlak onlara çatası payı almağa kifayət etməzsə, üstünlük hüququnu həyata keçirən vərəsələr onlara müvafiq pul və ya əmlak kompensasiyası verməlidirlər.
-
 #### Maddə 1305. Kompensasiyaya möhlət verilməsi
 Üstünlük hüququnu həyata keçirən vərəsələrin tələbi ilə məhkəmə kompensasiyanın həcmini nəzərə almaqla, ona on ildən çox olmayan müddətə möhlət verə bilər.
-
 ### 72-ci fəsil. Vərəsələr tərəfindən kreditorların təmin edilməsi
-
 #### Maddə 1306. Vərəsələrin kreditorlar qarşısında məsuliyyəti və kreditorların təmin edilməsi zamanı sübutetmə yükü
 - 1306.1. Vərəsələr miras qoyanın kreditorlarının mənafelərini alınmış aktivdə özlərindən hər birinin payına mütənasib surətdə birgə borclu kimi tam ödəməyə borcludurlar.
 - 1306.2. Əgər miras qoyan vərəsələrə keçmiş borclar üzrə birgə borclu olmuşdursa, vərəsələr birgə məsuliyyət daşıyırlar.
 - 1306.3. Çıxarılmışdır.
 - 1306.4. Mirasın siyahısı notarius tərəfindən tərtib edildikdə vərəsələr miras qoyanın kreditorları qarşısında mirasdan alınmış aktiv həddində məsuliyyət daşıyırlar.
 - 1306.5. Mirasın notarius tərəfindən siyahıya alındığı haldan başqa, vərəsə miras qoyanın borclarının mirasdan çox olduğunu sübut etməlidir və bu halda, vərəsələr miras qoyanın kreditorları qarşısında mirasdan alınmış aktiv həddində məsuliyyət daşıyırlar.
-
 #### Maddə 1308. Borcun ödənilməsinin vərəsəyə həvalə edilməsi
 Vəsiyyət edən bütünlüklə borcun və ya onun bir hissəsinin ödənilməsini bir və ya bir neçə vərəsəyə həvalə edə bilər.
-
 #### Maddə 1309. Mirasın açılması barədə kreditorlara məlumat vermək vəzifəsi
 Vərəsələr, əgər ölənin borcları onlara məlumdursa, mirasın açılması barədə miras qoyanın kreditorlarına məlumat verməyə borcludurlar.
-
 #### Maddə 1310. Kreditorların tələblərinin irəli sürülməsi müddəti – çıxarılmışdır.
-
 #### Maddə 1311. Ümumi iddia müddətlərinin tətbiqi – çıxarılmışdır.
-
 #### Maddə 1312. İcra müddətinin təxirə salınması
 Əgər kreditor tələbi icra müddəti çatanadək irəli sürmüşdürsə, vərəsə icranı müddət çatanadək təxirə sala bilər. Müddət çatdıqda kreditor ümumi iddia müddəti ərzində icranı tələb edə bilər.
-
 #### Maddə 1313. Miras qoyanın kreditorlarının üstünlüyü
 Tələblərin ödənilməsi zamanı miras qoyanın kreditorları vərəsənin kreditorları qarşısında üstünlüyə malikdirlər.
-
 #### Maddə 1314. Dövlətin kreditorlar qarşısında məsuliyyəti
 Vərəsələri olmayan əmlak dövlətə keçdikdə, miras qoyanın borcları üzrə o, vərəsə kimi məsuliyyət daşıyır.
-
 #### Maddə 1315. Mirasın kreditor tərəfindən alınmasının nəticələri
 Əgər miras qoyan öz əmlakını kreditora vəsiyyət etmişdirsə, bu, kreditorun tələb hüququnun əvəzləşdirilməsi sayıla bilməz.
-
 #### Maddə 1316. Kreditorların təmin edilməsi qaydası – çıxarılmışdır.
-
 ### 73-cü fəsil. Mirasın qorunması
-
 #### Maddə 1317. Mirasın qorunması anlayışı
 - 1317.1. Mirasın qəbul edilməsinə qədər mirasın açıldığı yerdəki notariat orqanı, zərurət olarsa, mirasın qorunması üçün tədbirlər görür. Həmin qayda vərəsənin məlum olmadığı və ya onun mirası qəbul edib-etməməsinin bilinmədiyi hala da şamil edilir.
 - 1317.2. Notariat orqanı mirasın qorunması üçün mirası siyahıya ala bilər.
-
 #### Maddə 1318. Vərəsələrin axtarılması
 Notariat orqanı mirasın açıldığı yerdə olmayan vərəsələrin axtarılması üçün “Notariat haqqında” Azərbaycan Respublikası Qanununun 55-ci maddəsində nəzərdə tutulmuş tədbirləri görür.
-
 #### Maddə 1319. Əmlak idarəçisinin təyin edilməsi
 Bu fəsildə nəzərdə tutulmuş tədbirlərin həyata keçirilməsi üçün notariat orqanı əmlak idarəçisini təyin edə bilər.
-
 #### Maddə 1320. Bu fəsildə nəzərdə tutulmuş tədbirlərlə bağlı xərclər
 Bu fəsildə nəzərdə tutulmuş tədbirlərlə bağlı xərclər mirasın passivinə aid edilir.
-
 ### 74-cü fəsil. Vərəsəlik şəhadətnaməsi
-
 #### Maddə 1321. Vərəsəlik şəhadətnaməsi anlayışı
 - 1321.1. Vərəsəliyə çağırılmış şəxslər mirasın açıldığı yerdəki notariat orqanından vərəsəlik şəhadətnaməsi tələb edə bilərlər.
 - 1321.2. Qanunda nəzərdə tutulmuş hallarda vərəsəlik şəhadətnaməsinin alınması məcburidir.
 - 1321.3. Vərəsəlik şəhadətnaməsində vərəsə kimi qeyd olunan şəxsin həmin şəhadətnamədə göstərilən hüquqa malik olması qəbul edilir. Bu, vərəsəlik şəhadətnaməsində vərəsə kimi qeyd olunan şəxsdən onun miras payına aid olan hər hansı bir predmeti, belə predmetlə bağlı hüququ və ya miras payına daxil olan hər hansı bir hüquqdan azad etməni əldə edən şəxsin xeyrinə də qüvvədədir, bir şərtlə ki, əldə edən vərəsəlik şəhadətnaməsinin düzgün olmadığını bilməmiş olsun.
-
 #### Maddə 1322. Vərəsəlik şəhadətnaməsinin verildiyi müddət
 Vərəsəlik şəhadətnaməsi vərəsələrə mirasın açıldığı gündən altı ay keçdikdən sonra istənilən vaxt verilir. Əgər notariat orqanında şəhadətnamə tələb edən şəxslərdən savayı, başqa vərəsələrin olmadığı barədə məlumat vardırsa, vərəsəlik şəhadətnaməsi altı aydan da tez verilir.
-
 #### Maddə 1324. Vərəsənin vərəsəsinə vərəsəlik şəhadətnaməsi verilməsi
 Vərəsə miras açıldıqdan sonra onun müəyyənləşdirilmiş müddətdə qəbulundan imtina etmədən ölərsə, mirasın qəbulundan imtina etməmiş vərəsənin vərəsələri ilkin miras qoyandan qalmış əmlaka mirasın qəbulundan imtina etməmiş vərəsənin əmlakı kimi vərəsəlik şəhadətnaməsi ala bilərlər.
-
 #### Maddə 1325. Miras şəriklərinə vərəsəlik şəhadətnaməsi verilməsi
 - 1325.1. Vərəsəlik şəhadətnaməsi həm bütün miras, həm də onun bir hissəsi üçün verilə bilər. Şəhadətnamə həm bütün vərəsələrə birlikdə, həm də ayrılıqda hər birinə arzularına uyğun olaraq verilir. Vərəsələrdən birinə mirasın bir hissəsi üçün vərəsəlik şəhadətnaməsinin verilməsi digər vərəsələri mirasın qalan hissəsi üçün şəhadətnamə almaq hüququndan məhrum etmir.
 - 1325.2. Notarius vərəsəlik şəhadətnaməsinin əldə olunması üçün müraciət edən vərəsəyə şəhadətnamə verərkən vərəsə olan, lakin şəhadətnamə almaq üçün müraciət etməmiş digər vərəsələrin (miras şəriklərinin) də mirasdan onlara çatacaq paylarını müəyyən edərək həmin şəhadətnamədə göstərir.

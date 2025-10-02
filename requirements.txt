@@ -1,17 +1,38 @@
+# Core Framework
 fastapi
 uvicorn[standard]
 python-multipart
+requests>=2.31.0
+
+# Security & Configuration
+python-dotenv
+pydantic
+pydantic-settings
+python-jose[cryptography]>=3.3.0
+bcrypt>=4.0.1
+
+# Optional: Redis for token blacklist (logout functionality with Supabase)
+# Uncomment if using Supabase auth with token revocation
+# redis>=5.0.0
+
+# Vector Database & Embeddings
 chromadb
+
+# LangChain Ecosystem
 langchain
 langchain-google-genai
 langchain-google-vertexai
 langchain-community
 langchain-text-splitters
 langgraph
+
+# Document Processing
 pypdf
-python-dotenv
-pydantic
+docling
+
+# Type Extensions
 typing-extensions
+
+# Google AI/Cloud
 google-generativeai
 google-cloud-aiplatform
-docling

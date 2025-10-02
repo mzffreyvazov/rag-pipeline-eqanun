@@ -85,7 +85,7 @@ other/
 notebooks/
 retrieval_logs/
 .docs/
-
+.documentation/
 # Temporary files
 *.tmp
 *.temp

@@ -12,10 +12,11 @@ from datetime import datetime
 import chromadb
 from chromadb.config import Settings
 from chromadb.utils import embedding_functions
-from fastapi import FastAPI, File, UploadFile, HTTPException, Form, BackgroundTasks
+from fastapi import FastAPI, File, UploadFile, HTTPException, Form, BackgroundTasks, Depends, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
+from starlette.middleware.base import BaseHTTPMiddleware
 import vertexai
 from dotenv import load_dotenv
 
@@ -32,6 +33,12 @@ from langgraph.checkpoint.memory import MemorySaver
 
 # Import hierarchical chunking components
 from hierarchical_chunker import HierarchicalLegalChunker, HierarchicalRetriever
+
+# Import security components
+from app.config.security import security_settings
+from app.security.auth import verify_api_key
+from app.security.uploads import validate_upload_file, sanitize_filename
+from app.security.jwt_auth import get_current_user
 
 # Load environment variables
 load_dotenv()
@@ -348,6 +355,13 @@ async def lifespan(app: FastAPI):
     
     # Initialize the graph
     graph = create_rag_graph()
+    
+    # Initialize token blacklist if enabled
+    if security_settings.auth_provider.lower() == "supabase":
+        from app.security.supabase_auth import initialize_token_blacklist
+        initialize_token_blacklist()
+        print("✅ Token blacklist initialized (if Redis is available)")
+    
     print("🚀 RAG Pipeline API is ready!")
     
     yield
@@ -369,14 +383,51 @@ app = FastAPI(
     lifespan=lifespan
 )
 
-# Add CORS middleware
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Configure as needed for production
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+
+# Security Headers Middleware
+class SecurityHeadersMiddleware(BaseHTTPMiddleware):
+    """Middleware to add security headers to all responses."""
+    
+    async def dispatch(self, request: Request, call_next):
+        response = await call_next(request)
+        
+        # Add security headers
+        response.headers["X-Content-Type-Options"] = "nosniff"
+        response.headers["X-Frame-Options"] = "DENY"
+        response.headers["X-XSS-Protection"] = "1; mode=block"
+        response.headers["Strict-Transport-Security"] = "max-age=31536000; includeSubDomains"
+        
+        # CSP that allows Swagger UI to work (loads from cdn.jsdelivr.net)
+        # For production, consider hosting Swagger UI assets locally
+        response.headers["Content-Security-Policy"] = (
+            "default-src 'self'; "
+            "script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; "
+            "style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; "
+            "img-src 'self' data: https://cdn.jsdelivr.net https://fastapi.tiangolo.com; "
+            "font-src 'self' https://cdn.jsdelivr.net; "
+            "connect-src 'self'; "
+            "frame-ancestors 'none';"
+        )
+        
+        return response
+
+
+# Add security headers middleware
+app.add_middleware(SecurityHeadersMiddleware)
+
+# Add CORS middleware with controlled origins
+if security_settings.enable_cors:
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=security_settings.get_allowed_origins(),
+        allow_credentials=True,
+        allow_methods=["GET", "POST", "DELETE"],
+        allow_headers=["Content-Type", "Authorization", security_settings.api_key_header],
+    )
+
+# Include authentication router
+from app.security.auth_routes import router as auth_router
+app.include_router(auth_router)
 
 # Global variables (moved after app initialization)
 collection_name = "legal_documents"
@@ -991,11 +1042,16 @@ async def root():
 @app.post("/upload", response_model=UploadResponse)
 async def upload_documents(
     background_tasks: BackgroundTasks,
-    files: List[UploadFile] = File(...)
+    files: List[UploadFile] = File(...),
+    current_user: dict = Depends(get_current_user)
 ):
-    """Upload and process PDF and Markdown documents"""
+    """Upload and process PDF and Markdown documents (requires JWT authentication)"""
     if not files:
         raise HTTPException(status_code=400, detail="No files provided")
+    
+    # Validate each file
+    for file in files:
+        await validate_upload_file(file)
     
     # Validate file types
     supported_files = [f for f in files if (
@@ -1026,10 +1082,18 @@ async def upload_documents(
         raise HTTPException(status_code=500, detail=f"Error processing files: {str(e)}")
 
 @app.post("/upload/start", response_model=UploadStartResponse)
-async def upload_start(background_tasks: BackgroundTasks, files: List[UploadFile] = File(...)):
-    """Start an async upload/index job and return a job_id for frontend polling."""
+async def upload_start(
+    background_tasks: BackgroundTasks,
+    files: List[UploadFile] = File(...),
+    current_user: dict = Depends(get_current_user)
+):
+    """Start an async upload/index job and return a job_id for frontend polling (requires JWT authentication)"""
     if not files:
         raise HTTPException(status_code=400, detail="No files provided")
+
+    # Validate each file
+    for file in files:
+        await validate_upload_file(file)
 
     supported_files = [f for f in files if (
         f.filename.lower().endswith('.pdf') or 
@@ -1085,8 +1149,8 @@ async def upload_status(job_id: str):
         )
 
 @app.post("/chat", response_model=ChatResponse)
-async def chat(request: ChatRequest):
-    """Chat with the RAG system"""
+async def chat(request: ChatRequest, current_user: dict = Depends(get_current_user)):
+    """Chat with the RAG system (requires JWT authentication)"""
     global graph
     
     if not graph:
@@ -1146,8 +1210,8 @@ async def chat(request: ChatRequest):
         raise HTTPException(status_code=500, detail=f"Error in chat: {str(e)}")
 
 @app.post("/retrieve", response_model=RetrieveResponse)
-async def retrieve_documents(request: RetrieveRequest):
-    """Retrieve relevant document chunks for a query without generating LLM response using hierarchical retrieval"""
+async def retrieve_documents(request: RetrieveRequest, current_user: dict = Depends(get_current_user)):
+    """Retrieve relevant document chunks for a query without generating LLM response using hierarchical retrieval (requires JWT authentication)"""
     try:
         collection = get_existing_collection()
         
@@ -1279,8 +1343,8 @@ async def list_documents():
         raise HTTPException(status_code=500, detail=f"Error listing documents: {str(e)}")
 
 @app.delete("/documents")
-async def clear_documents():
-    """Clear all documents from the vector store"""
+async def clear_documents(current_user: dict = Depends(get_current_user)):
+    """Clear all documents from the vector store (requires JWT authentication)"""
     try:
         # Fetch collection directly to avoid any recreate logic during deletion
         try:
