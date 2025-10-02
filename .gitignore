@@ -86,9 +86,7 @@ notebooks/
 retrieval_logs/
 .docs/
 .documentation/
-strikes_json/
-doc-formatting-scripts/
-mecelleler-cleaned/
+
 
 
 # Temporary files
