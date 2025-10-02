@@ -28,7 +28,6 @@ langgraph
 
 # Document Processing
 pypdf
-docling
 
 # Type Extensions
 typing-extensions
