@@ -1118,7 +1118,7 @@ async def upload_start(
         elif f.filename.lower().endswith('.markdown'):
             suffix = '.markdown'
         else:
-            suffix = '.txt'  # fallback
+            suffix = '.txt'  
             
         with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
             content = await f.read()
